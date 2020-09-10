@@ -1,0 +1,1 @@
+<span data-ttu-id="2edd1-101">Dynamics 365 (online) संस्करण 9.x पर Project Service ऐप संस्करण 2.4.4.30 या इससे पहले के संस्करण पर लागू होता है</span><span class="sxs-lookup"><span data-stu-id="2edd1-101">Applies to Project Service app version 2.4.4.30 or earlier on Dynamics 365 (online) version 9.x</span></span>

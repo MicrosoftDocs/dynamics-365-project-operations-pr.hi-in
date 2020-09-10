@@ -1,0 +1,1 @@
+<span data-ttu-id="e1762-101">Project Service Automation अनुप्रयोग संस्करण 2.x और 1.x पर लागू होता है</span><span class="sxs-lookup"><span data-stu-id="e1762-101">Applies to Project Service app versions 2.x and 1.x</span></span>

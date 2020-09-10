@@ -1,0 +1,1 @@
+<span data-ttu-id="ce69f-101">Dynamics 365 Project Service Automation Microsoft Project के लिए एड-इन</span><span class="sxs-lookup"><span data-stu-id="ce69f-101">Dynamics 365 Project Service Automation Add-in for Microsoft Project</span></span>
