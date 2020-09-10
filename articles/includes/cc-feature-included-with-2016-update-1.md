@@ -1,0 +1,1 @@
+यह सुविधा Dynamics CRM Online 2016 Update 1 में समर्थित है. यह सुविधा प्राप्त करने के इच्छुक हैं? [अपने Dynamics 365 व्यवस्थापक या समर्थन प्रदान करने वाले व्यक्ति से संपर्क करें](../basics/find-administrator-support.md)
