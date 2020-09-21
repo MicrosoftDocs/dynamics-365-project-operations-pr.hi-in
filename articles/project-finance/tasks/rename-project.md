@@ -1,0 +1,38 @@
+---
+title: परियोजना के चरण का नाम बदलना या उसमें रूपांतरण करना
+description: यह कार्य दिखाता है कि परियोजना चरण का नाम कैसे बदला जाता है और रूपांतरण किया जाता है.
+author: KimANelson
+manager: AnnBe
+ms.date: 11/07/2017
+ms.topic: business-process
+ms.prod: ''
+ms.service: dynamics-ax-applications
+ms.technology: ''
+audience: Application User
+ms.reviewer: josaw
+ms.search.scope: Operations
+ms.search.region: Global
+ms.search.industry: Service industries
+ms.assetid: 0d6e4888-7379-4ea6-b0e1-b8b43b0ef4e2
+ms.author: knelson
+ms.search.validFrom: 2016-06-30
+ms.dyn365.ops.version: AX 7.0.0
+ms.openlocfilehash: d53fc4d3eb71679c7e5ff17e17e8d4f6f5318a8c
+ms.sourcegitcommit: 8c786230ef2a497280885b827162561776e2eb00
+ms.translationtype: HT
+ms.contentlocale: hi-IN
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3752009"
+---
+# <a name="rename-or-modify-a-project-stage"></a>परियोजना के चरण का नाम बदलना या उसमें रूपांतरण करना
+
+[!include [task guide banner](../../includes/task-guide-banner.md)]
+
+परियोजना चरण, परियोजना के जीवन चक्र को दिशानिर्देश देने के रूप में काम कर सकता है. आप यह बता सकते हैं कि आप परियोजना चरणों को परियोजना प्रबंधन और लेखा मानक पृष्ठ में प्रोजेक्ट स्टेज क्षेत्र में अपनी परियोजनाओं में शामिल करना चाहते हैं. Dynamics 365 Finance पहले से तय पांच परियोजना चरणों और तीन उपयोगकर्ताओं द्वारा तय चरणों को उपलब्ध कराता है. आप एक परियोजना चरण के नाम को अपडेट कर सकते हैं, जिसका उपयोग आप परियोजना की प्रगति ट्रैक करने के लिए कर रहे हैं. आप उपयोगकर्ता द्वारा तय स्टेटस नाम उपलब्ध करा सकते हैं. यह कार्य दिखाता है कि कैसे परियोजना के चरण को नया नाम देते हैं या परिवर्तन करते हैं और USSI आंकड़ा सेट को कैसे इस्तेमाल करते हैं.
+
+1. परियोजना प्रबंधन और लेखांकन >सेट अप > परियोजना प्रबंधन और लेखांकन मानकों पर जाएं.
+2. प्रोजेक्ट स्टेज टैब पर क्लिक करें.
+3. भाषा फील्ड में, भाषा चुनें, जो कि नए परियोजना चरण नाम के लिए उपयोग करना चाहते हैं.
+4. इस सूची में, पहले से तय या उपयोगकर्ता द्वारा तय चरण को चुनें, जिसे आप बदलना चाहते हैं. 
+5. परियोजना चरण फील्ड में, नया नाम दर्ज करें.
+6. सहेजें पर क्लिक करें.

@@ -1,0 +1,49 @@
+---
+title: संसाधन कौशल जोड़ें
+description: Project Service में संसाधनों के साथ कौशल को संबद्ध करने का तरीका
+author: JohnPBurrows
+manager: kfend
+ms.service: dynamics-365-customerservice
+ms.custom:
+- dyn365-projectservice
+ms.date: 7/31/2018
+ms.topic: article
+ms.prod: ''
+ms.technology: ''
+ms.assetid: aea2a44f-102b-4510-b9a9-5a0091609fce
+ms.author: jburrows
+audience: Admin
+search.audienceType:
+- admin
+- customizer
+- enduser
+search.app:
+- D365CE
+- D365PS
+ms.openlocfilehash: eebd08820d862ef71057d12a0fb69a3734206605
+ms.sourcegitcommit: 8c786230ef2a497280885b827162561776e2eb00
+ms.translationtype: HT
+ms.contentlocale: hi-IN
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3752002"
+---
+# <a name="add-resource-skills-project-service"></a>संसाधन कौशल जोड़ना (Project Service)
+
+[!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
+
+इसमें कोई शक नहीं कि कार्य को पूर्ण करने के लिए आपके क्लायंट की परियोजनाओं को विभिन्न प्रकार के कौशल की आवश्यकता होती है, जैसे SQL प्रोग्रामिंग या कुशल तरीके. प्रत्येक कौशल दर्ज करें ताकि आप उसे संसाधन भूमिकाओं और बाद में संसाधनों से संबद्ध कर सकें.  
+  
+1. **Project Service > संसाधन कौशल** पर जाएँ.  
+  
+2. **नया** पर क्लिक करें.  
+  
+3. **सामान्य** क्षेत्र में, नाम में कौशल के लिए एक नाम दर्ज करें और उसके बाद आवश्यकतानुसार अन्य फ़ील्ड भरें.  
+  
+4. **सहेजें** पर क्लिक करें.  
+  
+   नया कौशल बनाए जाने पर, वह स्वचालित रूप से सक्रिय हो जाता है. यदि आप नहीं चाहते कि यह कौशल उपयोग के लिए उपलब्ध हो, तो स्क्रीन के शीर्ष पर स्थित **निष्क्रिय करें** पर क्लिक करें. उसके बाद वापस जाएँ और जब आप उसे उपलब्ध कराना चाहें तो उसे सक्रिय करें.  
+  
+   अगले चरण में, आप दक्षता मॉडल्स सेट करेंगे ताकि आप प्रत्येक कौशल के साथ सलाहकार दक्षता को रेट कर सकें और उसकी परियोजना के लिए आवश्यक दक्षता से मेल मिला सकें.  
+  
+### <a name="see-also"></a>यह भी देखें  
+ [संसाधन सेट अप करें](../project-service/set-up-resources.md)

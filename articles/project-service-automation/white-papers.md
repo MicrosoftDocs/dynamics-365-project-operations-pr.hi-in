@@ -1,0 +1,47 @@
+---
+title: Project Service Automation के लिए श्वेत पत्र
+description: Project Service के लिए श्वेत पत्रों का संग्रह
+author: kfend
+manager: kfend
+ms.service: dynamics-365-customerservice
+ms.custom:
+- dyn365-projectservice
+ms.date: 8/03/2018
+ms.topic: article
+ms.prod: ''
+ms.technology: ''
+ms.assetid: 83dab8b8-b5e9-4023-91a0-ffc6166fa9d5
+ms.author: kfend
+audience: Admin
+search.audienceType:
+- admin
+- customizer
+- enduser
+search.app:
+- D365CE
+- D365PS
+ms.openlocfilehash: e36ab04d61a7f5e4b2258f443aa602d7685de244
+ms.sourcegitcommit: 8c786230ef2a497280885b827162561776e2eb00
+ms.translationtype: HT
+ms.contentlocale: hi-IN
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "3752010"
+---
+# <a name="white-papers-for-project-service"></a>Project Service के लिए श्वेत पत्र
+
+ये श्वेत पत्र [!INCLUDE[pn_crm_shortest](../includes/pn-crm-shortest.md)] project service automation के लिए हेतु गहन जानकारी प्रदान करने के लिए डिज़ाइन किए गए हैं.
+
+-   [Project service के लिए बाहरी सिस्टम एकीकरण](https://go.microsoft.com/fwlink/?LinkId=825445)
+
+-   [Project service हेतु कोट करने, मूल्य निर्धारण और बिलिंग के लिए मूल मार्गदर्शिका](https://go.microsoft.com/fwlink/?LinkId=825241)
+
+-   [Project service हेतु कोट करने, मूल्य निर्धारण और बिलिंग के लिए उन्‍नत मार्गदर्शिका](https://go.microsoft.com/fwlink/?LinkId=825242)
+
+-   [Project service हेतु परियोजना नियोजन और ट्रैकिंग के लिए मार्गदर्शिका](https://go.microsoft.com/fwlink/?LinkId=825243)
+
+-   [Project service के लिए रिपोर्टिंग](https://go.microsoft.com/fwlink/?LinkId=825446)
+
+-   [Project service के लिए संसाधन प्रबंधन](https://go.microsoft.com/fwlink/?LinkId=825244)
+
+### <a name="see-also"></a>यह भी देखें
+ [Project Service का ओवरव्यू](../project-service/overview.md)
