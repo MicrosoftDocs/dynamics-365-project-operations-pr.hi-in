@@ -1,0 +1,1 @@
+# <a name="welcome-to-dynamics-365-project-operations"></a><span data-ttu-id="b78b5-101">dynamics-365-project-operations में आपका स्वागत है!</span><span class="sxs-lookup"><span data-stu-id="b78b5-101">Welcome to dynamics-365-project-operations!</span></span>
