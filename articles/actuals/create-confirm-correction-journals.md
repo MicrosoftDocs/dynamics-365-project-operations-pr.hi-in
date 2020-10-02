@@ -1,0 +1,92 @@
+---
+title: सुधार जर्नल पुष्टि करें और बनाये
+description: इस विषय में शेड्यूल तैयार करने के बारे में जानकारी दी गई है कि कैसे सुधार जर्नल पुष्टि करें और बनाये.
+author: rumant
+manager: AnnBe
+ms.date: 09/18/2020
+ms.topic: article
+ms.prod: ''
+ms.service: dynamics-365-customerservice
+ms.technology: ''
+audience: Application User
+ms.reviewer: kfend
+ms.search.scope: ''
+ms.custom: ''
+ms.assetid: ''
+ms.search.region: Global
+ms.search.industry: Service industries
+ms.author: suvaidya
+ms.dyn365.ops.version: ''
+ms.search.validFrom: 2020-10-01
+ms.openlocfilehash: 274f99527804b0db81b26201a22eb5a8cbe86c9a
+ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.translationtype: HT
+ms.contentlocale: hi-IN
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "3896958"
+---
+# <a name="create-and-confirm-correction-journals"></a><span data-ttu-id="41b19-103">सुधार जर्नल पुष्टि करें और बनाये</span><span class="sxs-lookup"><span data-stu-id="41b19-103">Create and confirm Correction journals</span></span>
+
+<span data-ttu-id="41b19-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="41b19-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
+
+<span data-ttu-id="41b19-105">कभी-कभी गलत तरीके से समय या व्यय प्रविष्टि दर्ज की जा सकती है.</span><span class="sxs-lookup"><span data-stu-id="41b19-105">Occasionally a time or expense entry may be entered incorrectly.</span></span> <span data-ttu-id="41b19-106">उदाहरण के लिए, एक सलाहकार कोई समय प्रविष्टि बनाते समय गलत दिनांक का चयन कर सकता है या वह एक व्यय दर्ज करते समय संख्याओं को स्थानांतरित कर सकता है.</span><span class="sxs-lookup"><span data-stu-id="41b19-106">For example, a consultant might select the wrong date when creating a time entry or they might transpose the numbers when entering an expense.</span></span> <span data-ttu-id="41b19-107">यदि कोई सलाहकार सबमिट की गई प्रविष्टियों में अपडेट नहीं कर सकता है, तो एक व्यवस्थापक सीधे एक परियोजना के लिए प्रविष्टि को सही कर सकता है.</span><span class="sxs-lookup"><span data-stu-id="41b19-107">If a consultant can’t make the updates to the submitted entries, an administrator can directly correct the entry for a project.</span></span>
+
+<span data-ttu-id="41b19-108">इस विषय में कार्यविधियों को पूरा करने के लिए, आपको व्यवस्थापक की अनुमति की आवश्यकता होगी.</span><span class="sxs-lookup"><span data-stu-id="41b19-108">To complete the procedures in this topic, you will need Administrator permissions.</span></span>
+
+## <a name="correct-approved-time-entries"></a><span data-ttu-id="41b19-109">स्वीकृत समय प्रविष्टियों को सही करें</span><span class="sxs-lookup"><span data-stu-id="41b19-109">Correct approved time entries</span></span>     
+
+<span data-ttu-id="41b19-110">किसी परियोजना के लिए एकल या एकाधिक समय प्रविष्टियों को सही करने के लिए निम्न चरणों को पूरा करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-110">Complete the following steps to correct single or multiple time entries for a project.</span></span>
+
+1. <span data-ttu-id="41b19-111">**विक्रय** क्षेत्र में, **लेन-देन** का चयन करें और फिर **स्वीकृत समय** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-111">In the **Sales** area, select **Transactions**, and then select **Approved Time**.</span></span> 
+
+2. <span data-ttu-id="41b19-112">**स्वीकृत समय** सूची में, सही करने के लिए एक या अधिक स्वीकृत समय प्रविष्टियों का पता लगाएँ और उनका चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-112">In the **Approved Time** list, locate and select one or more approved time entries to correct.</span></span> <span data-ttu-id="41b19-113">आप संबंधित प्रविष्टियों का पता लगाने के लिए फ़िल्टर का उपयोग कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-113">You can use the filter to locate related entries.</span></span> <span data-ttu-id="41b19-114">उदाहरण के लिए, आप किसी परियोजना ID पर फ़िल्टर कर सकते हैं, और उस परियोजना ID के साथ सभी स्वीकृत समय प्रविष्टियों का चयन कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-114">For example, you might filter on a Project ID, and select all approved time entries with that Project ID.</span></span>
+
+3. <span data-ttu-id="41b19-115">**सही प्रविष्टियों** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-115">Select **Correct entries**.</span></span> <span data-ttu-id="41b19-116">एक नया सुधार जर्नल, असाइन किए गए प्रकार **समय का सुधार** के साथ स्वचालित रूप से बनाया गया है.</span><span class="sxs-lookup"><span data-stu-id="41b19-116">A new correction journal is automatically created, with the assigned type **Time correction**.</span></span> <span data-ttu-id="41b19-117">आपके द्वारा चुनी गई प्रविष्टियों को जर्नल में जोड़ा जाता है.</span><span class="sxs-lookup"><span data-stu-id="41b19-117">The entries you selected are added to the journal.</span></span> 
+
+4. <span data-ttu-id="41b19-118">**नया जर्नल** पृष्ठ पर, अपने सुधार जर्नल के लिए कोई **वर्णन** दर्ज करें और फिर **समय प्रविष्टि सुधार** टैब का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-118">On the **New Journal** page, enter a **Description** for your correction journal, and then select the **Time Entry Corrections** tab.</span></span>  
+
+5. <span data-ttu-id="41b19-119">**समय प्रविष्टियों के लिए नए मान** सेक्शन में, आवश्यकतानुसार सही जानकारी के साथ फ़ील्ड को अपडेट करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-119">In the **New Values for Time Entries** section, update the fields with the correct information as necessary.</span></span> <span data-ttu-id="41b19-120">उदाहरण के लिए, आप असाइन की गई परियोजना या बुक करने योग्य संसाधन को बदल सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-120">For example, you can change the assigned project or the bookable resource.</span></span>
+
+6. <span data-ttu-id="41b19-121">**पूर्वावलोकन**.</span><span class="sxs-lookup"><span data-stu-id="41b19-121">Select **Preview**.</span></span> <span data-ttu-id="41b19-122">संवाद बॉक्स में **ठीक** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-122">In the dialog box, select **OK**.</span></span> <span data-ttu-id="41b19-123">**जर्नल पंक्तियों** टैब पर, आप मूल वास्तविक की एक सूची देख सकते हैं जो चयनित समय प्रविष्टियों से संबंधित हैं जिन्हें विपरीत किया गया है और बनाई गई सही पंक्तियों को सही किया गया है.</span><span class="sxs-lookup"><span data-stu-id="41b19-123">On the **Journal lines** tab, you can view a list of the original actuals that are related to the selected time entries that have been reversed and the corrected corresponding lines that have been created.</span></span> <span data-ttu-id="41b19-124">यदि अतिरिक्त सुधार किए जाने की आवश्यकता है, तो चरण 5 और 6 दोहराएँ.</span><span class="sxs-lookup"><span data-stu-id="41b19-124">If additional corrections need to be made, repeat steps 5 and 6.</span></span> 
+
+> [!NOTE]
+> <span data-ttu-id="41b19-125">सभी सही किए गए वास्तविक लोगों के पास वही मान होंगे जिन्हें आपने **समय प्रविष्टियों के लिए नए मान** सेक्शन में चयनित किया है.</span><span class="sxs-lookup"><span data-stu-id="41b19-125">All the corrected actuals will have the same values that you selected in the **New values for Time Entries** section.</span></span>
+
+7. <span data-ttu-id="41b19-126">यदि अपेक्षा के अनुसार सुधार दिखाई देते हैं, तो **पुष्टि करें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-126">If the corrections appear as expected, select **Confirm**.</span></span> <span data-ttu-id="41b19-127">संवाद बॉक्स में **ठीक** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-127">In the dialog box, select **OK**.</span></span>
+
+8. <span data-ttu-id="41b19-128">**विक्रय** क्षेत्र में वापस जाएँ, **परियोजनाओं** का चयन करें और फिर उस परियोजना को खोलें जिसके लिए आपने अभी-अभी समय प्रविष्टियों को अपडेट किया है.</span><span class="sxs-lookup"><span data-stu-id="41b19-128">Return to the **Sales** area, select **Projects**, and then open the project for which you just updated the time entries.</span></span> 
+
+9. <span data-ttu-id="41b19-129">**परियोजनाओं** पृष्ठ पर, **वास्तविक** टैब पर, आपके द्वारा किए गए परिवर्तनों को देखें.</span><span class="sxs-lookup"><span data-stu-id="41b19-129">On the **Projects** page, on the **Actuals** tab, view the changes that you made.</span></span> 
+
+> [!NOTE]
+> <span data-ttu-id="41b19-130">यदि **वास्तविक** टैब दिखाई नहीं देता है, तो **संबंधित** > **वास्तविक** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-130">If the **Actuals** tab is not visible, select **Related** > **Actuals**.</span></span>  
+
+10. <span data-ttu-id="41b19-131">**वास्तविक संबद्ध दृश्य** सूची में, आप देख सकते हैं कि मूल समय प्रविष्टियाँ जो विपरीत हो गई हैं और वे अभी भी सूचीबद्ध हैं, जैसा कि संबंधित सही समय प्रविष्टियाँ हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-131">In the **Actual Associated View** list, you can see that the original time entries that have been reversed are still listed, as are the corresponding corrected time entries.</span></span> 
+
+<span data-ttu-id="41b19-132">उदाहरण के लिए, निम्नलिखित ग्राफ़िक में, 8.00 की मात्रा के साथ दो पंक्ति वस्तुएँ होती हैं जिनके पास राशि कॉलम में सूचीबद्ध डेबिट होते हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-132">For example, in the following graphic, there are two line items with a quantity of 8.00 that have debits listed in the Amount column.</span></span> <span data-ttu-id="41b19-133">इसके अतिरिक्त, -8.00 की मात्रा के साथ दो पंक्ति वस्तुएँ हैं जो राशि कॉलम में जमा राशि दिखाती हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-133">Additionally, there are two line items with a quantity of -8.00 that show credited amounts in the Amount column.</span></span> <span data-ttu-id="41b19-134">ये सुधार मात्रा को शून्य तक लाते हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-134">These corrections bring the quantity to zero.</span></span>
+
+ 
+## <a name="correct-approved-expense-entries"></a><span data-ttu-id="41b19-135">स्वीकृत व्यय प्रविष्टियों को सही करें</span><span class="sxs-lookup"><span data-stu-id="41b19-135">Correct approved expense entries</span></span>
+
+<span data-ttu-id="41b19-136">एक या अधिक व्यय प्रविष्टियों को सही करने के लिए निम्नलिखित चरणों को पूरा करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-136">Complete the following steps to correct one or more expense entries.</span></span> 
+
+1. <span data-ttu-id="41b19-137">**विक्रय** क्षेत्र में, बाएँ नेविगेशन फलक में, **लेन-देन** के अंतर्गत, **स्वीकृत व्यय** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-137">In the **Sales** area, in the left navigation pane, under **Transactions**, select **Approved Expenses**.</span></span>
+
+2. <span data-ttu-id="41b19-138">**स्वीकृत व्यय** सूची में, उस परियोजना का चयन करें जिसे आप सही करना चाहते हैं और फिर **सही प्रविष्टियाँ** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-138">In the **Approved Expenses** list, select the project that you want to correct, and then select **Correct entries**.</span></span> <span data-ttu-id="41b19-139">एक नया सुधार जर्नल, असाइन किए गए **व्यय का सुधार** प्रकार के साथ स्वचालित रूप से बनाया जाएगा.</span><span class="sxs-lookup"><span data-stu-id="41b19-139">A new correction journal will be created automatically with the assigned type of **Expense correction**.</span></span> 
+
+3. <span data-ttu-id="41b19-140">**नए जर्नल** पृष्ठ पर, सुधार के लिए कोई **वर्णन** दर्ज करें और **व्यय सुधार** टैब पर **व्यय के नए मान** सेक्शन में, उन डेटा फ़ील्ड का चयन करें जिन्हें आप चयनित व्यय पंक्तियों के लिए सही करना चाहते हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-140">On the **New Journal** page, enter a **Description** for the correction, and on the **Expense Correction** tab, in the **New Values for Expenses** section, select the data fields that you want to correct for the selected expense lines.</span></span> <span data-ttu-id="41b19-141">उदाहरण के लिए, आप दूसरे **परियोजना** को व्यय असाइन कर सकते हैं, या **व्यय की श्रेणी**, **व्यय दिनांक** या **बुक करने योग्य संसाधन** सही कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-141">For example, you can assign the expense to another **Project**, or correct the **Expense Category**, **Expense Date**, or **Bookable Resource**.</span></span>
+
+4. <span data-ttu-id="41b19-142">**पूर्वावलोकन**.</span><span class="sxs-lookup"><span data-stu-id="41b19-142">Select **Preview**.</span></span> <span data-ttu-id="41b19-143">संवाद बॉक्स में **ठीक** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-143">In the dialog box, select **OK**.</span></span> 
+
+5. <span data-ttu-id="41b19-144">**जर्नल पंक्तियों** टैब पर सुधारों को सत्यापित करें. आप मूल वास्तविक की एक सूची देख सकते हैं जो चयनित व्यय प्रविष्टियों से संबंधित हैं जिन्हें विपरीत किया गया है और बनाई गई सही पंक्तियों को सही किया गया है.</span><span class="sxs-lookup"><span data-stu-id="41b19-144">Verify the corrections on the **Journal lines** tab. You can view a list of the original actuals that are related to the selected expense entries that have been reversed and the corrected corresponding lines that have been created.</span></span>
+
+6. <span data-ttu-id="41b19-145">यदि सुधार किए गए मान अपेक्षा के अनुसार होते हैं, तो **पुष्टि करें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-145">If the corrected values are as expected, select **Confirm**.</span></span> <span data-ttu-id="41b19-146">संवाद बॉक्स में, **ठीक** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-146">In the dialog box, select **OK.**</span></span> <span data-ttu-id="41b19-147">यदि मान अपेक्षा के अनुरूप नहीं दिखाई दे रहे हैं, तो **स्वीकृत व्यय** सूची पर वापस लौटने के लिए **रद्द करें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-147">If the values are not showing as expected, select **Cancel** to return to the **Approved Expenses** list.</span></span> <span data-ttu-id="41b19-148">चरण 2 से 5 तक दोहराएँ.</span><span class="sxs-lookup"><span data-stu-id="41b19-148">Repeat steps 2 through 5.</span></span> 
+
+> [!NOTE]
+> <span data-ttu-id="41b19-149">सभी सही किए गए वास्तविक लोगों के पास वही मान होंगे जिन्हें आपने **व्यय के लिए नए मान** सेक्शन में चयनित किया है.</span><span class="sxs-lookup"><span data-stu-id="41b19-149">The corrected actuals will have the same values that you selected in the **New values for Expenses** section.</span></span>
+
+7. <span data-ttu-id="41b19-150">आपके द्वारा सुधार जर्नल की पुष्टि करने के बाद, अपने परिवर्तनों को देखने के लिए उस परियोजना या परियोजनाओं पर वापस नेविगेट करें, जिसे आपके द्वारा अपडेट किया गया था.</span><span class="sxs-lookup"><span data-stu-id="41b19-150">After you confirm the correction journal, navigate back to the project or projects that you updated, to view your changes.</span></span>  
+
+8. <span data-ttu-id="41b19-151">परियोजना पृष्ठ में, **वास्तविक** टैब पर, **वास्तविक संबद्ध दृश्य** की समीक्षा करें.</span><span class="sxs-lookup"><span data-stu-id="41b19-151">In the project page, on the **Actuals** tab, review the **Actual Associated View**.</span></span> <span data-ttu-id="41b19-152">मूल प्रविष्टियाँ और सही प्रविष्टियाँ सूचीबद्ध हैं.</span><span class="sxs-lookup"><span data-stu-id="41b19-152">The original entries and the corrected entries are listed.</span></span> <span data-ttu-id="41b19-153">निम्नलिखित ग्राफ़िक, मूल व्यय प्रविष्टि और संबंधित सही व्यय प्रविष्टि राशियाँ दिखाता है.</span><span class="sxs-lookup"><span data-stu-id="41b19-153">The following graphic shows original expense entry amounts and the corresponding corrected expense entry amounts.</span></span> 
+
+

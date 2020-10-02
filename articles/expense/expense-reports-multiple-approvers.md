@@ -1,0 +1,44 @@
+---
+title: व्यय रिपोर्ट और कई अनुमोदनकर्ता
+description: यह विषय उन व्यय रिपोर्ट के बारे में जानकारी देता है जिन्हें एक से अधिक लोगों की स्वीकृति की ज़रूरत होती है.
+author: suvaidya
+manager: AnnBe
+ms.date: 09/23/2020
+ms.topic: article
+ms.prod: ''
+ms.service: dynamics-365-customerservice
+ms.technology: ''
+ms.search.form: ''
+audience: Application User
+ms.reviewer: kfend
+ms.search.scope: ''
+ms.search.region: ''
+ms.author: shylaw
+ms.search.validFrom: ''
+ms.dyn365.ops.version: ''
+ms.openlocfilehash: 818092dd631d07cc0a7d63c9eec51eeff4f67ffe
+ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.translationtype: HT
+ms.contentlocale: hi-IN
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "3897093"
+---
+# <a name="expense-reports-and-multiple-approvers"></a><span data-ttu-id="efec8-103">व्यय रिपोर्ट और कई अनुमोदनकर्ता</span><span class="sxs-lookup"><span data-stu-id="efec8-103">Expense reports and multiple approvers</span></span>
+
+<span data-ttu-id="efec8-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="efec8-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
+
+<span data-ttu-id="efec8-105">आपके संगठन की व्यय अनुमोदन नीतियों के आधार पर, एक से अधिक लोगों को सबमिट की गई व्यय रिपोर्ट को अनुमोदित करना पड़ सकता है.</span><span class="sxs-lookup"><span data-stu-id="efec8-105">Depending on your organization's expense approval policies, more than one person might have to approve a submitted expense report.</span></span> <span data-ttu-id="efec8-106">जब आप व्यय रिपोर्ट अनुमोदन के लिए कार्यप्रवाह प्रक्रिया सेट करते हैं तो आप कार्यप्रवाह के अवयव जोड़ सकते हैं, जिसमें एक या कई व्यय रिपोर्ट अनुमोदकों के लिए कार्य या चरण शामिल हैं.</span><span class="sxs-lookup"><span data-stu-id="efec8-106">When you set up the workflow process for expense report approval, you can add workflow elements that include tasks or steps for one or more expense report approvers.</span></span> <span data-ttu-id="efec8-107">उदाहरण के लिए, आपको ज़रूरत हो सकती है कि सभी व्यय रिपोर्ट को दो अलग-अलग लोग अनुमोदित करें, जैसे कि कर्मचारी प्रबंधक, जिसने रिपोर्ट सबमिट की है और लेखा देय समन्वयक.</span><span class="sxs-lookup"><span data-stu-id="efec8-107">For example, you might require that all expense reports be approved by two separate people, the manager of the employee who submitted the report and the Accounts payable coordinator.</span></span>
+
+<span data-ttu-id="efec8-108">यदि आपको कई व्यय रिपोर्ट अनुमोदकों की ज़रूरत होती है, तो आप निम्नलिखित में से किसी भी तरीके से कार्यप्रवाह अवयवों को जोड़ सकते हैं:</span><span class="sxs-lookup"><span data-stu-id="efec8-108">If you decide to require multiple expense report approvers, you can add the workflow elements in any of the following ways:</span></span>
+
+- <span data-ttu-id="efec8-109">एक स्वीकृति अवयव जोड़ें जिसमें एक चरण हो.</span><span class="sxs-lookup"><span data-stu-id="efec8-109">Add one approval element that has one step.</span></span> <span data-ttu-id="efec8-110">उदाहरण के लिए, चरण के लिए यह ज़रूरी हो सकता है कि व्यय रिपोर्ट उपयोगकर्ता समूह को सौंपी जाए और उपयोगकर्ता समूह के 50 प्रतिशत सदस्य इसे स्वीकृत करें.</span><span class="sxs-lookup"><span data-stu-id="efec8-110">For example, the step might require that an expense report be assigned to a user group, and that it be approved by 50 percent of the user group's members.</span></span>
+- <span data-ttu-id="efec8-111">एक स्वीकृति अवयव जोड़ें, जिसमें कई चरण हों.</span><span class="sxs-lookup"><span data-stu-id="efec8-111">Add one approval element that has multiple steps.</span></span> <span data-ttu-id="efec8-112">उदाहरण के लिए, स्वीकृति अवयव में निम्नांकित चरण हो सकते हैं:</span><span class="sxs-lookup"><span data-stu-id="efec8-112">For example, the approval element might have the following steps:</span></span>
+
+    1. <span data-ttu-id="efec8-113">व्यय रिपोर्ट सबमिट करने वाला कर्मचारी प्रबंधक इसे अनुमोदित करता है.</span><span class="sxs-lookup"><span data-stu-id="efec8-113">The manager of the employee who submitted the expense report approves it.</span></span>
+    2. <span data-ttu-id="efec8-114">लेखा देय लिपिक प्राप्तियों और व्यय रिपोर्ट मदों की पुष्टि करता है.</span><span class="sxs-lookup"><span data-stu-id="efec8-114">The Accounts payable clerk verifies the receipts and the expense report items.</span></span>
+    3. <span data-ttu-id="efec8-115">बजट मालिक व्यय रिपोर्ट को स्वीकृत करता है.</span><span class="sxs-lookup"><span data-stu-id="efec8-115">The budget owner approves the expense report.</span></span>
+
+- <span data-ttu-id="efec8-116">कई स्वीकृत अवयव जोड़ें, जिनमें से प्रत्येक में एक चरण है.</span><span class="sxs-lookup"><span data-stu-id="efec8-116">Add multiple approval elements, each of which has one step.</span></span> <span data-ttu-id="efec8-117">उदाहरण के लिए, आप निम्नांकित चरणों में से प्रत्येक के लिए अलग स्वीकृति अवयव जोड़ सकते हैं:</span><span class="sxs-lookup"><span data-stu-id="efec8-117">For example, you might add a separate approval element for each of the following steps:</span></span>
+
+    1. <span data-ttu-id="efec8-118">कर्मचारी का प्रबंधक व्यय रिपोर्ट को स्वीकृत करता है.</span><span class="sxs-lookup"><span data-stu-id="efec8-118">The employee's manager approves the expense report.</span></span>
+    2. <span data-ttu-id="efec8-119">बजट मालिक व्यय रिपोर्ट को स्वीकृत करता है.</span><span class="sxs-lookup"><span data-stu-id="efec8-119">The budget owner approves the expense report.</span></span>
