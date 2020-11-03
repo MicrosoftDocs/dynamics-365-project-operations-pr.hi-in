@@ -7,7 +7,6 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: cd0d415b9cc85bac91de8fb9427da290ae0c6108
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 47c1bce0c886897b295a3c1a355f4db843c4b73a
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3897138"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077766"
 ---
 # <a name="expense-reports-reimagined"></a>व्यय रिपोर्ट पुनर्कल्पित
 
@@ -35,7 +34,7 @@ ms.locfileid: "3897138"
 - आवश्यक फ़ील्ड, वैकल्पिक फ़ील्ड और उन फ़ील्डों को जो शामिल नहीं होने चाहिए, को निर्दिष्ट करने के लिए एक नया पृष्ठ. यह पृष्ठ उन फ़ील्ड की संख्या को कम करने में मदद करता है जिन्हें सेट किया जाना चाहिए.
 - खर्च रिपोर्टों को एक नया स्वरूप और अनुभव ताकि आगे ऐसा नहीं लगे कि ये लेखांकन करने वाले व्यक्ति द्वारा डिजाइन की गई होगी.
 
-नए अनुभव को चालू करने के लिए, **पुनर्कल्पित ख़र्च रिपोर्ट** फ़ीचर को चालू करने के लिए **फीचर प्रबंधन** कार्यक्षेत्र का उपयोग करें. जब आप इन फ़ीचर चालू करते हैं तो निम्नांकित कार्रवाइयां होती हैं:
+नए अनुभव को चालू करने के लिए, **पुनर्कल्पित ख़र्च रिपोर्ट** सुविधा को चालू करने के लिए **सुविधा प्रबंधन** कार्यक्षेत्र का उपयोग करें. जब आप इन फ़ीचर चालू करते हैं तो निम्नांकित कार्रवाइयां होती हैं:
 
 - मौजूद व्यय कार्यक्षेत्र को नए कार्यक्षेत्र से बदल दिया गया है.
 - व्यय फ़ील्ड दृश्यता के लिए नया मेनू आइटम जोड़ा गया है.

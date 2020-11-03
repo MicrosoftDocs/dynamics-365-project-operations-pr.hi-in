@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 42e02f393e89d20b2a462645f519a3792bee8f2f
-ms.sourcegitcommit: b9d8bf00239815f31686e9b28998ac684fd2fca4
+ms.openlocfilehash: 33b85115963f3561718b8951e5b518fd34de7723
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3948897"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077565"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Project Operations लाइट नियोजन के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता
 
@@ -25,20 +25,20 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
 
 ![कॉन्फ़िगरेशन माइग्रेशन](./media/1ConfigurationMigration.png)
 
-4. CMT विज़ार्ड के पृष्ठ 2 पर **Office 365** के रूप में **परिनियोजन प्रकार**।
+4. CMT विज़ार्ड के पृष्ठ 2 पर **परिनियोजन के प्रकार** के रूप में **Microsoft 365** का चयन करें.
 5. **उपलब्ध संगठनों की सूची प्रदर्शित करें** और **उन्नत दिखाएं** चेक बॉक्स चुनें।
 6. अपने किरायेदार के क्षेत्र का चयन करें, अपनी साख दर्ज करें, और फिर **लॉग-इन** का चयन करें.
 
 ![साइन इन का कॉन्फ़िगरेशन करें](./media/2ConfigurationSignin.png)
 
 7. पृष्ठ 3 पर, किरायेदार पर संगठनों की सूची से, चुनें कि आप किस संगठन में डेमो डेटा आयात करना चाहते/चाहती हैं और फिर **लॉग-इन** का चयन करें.
-8. पृष्ठ 4 पर, जिप फाइल का चयन करें, अनपैक्ड फोल्डर से *MasterAndSetupData*, *ProjOpsDemoDataSetupAndMaster - Integrated CMT*.
+8. पृष्ठ 4 पर, जिप फाइल का चयन करें, अनपैक्ड फोल्डर से *MasterAndSetupData* , *ProjOpsDemoDataSetupAndMaster - Integrated CMT*.
 
 ![ज़िप फ़ाइल](./media/3ZipFile.png)
 
 ![किसी फ़ाइल का चयन करें](./media/4SelectAFile.png)
 
-9. ज़िप फ़ाइल चुनने के बाद **डेटा आयात करें**चुनें।
+9. ज़िप फ़ाइल चुनने के बाद **डेटा आयात करें** चुनें।
 
 ![डेटा आयात करें](./media/5ImportData.png)
 

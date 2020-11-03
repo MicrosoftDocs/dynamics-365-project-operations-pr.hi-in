@@ -9,11 +9,11 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: rumant
 ms.openlocfilehash: 4013d2e8cc0d2329f824a17484ee6f4a054a390e
-ms.sourcegitcommit: f6509f7d50de4d4ebb92c1bf2cfcdf09f17458eb
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "3966792"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077623"
 ---
 # <a name="manage-project-price-lists-on-project-quotes-sales"></a>परियोजना के कोटेशन (Sales) पर परियोजना मूल्य सूचियों का प्रबंधन करें
 

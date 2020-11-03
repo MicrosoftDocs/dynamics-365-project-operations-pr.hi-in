@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,16 +17,16 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: e14da1c07d5b697de6caf1b9041c30581ecff102
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: b31e702cc15bbb3937e8c4b305064212f63ce919
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898083"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077868"
 ---
 # <a name="corrected-invoices"></a>इनवॉयस को सही किया
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 
 निश्चित इनवॉयस को एडिट (सुधार) किया जा सकता है. जब आप पुष्टि की गई इनवॉइस को संपादित करते हैं, तो सही इनवॉइस का ड्राफ्ट बनाया जाता है. चूंकि धारणा यह है कि आप मूल इनवॉइस से सभी लेनदेन और मात्राओं को पूर्णतया बदलना चाहते हैं, सही इनवॉइस में मूल इनवॉइस के सभी लेनदेन शामिल हैं, और इस पर सभी मात्राएं शून्य (0) हैं.
 

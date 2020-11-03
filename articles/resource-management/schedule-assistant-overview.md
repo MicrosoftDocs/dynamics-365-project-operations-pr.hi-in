@@ -9,11 +9,11 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
 ms.openlocfilehash: da551e805f395e466952df1dbb7d193bdddba358
-ms.sourcegitcommit: 56c42d7f5995a674426a1c2a81bae897dceb391c
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3908200"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077556"
 ---
 # <a name="schedule-assistant-overview"></a>शेड्यूल सहायक का अवलोकन
 
@@ -42,7 +42,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="launch-the-schedule-assistant"></a>शेड्यूल सहायक लॉन्च करें
 
-अनुसूची सहायक लॉन्च करने के दो तरीके हैं। यदि आप हाइब्रिड मोड का उपयोग कर रहे हैं, तो टीम सदस्य ग्रिड में आप अपूर्ण संसाधन आवश्यकता वाले किसी भी टीम सदस्य को चुन सकते हैं और उसके बाद **बुक**चुनें। यदि आप केंद्रीय मोड का उपयोग कर रहे हैं, तो संसाधन प्रबंधक संसाधन का पता लगाता है और उसे चुनता है।
+अनुसूची सहायक लॉन्च करने के दो तरीके हैं। यदि आप हाइब्रिड मोड का उपयोग कर रहे हैं, तो टीम सदस्य ग्रिड में आप अपूर्ण संसाधन आवश्यकता वाले किसी भी टीम सदस्य को चुन सकते हैं और उसके बाद **बुक** चुनें। यदि आप केंद्रीय मोड का उपयोग कर रहे हैं, तो संसाधन प्रबंधक संसाधन का पता लगाता है और उसे चुनता है।
 
 ## <a name="schedule-assistant-filters"></a>शेड्यूल सहायक फ़िल्टर
 

@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: e841ab7c37e0b348a4d1570123a5aea00ede0047
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: f949c639530aecf9f7368925208ab12b68d2062e
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898489"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077728"
 ---
 # <a name="create-estimates-on-a-quote-line"></a>एक कोट पंक्ति पर अनुमान बनाएँ
 
@@ -84,7 +83,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 2. **खोज** का चयन करें और अपडेट करने के लिए प्लग-इन को खोजें।
 3. प्लग-इन का चयन करें और फिर, मुख्य पृष्ठ पर, **चुनें** का चयन करें।
 4. अपडेट करने के लिए प्लग-इन का चरण चुनें, राइट-क्लिक करें और फिर **अपडेट** चुनें।
-5. **मौजूदा चरण अपडेट** संवाद बॉक्स में, **फ़िल्टरिंग विशेषताएं** फ़ील्ड में, दीर्घवृत्त बटन (**।।।**) का चयन करें:
+5. **मौजूदा चरण अपडेट** संवाद बॉक्स में, **फ़िल्टरिंग विशेषताएं** फ़ील्ड में, दीर्घवृत्त बटन ( **।।।** ) का चयन करें:
 6. **चयन विशेषताएं** संवाद बॉक्स में, कस्टम विशेषताओं के लिए चेक बॉक्स का चयन करें।
 7. संवाद बॉक्स बंद करने के लिए **ठीक** चुनें और फिर **चरण अपडेट** चुनें।
 8. दूसरे प्लग-इन के लिए चरण 1 को 7 से दोहराएं।
