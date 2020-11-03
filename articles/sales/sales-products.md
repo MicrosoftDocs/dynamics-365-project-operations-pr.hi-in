@@ -7,7 +7,6 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -18,110 +17,110 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 28397fd49ad4cdb2c820ef4b6f198f410995ba0f
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 7116659c646b323667e3c92cb3f6de99184f5ae6
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3898713"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077797"
 ---
-# <a name="products"></a>उत्पाद
+# <a name="products"></a><span data-ttu-id="9c9f0-103">उत्पाद</span><span class="sxs-lookup"><span data-stu-id="9c9f0-103">Products</span></span>
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+<span data-ttu-id="9c9f0-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="9c9f0-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-उत्पाद आपके व्यवसाय का आधार हैं. Dynamics 365 Sales Professional में उत्पाद कैटलॉग, उत्पादों और उनकी मूल्य निर्धारण जानकारी का संग्रह होता है. तुरंत एक उत्पाद कैटलॉग बनाकर अपने विक्रय प्रतिनिधियों की उनके विक्रय को बढ़ाने में मदद करें.
+<span data-ttu-id="9c9f0-105">उत्पाद आपके व्यवसाय का आधार हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-105">Products are the backbone of your business.</span></span> <span data-ttu-id="9c9f0-106">Dynamics 365 Sales Professional में उत्पाद कैटलॉग, उत्पादों और उनकी मूल्य निर्धारण जानकारी का संग्रह होता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-106">The product catalog in Dynamics 365 Sales Professional is a collection of products and pricing information.</span></span> <span data-ttu-id="9c9f0-107">तुरंत एक उत्पाद कैटलॉग बनाकर अपने विक्रय प्रतिनिधियों की उनके विक्रय को बढ़ाने में मदद करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-107">Make it easier for your sales reps to increase their sales by creating a product catalog quickly.</span></span>
 
-## <a name="add-a-product"></a>एक उत्‍पाद जोड़ें
+## <a name="add-a-product"></a><span data-ttu-id="9c9f0-108">एक उत्‍पाद जोड़ें</span><span class="sxs-lookup"><span data-stu-id="9c9f0-108">Add a product</span></span>
 
-1.  सुनिश्चित करें कि आपके पास Sales Professional प्रबंधक या सिस्टम व्यवस्थापक भूमिका है, ताकि आप Dynamics 365 Sales Professional में उत्पाद जोड़ सकें.
-2.  साइट मानचित्र में, **सेटअप** के अंतर्गत, **उत्पाद** चुनें.
-3.  **उत्पाद जोड़ें** का चयन करें और निम्नलिखित सूचनाओं को भरें:
+1.  <span data-ttu-id="9c9f0-109">सुनिश्चित करें कि आपके पास Sales Professional प्रबंधक या सिस्टम व्यवस्थापक भूमिका है, ताकि आप Dynamics 365 Sales Professional में उत्पाद जोड़ सकें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-109">Make sure you have the Sales Manager Professional or a System Administrator role so you can add products in Dynamics 365 Sales Professional.</span></span>
+2.  <span data-ttu-id="9c9f0-110">साइट मानचित्र में, **सेटअप** के अंतर्गत, **उत्पाद** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-110">In the site map, under **Setup** , select **Products**.</span></span>
+3.  <span data-ttu-id="9c9f0-111">**उत्पाद जोड़ें** का चयन करें और निम्नलिखित सूचनाओं को भरें:</span><span class="sxs-lookup"><span data-stu-id="9c9f0-111">Select **Add Product** and fill in the following information:</span></span>
 
-    -  **नाम**
-    -  **उत्पाद ID**
-    -  **मूल**: उत्पाद हेतु एक मूल उत्पाद वर्ग चुनें. यदि आप एक उत्पाद समूह में चाइल्ड उत्पाद बना रहे हैं, तो यहाँ पैरेंट उत्पाद समूह का नाम पॉप्युलेट किया जाता है. रिकॉर्ड सहेजे जाने के बाद इसे बदला नहीं जा सकता.
-    -  **इस दिनांक से मान्य**/**इस दिनांक तक मान्य**: **इस दिनांक से मान्य** और **इस दिनांक तक मान्य** दिनांक का चयन करके वह अवधि परिभाषित करें जिसके लिए उत्पाद मान्य है.
-    -  **इकाई समूह**: इकाई समूह का चयन करें. इकाई समूह उन विभिन्न इकाइयों का संग्रह होता है जिनमें उत्पाद बेचा जाता है और यह परिभाषित करता है कि अलग-अलग आइटम बड़ी मात्राओं में कैसे समूहीकृत किए जाते हैं. उदाहरण के लिए, यदि आप उत्पाद के रूप में बीज जोड़ रहे हैं, तो हो सकता है आपने "बीज" नामक एक इकाई समूह बनाया हो और "पैकेट" के रूप में उसकी प्राथमिक इकाई निर्धारित की हो.
-    -  **डिफ़ॉल्ट इकाई**: सबसे सामान्य इकाई का चयन करें जिसमें उत्पाद बेचा जाएगा. इकाइयाँ वे मात्राएँ या माप होती हैं जिनमें आप अपने उत्पाद बेचते हैं. उदाहरण के लिए, यदि आप बीजों को उत्पाद के रूप में जोड़ रहे हैं, तो आप उन्हें पैकेट, बॉक्स या पैलेट में बेच सकते हैं. इनमें से प्रत्येक उत्पाद की इकाई बन जाता है. यदि बीज ज़्यादातर पैकेट्स में बेचे जाते हैं, तो इकाई के रूप में उसका चयन करें.
-    -  **डिफ़ॉल्ट मूल्य सूची**: अगर यह नया उत्पाद है, तो यह फ़ील्ड केवल पठन के लिए होती है. डिफ़ॉल्ट मूल्य सूची को चुनने से पहले, आपको सभी आवश्यक फ़ील्ड पूरी करनी होंगी और उसके बाद रिकॉर्ड सहेजना होगा. यद्यपि डिफ़ॉल्ट मूल्य सूची आवश्यक नहीं है, जब आपने उत्पाद रिकॉर्ड को सहेज लिया हो, आपको प्रत्येक उत्पाद के लिए एक डिफ़ॉल्ट मूल्य सूची सेट करना चाहिए. इसके बाद, यदि ग्राहक रिकॉर्ड में मूल्य सूची नहीं होगी, तो Sales कोट, आदेश और इनवॉइस को जनरेट करने के लिए डिफ़ॉल्ट मूल्य सूची का उपयोग कर सकता है.
-    -  **दशमलव समर्थित**: आपको 0 से 5 के बीच का एक पूर्णांक दर्ज करना होगा. यदि उत्पाद को भिन्नात्मक मात्राओं में विभाजित नहीं किया जा सकता, तो 0 दर्ज करें. यदि उत्पाद में कोई संबद्ध मूल्य सूची नहीं होती है, तो कोट, ऑर्डर या इनवॉइस उत्पाद रिकॉर्ड में **मात्रा** फ़ील्ड की परिशुद्धता इस फ़ील्ड में मान के विरुद्ध सत्यापित की जाती है.
-    -  **विषय**: इस उत्पाद को विषय के साथ संबद्ध करें. आप अपने उत्पादों को श्रेणीबद्ध और रिपोर्ट को फ़िल्टर करने के लिए विषयों का उपयोग कर सकते हैं.
+    -  <span data-ttu-id="9c9f0-112">**नाम**</span><span class="sxs-lookup"><span data-stu-id="9c9f0-112">**Name**</span></span>
+    -  <span data-ttu-id="9c9f0-113">**उत्पाद ID**</span><span class="sxs-lookup"><span data-stu-id="9c9f0-113">**Product ID**</span></span>
+    -  <span data-ttu-id="9c9f0-114">**मूल** : उत्पाद हेतु एक मूल उत्पाद वर्ग चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-114">**Parent** : Select a parent product family for the product.</span></span> <span data-ttu-id="9c9f0-115">यदि आप एक उत्पाद समूह में चाइल्ड उत्पाद बना रहे हैं, तो यहाँ पैरेंट उत्पाद समूह का नाम पॉप्युलेट किया जाता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-115">If you're creating a child product in a product family, the name of the parent product family is populated here.</span></span> <span data-ttu-id="9c9f0-116">रिकॉर्ड सहेजे जाने के बाद इसे बदला नहीं जा सकता.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-116">This can't be changed after the record is saved.</span></span>
+    -  <span data-ttu-id="9c9f0-117">**इस दिनांक से मान्य**/**इस दिनांक तक मान्य** : **इस दिनांक से मान्य** और **इस दिनांक तक मान्य** दिनांक का चयन करके वह अवधि परिभाषित करें जिसके लिए उत्पाद मान्य है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-117">**Valid From**/**Valid To** : Define the period the product is valid for by selecting a **Valid From** and **Valid To** date.</span></span>
+    -  <span data-ttu-id="9c9f0-118">**इकाई समूह** : इकाई समूह का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-118">**Unit Group** : Select a unit group.</span></span> <span data-ttu-id="9c9f0-119">इकाई समूह उन विभिन्न इकाइयों का संग्रह होता है जिनमें उत्पाद बेचा जाता है और यह परिभाषित करता है कि अलग-अलग आइटम बड़ी मात्राओं में कैसे समूहीकृत किए जाते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-119">A unit group is a collection of various units a product is sold in and defines how individual items are grouped into larger quantities.</span></span> <span data-ttu-id="9c9f0-120">उदाहरण के लिए, यदि आप उत्पाद के रूप में बीज जोड़ रहे हैं, तो हो सकता है आपने "बीज" नामक एक इकाई समूह बनाया हो और "पैकेट" के रूप में उसकी प्राथमिक इकाई निर्धारित की हो.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-120">For example, if you're adding seeds as a product, you might have created a unit group called "Seeds" and defined its primary unit as "packet."</span></span>
+    -  <span data-ttu-id="9c9f0-121">**डिफ़ॉल्ट इकाई** : सबसे सामान्य इकाई का चयन करें जिसमें उत्पाद बेचा जाएगा.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-121">**Default Unit** : Select the most common unit in which the product will be sold.</span></span> <span data-ttu-id="9c9f0-122">इकाइयाँ वे मात्राएँ या माप होती हैं जिनमें आप अपने उत्पाद बेचते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-122">Units are the quantities or measurements that you sell your products in.</span></span> <span data-ttu-id="9c9f0-123">उदाहरण के लिए, यदि आप बीजों को उत्पाद के रूप में जोड़ रहे हैं, तो आप उन्हें पैकेट, बॉक्स या पैलेट में बेच सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-123">For example, if you're adding seeds as a product, you can sell it in packets, boxes, or pallets.</span></span> <span data-ttu-id="9c9f0-124">इनमें से प्रत्येक उत्पाद की इकाई बन जाता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-124">Each of these becomes a unit of the product.</span></span> <span data-ttu-id="9c9f0-125">यदि बीज ज़्यादातर पैकेट्स में बेचे जाते हैं, तो इकाई के रूप में उसका चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-125">If seeds are mostly sold in packets, select that as the unit.</span></span>
+    -  <span data-ttu-id="9c9f0-126">**डिफ़ॉल्ट मूल्य सूची** : अगर यह नया उत्पाद है, तो यह फ़ील्ड केवल पठन के लिए होती है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-126">**Default Price List** : If this is a new product, this field is read-only.</span></span> <span data-ttu-id="9c9f0-127">डिफ़ॉल्ट मूल्य सूची को चुनने से पहले, आपको सभी आवश्यक फ़ील्ड पूरी करनी होंगी और उसके बाद रिकॉर्ड सहेजना होगा.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-127">Before you can select a default price list, you must complete all the required fields and then save the record.</span></span> <span data-ttu-id="9c9f0-128">यद्यपि डिफ़ॉल्ट मूल्य सूची आवश्यक नहीं है, जब आपने उत्पाद रिकॉर्ड को सहेज लिया हो, आपको प्रत्येक उत्पाद के लिए एक डिफ़ॉल्ट मूल्य सूची सेट करना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-128">Although the default price list is not required, after you save the product record, it is a good idea to set a default price list for each product.</span></span> <span data-ttu-id="9c9f0-129">इसके बाद, यदि ग्राहक रिकॉर्ड में मूल्य सूची नहीं होगी, तो Sales कोट, आदेश और इनवॉइस को जनरेट करने के लिए डिफ़ॉल्ट मूल्य सूची का उपयोग कर सकता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-129">Then, if a customer record does not contain a price list, Sales can use the default price list for generating quotes, orders, and invoices.</span></span>
+    -  <span data-ttu-id="9c9f0-130">**दशमलव समर्थित** : आपको 0 से 5 के बीच का एक पूर्णांक दर्ज करना होगा.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-130">**Decimals Supported** : Enter a whole number between 0 and 5.</span></span> <span data-ttu-id="9c9f0-131">यदि उत्पाद को भिन्नात्मक मात्राओं में विभाजित नहीं किया जा सकता, तो 0 दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-131">If the product can't be divided into fractional quantities, enter 0.</span></span> <span data-ttu-id="9c9f0-132">यदि उत्पाद में कोई संबद्ध मूल्य सूची नहीं होती है, तो कोट, ऑर्डर या इनवॉइस उत्पाद रिकॉर्ड में **मात्रा** फ़ील्ड की परिशुद्धता इस फ़ील्ड में मान के विरुद्ध सत्यापित की जाती है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-132">The precision of the **Quantity** field in the quote, order, or invoice product record is validated against the value in this field if the product does not have an associated price list.</span></span>
+    -  <span data-ttu-id="9c9f0-133">**विषय** : इस उत्पाद को विषय के साथ संबद्ध करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-133">**Subject** : Associate this product with a subject.</span></span> <span data-ttu-id="9c9f0-134">आप अपने उत्पादों को श्रेणीबद्ध और रिपोर्ट को फ़िल्टर करने के लिए विषयों का उपयोग कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-134">You can use subjects to categorize your products and to filter reports.</span></span>
 
-4.  **सहेजें** चुनें.
-5.  **अतिरिक्त विवरण** टैब पर, **मूल्य सूची आइटम** अनुभाग में, **अधिक आदेश** का चयन करें, और फिर **नई मूल्य सूची आइटम जोड़ें** का चयन करें.
-7.  **अतिरिक्त विवरण** टैब पर, **उत्पाद संबंध** अनुभाग में, **अधिक आदेश** आइकन का चयन करें, और फिर **नया उत्पाद संबंध जोड़ें का चयन करें.**
-8.  **नया उत्पाद संबंध** प्रपत्र में, निम्न विवरण दर्ज करें और आदेश पट्टी पर, **सहेजें और बंद करें** चुनें:
+4.  <span data-ttu-id="9c9f0-135">**सहेजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-135">Select **Save**.</span></span>
+5.  <span data-ttu-id="9c9f0-136">**अतिरिक्त विवरण** टैब पर, **मूल्य सूची आइटम** अनुभाग में, **अधिक आदेश** का चयन करें, और फिर **नई मूल्य सूची आइटम जोड़ें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-136">On the **Additional Details** tab, in the **Price List Items** section, select **More commands** , and then select **Add New Price List Item**.</span></span>
+7.  <span data-ttu-id="9c9f0-137">**अतिरिक्त विवरण** टैब पर, **उत्पाद संबंध** अनुभाग में, **अधिक आदेश** आइकन का चयन करें, और फिर **नया उत्पाद संबंध जोड़ें का चयन करें.**</span><span class="sxs-lookup"><span data-stu-id="9c9f0-137">On the **Additional Details** tab, in the **Product Relationship** section, select the **More commands** icon, and then select **Add New Product Relationship.**</span></span>
+8.  <span data-ttu-id="9c9f0-138">**नया उत्पाद संबंध** प्रपत्र में, निम्न विवरण दर्ज करें और आदेश पट्टी पर, **सहेजें और बंद करें** चुनें:</span><span class="sxs-lookup"><span data-stu-id="9c9f0-138">In the **New Product Relationship** form, enter the following details, and on the command bar, select **Save and Close** :</span></span>
 
-    -   **संबंधित उत्पाद**: किसी ऐसे उत्पाद का चयन करें जिसे आप एक संबंधित उत्पाद के रूप में उस मौजूदा उत्पाद रिकॉर्ड में जोड़ना चाहते हैं जिसपर आप काम कर रहे हैं.
-    -   **बिक्री संबंध प्रकार**: यह चयन करें कि क्या आप उत्पाद को एक अप-सेल, क्रॉस-सेल, ऐक्सेसरी, या प्रतिस्थापक उत्पाद के रूप में जोड़ना चाहते हैं.
-    -   **दिशा**: चयन करें कि क्या उत्पादों के बीच संबंध एकतरफा होगा या दोतरफा. जब आप एकदिशी चुनते हैं, तो आपके द्वारा **संबंधित उत्पाद** में चुना जाने वाला उत्पाद, मौजूदा उत्पाद के लिए अनुशंसित के रूप में दिखाया जाएगा, लेकिन इसके विपरीत नहीं.
+    -   <span data-ttu-id="9c9f0-139">**संबंधित उत्पाद** : किसी ऐसे उत्पाद का चयन करें जिसे आप एक संबंधित उत्पाद के रूप में उस मौजूदा उत्पाद रिकॉर्ड में जोड़ना चाहते हैं जिसपर आप काम कर रहे हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-139">**Related Product** : Select a product that you want to add as a related product to the existing product record you're working on.</span></span>
+    -   <span data-ttu-id="9c9f0-140">**बिक्री संबंध प्रकार** : यह चयन करें कि क्या आप उत्पाद को एक अप-सेल, क्रॉस-सेल, ऐक्सेसरी, या प्रतिस्थापक उत्पाद के रूप में जोड़ना चाहते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-140">**Sales Relation Type** : Select whether you want to add the product as an up-sell, cross-sell, accessory, or substitute product.</span></span>
+    -   <span data-ttu-id="9c9f0-141">**दिशा** : चयन करें कि क्या उत्पादों के बीच संबंध एकतरफा होगा या दोतरफा.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-141">**Direction** :Select whether the relationship between the products will be unidirectional or bidirectional.</span></span> <span data-ttu-id="9c9f0-142">जब आप एकदिशी चुनते हैं, तो आपके द्वारा **संबंधित उत्पाद** में चुना जाने वाला उत्पाद, मौजूदा उत्पाद के लिए अनुशंसित के रूप में दिखाया जाएगा, लेकिन इसके विपरीत नहीं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-142">When you select unidirectional, the product that you select in **Related Product** will be shown as a recommendation for the existing product but not vice versa.</span></span>
 
-9.  उत्पाद प्रपत्र पर, **सहेजें** चुनें.
+9.  <span data-ttu-id="9c9f0-143">उत्पाद प्रपत्र पर, **सहेजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-143">On the Product form, select **Save**.</span></span>
 
-## <a name="import-products"></a>उत्पाद आयात करें
+## <a name="import-products"></a><span data-ttu-id="9c9f0-144">उत्पाद आयात करें</span><span class="sxs-lookup"><span data-stu-id="9c9f0-144">Import products</span></span>
 
-आप Dynamics 365 Sales में बल्क उत्पाद डेटा को लाने के लिए आयात टेम्पलेट का उपयोग कर सकते हैं.
+<span data-ttu-id="9c9f0-145">आप Dynamics 365 Sales में बल्क उत्पाद डेटा को लाने के लिए आयात टेम्पलेट का उपयोग कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-145">You can use import templates to bring bulk product data into Dynamics 365 Sales.</span></span>
 
-## <a name="revise-a-product"></a>एक उत्पाद संशोधित करें
+## <a name="revise-a-product"></a><span data-ttu-id="9c9f0-146">एक उत्पाद संशोधित करें</span><span class="sxs-lookup"><span data-stu-id="9c9f0-146">Revise a product</span></span>
 
-उत्पाद के लिए गुणों की आवश्यकतानुसार त्वरित रूप से समीक्षा करके और जानकारी को पुनः प्रकाशित करके उत्पाद इन्वेंट्री अद्यतन रखें, ताकि आपके विक्रय एजेंट इन्वेंट्री में नवीनतम परिवर्तन देख सकें.
+<span data-ttu-id="9c9f0-147">उत्पाद के लिए गुणों की आवश्यकतानुसार त्वरित रूप से समीक्षा करके और जानकारी को पुनः प्रकाशित करके उत्पाद इन्वेंट्री अद्यतन रखें, ताकि आपके विक्रय एजेंट इन्वेंट्री में नवीनतम परिवर्तन देख सकें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-147">Keep the product inventory updated by quickly revising properties for the products, as required, and republishing the information so that your sales agents can see the latest changes to the inventory.</span></span>
 
-1.  आपके पास निम्न सुरक्षा भूमिकाओं या समकक्ष अनुमतियाँ में से कोई एक होना सुनिश्चित करें: सिस्टम व्यवस्थापक, सिस्टम अनुकूलक, विक्रय प्रबंधक, विक्रय उपाध्यक्ष, मार्केटिंग उपाध्यक्ष या सीईओ-व्यवसाय प्रबंधक.
-2.  साइट मानचित्र में, **उत्पादों** का चयन करें.
-3.  वह सक्रिय उत्पाद खोलें, जिसे आप बदलना चाहते हैं और आदेश पट्टी पर, **संशोधित करें** चुनें.
-4.  **संशोधन की पुष्टि करें** संवाद बॉक्स में, **पुष्टि करें** चुनें. यह उत्पाद स्थिति को **संशोधन के अधीन** में बदल देगा.
-5.  परिवर्तन करने के बाद, आदेश पट्टी पर, **प्रकाशित करें** चुनें.
+1.  <span data-ttu-id="9c9f0-148">आपके पास निम्न सुरक्षा भूमिकाओं या समकक्ष अनुमतियाँ में से कोई एक होना सुनिश्चित करें: सिस्टम व्यवस्थापक, सिस्टम अनुकूलक, विक्रय प्रबंधक, विक्रय उपाध्यक्ष, मार्केटिंग उपाध्यक्ष या सीईओ-व्यवसाय प्रबंधक.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-148">Make sure that you have one of the following security roles or equivalent permissions: System Administrator, System Customizer, Sales Manager, Vice President of Sales, Vice President of Marketing, or CEO-Business Manager.</span></span>
+2.  <span data-ttu-id="9c9f0-149">साइट मानचित्र में, **उत्पादों** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-149">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="9c9f0-150">वह सक्रिय उत्पाद खोलें, जिसे आप बदलना चाहते हैं और आदेश पट्टी पर, **संशोधित करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-150">Open an active product that you want to change, and on the command bar, select **Revise**.</span></span>
+4.  <span data-ttu-id="9c9f0-151">**संशोधन की पुष्टि करें** संवाद बॉक्स में, **पुष्टि करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-151">In the **Confirm Revise** dialog box, select **Confirm**.</span></span> <span data-ttu-id="9c9f0-152">यह उत्पाद स्थिति को **संशोधन के अधीन** में बदल देगा.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-152">This will change the product status to **Under Revision**.</span></span>
+5.  <span data-ttu-id="9c9f0-153">परिवर्तन करने के बाद, आदेश पट्टी पर, **प्रकाशित करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-153">After you're done making changes, on the command bar, select **Publish**.</span></span>
 
     > [!TIP]
-    > परिवर्तनों को पूर्वस्थिति पर लाने और उत्पाद के पिछले सक्रिय संस्करण के साथ जारी रखने के लिए, **पूर्वस्थिति लाएँ** चुनें. यह उत्पाद की स्थिति को **सक्रिय** पर वापस बदल देती है.
+    > <span data-ttu-id="9c9f0-154">परिवर्तनों को पूर्वस्थिति पर लाने और उत्पाद के पिछले सक्रिय संस्करण के साथ जारी रखने के लिए, **पूर्वस्थिति लाएँ** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-154">To revert the changes and continue with the last active version of the product, select **Revert**.</span></span> <span data-ttu-id="9c9f0-155">यह उत्पाद की स्थिति को **सक्रिय** पर वापस बदल देती है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-155">This changes the status of the product back to **Active**.</span></span>
 
-## <a name="clone-a-product"></a>उत्पाद को क्लोन करें 
+## <a name="clone-a-product"></a><span data-ttu-id="9c9f0-156">उत्पाद को क्लोन करें</span><span class="sxs-lookup"><span data-stu-id="9c9f0-156">Clone a product</span></span> 
 
-नया उत्पाद बनाते समय, मौजूदा उत्पाद का क्लोन बनाकर समय बचाएँ. यह नाम और आईडी को छोड़कर संपूर्ण विवरण के साथ मूल रिकॉर्ड की एक प्रतिलिपि बनाता है.
+<span data-ttu-id="9c9f0-157">नया उत्पाद बनाते समय, मौजूदा उत्पाद का क्लोन बनाकर समय बचाएँ.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-157">When you're creating a new product, save time by cloning an existing one.</span></span> <span data-ttu-id="9c9f0-158">यह नाम और आईडी को छोड़कर संपूर्ण विवरण के साथ मूल रिकॉर्ड की एक प्रतिलिपि बनाता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-158">This creates a copy of the original record with all the details except for the name and ID.</span></span>
 
-1.  आपके पास निम्न सुरक्षा भूमिकाओं या समकक्ष अनुमतियाँ में से कोई एक होना सुनिश्चित करें: सिस्टम व्यवस्थापक, सिस्टम अनुकूलक, विक्रय प्रबंधक, विक्रय उपाध्यक्ष, मार्केटिंग उपाध्यक्ष या सीईओ-व्यवसाय प्रबंधक.
-2.  साइट मानचित्र में, **उत्पादों** का चयन करें.
-3.  जिस उत्पाद रिकॉर्ड का आप क्लोन बनाना चाहते हैं, उसे चुनें और आदेश पट्टी पर **क्लोन बनाएँ** चुनें. एक पुष्टिकरण संवाद बॉक्स दिखाई देता है.
-4.  **पुष्टि करें** चुनें.
+1.  <span data-ttu-id="9c9f0-159">आपके पास निम्न सुरक्षा भूमिकाओं या समकक्ष अनुमतियाँ में से कोई एक होना सुनिश्चित करें: सिस्टम व्यवस्थापक, सिस्टम अनुकूलक, विक्रय प्रबंधक, विक्रय उपाध्यक्ष, मार्केटिंग उपाध्यक्ष या सीईओ-व्यवसाय प्रबंधक.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-159">Make sure that you have one of the following security roles or equivalent permissions: System Administrator, System Customizer, Sales Manager, Vice President of Sales, Vice President of Marketing, or CEO-Business Manager.</span></span>
+2.  <span data-ttu-id="9c9f0-160">साइट मानचित्र में, **उत्पादों** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-160">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="9c9f0-161">जिस उत्पाद रिकॉर्ड का आप क्लोन बनाना चाहते हैं, उसे चुनें और आदेश पट्टी पर **क्लोन बनाएँ** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-161">Select a product record that you want to clone, and on the command bar, select **Clone**.</span></span> <span data-ttu-id="9c9f0-162">एक पुष्टिकरण संवाद बॉक्स दिखाई देता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-162">A confirmation dialog box appears.</span></span>
+4.  <span data-ttu-id="9c9f0-163">**पुष्टि करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-163">Select **Confirm**.</span></span>
 
-नाम और ID को छोड़कर मूल उत्पाद रिकॉर्ड के समान विवरण वाला एक नया उत्पाद रिकॉर्ड खुल जाता है.
+<span data-ttu-id="9c9f0-164">नाम और ID को छोड़कर मूल उत्पाद रिकॉर्ड के समान विवरण वाला एक नया उत्पाद रिकॉर्ड खुल जाता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-164">A new product record opens with the same details as the original one except for the name and ID.</span></span>
 
-## <a name="retire-a-product"></a>उत्पाद को निवृत्त करें 
+## <a name="retire-a-product"></a><span data-ttu-id="9c9f0-165">उत्पाद को निवृत्त करें</span><span class="sxs-lookup"><span data-stu-id="9c9f0-165">Retire a product</span></span> 
 
-यदि आपका संगठन अब किसी उत्पाद का विक्रय नहीं करता है, तो उसे निवृत्त कर दें ताकि आपके विक्रय एजेंट्स के लिए अब वह उत्पाद उपलब्ध न रहे.
+<span data-ttu-id="9c9f0-166">यदि आपका संगठन अब किसी उत्पाद का विक्रय नहीं करता है, तो उसे निवृत्त कर दें ताकि आपके विक्रय एजेंट्स के लिए अब वह उत्पाद उपलब्ध न रहे.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-166">If your organization doesn't sell a product anymore, retire it so that the product is no longer available to your sales agents.</span></span>
 
-1.  सुनिश्चित करें कि आपके पास सिस्टम व्यवस्थापक या Sales Professional प्रबंधक या समकक्ष अनुमतियाँ हैं.
-2.  साइट मानचित्र में, **उत्पादों** का चयन करें.
-3.  वह सक्रिय उत्पाद खोलें, जिसे आप निवृत्त करना चाहते हैं और आदेश पट्टी पर, **निवृत्त करें** चुनें.
-4.  **सेवानिवृत्ति की पुष्टि करें** संवाद बॉक्स में, **पुष्टि करें** चयन करें.
+1.  <span data-ttu-id="9c9f0-167">सुनिश्चित करें कि आपके पास सिस्टम व्यवस्थापक या Sales Professional प्रबंधक या समकक्ष अनुमतियाँ हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-167">Make sure that you have the System Administrator or Sales Professional Manager role or equivalent permissions.</span></span>
+2.  <span data-ttu-id="9c9f0-168">साइट मानचित्र में, **उत्पादों** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-168">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="9c9f0-169">वह सक्रिय उत्पाद खोलें, जिसे आप निवृत्त करना चाहते हैं और आदेश पट्टी पर, **निवृत्त करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-169">Open an active product that you want to retire, and on the command bar, select **Retire**.</span></span>
+4.  <span data-ttu-id="9c9f0-170">**सेवानिवृत्ति की पुष्टि करें** संवाद बॉक्स में, **पुष्टि करें** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-170">In the **Confirm Retire** dialog box, select **Confirm**.</span></span>
 
 
-## <a name="delete-a-product"></a>उत्पाद हटाएँ
+## <a name="delete-a-product"></a><span data-ttu-id="9c9f0-171">उत्पाद हटाएँ</span><span class="sxs-lookup"><span data-stu-id="9c9f0-171">Delete a product</span></span>
 
-किसी उत्पाद की बिक्री रोकने के लिए, उसे हटाएँ.
+<span data-ttu-id="9c9f0-172">किसी उत्पाद की बिक्री रोकने के लिए, उसे हटाएँ.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-172">To stop selling a product, delete it.</span></span>
 
 > [!IMPORTANT]
-> आप हटाए गए रिकॉर्ड को पुनर्प्राप्त नहीं कर सकते.
+> <span data-ttu-id="9c9f0-173">आप हटाए गए रिकॉर्ड को पुनर्प्राप्त नहीं कर सकते.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-173">You can't recover a deleted record.</span></span>
 
-1.  सुनिश्चित करें कि आपके पास सिस्टम व्यवस्थापक या Sales Professional प्रबंधक या समकक्ष अनुमतियाँ हैं.
-2.  साइट मानचित्र में, **उत्पादों** का चयन करें.
-3.  वह उत्पाद रिकॉर्ड चुनें, जिसे आप हटाना चाहते हैं और आदेश पट्टी पर **हटाएँ** चुनें.
-4.  **हटाने की पुष्टि करें** संवाद बॉक्स में, **जारी रखें** चुनें.
+1.  <span data-ttu-id="9c9f0-174">सुनिश्चित करें कि आपके पास सिस्टम व्यवस्थापक या Sales Professional प्रबंधक या समकक्ष अनुमतियाँ हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-174">Make sure that you have the System Administrator or Sales Professional Manager role or equivalent permissions.</span></span>
+2.  <span data-ttu-id="9c9f0-175">साइट मानचित्र में, **उत्पादों** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-175">In the site map, select **Products**.</span></span>
+3.  <span data-ttu-id="9c9f0-176">वह उत्पाद रिकॉर्ड चुनें, जिसे आप हटाना चाहते हैं और आदेश पट्टी पर **हटाएँ** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-176">Select a product record you want to delete, and on the command bar, select **Delete**.</span></span>
+4.  <span data-ttu-id="9c9f0-177">**हटाने की पुष्टि करें** संवाद बॉक्स में, **जारी रखें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-177">In the **Confirm Deletion** dialog box, select **Continue**.</span></span>
  
- ## <a name="quantity-factors-for-products"></a>उत्पादों के लिए मात्रा कारक
+ ## <a name="quantity-factors-for-products"></a><span data-ttu-id="9c9f0-178">उत्पादों के लिए मात्रा कारक</span><span class="sxs-lookup"><span data-stu-id="9c9f0-178">Quantity factors for products</span></span>
 
-मात्रा घटक सदस्यता-आधारित उत्पादों की बिक्री का समर्थन करते हैं. सदस्यता-आधारित उत्पादों के लिए उद्धरण पर या प्रोजेक्ट अनुबंध पद्धति पर मात्रा, उपयोगकर्ता महीनों की संख्या के रूप में व्यक्त की जाती है।
+<span data-ttu-id="9c9f0-179">मात्रा घटक सदस्यता-आधारित उत्पादों की बिक्री का समर्थन करते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-179">Quantity factors support the sale of subscription-based products.</span></span> <span data-ttu-id="9c9f0-180">सदस्यता-आधारित उत्पादों के लिए उद्धरण पर या प्रोजेक्ट अनुबंध पद्धति पर मात्रा, उपयोगकर्ता महीनों की संख्या के रूप में व्यक्त की जाती है।</span><span class="sxs-lookup"><span data-stu-id="9c9f0-180">For subscription-based products, the quantity on the quote or project contract line is expressed as the number of user months.</span></span>
 
-आमतौर पर, सदस्यता सॉफ़्टवेयर की कीमत कैटलॉग में प्रति माह प्रति उपयोगकर्ता मूल्य के रूप में संग्रहीत की जाती है। हालाँकि, आप इसके बजाय अन्य समय विवरण का उपयोग कर सकते हैं। बिक्री प्रक्रिया के दौरान, उद्धरण पद्धति पर मूल्य आमतौर पर प्रति-उपयोगकर्ता, प्रति माह मूल्य होता है, जिस पर IT बिक्री एजेंट मोलभाव और छूट देता था। प्रत्येक सौदे में उपयोगकर्ताओं की एक अलग संख्या और सदस्यता महीनों की एक अलग संख्या होती है। कोट पद्धति की मात्रा की गणना करने के लिए उपयोग की जाने वाली मात्रा, उपयोगकर्ताओं की संख्या और सदस्यता महीनों की संख्या का परिणाम है।
+<span data-ttu-id="9c9f0-181">आमतौर पर, सदस्यता सॉफ़्टवेयर की कीमत कैटलॉग में प्रति माह प्रति उपयोगकर्ता मूल्य के रूप में संग्रहीत की जाती है।</span><span class="sxs-lookup"><span data-stu-id="9c9f0-181">Usually, the price of subscription software is stored in the catalog as the price per user per month.</span></span> <span data-ttu-id="9c9f0-182">हालाँकि, आप इसके बजाय अन्य समय विवरण का उपयोग कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="9c9f0-182">However, you can use other time descriptions instead.</span></span> <span data-ttu-id="9c9f0-183">बिक्री प्रक्रिया के दौरान, उद्धरण पद्धति पर मूल्य आमतौर पर प्रति-उपयोगकर्ता, प्रति माह मूल्य होता है, जिस पर IT बिक्री एजेंट मोलभाव और छूट देता था।</span><span class="sxs-lookup"><span data-stu-id="9c9f0-183">During the sales process, the price on the quote line is usually the per-user, per-month price that was negotiated and discounted by the IT sales agent.</span></span> <span data-ttu-id="9c9f0-184">प्रत्येक सौदे में उपयोगकर्ताओं की एक अलग संख्या और सदस्यता महीनों की एक अलग संख्या होती है।</span><span class="sxs-lookup"><span data-stu-id="9c9f0-184">Each deal has a different number of users and a different number of subscription months.</span></span> <span data-ttu-id="9c9f0-185">कोट पद्धति की मात्रा की गणना करने के लिए उपयोग की जाने वाली मात्रा, उपयोगकर्ताओं की संख्या और सदस्यता महीनों की संख्या का परिणाम है।</span><span class="sxs-lookup"><span data-stu-id="9c9f0-185">The quantity that is used to compute the amount of the quote line is a product of the number of users and the number of subscription months.</span></span>
 
-मात्रा घटक उत्पाद की विशेषताओं पर निर्भर करते हैं. जब आप किसी उत्पाद के लिए विशिष्ट गुणों को कॉन्फ़िगर करते हैं, तो आपको उन विशेषताओं के उपसमूह को या सभी विशेषताओं को मात्रा कारकों के रूप में चिह्नित करने देता है.
+<span data-ttu-id="9c9f0-186">मात्रा घटक उत्पाद की विशेषताओं पर निर्भर करते हैं.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-186">Quantity factors rely on product attributes.</span></span> <span data-ttu-id="9c9f0-187">जब आप किसी उत्पाद के लिए विशिष्ट गुणों को कॉन्फ़िगर करते हैं, तो आपको उन विशेषताओं के उपसमूह को या सभी विशेषताओं को मात्रा कारकों के रूप में चिह्नित करने देता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-187">When you configure specific properties for a product, you can flag a subset of those properties, or all the properties, as quantity factors.</span></span>
 
-सिस्टम सत्यापित करता है कि केवल संख्यात्मक विशेषता या उत्पाद विशेषता, जिनमें एक संख्यात्मक डेटा प्रकार होता है, उन्हें मात्रा कारकों के रूप में चिह्नित किया जाता है. जब एक उत्पाद जिसमें मात्रा कारकों को कॉन्फिगर किया जाता है, को उद्धरण पद्धति में जोड़ा जाता है, तो **मात्रा** क्षेत्र उद्धरण पद्धति में केवल-पठन बन जाता है। आपके उत्पाद के गुणों के लिए मान दर्ज करने के बाद जो मात्रा घटक हैं, क्वोटेशन लाइन की मात्रा की गणना की जाती है.
+<span data-ttu-id="9c9f0-188">सिस्टम सत्यापित करता है कि केवल संख्यात्मक विशेषता या उत्पाद विशेषता, जिनमें एक संख्यात्मक डेटा प्रकार होता है, उन्हें मात्रा कारकों के रूप में चिह्नित किया जाता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-188">The system validates that only numeric properties or product properties that have a numeric data type are flagged as quantity factors.</span></span> <span data-ttu-id="9c9f0-189">जब एक उत्पाद जिसमें मात्रा कारकों को कॉन्फिगर किया जाता है, को उद्धरण पद्धति में जोड़ा जाता है, तो **मात्रा** क्षेत्र उद्धरण पद्धति में केवल-पठन बन जाता है।</span><span class="sxs-lookup"><span data-stu-id="9c9f0-189">When a product that quantity factors are configured for is added to a quote line, the **Quantity** field on the quote line becomes a read-only field.</span></span> <span data-ttu-id="9c9f0-190">आपके उत्पाद के गुणों के लिए मान दर्ज करने के बाद जो मात्रा घटक हैं, क्वोटेशन लाइन की मात्रा की गणना की जाती है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-190">After you enter values for product properties that are quantity factors, the quantity of the quote line is calculated.</span></span>
 
-उदाहरण के लिए, यदि निम्नलिखित गुण हैं: 
+<span data-ttu-id="9c9f0-191">उदाहरण के लिए, यदि निम्नलिखित गुण हैं:</span><span class="sxs-lookup"><span data-stu-id="9c9f0-191">For example, if there are the following properties:</span></span> 
 
-- **उपयोगकर्ता संख्या**: उपयोगकर्ताओं की संख्या 
-- **महीनों की संख्या**: सदस्यता महीनों की संख्या
-- **उत्पाद SKU** 
+- <span data-ttu-id="9c9f0-192">**उपयोगकर्ता संख्या** : उपयोगकर्ताओं की संख्या</span><span class="sxs-lookup"><span data-stu-id="9c9f0-192">**No of users** : The number of users</span></span> 
+- <span data-ttu-id="9c9f0-193">**महीनों की संख्या** : सदस्यता महीनों की संख्या</span><span class="sxs-lookup"><span data-stu-id="9c9f0-193">**No of Months** : The number of subscription months</span></span>
+- <span data-ttu-id="9c9f0-194">**उत्पाद SKU**</span><span class="sxs-lookup"><span data-stu-id="9c9f0-194">**Product SKU**</span></span> 
 
-उत्पाद पद्धति की विशेषताओं को संपादित करके **उपयोगकर्ताओं की संख्या** और **महीनों की संख्या** को मात्रा कारकों के रूप में चिह्नित किया जा सकता है. 
+<span data-ttu-id="9c9f0-195">उत्पाद पद्धति की विशेषताओं को संपादित करके **उपयोगकर्ताओं की संख्या** और **महीनों की संख्या** को मात्रा कारकों के रूप में चिह्नित किया जा सकता है.</span><span class="sxs-lookup"><span data-stu-id="9c9f0-195">The **No of Users** and **No of Months** properties can be flagged as quantity factors by editing the properties of the product line.</span></span> 

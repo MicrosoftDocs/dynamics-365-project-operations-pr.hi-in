@@ -9,21 +9,21 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: stsporen
 ms.openlocfilehash: e2ac26910c55eefd059e3136b7e8821aad411539
-ms.sourcegitcommit: 2cf93d8bf0be5b61a739195a41334c34d910e9ba
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "3961123"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077615"
 ---
-# <a name="time-overview"></a>समय का अवलोकन
+# <a name="time-overview"></a><span data-ttu-id="7a1ab-103">समय का अवलोकन</span><span class="sxs-lookup"><span data-stu-id="7a1ab-103">Time overview</span></span>
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+<span data-ttu-id="7a1ab-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="7a1ab-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-समय प्रविष्टि एक संसाधन के वास्तविक समय को रिकॉर्ड करने की प्रक्रिया है। Dynamics 365 परियोजना संचालन में समय प्रविष्टियां लागत और बिक्री की कीमतों को कार्य प्रगति के रूप में गणना करने देती हैं। ये प्रविष्टियां परियोजना प्रबंधक को परियोजनाओं और कार्यों में सबसे ऊपर रहने में मदद करती हैं। समय प्रविष्टियां संसाधन प्रबंधकों को किसी संभावित अवकाश या अनुपस्थिति के बारे में भी सूचित करती हैं, जो शेड्यूल बोर्ड पर **आउट** के रूप में दिखाई देते हैं। ये सूचनाएं संसाधन प्रबंधकों को उन घटनाओं के आसपास योजना बनाने की अनुमति देती हैं।
+<span data-ttu-id="7a1ab-105">समय प्रविष्टि एक संसाधन के वास्तविक समय को रिकॉर्ड करने की प्रक्रिया है।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-105">Time Entry is the process of recording the actual time that a resource consumes.</span></span> <span data-ttu-id="7a1ab-106">Dynamics 365 परियोजना संचालन में समय प्रविष्टियां लागत और बिक्री की कीमतों को कार्य प्रगति के रूप में गणना करने देती हैं।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-106">Time entries in Dynamics 365 Project Operations allow cost and sales prices to be calculated as tasks progress.</span></span> <span data-ttu-id="7a1ab-107">ये प्रविष्टियां परियोजना प्रबंधक को परियोजनाओं और कार्यों में सबसे ऊपर रहने में मदद करती हैं।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-107">These entries help the Project manager keep on top of projects and tasks.</span></span> <span data-ttu-id="7a1ab-108">समय प्रविष्टियां संसाधन प्रबंधकों को किसी संभावित अवकाश या अनुपस्थिति के बारे में भी सूचित करती हैं, जो शेड्यूल बोर्ड पर **आउट** के रूप में दिखाई देते हैं। ये सूचनाएं संसाधन प्रबंधकों को उन घटनाओं के आसपास योजना बनाने की अनुमति देती हैं।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-108">Time entries also notify Resource managers of any potential vacation or absences that appear on the schedule board as **Out**. These notifications allow the Resource managers to plan around those events.</span></span>
 
-परियोजना संचालन में समय रिकॉर्ड करते समय, उपयोगकर्ता परियोजना में किसी भी स्तर के खिलाफ ट्रैक कर सकते हैं। इसमें कार्य, सारांश या परियोजना स्तर शामिल हैं।
+<span data-ttu-id="7a1ab-109">परियोजना संचालन में समय रिकॉर्ड करते समय, उपयोगकर्ता परियोजना में किसी भी स्तर के खिलाफ ट्रैक कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-109">When recording time in Project Operations, users can track against any level in the project.</span></span> <span data-ttu-id="7a1ab-110">इसमें कार्य, सारांश या परियोजना स्तर शामिल हैं।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-110">This includes the task, summary, or project level.</span></span>
 
-परियोजना टीम के सदस्य स्वीकृति के लिए समय प्रविष्टियां बनाते हैं और सबमिट करते हैं और परियोजना अनुमोदक प्रविष्टियों को मंजूरी देते हैं। परियोजना टीम सदस्य सुधारों के लिए समय प्रविष्टि को रिकॉल कर सकते हैं।
+<span data-ttu-id="7a1ab-111">परियोजना टीम के सदस्य स्वीकृति के लिए समय प्रविष्टियां बनाते हैं और सबमिट करते हैं और परियोजना अनुमोदक प्रविष्टियों को मंजूरी देते हैं।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-111">Project team members create and submit time entries for approval and the Project Approvers approve the entries.</span></span> <span data-ttu-id="7a1ab-112">परियोजना टीम सदस्य सुधारों के लिए समय प्रविष्टि को रिकॉल कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="7a1ab-112">The project team member might recall a time entry for corrections.</span></span>
 
-किसी प्रविष्टि को बनाने, सबमिट करने, या रिकॉल करने, और अपनी रिपोर्टिंग को पूरा करने में मदद करने के बारे में जानकारी के लिए, [समय प्रविष्टि उपयोगकर्ता व्यवहार](ui-behavior-time.md).
+<span data-ttu-id="7a1ab-113">किसी प्रविष्टि को बनाने, सबमिट करने, या रिकॉल करने, और अपनी रिपोर्टिंग को पूरा करने में मदद करने के बारे में जानकारी के लिए, [समय प्रविष्टि उपयोगकर्ता व्यवहार](ui-behavior-time.md).</span><span class="sxs-lookup"><span data-stu-id="7a1ab-113">For information about how to create, submit, or recall an entry, and other tools to help complete your reporting, see [Time entry user behavior](ui-behavior-time.md).</span></span>
 

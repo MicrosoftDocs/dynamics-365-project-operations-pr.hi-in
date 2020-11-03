@@ -3,67 +3,67 @@ title: परियोजना-आधारित कोट लाइन मे
 description: यह विषय किसी परियोजना से कोट लाइन तक अनुमान आयात करने के बारे में जानकारी प्रदान करता है.
 author: rumant
 manager: Annbe
-ms.date: 10/01/2020
+ms.date: 10/09/2020
 ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 75511f0d7ef1d2d1b3bf5cc598a8f51d0c553939
-ms.sourcegitcommit: 56c42d7f5995a674426a1c2a81bae897dceb391c
+ms.openlocfilehash: 8c0fe18b33207f73848709b99334f64aadc7867a
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3908205"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077616"
 ---
-# <a name="import-estimates-for-a-project-to-a-project-based-quote-line"></a>परियोजना-आधारित कोट लाइन में किसी परियोजना के लिए अनुमान आयात करें
+# <a name="import-estimates-for-a-project-to-a-project-based-quote-line"></a><span data-ttu-id="c5ef3-103">परियोजना-आधारित कोट लाइन में किसी परियोजना के लिए अनुमान आयात करें</span><span class="sxs-lookup"><span data-stu-id="c5ef3-103">Import estimates for a project to a project-based quote line</span></span>
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+<span data-ttu-id="c5ef3-104">_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_</span><span class="sxs-lookup"><span data-stu-id="c5ef3-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
 
 
-यदि कोई परियोजना पूर्व-बिक्री चरण के दौरान बनाई गई है, तो आप परियोजना से परियोजना-आधारित कोट लाइन में वित्तीय अनुमान आयात करने के लिए चयन कर सकते/सकती हैं.
+<span data-ttu-id="c5ef3-105">यदि कोई परियोजना पूर्व-बिक्री चरण के दौरान बनाई गई है, तो आप परियोजना से परियोजना-आधारित कोट लाइन में वित्तीय अनुमान आयात करने के लिए चयन कर सकते/सकती हैं.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-105">If a project is created during the pre-sales stage, you can select to import the financial estimate from the project to the project-based quote line.</span></span>
 
-1. सुनिश्चित करें कि परियोजना-आधारित कोट लाइन में **परियोजना** फ़ील्ड में परियोजना की जानकारी है.
-2. **कोटेशन लाइन विवरण** टैब पर, **पपरियोजना अनुमान से आयात करें** का चयन करें.
-3. संवाद पृष्ठ खुलने पर, निम्नलिखित सारांश विकल्पों में से एक का चयन करें.
+1. <span data-ttu-id="c5ef3-106">सुनिश्चित करें कि परियोजना-आधारित कोट लाइन में **परियोजना** फ़ील्ड में परियोजना की जानकारी है.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-106">Make sure that the project-based quote line has the project information in the **Project** field.</span></span>
+2. <span data-ttu-id="c5ef3-107">**कोटेशन लाइन विवरण** टैब पर, **पपरियोजना अनुमान से आयात करें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-107">On the **Quote line details** tab, select **Import from Project Estimation**.</span></span>
+3. <span data-ttu-id="c5ef3-108">संवाद पृष्ठ खुलने पर, निम्नलिखित संक्षेपण विकल्पों में से एक का चयन करें:</span><span class="sxs-lookup"><span data-stu-id="c5ef3-108">On the dialog page opens, select one of the following summarization options:</span></span>
 
-  - **लेन-देन वर्ग**
-  - **श्रेणी**
-  - **भूमिका** 
-  - **परियोजना कार्य**
+  - <span data-ttu-id="c5ef3-109">**लेन-देन वर्ग**</span><span class="sxs-lookup"><span data-stu-id="c5ef3-109">**Transaction class**</span></span>
+  - <span data-ttu-id="c5ef3-110">**श्रेणी**</span><span class="sxs-lookup"><span data-stu-id="c5ef3-110">**Category**</span></span>
+  - <span data-ttu-id="c5ef3-111">**भूमिका**</span><span class="sxs-lookup"><span data-stu-id="c5ef3-111">**Role**</span></span> 
+  - <span data-ttu-id="c5ef3-112">**परियोजना कार्य**</span><span class="sxs-lookup"><span data-stu-id="c5ef3-112">**Project task**</span></span>
 
-आपके चयन के आधार पर, इस कोट लाइन पर शामिल सभी लेनदेन वर्गों के लिए परियोजना से अनुमान की नकल की जाती है. यह जांचने के लिए कि कौन सी लेनदेन वर्गें शामिल हैं, परियोजना-आधारित कोट लाइन पर **सामान्य** टैब का चयन करें, और **समय शामिल करें**, **ख़र्च शामिल करें** और **शुल्क शामिल करें** के लिए मानों की जांच करें.
+<span data-ttu-id="c5ef3-113">आपके चयन के आधार पर, इस कोट लाइन पर शामिल सभी लेनदेन वर्गों के लिए परियोजना से अनुमान की नकल की जाती है.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-113">Based on your selection, the estimate from the project for all transaction classes included on this quote line are copied over.</span></span> <span data-ttu-id="c5ef3-114">यह जांचने के लिए कि कौन सी लेनदेन वर्गें शामिल हैं, परियोजना-आधारित कोट लाइन पर **सामान्य** टैब का चयन करें, और **समय शामिल करें** , **ख़र्च शामिल करें** और **शुल्क शामिल करें** के लिए मानों की जांच करें.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-114">To check what transaction classes are included, select the **General** tab on the project-based quote line, and check the values for **Include Time** , **Include Expenses** , and **Include Fees**.</span></span>
 
-जब आप अनुमान आयात करते हैं, तो सिस्टम परियोजना-आधारित कोटेशन लाइन पर स्थापित कोटेशन और बिलिंग के प्रकार से जुड़ी परियोजना मूल्य सूचियों के आधार पर मूल्य निर्धारण को डिफ़ॉल्ट करेगा. यदि परियोजना-आधारित कोट लाइन पर आदेय के रूप में कोई भूमिका या श्रेणी सेट की जाती है, तो आयातित अनुमान रेखा आदेय के रूप में सेट होगी और कोटेशन लाइन के उद्धृत मूल्य में नहीं जुड़ेगी.
+<span data-ttu-id="c5ef3-115">जब आप अनुमान आयात करते हैं, तो सिस्टम कोटेशन से जुड़ी परियोजना मूल्य सूचियों और परियोजना-आधारित कोटेशन लाइन पर सेट बिलिंग के प्रकार के आधार पर डिफ़ॉल्ट मूल्य निर्धारण करेगा.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-115">When you import estimates, the system will default pricing based on the project price lists attached to the quote and the billing type set up on the project-based quote line.</span></span> <span data-ttu-id="c5ef3-116">यदि परियोजना-आधारित कोट लाइन पर आदेय के रूप में कोई भूमिका या श्रेणी सेट की जाती है, तो आयातित अनुमान रेखा आदेय के रूप में सेट होगी और कोटेशन लाइन के उद्धृत मूल्य में नहीं जुड़ेगी.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-116">If a role or category is set up on the project-based quote line as non-chargeable, the imported estimate line will set as non-chargeable and won't add up to the quoted value of quote line.</span></span>
 
-जब एक कोट लाइन में लाइन विवरण होता है, तो कोटेशन लाइन पर **कोटेशन मूल्य** और **अनुमानित कर** फ़ील्डों को संक्षेप में प्रस्तुत किया जाता है और उन्हें संपादित नहीं किया जा सकता है.
+<span data-ttu-id="c5ef3-117">जब एक कोट लाइन में लाइन विवरण होता है, तो कोटेशन लाइन पर **कोटेशन मूल्य** और **अनुमानित कर** फ़ील्डों को संक्षेप में प्रस्तुत किया जाता है और उन्हें संपादित नहीं किया जा सकता है.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-117">When a quote line has line details, the **Quote Value** and the **Estimated Tax** fields on the quote line are summarized and can't be edited.</span></span>
 
-जब कई सारांश विकल्पों का चयन किया जाता है, तो सारांश सभी चयनित विकल्पों द्वारा संक्षेप में प्रस्तुत करने का प्रयास करता है. इसका मतलब यह है कि आयातित कोटेशन लाइन का उत्पादन अधिक होगा यदि आपने केवल एक सारांश विकल्प का चयन किया है.
+<span data-ttu-id="c5ef3-118">जब कई संक्षेपण विकल्पों का चयन किया जाता है, तो सिस्टम सभी चयनित विकल्पों द्वारा संक्षेपित करने का प्रयास करता है.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-118">When multiple summarization options are selected, the system attempts to summarize by all selected options.</span></span> <span data-ttu-id="c5ef3-119">यदि आपने केवल एक संक्षेपण विकल्प का चयन किया है, तो परिणाम यह है कि आयातित कोटेशन लाइनों का आउटपुट अधिक होगा.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-119">The result is that the output of imported quote lines will be more than if you selected only one summarization option.</span></span>
 
-उदाहरण के लिए, यदि परियोजना में खर्चों के लिए निम्नलिखित अनुमान लाइन हैं.
+<span data-ttu-id="c5ef3-120">उदाहरण के लिए, यदि परियोजना में ख़र्चों के लिए निम्नलिखित अनुमान लाइन हैं.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-120">For example, if the project has the following estimate lines for expenses.</span></span>
 
-| कार्य | वर्ग | तिथि | मात्रा | इकाई मूल्य | राशि |
+| <span data-ttu-id="c5ef3-121">कार्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-121">Task</span></span> | <span data-ttu-id="c5ef3-122">वर्ग</span><span class="sxs-lookup"><span data-stu-id="c5ef3-122">Category</span></span> | <span data-ttu-id="c5ef3-123">तिथि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-123">Date</span></span> | <span data-ttu-id="c5ef3-124">मात्रा</span><span class="sxs-lookup"><span data-stu-id="c5ef3-124">Quantity</span></span> | <span data-ttu-id="c5ef3-125">इकाई मूल्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-125">Unit price</span></span> | <span data-ttu-id="c5ef3-126">राशि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-126">Amount</span></span> |
 | --- | --- | --- | --- | --- | --- |
-| कार्य A | विमान किराया | 10/1/2020 | 4 | 400 | 1600 |
-| कार्य बी | होटल | 10/1/2020 | 4 | 200 | 800 |
-| टास्क सी | होटल | 11/1/2020 | 2 | 200 | 400 |
+| <span data-ttu-id="c5ef3-127">कार्य A</span><span class="sxs-lookup"><span data-stu-id="c5ef3-127">Task A</span></span> | <span data-ttu-id="c5ef3-128">विमान किराया</span><span class="sxs-lookup"><span data-stu-id="c5ef3-128">Airfare</span></span> | <span data-ttu-id="c5ef3-129">10/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-129">10/1/2020</span></span> | <span data-ttu-id="c5ef3-130">4</span><span class="sxs-lookup"><span data-stu-id="c5ef3-130">4</span></span> | <span data-ttu-id="c5ef3-131">400</span><span class="sxs-lookup"><span data-stu-id="c5ef3-131">400</span></span> | <span data-ttu-id="c5ef3-132">1600</span><span class="sxs-lookup"><span data-stu-id="c5ef3-132">1600</span></span> |
+| <span data-ttu-id="c5ef3-133">कार्य बी</span><span class="sxs-lookup"><span data-stu-id="c5ef3-133">Task B</span></span> | <span data-ttu-id="c5ef3-134">होटल</span><span class="sxs-lookup"><span data-stu-id="c5ef3-134">Hotel</span></span> | <span data-ttu-id="c5ef3-135">10/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-135">10/1/2020</span></span> | <span data-ttu-id="c5ef3-136">4</span><span class="sxs-lookup"><span data-stu-id="c5ef3-136">4</span></span> | <span data-ttu-id="c5ef3-137">200</span><span class="sxs-lookup"><span data-stu-id="c5ef3-137">200</span></span> | <span data-ttu-id="c5ef3-138">800</span><span class="sxs-lookup"><span data-stu-id="c5ef3-138">800</span></span> |
+| <span data-ttu-id="c5ef3-139">टास्क सी</span><span class="sxs-lookup"><span data-stu-id="c5ef3-139">Task C</span></span> | <span data-ttu-id="c5ef3-140">होटल</span><span class="sxs-lookup"><span data-stu-id="c5ef3-140">Hotel</span></span> | <span data-ttu-id="c5ef3-141">11/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-141">11/1/2020</span></span> | <span data-ttu-id="c5ef3-142">2</span><span class="sxs-lookup"><span data-stu-id="c5ef3-142">2</span></span> | <span data-ttu-id="c5ef3-143">200</span><span class="sxs-lookup"><span data-stu-id="c5ef3-143">200</span></span> | <span data-ttu-id="c5ef3-144">400</span><span class="sxs-lookup"><span data-stu-id="c5ef3-144">400</span></span> |
 
-जब उपयोगकर्ता लेन-देन वर्ग द्वारा संक्षेप में प्रस्तुत करने का चयन करता है, तो निम्नलिखित जानकारी आयात की जाएगी.
+<span data-ttu-id="c5ef3-145">जब उपयोगकर्ता लेन-देन वर्ग द्वारा संक्षेप में प्रस्तुत करने का चयन करता है, तो निम्नलिखित जानकारी आयात की जाएगी.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-145">When the user selects to summarize by Transaction class, the following information will be imported.</span></span>
 
-| कार्य | वर्ग | तिथि | मात्रा | इकाई मूल्य | राशि |
+| <span data-ttu-id="c5ef3-146">कार्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-146">Task</span></span> | <span data-ttu-id="c5ef3-147">वर्ग</span><span class="sxs-lookup"><span data-stu-id="c5ef3-147">Category</span></span> | <span data-ttu-id="c5ef3-148">तिथि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-148">Date</span></span> | <span data-ttu-id="c5ef3-149">मात्रा</span><span class="sxs-lookup"><span data-stu-id="c5ef3-149">Quantity</span></span> | <span data-ttu-id="c5ef3-150">इकाई मूल्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-150">Unit price</span></span> | <span data-ttu-id="c5ef3-151">राशि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-151">Amount</span></span> |
 | --- | --- | --- | --- | --- | --- |
-| | | 10/1/2020 | 3.34 | 840 | 2800 |
+| | | <span data-ttu-id="c5ef3-152">10/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-152">10/1/2020</span></span> | <span data-ttu-id="c5ef3-153">3.34</span><span class="sxs-lookup"><span data-stu-id="c5ef3-153">3.34</span></span> | <span data-ttu-id="c5ef3-154">840</span><span class="sxs-lookup"><span data-stu-id="c5ef3-154">840</span></span> | <span data-ttu-id="c5ef3-155">2800</span><span class="sxs-lookup"><span data-stu-id="c5ef3-155">2800</span></span> |
 
-जब उपयोगकर्ता लेन-देन वर्ग और श्रेणी द्वारा संक्षेप में प्रस्तुत करने का चयन करता है, तो निम्नलिखित जानकारी आयात की जाएगी.
+<span data-ttu-id="c5ef3-156">जब उपयोगकर्ता लेन-देन वर्ग और श्रेणी द्वारा संक्षेप में प्रस्तुत करने का चयन करता है, तो निम्नलिखित जानकारी आयात की जाएगी.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-156">When the user selects to summarize by Transaction class and Category, the following information will be imported.</span></span>
 
-| कार्य | वर्ग | तिथि | मात्रा | इकाई मूल्य | राशि |
+| <span data-ttu-id="c5ef3-157">कार्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-157">Task</span></span> | <span data-ttu-id="c5ef3-158">वर्ग</span><span class="sxs-lookup"><span data-stu-id="c5ef3-158">Category</span></span> | <span data-ttu-id="c5ef3-159">तिथि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-159">Date</span></span> | <span data-ttu-id="c5ef3-160">मात्रा</span><span class="sxs-lookup"><span data-stu-id="c5ef3-160">Quantity</span></span> | <span data-ttu-id="c5ef3-161">इकाई मूल्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-161">Unit price</span></span> | <span data-ttu-id="c5ef3-162">राशि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-162">Amount</span></span> |
 | --- | --- | --- | --- | --- | --- |
-| कार्य A | विमान किराया | 10/1/2020 | 4 | 400 | 1600 |
-| | होटल | 10/1/2020 | 6 | 200 | 1200 |
+| <span data-ttu-id="c5ef3-163">कार्य A</span><span class="sxs-lookup"><span data-stu-id="c5ef3-163">Task A</span></span> | <span data-ttu-id="c5ef3-164">विमान किराया</span><span class="sxs-lookup"><span data-stu-id="c5ef3-164">Airfare</span></span> | <span data-ttu-id="c5ef3-165">10/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-165">10/1/2020</span></span> | <span data-ttu-id="c5ef3-166">4</span><span class="sxs-lookup"><span data-stu-id="c5ef3-166">4</span></span> | <span data-ttu-id="c5ef3-167">400</span><span class="sxs-lookup"><span data-stu-id="c5ef3-167">400</span></span> | <span data-ttu-id="c5ef3-168">1600</span><span class="sxs-lookup"><span data-stu-id="c5ef3-168">1600</span></span> |
+| | <span data-ttu-id="c5ef3-169">होटल</span><span class="sxs-lookup"><span data-stu-id="c5ef3-169">Hotel</span></span> | <span data-ttu-id="c5ef3-170">10/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-170">10/1/2020</span></span> | <span data-ttu-id="c5ef3-171">6</span><span class="sxs-lookup"><span data-stu-id="c5ef3-171">6</span></span> | <span data-ttu-id="c5ef3-172">200</span><span class="sxs-lookup"><span data-stu-id="c5ef3-172">200</span></span> | <span data-ttu-id="c5ef3-173">1200</span><span class="sxs-lookup"><span data-stu-id="c5ef3-173">1200</span></span> |
 
-जब उपयोगकर्ता लेन-देन वर्ग, श्रेणी और लीफ नोड टास्क द्वारा संक्षेप में प्रस्तुत करने का चयन करते/करती हैं, तो निम्नलिखित जानकारी आयात की जाएगी. ध्यान दें कि यह परिणाम वही है जो परियोजना पर था.
+<span data-ttu-id="c5ef3-174">जब उपयोगकर्ता लेन-देन वर्ग, श्रेणी और लीफ नोड टास्क द्वारा संक्षेप में प्रस्तुत करने का चयन करते/करती हैं, तो निम्नलिखित जानकारी आयात की जाएगी.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-174">When the user selects to summarize by Transaction class, Category, and Leaf Node Task, the following information will be imported.</span></span> <span data-ttu-id="c5ef3-175">ध्यान दें कि यह परिणाम वही है जो परियोजना पर था.</span><span class="sxs-lookup"><span data-stu-id="c5ef3-175">Notice that this result is the same as what was on the project.</span></span>
 
-| कार्य | वर्ग | तिथि | मात्रा | इकाई मूल्य | राशि |
+| <span data-ttu-id="c5ef3-176">कार्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-176">Task</span></span> | <span data-ttu-id="c5ef3-177">वर्ग</span><span class="sxs-lookup"><span data-stu-id="c5ef3-177">Category</span></span> | <span data-ttu-id="c5ef3-178">तिथि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-178">Date</span></span> | <span data-ttu-id="c5ef3-179">मात्रा</span><span class="sxs-lookup"><span data-stu-id="c5ef3-179">Quantity</span></span> | <span data-ttu-id="c5ef3-180">इकाई मूल्य</span><span class="sxs-lookup"><span data-stu-id="c5ef3-180">Unit price</span></span> | <span data-ttu-id="c5ef3-181">राशि</span><span class="sxs-lookup"><span data-stu-id="c5ef3-181">Amount</span></span> |
 | --- | --- | --- | --- | --- | --- |
-| कार्य A | विमान किराया | 10/1/2020 | 4 | 400 | 1600 |
-| कार्य बी | होटल | 10/1/2020 | 4 | 200 | 800 |
-| टास्क सी | होटल | 11/1/2020 | 2 | 200 | 400 |
+| <span data-ttu-id="c5ef3-182">कार्य A</span><span class="sxs-lookup"><span data-stu-id="c5ef3-182">Task A</span></span> | <span data-ttu-id="c5ef3-183">विमान किराया</span><span class="sxs-lookup"><span data-stu-id="c5ef3-183">Airfare</span></span> | <span data-ttu-id="c5ef3-184">10/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-184">10/1/2020</span></span> | <span data-ttu-id="c5ef3-185">4</span><span class="sxs-lookup"><span data-stu-id="c5ef3-185">4</span></span> | <span data-ttu-id="c5ef3-186">400</span><span class="sxs-lookup"><span data-stu-id="c5ef3-186">400</span></span> | <span data-ttu-id="c5ef3-187">1600</span><span class="sxs-lookup"><span data-stu-id="c5ef3-187">1600</span></span> |
+| <span data-ttu-id="c5ef3-188">कार्य बी</span><span class="sxs-lookup"><span data-stu-id="c5ef3-188">Task B</span></span> | <span data-ttu-id="c5ef3-189">होटल</span><span class="sxs-lookup"><span data-stu-id="c5ef3-189">Hotel</span></span> | <span data-ttu-id="c5ef3-190">10/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-190">10/1/2020</span></span> | <span data-ttu-id="c5ef3-191">4</span><span class="sxs-lookup"><span data-stu-id="c5ef3-191">4</span></span> | <span data-ttu-id="c5ef3-192">200</span><span class="sxs-lookup"><span data-stu-id="c5ef3-192">200</span></span> | <span data-ttu-id="c5ef3-193">800</span><span class="sxs-lookup"><span data-stu-id="c5ef3-193">800</span></span> |
+| <span data-ttu-id="c5ef3-194">टास्क सी</span><span class="sxs-lookup"><span data-stu-id="c5ef3-194">Task C</span></span> | <span data-ttu-id="c5ef3-195">होटल</span><span class="sxs-lookup"><span data-stu-id="c5ef3-195">Hotel</span></span> | <span data-ttu-id="c5ef3-196">11/1/2020</span><span class="sxs-lookup"><span data-stu-id="c5ef3-196">11/1/2020</span></span> | <span data-ttu-id="c5ef3-197">2</span><span class="sxs-lookup"><span data-stu-id="c5ef3-197">2</span></span> | <span data-ttu-id="c5ef3-198">200</span><span class="sxs-lookup"><span data-stu-id="c5ef3-198">200</span></span> | <span data-ttu-id="c5ef3-199">400</span><span class="sxs-lookup"><span data-stu-id="c5ef3-199">400</span></span> |

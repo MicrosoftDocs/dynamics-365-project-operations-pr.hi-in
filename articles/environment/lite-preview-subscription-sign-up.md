@@ -3,122 +3,91 @@ title: पूर्वावलोकन सदस्यता के लिए 
 description: यह विषय Project Operations लाइट नियोजन की सदस्यता लेने और प्रतिनियुक्त करने के तरीके के बारे में जानकारी प्रदान करता है - प्रोफार्मा इuवॉयसिंग के लिए समझौता.
 author: sigitac
 manager: Annbe
-ms.date: 10/02/2020
+ms.date: 10/07/2020
 ms.topic: article
 ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: a9c1432e8971eeb7918e23e00be9989294335f49
-ms.sourcegitcommit: b9d8bf00239815f31686e9b28998ac684fd2fca4
+ms.openlocfilehash: 5342466f308ab62a9f73a85fbd838d7c33bb1f47
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "3948899"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077563"
 ---
-# <a name="sign-up-for-a-preview-subscription-for-lite-deployment--deal-to-proforma-invoicing"></a>लाइट नियोजन के लिए पूर्वावलोकन सदस्यता के लिए साइन अप करें - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता
+# <a name="sign-up-for-a-preview-subscription-for-lite-deployment--deal-to-proforma-invoicing"></a><span data-ttu-id="74bed-103">लाइट नियोजन के लिए पूर्वावलोकन सदस्यता के लिए साइन अप करें - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता</span><span class="sxs-lookup"><span data-stu-id="74bed-103">Sign up for a preview subscription for lite deployment – deal to proforma invoicing</span></span>
 
-यह विषय बताता है कि पूर्वावलोकन साझेदार की पेशकश की सदस्यता कैसे लें और Dynamics 365 Project Operations लाइट नियोजन को कैसे नियोजित करें - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता.
-
-> [!NOTE]
-> यह प्रक्रिया Project Operations की आगामी रिलीज में बदल जाएगी.
-
-## <a name="prerequisites"></a>पूर्वावश्यकताएँ
-
-- आपको पूर्वावलोकन में भाग लेने के लिए आमंत्रित करने वाला ईमेल प्राप्त होगा. आप [Project Operations वेबसाइट](https://dynamics.microsoft.com/en-us/project-operations/overview/)पर एक पूर्वावलोकन का अनुरोध कर सकते हैं.
-- पूर्वावलोकन नियोजित करने वाले उपयोगकर्ता के पास Azure टेनेंट वैश्विक प्रशासक अधिकार होना चाहिए.
-- पूर्वावलोकन नियोजित करने वाले उपयोगकर्ता को एक फोन नंबर और एक वैध क्रेडिट कार्ड की आवश्यकता होगी. साइन अप के दौरान छह महीने तक कार्ड पर कोई शुल्क नहीं लगेगा. छह महीने के बाद, आपको सदस्यता रद्द करने की आवश्यकता है. 
-- सभी नियमों और शर्तों की समीक्षा करें.
-
-## <a name="subscribe"></a>सदस्यता लें
-
-जब आपको [पूर्वावलोकन अनुरोध](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) की मंजूरी मिलती है, तो आपको ईमेल द्वारा माइक्रोसॉफ्ट से दो ऑफर मिलेंगे. ये ऑफ़र आपको Project Operations के पूर्वावलोकन को नियोजित करने की अनुमति देते हैं:
-
-- Dynamics 365 Customer Service पूर्वावलोकन का प्रयत्न - सिंगल यूज कोड
-- Dynamics 365 Project Operations - पूर्वावलोकन परीक्षण
-
-### <a name="dynamics-365-customer-service-paid-offer"></a>Dynamics 365 Customer Service भुगतान प्रस्ताव
-
-1. एक InPrivate/Incognito विंडो का उपयोग कर के, Dynamics 365 Customer Service के लिए पहला प्रस्ताव कोड रिडीम करें. ग्राहक सेवा के लिए साइन अप करने में, आपको आवश्यकता होगी:
-
-- एक फोन नंबर
-- एक क्रेडिट कार्ड. जब आप साइन अप करते हैं, तो छह महीने तक कार्ड पर कोई शुल्क नहीं लगेगा. छह महीने के बाद, आपको सदस्यता रद्द करने की आवश्यकता है.
-- सभी नियमों और शर्तों की समीक्षा करें.
-
-2. अपनी संपर्क जानकारी प्रदान करें.
-
-![संपर्क जानकारी](./media/1ContactInformation.png)
-
-3. नया किरायेदार विवरण प्रदान करें.
-
-![यूजर ID बनाएं](./media/2CreateUserID.png)
-
-4. अपनी पहचान सत्यापित करें, अपनी नई उपयोगकर्ता ID सहेजें, और फिर **सेट अप**का चयन करें.
-
-![जानकारी सहेजें](./media/3SaveInfo.png)
-
-5. क्रेडिट कार्ड साइनअप पूरा करें और सभी नियमों और शर्तों की समीक्षा करें. 
-
-![पूरा क्रेडिट कार्ड](./media/4CompleteCreditCard.png)
-
-![क्रेडिट कार्ड चेकआउट](./media/5CreditCardCheckout.png)
-
-![ऑर्डर सहेजें](./media/6SaveOrder.png)
-
-![क्रेडिट कार्ड की पुष्टि](./media/7Confirmation.png)
-
-## <a name="cancel-the-dynamics-365-customer-service-enterprise-offer"></a>Dynamics 365 Customer Service उद्यम प्रस्ताव रद्द करें
-
-Dynamics 365 Customer Service उद्यम प्रस्ताव छह महीने के लिए मुफ्त में प्रदान किया जाता है. यह ऑफर छह महीने की अवधि के अंत में पूरी दर से नवीनीकृत होगा . नवीनीकरण की तिथि से पहले रद्द करने के लिए, निम्नलिखित निर्देशों को पूरा करें. 
+<span data-ttu-id="74bed-104">यह विषय बताता है कि पूर्वावलोकन साझेदार की पेशकश की सदस्यता कैसे लें और Dynamics 365 Project Operations लाइट नियोजन को कैसे नियोजित करें - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता.</span><span class="sxs-lookup"><span data-stu-id="74bed-104">This topic explains how to subscribe to the preview partner offer and deploy Dynamics 365 Project Operations lite deployment - deal to proforma invoicing.</span></span>
 
 > [!NOTE]
-> इन चरणों को पूरा करने के बाद, अब आप Project Operations सार्वजनिक पूर्वावलोकन परिवेश का उपयोग करने में सक्षम नहीं होंगे.
+> <span data-ttu-id="74bed-105">यह प्रक्रिया Project Operations की आगामी रिलीज में बदल जाएगी.</span><span class="sxs-lookup"><span data-stu-id="74bed-105">This process will change in upcoming releases of Project Operations.</span></span>
 
-1. [व्यवस्थापक पोर्टल](https://admin.microsoft.com/), जाएं, और **बिलिंग**, के तहत, **अपने उत्पादों का चयन करें**.
+## <a name="prerequisites"></a><span data-ttu-id="74bed-106">पूर्वावश्यकताएँ</span><span class="sxs-lookup"><span data-stu-id="74bed-106">Prerequisites</span></span>
 
-![व्यवस्थापन पोर्टल, आपके उत्पाद पृष्ठ](./media/8AdminPortal.png)
+- <span data-ttu-id="74bed-107">आपको पूर्वावलोकन में भाग लेने के लिए आमंत्रित करने वाला ईमेल प्राप्त होगा.</span><span class="sxs-lookup"><span data-stu-id="74bed-107">You'll receive an email inviting you to participate in the preview.</span></span> <span data-ttu-id="74bed-108">आप [Project Operations वेबसाइट](https://dynamics.microsoft.com/en-us/project-operations/overview/)पर एक पूर्वावलोकन का अनुरोध कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="74bed-108">You can request a preview on the [Project Operations website](https://dynamics.microsoft.com/en-us/project-operations/overview/).</span></span>
+- <span data-ttu-id="74bed-109">पूर्वावलोकन नियोजित करने वाले उपयोगकर्ता के पास Azure टेनेंट वैश्विक प्रशासक अधिकार होना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="74bed-109">The user who deploys the preview must have Azure tenant global administrator rights.</span></span>
+- <span data-ttu-id="74bed-110">सभी नियमों और शर्तों की समीक्षा करें.</span><span class="sxs-lookup"><span data-stu-id="74bed-110">Review all terms and conditions.</span></span>
 
-2. **Dynamics 365 Customer Service उद्यम प्रस्ताव** का चयन करें.
+## <a name="subscribe"></a><span data-ttu-id="74bed-111">सदस्यता लें</span><span class="sxs-lookup"><span data-stu-id="74bed-111">Subscribe</span></span>
 
-![सदस्यता रद्द करें](./media/9CancelSubscription.png)
+<span data-ttu-id="74bed-112">जब आपको [पूर्वावलोकन अनुरोध](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) की मंजूरी मिलती है, तो आपको ईमेल द्वारा Microsoft से दो ऑफर मिलेंगे.</span><span class="sxs-lookup"><span data-stu-id="74bed-112">When you receive a [preview request](https://forms.office.com/FormsPro/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR56j8lZs0FdAvwT75_WNFyxUMkRDV1NYQU5TNjE2VjhKOVBUNVg2R0s1NC4u) approval, you'll receive two offers from Microsoft by email.</span></span> <span data-ttu-id="74bed-113">ये ऑफ़र आपको Project Operations के पूर्वावलोकन को नियोजित करने की अनुमति देते हैं:</span><span class="sxs-lookup"><span data-stu-id="74bed-113">These offers allow you to deploy the Project Operations Preview:</span></span>
 
-3. **सेटिंग** > **कार्यकलाप** > **सदस्यता रद्द करें**का चयन करें.
-4. **सदस्यता रद्द करें** प्रपत्र पर, आवश्यक फ़ील्ड में जानकारी दर्ज करें.
-5. **रद्द करें** > **सदस्यता** का चयन करें.
-
-### <a name="dynamics-365-project-operations--preview-trial"></a>Dynamics 365 Project Operations - पूर्वावलोकन परीक्षण
-
-1. अपने स्वागत ईमेल में प्रदान किए गए URL के साथ दूसरा प्रस्ताव, Dynamics 365 Project Operations प्रयत्न को रिडीम करें.
-
-![ऑफ़र 2 रीडीम करें](./media/10RedeemOffer2.png)
-
-2. सत्यापित करें कि आप उस उपयोगकर्ता के रूप में लॉग इन कर रहे हैं जो उसी संगठन से संबंधित है जिसे पहले ऑफ़र कोड का उपयोग करके समर्थित किया गया था और फिर प्रस्ताव को रिडीम करने के साथ आगे बढ़ना था. 
-3. **हां, इसे मेरे खाते में जोड़ें**चुनें.
-
-![खाते में जोड़ें](./media/11AddToAccount.png)
-
-![अब स्क्रीन की कोशिश करो](./media/12TryNow.png)
-
-![ऑर्डर विवरण](./media/13Confirmation.png)
-
-## <a name="assign-licenses"></a>लाइसेंस असाइन करें
+- <span data-ttu-id="74bed-114">Dynamics 365 Project Operations (CRM) - पूर्वावलोकन परीक्षण</span><span class="sxs-lookup"><span data-stu-id="74bed-114">Dynamics 365 Project Operations (CRM) - Preview Trial</span></span>
+- <span data-ttu-id="74bed-115">Office 365 Office 365 Project Operations - पूर्वावलोकन परीक्षण</span><span class="sxs-lookup"><span data-stu-id="74bed-115">Office 365 Project Operations - Preview Trial</span></span>
 
 > [!IMPORTANT]
-> निम्नलिखित चरणों को पूरा करने के लिए आपको अपने संगठन के Office 365 पोर्टल तक प्रशासनिक पहुंच की आवश्यकता होगी.
+> <span data-ttu-id="74bed-116">एक संगठन में केवल एक व्यक्ति, टेनेंट व्यवस्थापक को इस कार्य को करने की आवश्यकता है।</span><span class="sxs-lookup"><span data-stu-id="74bed-116">Only one person, the tenant administrator, in an organization needs to perform this task.</span></span> <span data-ttu-id="74bed-117">यदि आप इस रिलीज़ के सदस्य नहीं हैं, तो तब तक इंतजार करें जब तक कि आपके संगठन द्वारा साइन अप नहीं किया जाता है और आपको अपना उपयोगकर्ता क्रेडेंशियल प्राप्त न हो जाए।</span><span class="sxs-lookup"><span data-stu-id="74bed-117">If you aren't the subscriber to this release, wait until your organization has been signed up and you've received your user credentials.</span></span>
 
-1. अपने उपयोगकर्ताओं को लाइसेंस आवंटित करने के लिए [Microsoft 365 व्यवस्थापक केंद्र](https://portal.office.com/) पर जाएं.
+### <a name="dynamics-365-project-operations-crm---preview-trial"></a><span data-ttu-id="74bed-118">Dynamics 365 Project Operations (CRM) - पूर्वावलोकन परीक्षण</span><span class="sxs-lookup"><span data-stu-id="74bed-118">Dynamics 365 Project Operations (CRM) - Preview Trial</span></span> 
+
+<span data-ttu-id="74bed-119">शुरू करने से पहले, सुनिश्चित करें कि आप टेनेंट में उपयोगकर्ता वर्क अकाउंट के साथ ब्राउज़र में लॉग इन कर रहे हैं जहां आप Project Operations का पूर्वावलोकन चाहते हैं.</span><span class="sxs-lookup"><span data-stu-id="74bed-119">Before you begin, make sure you are logged in to a browser with the user work account in the tenant where you want the Project Operations preview.</span></span>
+
+1. <span data-ttu-id="74bed-120">**Dynamics 365 Project Operations (CRM) - पूर्वावलोकन परीक्षण** को ब्राउजर URL में चिपकाकर, पहला ऑफर कोड रिडीम करें.</span><span class="sxs-lookup"><span data-stu-id="74bed-120">Redeem the first offer code, **Dynamics 365 Project Operations (CRM) - Preview Trial** by pasting it into the browser URL.</span></span>
+
+![ऑफ़र रीडीम करें](./media/16RedeemFirstOfferNew.png)
+
+2. <span data-ttu-id="74bed-122">ऑर्डर की पुष्टि करें.</span><span class="sxs-lookup"><span data-stu-id="74bed-122">Confirm your order.</span></span>
+<span data-ttu-id="74bed-123">![आदेश की पुष्टि करें](./media/17ConfirmOrderNew.png)</span><span class="sxs-lookup"><span data-stu-id="74bed-123">![Confirm the order](./media/17ConfirmOrderNew.png)</span></span>
+
+<span data-ttu-id="74bed-124">आप देखेंगे कि पुष्टि प्रस्ताव को सफलतापूर्वक रिडीम किया गया था.</span><span class="sxs-lookup"><span data-stu-id="74bed-124">You'll see confirmation offer was successfully redeemed.</span></span>
+
+![पुष्टि](./media/18OrderConfirmationNew.png)
+
+### <a name="office-365-project-operations---preview-trial"></a><span data-ttu-id="74bed-126">Office 365 Office 365 Project Operations - पूर्वावलोकन परीक्षण</span><span class="sxs-lookup"><span data-stu-id="74bed-126">Office 365 Project Operations - Preview Trial</span></span>
+
+<span data-ttu-id="74bed-127">जैसा पहले ऑफ़र कोड के साथ किया गया था वैसा ही समान चरण दोहराएं.</span><span class="sxs-lookup"><span data-stu-id="74bed-127">Repeat the same steps as with the first offer code.</span></span> <span data-ttu-id="74bed-128">उसी उपयोगकर्ता अकाउंट का उपयोग करके दूसरा ऑफ़र कोड जोड़ना सुनिश्चित करें जिसका उपयोग पहले ऑफ़र कोड के साथ किया गया था.</span><span class="sxs-lookup"><span data-stu-id="74bed-128">Make sure to add the second offer code using the same user account that was used with the first offer code.</span></span>
+
+## <a name="assign-licenses"></a><span data-ttu-id="74bed-129">लाइसेंस असाइन करें</span><span class="sxs-lookup"><span data-stu-id="74bed-129">Assign licenses</span></span>
+
+> [!IMPORTANT]
+> <span data-ttu-id="74bed-130">निम्नलिखित चरणों को पूरा करने के लिए आपको अपने संगठन के Microsoft 365 पोर्टल तक प्रशासनिक पहुंच की आवश्यकता होगी.</span><span class="sxs-lookup"><span data-stu-id="74bed-130">You will need administrative access to your organization's Microsoft 365 Portal to complete the following steps.</span></span>
+
+
+1. <span data-ttu-id="74bed-131">अपने उपयोगकर्ताओं को लाइसेंस आवंटित करने के लिए [Microsoft 365 व्यवस्थापक केंद्र](https://portal.office.com/) पर जाएं.</span><span class="sxs-lookup"><span data-stu-id="74bed-131">Go to [Microsoft 365 admin center](https://portal.office.com/) to assign the licenses to your users.</span></span>
 
 ![व्यवस्थापन केंद्र मुख पृष्ठ](./media/14AdminPortal.png)
 
-2. **सक्रिय उपयोगकर्ता** पृष्ठ पर उन उपयोगकर्ताओं का चयन करें, जिन्हें आप लाइसेंस देना चाहते हैं.
+2. <span data-ttu-id="74bed-133">**सक्रिय उपयोगकर्ता** पृष्ठ पर उन उपयोगकर्ताओं का चयन करें, जिन्हें आप लाइसेंस देना चाहते हैं.</span><span class="sxs-lookup"><span data-stu-id="74bed-133">On the **Active users** page, select the users that you want to assign a license to.</span></span>
 
 ![लाइसेंस असाइन करें](./media/15AssignLicenses.png)
 
-3. सत्यापित करें कि **Customer Service एंटरप्राइज़** और **परियोजना संचालन** लाइसेंस का चयन किया गया है और **परिवर्तन सहेजें** का चयन करें.
+3. <span data-ttu-id="74bed-135">सत्यापित करें कि **Dynamics 365 Project Operations (CRM) पूर्वावलोकन** और **Office 365 Office 365 Project Operations - पूर्वावलोकन** लाइसेंस चुने गए हैं.</span><span class="sxs-lookup"><span data-stu-id="74bed-135">Verify that the **Dynamics 365 Project Operations (CRM) Preview** and **Office 365 Project Operations - Preview** licenses are selected.</span></span> 
+4. <span data-ttu-id="74bed-136">**परिवर्तन सहेजे** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="74bed-136">Select **Save changes**.</span></span>
 
-## <a name="create-a-new-cds-environment"></a>कोई नया CDS परिवेश बनाएँ
+## <a name="create-a-new-cds-environment"></a><span data-ttu-id="74bed-137">कोई नया CDS परिवेश बनाएँ</span><span class="sxs-lookup"><span data-stu-id="74bed-137">Create a new CDS environment</span></span>
 
-विषय में निर्देशों का पालन करके एक नई Project Operations CDS नियोजन परिवेश का प्रावधान, [CDS नियोजन मॉडल](lite-deployment.md).
+1. <span data-ttu-id="74bed-138">विषय में निर्देशों का पालन करके एक नई Project Operations CDS नियोजन परिवेश का प्रावधान, [CDS नियोजन मॉडल](lite-deployment.md).</span><span class="sxs-lookup"><span data-stu-id="74bed-138">Provision a new Project Operations CDS deployment environment by following instructions in the topic, [CDS deployment model](lite-deployment.md).</span></span> <span data-ttu-id="74bed-139">जब आप परिवेश के प्रकार का चयन करते हैं, तो **परीक्षण (सदस्यता आधारित)** का उपयोग करना सुनिश्चित करें.</span><span class="sxs-lookup"><span data-stu-id="74bed-139">When you select the environment type, make sure to use **Trial (Subscription based)**.</span></span>
+<span data-ttu-id="74bed-140">![नया वातावरण](./media/19CreateEnvironment.png)</span><span class="sxs-lookup"><span data-stu-id="74bed-140">![New environment](./media/19CreateEnvironment.png)</span></span>
 
-## <a name="install-a-cds-configuration-and-setup-demo-data"></a>एक CDS कॉन्फ़िगरेशन इंस्टॉल करें और डेमो डेटा सेट करें
+2. <span data-ttu-id="74bed-141">**Dynamics 365 अनुप्रयोगों को सक्षम करें** सेटिंग का चयन करें, और **इन अनुप्रयोगों को स्वचालित रूप से नियोजित करें** को खाली छोड़ दें.</span><span class="sxs-lookup"><span data-stu-id="74bed-141">Select the **Enable Dynamics 365 apps** setting, and leave **Automatically deploy these apps** blank.</span></span>  
+3. <span data-ttu-id="74bed-142">परिवेश बनाने के लिए **सहेजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="74bed-142">Select **Save** to create the environment.</span></span>
 
-CDS कॉन्फ़िगरेशन इंस्टॉल करें और विषय में निर्देशों का पालन करके डेमो डेटा सेट करें, [डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें](lite-apply-demo-setup-config-data.md).
+![डेटाबेस जोड़ें](./media/20CreateEnvironment1.png)
+
+4. <span data-ttu-id="74bed-144">परिवेश बनने के बाद, **Microsoft Dynamics 365 Project Operations** समाधान इस्टॉल करें.</span><span class="sxs-lookup"><span data-stu-id="74bed-144">After the environment is created, install **Microsoft Dynamics 365 Project Operations** solution.</span></span> 
+
+![समाधान इस्टॉल करें](./media/21InstallSolution.png)
+
+## <a name="install-a-cds-configuration-and-setup-demo-data"></a><span data-ttu-id="74bed-146">एक CDS कॉन्फ़िगरेशन इंस्टॉल करें और डेमो डेटा सेट करें</span><span class="sxs-lookup"><span data-stu-id="74bed-146">Install a CDS configuration and setup demo data</span></span>
+
+<span data-ttu-id="74bed-147">CDS कॉन्फ़िगरेशन इंस्टॉल करें और विषय में निर्देशों का पालन करके डेमो डेटा सेट करें, [डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें](lite-apply-demo-setup-config-data.md).</span><span class="sxs-lookup"><span data-stu-id="74bed-147">Install the CDS configuration and set up demo data by following instructions in the topic, [Apply demo setup and configuration data](lite-apply-demo-setup-config-data.md).</span></span>

@@ -9,37 +9,37 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
 ms.openlocfilehash: 4c814754e68b3a1a8bf8784434d45010bf8d0123
-ms.sourcegitcommit: 56c42d7f5995a674426a1c2a81bae897dceb391c
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3908199"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077617"
 ---
-# <a name="skills-and-certifications"></a>कौशल और प्रमाणन
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+# <a name="skills-and-certifications"></a><span data-ttu-id="cd892-103">कौशल और प्रमाणन</span><span class="sxs-lookup"><span data-stu-id="cd892-103">Skills and certifications</span></span>
+<span data-ttu-id="cd892-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="cd892-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-किसी संसाधन की क्षमताओं का वर्णन करने के लिए उपयोग किए जाने वाले गुणों को समृद्ध करने के लिए विशेषताओं का उपयोग किया जाता है। किसी संसाधन की प्रत्येक विशेषता कोहै **कौशल** या **प्रमाणन**के रूप में वर्णित किया जा सकता है।
+<span data-ttu-id="cd892-105">किसी संसाधन की क्षमताओं का वर्णन करने के लिए उपयोग किए जाने वाले गुणों को समृद्ध करने के लिए विशेषताओं का उपयोग किया जाता है।</span><span class="sxs-lookup"><span data-stu-id="cd892-105">Characteristics are used to enrich the attributes used to describe the abilities of a resource.</span></span> <span data-ttu-id="cd892-106">किसी संसाधन की प्रत्येक विशेषता कोहै **कौशल** या **प्रमाणन** के रूप में वर्णित किया जा सकता है।</span><span class="sxs-lookup"><span data-stu-id="cd892-106">Each characteristic of a resource can be described as a **Skill** or a **Certification**.</span></span>
 
-संसाधन आवश्यकताओं में विशेषताओं को जोड़ना आपको किसी परियोजना पर कार्यों को पूरा करने के लिए संसाधन द्वारा आवश्यक ज्ञान या विशेषज्ञता को दर्ज करने देता है। विशेषताएं आपको उन संसाधनों के लिए उपलब्ध संसाधनों की सूची को फ़िल्टर करने देती हैं जिनके पास संसाधन की आवश्यकता को निर्धारित करते समय आवश्यक विशेषताएं हैं।
+<span data-ttu-id="cd892-107">संसाधन आवश्यकताओं में विशेषताओं को जोड़ना आपको किसी परियोजना पर कार्यों को पूरा करने के लिए संसाधन द्वारा आवश्यक ज्ञान या विशेषज्ञता को दर्ज करने देता है।</span><span class="sxs-lookup"><span data-stu-id="cd892-107">Adding characteristics to resource requirements lets you document the knowledge or expertise needed by a resource to complete tasks on a project.</span></span> <span data-ttu-id="cd892-108">विशेषताएं आपको उन संसाधनों के लिए उपलब्ध संसाधनों की सूची को फ़िल्टर करने देती हैं जिनके पास संसाधन की आवश्यकता को निर्धारित करते समय आवश्यक विशेषताएं हैं।</span><span class="sxs-lookup"><span data-stu-id="cd892-108">Characteristics let you filter the list of available resources to those resources that have the required characteristics when scheduling the resource requirement.</span></span>
 
-## <a name="add-characteristics"></a>विशेषताएँ जोड़ें
+## <a name="add-characteristics"></a><span data-ttu-id="cd892-109">विशेषताएँ जोड़ें</span><span class="sxs-lookup"><span data-stu-id="cd892-109">Add characteristics</span></span>
 
-1. मुख्य मेनू से, **संसाधन** खोलें और **संसाधन** अनुभाग में, **कौशल**चुनें।
-2. विशेषताएँ जोड़ने के लिए, **नई** चुनें.
-3. आवश्यक फ़ील्ड भरें और **विशेषता प्रकार** का चयन करें.
+1. <span data-ttu-id="cd892-110">मुख्य मेनू से, **संसाधन** खोलें और **संसाधन** अनुभाग में, **कौशल** चुनें।</span><span class="sxs-lookup"><span data-stu-id="cd892-110">From the main menu, open **Resources** and in the **Resources** section, select **Skills**.</span></span>
+2. <span data-ttu-id="cd892-111">विशेषताएँ जोड़ने के लिए, **नई** चुनें.</span><span class="sxs-lookup"><span data-stu-id="cd892-111">Select **New** to add characteristics.</span></span>
+3. <span data-ttu-id="cd892-112">आवश्यक फ़ील्ड भरें और **विशेषता प्रकार** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="cd892-112">Fill in the required fields and select the **Characteristic Type**.</span></span>
 
-## <a name="assign-characteristics-to-resources"></a>संसाधनों को विशेषताएँ असाइन करें
+## <a name="assign-characteristics-to-resources"></a><span data-ttu-id="cd892-113">संसाधनों को विशेषताएँ असाइन करें</span><span class="sxs-lookup"><span data-stu-id="cd892-113">Assign characteristics to resources</span></span>
 
-1. मुख्य मेनू से, **संसाधन** > **बुक करने योग्य संसाधन** चुनें. **सक्रिय बुक करने योग्य संसाधन** पृष्ठ खुलता है और आप सिस्टम में सभी उपलब्ध संसाधनों की सूची देख सकते हैं।
-2. सूची से, बुक करने योग्य संसाधन का नाम चुनें।
-3. **परियोजना सेवा** सेक्शन में, **+बुक करने योग्य संसाधन विशेषता रिकॉर्ड जोड़ें** चुनें.
-4. खुलने वाली पॉप-अप विंडो में, आवश्यक विशेषताओं को ढूंढें और चुनें और संसाधन के लिए **रेटिंग मान** जोड़ें।
-5. **सहेजें और बंद करें** का चयन करें.
+1. <span data-ttu-id="cd892-114">मुख्य मेनू से, **संसाधन** > **बुक करने योग्य संसाधन** चुनें.</span><span class="sxs-lookup"><span data-stu-id="cd892-114">From the main menu, select **Resources** > **Bookable Resources**.</span></span> <span data-ttu-id="cd892-115">**सक्रिय बुक करने योग्य संसाधन** पृष्ठ खुलता है और आप सिस्टम में सभी उपलब्ध संसाधनों की सूची देख सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="cd892-115">The **Active Bookable Resources** page opens and you can view a list of all available resources in the system.</span></span>
+2. <span data-ttu-id="cd892-116">सूची से, बुक करने योग्य संसाधन का नाम चुनें।</span><span class="sxs-lookup"><span data-stu-id="cd892-116">From the list, select the name of a bookable resource.</span></span>
+3. <span data-ttu-id="cd892-117">**परियोजना सेवा** सेक्शन में, **+बुक करने योग्य संसाधन विशेषता रिकॉर्ड जोड़ें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="cd892-117">In the **Project Service** section, select **+Add Bookable Resource Characteristics record**.</span></span>
+4. <span data-ttu-id="cd892-118">खुलने वाली पॉप-अप विंडो में, आवश्यक विशेषताओं को ढूंढें और चुनें और संसाधन के लिए **रेटिंग मान** जोड़ें।</span><span class="sxs-lookup"><span data-stu-id="cd892-118">In the pop-up window that opens, find and select the required characteristics, and add a **Rating Value** for the resource.</span></span>
+5. <span data-ttu-id="cd892-119">**सहेजें और बंद करें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="cd892-119">Select **Save & Close**.</span></span>
 
-## <a name="assign-characteristics-to-resource-requirements"></a>संसाधन आवश्यकताओं को विशेषताएँ असाइन करें
+## <a name="assign-characteristics-to-resource-requirements"></a><span data-ttu-id="cd892-120">संसाधन आवश्यकताओं को विशेषताएँ असाइन करें</span><span class="sxs-lookup"><span data-stu-id="cd892-120">Assign characteristics to resource requirements</span></span>
 
-1. टीम सदस्य ग्रिड में, जेनेरिक टीम सदस्य को उन विशेषताओं के साथ खोजें जिन्हें अपडेट करने की आवश्यकता है और डबल-क्लिक करें.
-2. **परियोजना टीम सदस्य विवरण** में, **संसाधन आवश्यकता** टैब चुनें.
-3. **कौशल** सबग्रिड में, **+नई आवश्यकता जोड़ें विशेषता** चुनें.
-4. त्वरित बनाएं फलक में, आवश्यक विशेषताओं को ढूंढें और चुनें और **रेटिंग मान** जोड़ें.
-5. **सहेजें और बंद करें** का चयन करें.
+1. <span data-ttu-id="cd892-121">टीम सदस्य ग्रिड में, जेनेरिक टीम सदस्य को उन विशेषताओं के साथ खोजें जिन्हें अपडेट करने की आवश्यकता है और डबल-क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="cd892-121">In the team member grid, find and double-click the generic team member with the characteristics that need to be updated.</span></span>
+2. <span data-ttu-id="cd892-122">**परियोजना टीम सदस्य विवरण** में, **संसाधन आवश्यकता** टैब चुनें.</span><span class="sxs-lookup"><span data-stu-id="cd892-122">In the **Project Team member Detail** , select the **Resource Requirement** tab.</span></span>
+3. <span data-ttu-id="cd892-123">**कौशल** सबग्रिड में, **+नई आवश्यकता जोड़ें विशेषता** चुनें.</span><span class="sxs-lookup"><span data-stu-id="cd892-123">In the **Skills** subgrid, select **+Add new Requirement Characteristic.**</span></span>
+4. <span data-ttu-id="cd892-124">त्वरित बनाएं फलक में, आवश्यक विशेषताओं को ढूंढें और चुनें और **रेटिंग मान** जोड़ें.</span><span class="sxs-lookup"><span data-stu-id="cd892-124">In the quick create pane, find and select the required characteristics and add a **Rating Value**.</span></span>
+5. <span data-ttu-id="cd892-125">**सहेजें और बंद करें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="cd892-125">Select **Save & Close**.</span></span>

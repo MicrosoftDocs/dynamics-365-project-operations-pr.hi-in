@@ -9,51 +9,51 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
 ms.openlocfilehash: da551e805f395e466952df1dbb7d193bdddba358
-ms.sourcegitcommit: 56c42d7f5995a674426a1c2a81bae897dceb391c
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3908200"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077556"
 ---
-# <a name="schedule-assistant-overview"></a>शेड्यूल सहायक का अवलोकन
+# <a name="schedule-assistant-overview"></a><span data-ttu-id="61916-103">शेड्यूल सहायक का अवलोकन</span><span class="sxs-lookup"><span data-stu-id="61916-103">Schedule assistant overview</span></span>
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+<span data-ttu-id="61916-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="61916-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-अनुसूची सहायक का उपयोग परियोजना प्रबंधक द्वारा परिभाषित आवश्यकताओं के आधार पर संसाधनों को बुक करने के लिए किया जाता है। अनुसूची सहायक संसाधन खोजने के लिए संसाधन आवश्यकता में दिए गए मापदंडों पर निर्भर करता है। अनुसूची सहायक उन संसाधनों की सिफारिश करता है, जो प्रासंगिक आवश्यकताओं से मेल खाते हैं, जैसे कि टाइम विंडो या ज़रूरी कौशल।
+<span data-ttu-id="61916-105">अनुसूची सहायक का उपयोग परियोजना प्रबंधक द्वारा परिभाषित आवश्यकताओं के आधार पर संसाधनों को बुक करने के लिए किया जाता है।</span><span class="sxs-lookup"><span data-stu-id="61916-105">The Schedule assistant is used to book resources based on requirements defined by the Project manager.</span></span> <span data-ttu-id="61916-106">अनुसूची सहायक संसाधन खोजने के लिए संसाधन आवश्यकता में दिए गए मापदंडों पर निर्भर करता है।</span><span class="sxs-lookup"><span data-stu-id="61916-106">The schedule assistant relies on the parameters provided in the resource requirement to find the resource.</span></span> <span data-ttu-id="61916-107">अनुसूची सहायक उन संसाधनों की सिफारिश करता है, जो प्रासंगिक आवश्यकताओं से मेल खाते हैं, जैसे कि टाइम विंडो या ज़रूरी कौशल।</span><span class="sxs-lookup"><span data-stu-id="61916-107">The Schedule assistant recommends resources that match relevant requirements, like time windows or skills needed.</span></span>
 
-उपयुक्त संसाधनों की पहचान होने के बाद, संसाधन या परियोजना प्रबंधक कार्य के लिए संसाधन बुक कर सकता है।
+<span data-ttu-id="61916-108">उपयुक्त संसाधनों की पहचान होने के बाद, संसाधन या परियोजना प्रबंधक कार्य के लिए संसाधन बुक कर सकता है।</span><span class="sxs-lookup"><span data-stu-id="61916-108">After suitable resources are identified, the Resource or Project manager can book the resource to the work.</span></span>
 
-## <a name="prerequisites"></a>पूर्वावश्यकताएँ
+## <a name="prerequisites"></a><span data-ttu-id="61916-109">पूर्वावश्यकताएँ</span><span class="sxs-lookup"><span data-stu-id="61916-109">Prerequisites</span></span>
 
-अनुसूची सहायक Universal Resource Scheduling समाधान का एक हिस्सा है। यह समाधान Dynamics 365 परियोजना संचालन, Dynamics 365 Field Service, और Dynamics 365 Customer Service के साथ शामिल और स्थापित है.
+<span data-ttu-id="61916-110">अनुसूची सहायक Universal Resource Scheduling समाधान का एक हिस्सा है।</span><span class="sxs-lookup"><span data-stu-id="61916-110">The Schedule assistant is a part of the Universal Resource Scheduling solution.</span></span> <span data-ttu-id="61916-111">यह समाधान Dynamics 365 परियोजना संचालन, Dynamics 365 Field Service, और Dynamics 365 Customer Service के साथ शामिल और स्थापित है.</span><span class="sxs-lookup"><span data-stu-id="61916-111">This solution is included and installed with Dynamics 365 Project Operations, Dynamics 365 Field Service, and Dynamics 365 Customer Service.</span></span>
 
-## <a name="matching-requirements-and-resources"></a>मेल खाती आवश्यकताएँ और संसाधन
+## <a name="matching-requirements-and-resources"></a><span data-ttu-id="61916-112">मेल खाती आवश्यकताएँ और संसाधन</span><span class="sxs-lookup"><span data-stu-id="61916-112">Matching requirements and resources</span></span>
 
-उत्पन्न संसाधन आवश्यकता विवरण पर आधारित है, जैसे कि:
+<span data-ttu-id="61916-113">उत्पन्न संसाधन आवश्यकता विवरण पर आधारित है, जैसे कि:</span><span class="sxs-lookup"><span data-stu-id="61916-113">A generated resource requirement is based on details such as:</span></span>
 
--   विशेषताएं
--   भूमिकाएँ
--   व्यवसाय इकाइयाँ
--   रिसोर्स की प्राथमिकताएं
--   प्रयास कान्टुर
--   समय क्षेत्र
+-   <span data-ttu-id="61916-114">विशेषताएं</span><span class="sxs-lookup"><span data-stu-id="61916-114">Characteristics</span></span>
+-   <span data-ttu-id="61916-115">भूमिकाएँ</span><span class="sxs-lookup"><span data-stu-id="61916-115">Roles</span></span>
+-   <span data-ttu-id="61916-116">व्यवसाय इकाइयाँ</span><span class="sxs-lookup"><span data-stu-id="61916-116">Business units</span></span>
+-   <span data-ttu-id="61916-117">रिसोर्स की प्राथमिकताएं</span><span class="sxs-lookup"><span data-stu-id="61916-117">Resource preferences</span></span>
+-   <span data-ttu-id="61916-118">प्रयास कान्टुर</span><span class="sxs-lookup"><span data-stu-id="61916-118">Effort contours</span></span>
+-   <span data-ttu-id="61916-119">समय क्षेत्र</span><span class="sxs-lookup"><span data-stu-id="61916-119">Time zone</span></span>
 
-अनुसूची सहायक इन विवरणों का उपयोग संसाधनों को फ़िल्टर करने के लिए करता है।
+<span data-ttu-id="61916-120">अनुसूची सहायक इन विवरणों का उपयोग संसाधनों को फ़िल्टर करने के लिए करता है।</span><span class="sxs-lookup"><span data-stu-id="61916-120">The Schedule assistant uses these details to filter resources.</span></span>
 
-## <a name="launch-the-schedule-assistant"></a>शेड्यूल सहायक लॉन्च करें
+## <a name="launch-the-schedule-assistant"></a><span data-ttu-id="61916-121">शेड्यूल सहायक लॉन्च करें</span><span class="sxs-lookup"><span data-stu-id="61916-121">Launch the Schedule assistant</span></span>
 
-अनुसूची सहायक लॉन्च करने के दो तरीके हैं। यदि आप हाइब्रिड मोड का उपयोग कर रहे हैं, तो टीम सदस्य ग्रिड में आप अपूर्ण संसाधन आवश्यकता वाले किसी भी टीम सदस्य को चुन सकते हैं और उसके बाद **बुक**चुनें। यदि आप केंद्रीय मोड का उपयोग कर रहे हैं, तो संसाधन प्रबंधक संसाधन का पता लगाता है और उसे चुनता है।
+<span data-ttu-id="61916-122">अनुसूची सहायक लॉन्च करने के दो तरीके हैं।</span><span class="sxs-lookup"><span data-stu-id="61916-122">There are two ways in which the schedule assistant is launched.</span></span> <span data-ttu-id="61916-123">यदि आप हाइब्रिड मोड का उपयोग कर रहे हैं, तो टीम सदस्य ग्रिड में आप अपूर्ण संसाधन आवश्यकता वाले किसी भी टीम सदस्य को चुन सकते हैं और उसके बाद **बुक** चुनें।</span><span class="sxs-lookup"><span data-stu-id="61916-123">If you're using the hybrid mode, in the team member grid you can select any team member with an unfulfilled resource requirement, and then select **Book**.</span></span> <span data-ttu-id="61916-124">यदि आप केंद्रीय मोड का उपयोग कर रहे हैं, तो संसाधन प्रबंधक संसाधन का पता लगाता है और उसे चुनता है।</span><span class="sxs-lookup"><span data-stu-id="61916-124">If you're using the central mode, the Resource manager finds and selects the resource.</span></span>
 
-## <a name="schedule-assistant-filters"></a>शेड्यूल सहायक फ़िल्टर
+## <a name="schedule-assistant-filters"></a><span data-ttu-id="61916-125">शेड्यूल सहायक फ़िल्टर</span><span class="sxs-lookup"><span data-stu-id="61916-125">Schedule assistant filters</span></span>
 
-अनुसूची सहायक चलने के बाद, आवश्यक संसाधन से मिलने वाले विवरण को बाएं फलक में फ़िल्टर मान के रूप में दिखाया जाता है। अनुसूची की आवश्यकताओं को पूरा करने के लिए संसाधन प्रबंधक या परियोजना प्रबंधक फ़िल्टर को समायोजित करके परिणाम को सुधार सकते हैं।
+<span data-ttu-id="61916-126">अनुसूची सहायक चलने के बाद, आवश्यक संसाधन से मिलने वाले विवरण को बाएं फलक में फ़िल्टर मान के रूप में दिखाया जाता है।</span><span class="sxs-lookup"><span data-stu-id="61916-126">After the Schedule assistant runs, the details from the resource requirement are displayed as filtered values in the left pane.</span></span> <span data-ttu-id="61916-127">अनुसूची की आवश्यकताओं को पूरा करने के लिए संसाधन प्रबंधक या परियोजना प्रबंधक फ़िल्टर को समायोजित करके परिणाम को सुधार सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="61916-127">The Resource manager or the Project manager can fine-tune results by adjusting filters to meet the scheduling needs.</span></span>
 
-फ़िल्टर फलक कार्य-संबंधी विकल्प दिखाता है, जिसमें शामिल हैं:
+<span data-ttu-id="61916-128">फ़िल्टर फलक कार्य-संबंधी विकल्प दिखाता है, जिसमें शामिल हैं:</span><span class="sxs-lookup"><span data-stu-id="61916-128">The filter pane shows work-related options, including:</span></span>
 
--   कार्य का प्रारंभ और समाप्ति दिनांक
--   विशेषताएं
--   भूमिकाएँ
--   संगठनात्मक इकाइयाँ
--   संसाधन कंपनी
--   संसाधन प्रकार
--   पसंदीदा संसाधन
+-   <span data-ttu-id="61916-129">कार्य का प्रारंभ और समाप्ति दिनांक</span><span class="sxs-lookup"><span data-stu-id="61916-129">Work start and end</span></span>
+-   <span data-ttu-id="61916-130">विशेषताएं</span><span class="sxs-lookup"><span data-stu-id="61916-130">Characteristics</span></span>
+-   <span data-ttu-id="61916-131">भूमिकाएँ</span><span class="sxs-lookup"><span data-stu-id="61916-131">Roles</span></span>
+-   <span data-ttu-id="61916-132">संगठनात्मक इकाइयाँ</span><span class="sxs-lookup"><span data-stu-id="61916-132">Organizational units</span></span>
+-   <span data-ttu-id="61916-133">संसाधन कंपनी</span><span class="sxs-lookup"><span data-stu-id="61916-133">Resourcing company</span></span>
+-   <span data-ttu-id="61916-134">संसाधन प्रकार</span><span class="sxs-lookup"><span data-stu-id="61916-134">Resource types</span></span>
+-   <span data-ttu-id="61916-135">पसंदीदा संसाधन</span><span class="sxs-lookup"><span data-stu-id="61916-135">Preferred resources</span></span>

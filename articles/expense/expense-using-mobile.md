@@ -7,7 +7,6 @@ ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
 ms.service: dynamics-365-customerservice
-ms.technology: ''
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,224 +15,224 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 3185c80c792dfe537f4974fa276eafbd16813131
-ms.sourcegitcommit: a2c3cd49a3b667b8b5edaa31788b4b9b1f728d78
+ms.openlocfilehash: 0c1955198e98a3d8499f51c669478cd422b957e6
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "3897048"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077702"
 ---
-# <a name="expense-using-mobile"></a>मोबाइल का उपयोग करके व्यय करना
+# <a name="expense-using-mobile"></a><span data-ttu-id="46ab0-103">मोबाइल का उपयोग करके व्यय करना</span><span class="sxs-lookup"><span data-stu-id="46ab0-103">Expense using mobile</span></span>
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+<span data-ttu-id="46ab0-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="46ab0-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-यह विषय **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र के बारे में जानकारी देता है. यह कार्यक्षेत्र उपयोगकर्ताओं को रसीद कैप्चर करने और अपलोड करने देता है, ताकि बाद में वो इसे व्यय रिपोर्ट में संलग्न कर सकें. उपयोगकर्ता संलग्न रसीद का इस्तेमाल करके तुरंत व्यय पद्धति भी बना सकते हैं और अपनी व्यय रिपोर्ट बना और प्रबंधित कर सकते हैं. इसके अलावा, स्वीकृत व्यय रिपोर्ट देखने के लिए **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र का इस्तेमाल कर सकते हैं, जो उनको सौंपी गयी हैं और वो उन व्यय रिपोर्ट को स्वीकार या अस्वीकार कर सकते हैं.
+<span data-ttu-id="46ab0-105">यह विषय **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र के बारे में जानकारी देता है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-105">This topic provides information about the **Expense management** mobile workspace.</span></span> <span data-ttu-id="46ab0-106">यह कार्यक्षेत्र उपयोगकर्ताओं को रसीद कैप्चर करने और अपलोड करने देता है, ताकि बाद में वो इसे व्यय रिपोर्ट में संलग्न कर सकें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-106">This workspace lets users capture and upload a receipt, so that they can attach it to an expense report later.</span></span> <span data-ttu-id="46ab0-107">उपयोगकर्ता संलग्न रसीद का इस्तेमाल करके तुरंत व्यय पद्धति भी बना सकते हैं और अपनी व्यय रिपोर्ट बना और प्रबंधित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-107">Users can also quickly create an expense line by using an attached receipt, and create and manage their expense reports.</span></span> <span data-ttu-id="46ab0-108">इसके अलावा, स्वीकृत व्यय रिपोर्ट देखने के लिए **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र का इस्तेमाल कर सकते हैं, जो उनको सौंपी गयी हैं और वो उन व्यय रिपोर्ट को स्वीकार या अस्वीकार कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-108">Additionally, approvers can use the **Expense management** mobile workspace to view expense reports that are assigned to them, and either approve or reject those expense reports.</span></span>
 
-इस मोबाइल कार्यक्षेत्र का इस्तेमाल Dynamics 365 Unified Ops मोबाइल अनुप्रयोग के साथ किया जाना है.
+<span data-ttu-id="46ab0-109">इस मोबाइल कार्यक्षेत्र का इस्तेमाल Dynamics 365 Unified Ops मोबाइल अनुप्रयोग के साथ किया जाना है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-109">This mobile workspace is intended to be used with the Dynamics 365 Unified Ops mobile app.</span></span>
 
-कई संगठनों को ज़रूरत होती है कि रसीद की प्रतिलिपि यात्रा-संबंधी या व्यवसाय-संबंधी व्यय रिपोर्ट से संलग्न हो, जो कर्मचारी प्रतिपूर्ति के लिए सबमिट करता है. **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र उपयोगकर्ताओं को रसीद की संलग्न फोटो का इस्तेमाल करके उनकी पसंद के मोबाइल डिवाइस पर तेजी से नई व्यय पद्धतियां बनाने देता है. विकल्प रूप से, उपयोगकर्ता रसीद की तस्वीर कैप्चर कर सकते हैं और फिर बाद में इसे व्यय रिपोर्ट में संलग्न कर सकते हैं. कर्मचारी अपनी व्यय रिपोर्ट भी बना सकते हैं और प्रबंधित कर सकते हैं और फिर उनके मोबाइल डिवाइस का इस्तेमाल करके स्वीकृति और प्रतिपूर्ति के लिए उन्हें सबमिट कर सकते हैं.
+<span data-ttu-id="46ab0-110">कई संगठनों को ज़रूरत होती है कि रसीद की प्रतिलिपि यात्रा-संबंधी या व्यवसाय-संबंधी व्यय रिपोर्ट से संलग्न हो, जो कर्मचारी प्रतिपूर्ति के लिए सबमिट करता है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-110">Many organizations require that a copy of a receipt be attached to a travel-related or business-related expense report that an employee submits for reimbursement.</span></span> <span data-ttu-id="46ab0-111">**व्यय प्रबंधन** मोबाइल कार्यक्षेत्र उपयोगकर्ताओं को रसीद की संलग्न फोटो का इस्तेमाल करके उनकी पसंद के मोबाइल डिवाइस पर तेजी से नई व्यय पद्धतियां बनाने देता है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-111">The **Expense management** mobile workspace lets users quickly create new expense lines on the mobile device of their choice by using an attached photo of a receipt.</span></span> <span data-ttu-id="46ab0-112">विकल्प रूप से, उपयोगकर्ता रसीद की तस्वीर कैप्चर कर सकते हैं और फिर बाद में इसे व्यय रिपोर्ट में संलग्न कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-112">Alternatively, users can capture a photo of a receipt and then attach it to an expense report later.</span></span> <span data-ttu-id="46ab0-113">कर्मचारी अपनी व्यय रिपोर्ट भी बना सकते हैं और प्रबंधित कर सकते हैं और फिर उनके मोबाइल डिवाइस का इस्तेमाल करके स्वीकृति और प्रतिपूर्ति के लिए उन्हें सबमिट कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-113">Employees can also create and manage their expense reports, and then submit them for approval and reimbursement by using their mobile device.</span></span>
 
-खास तौर पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र उपयोगकर्ताओं को ये कार्य करने देता है:
+<span data-ttu-id="46ab0-114">खास तौर पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र उपयोगकर्ताओं को ये कार्य करने देता है:</span><span class="sxs-lookup"><span data-stu-id="46ab0-114">Specifically, the **Expense management** mobile workspace lets users perform these tasks:</span></span>
 
-- रसीद का फोटो लें. रसीद की फ़ोटो अपलोड करें और बाद में इसे व्यय रिपोर्ट में संलग्न करें.
-- कैप्चर की गई रसीद के रूप में फ़ाइल अपलोड करें. आप उस फ़ाइल को बाद में व्यय रिपोर्ट में संलग्न कर सकते हैं.
-- संलग्न रसीद का इस्तेमाल करके नई व्यय पद्धति बनाएं. आप बाद में व्यय रिपोर्ट में लाइन आइटम जोड़ सकते हैं और इसे स्वीकृति और प्रतिपूर्ति के लिए सबमिट करें.
+- <span data-ttu-id="46ab0-115">रसीद का फोटो लें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-115">Take a photo of a receipt.</span></span> <span data-ttu-id="46ab0-116">रसीद की फ़ोटो अपलोड करें और बाद में इसे व्यय रिपोर्ट में संलग्न करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-116">Upload the receipt photo and attach it to an expense report later.</span></span>
+- <span data-ttu-id="46ab0-117">कैप्चर की गई रसीद के रूप में फ़ाइल अपलोड करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-117">Upload a file as a captured receipt.</span></span> <span data-ttu-id="46ab0-118">आप उस फ़ाइल को बाद में व्यय रिपोर्ट में संलग्न कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-118">You can then attach that file to an expense report later.</span></span>
+- <span data-ttu-id="46ab0-119">संलग्न रसीद का इस्तेमाल करके नई व्यय पद्धति बनाएं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-119">Create a new expense line by using an attached receipt.</span></span> <span data-ttu-id="46ab0-120">आप बाद में व्यय रिपोर्ट में लाइन आइटम जोड़ सकते हैं और इसे स्वीकृति और प्रतिपूर्ति के लिए सबमिट करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-120">You can then add the line item to an expense report later, and submit it for approval and reimbursement.</span></span>
 
-आप इन फ़ीचर का इस्तेमाल भी कर सकते हैं:
+<span data-ttu-id="46ab0-121">आप इन फ़ीचर का इस्तेमाल भी कर सकते हैं:</span><span class="sxs-lookup"><span data-stu-id="46ab0-121">You can also use these features:</span></span>
 
-- एक नई व्यय रिपोर्ट बनाएं.
-- व्यय रिपोर्ट में क्रेडिट कार्ड लेनदेन और अन्य पूर्व में बनाए गए व्यय संलग्न करें.
-- व्यय रिपोर्ट के लिए नए व्यय बनाएं.
-- रसीद की फोटो लेकर या रसीद कैप्चर करके रसीद के रूप में फ़ाइल अपलोड करके, व्यय रिपोर्ट के लिए किसी भी व्यय की रसीद संलग्न करें.
-- कंपनी की व्यय नीति के आधार पर, मेहमानों की सूची को व्यय में जोड़ें.
-- कंपनी की व्यय नीति के आधार पर, व्यय की मद निर्धारित करें.
-- स्वीकृति और प्रतिपूर्ति के लिए व्यय रिपोर्ट सबमिट करें.
-- उन व्यय रिपोर्ट को स्वीकृत या अस्वीकार करें, जिनके लिए आपको अनुमोदक बनाया गया है.
+- <span data-ttu-id="46ab0-122">एक नई व्यय रिपोर्ट बनाएं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-122">Create a new expense report.</span></span>
+- <span data-ttu-id="46ab0-123">व्यय रिपोर्ट में क्रेडिट कार्ड लेनदेन और अन्य पूर्व में बनाए गए व्यय संलग्न करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-123">Attach credit card transactions and other previously created expenses to an expense report.</span></span>
+- <span data-ttu-id="46ab0-124">व्यय रिपोर्ट के लिए नए व्यय बनाएं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-124">Create new expenses for an expense report.</span></span>
+- <span data-ttu-id="46ab0-125">रसीद की फोटो लेकर या रसीद कैप्चर करके रसीद के रूप में फ़ाइल अपलोड करके, व्यय रिपोर्ट के लिए किसी भी व्यय की रसीद संलग्न करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-125">Attach a receipt to any expense for an expense report, either by taking a photo of the receipt or by uploading a file as a captured receipt.</span></span>
+- <span data-ttu-id="46ab0-126">कंपनी की व्यय नीति के आधार पर, मेहमानों की सूची को व्यय में जोड़ें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-126">Depending on the company's expense policy, add the list of guests to an expense.</span></span>
+- <span data-ttu-id="46ab0-127">कंपनी की व्यय नीति के आधार पर, व्यय की मद निर्धारित करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-127">Depending on the company's expense policy, itemize expenses.</span></span>
+- <span data-ttu-id="46ab0-128">स्वीकृति और प्रतिपूर्ति के लिए व्यय रिपोर्ट सबमिट करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-128">Submit an expense report for approval and reimbursement.</span></span>
+- <span data-ttu-id="46ab0-129">उन व्यय रिपोर्ट को स्वीकृत या अस्वीकार करें, जिनके लिए आपको अनुमोदक बनाया गया है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-129">Approve or reject expense reports that you're an assigned approver for.</span></span>
 
-## <a name="prerequisites"></a>पूर्वावश्यकताएँ
-आपके संगठन के लिए नियोजित संस्करण के आधार पर शर्तें अलग होती हैं.
+## <a name="prerequisites"></a><span data-ttu-id="46ab0-130">पूर्वावश्यकताएँ</span><span class="sxs-lookup"><span data-stu-id="46ab0-130">Prerequisites</span></span>
+<span data-ttu-id="46ab0-131">आपके संगठन के लिए नियोजित संस्करण के आधार पर शर्तें अलग होती हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-131">The prerequisites vary, based on the version that has been deployed for your organization.</span></span>
 
-### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>शर्तें अगर आप Dynamics 365 Finance इस्तेमाल करते हैं 
-अगर फाइनेंस आपके संगठन के लिए नियोजित किया गया है, तो सिस्टम व्यवस्थापक को **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र प्रकाशित करना होगा. 
+### <a name="prerequisites-if-you-use-dynamics-365-finance"></a><span data-ttu-id="46ab0-132">शर्तें अगर आप Dynamics 365 Finance इस्तेमाल करते हैं</span><span class="sxs-lookup"><span data-stu-id="46ab0-132">Prerequisites if you use Dynamics 365 Finance</span></span> 
+<span data-ttu-id="46ab0-133">अगर फाइनेंस आपके संगठन के लिए नियोजित किया गया है, तो सिस्टम व्यवस्थापक को **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र प्रकाशित करना होगा.</span><span class="sxs-lookup"><span data-stu-id="46ab0-133">If Finance has been deployed for your organization, the system administrator must publish the **Expense management** mobile workspace.</span></span> 
 
-### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>शर्तें अगर आप प्लेटफ़ॉर्म अपडेट 3 का संस्करण 1611 या इसके बाद के संस्करण इस्तेमाल करते हैं
-यदि प्लेटफ़ॉर्म अपडेट 3 के साथ संस्करण 1611 या इसके बाद का संस्करण, आपके संगठन के लिए तैनात किया गया है, तो सिस्टम व्यवस्थापक को निम्नलिखित शर्तें पूरी करनी चाहिए. 
+### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a><span data-ttu-id="46ab0-134">शर्तें अगर आप प्लेटफ़ॉर्म अपडेट 3 का संस्करण 1611 या इसके बाद के संस्करण इस्तेमाल करते हैं</span><span class="sxs-lookup"><span data-stu-id="46ab0-134">Prerequisites if you use version 1611 with platform update 3 or later</span></span>
+<span data-ttu-id="46ab0-135">यदि प्लेटफ़ॉर्म अपडेट 3 के साथ संस्करण 1611 या इसके बाद का संस्करण, आपके संगठन के लिए तैनात किया गया है, तो सिस्टम व्यवस्थापक को निम्नलिखित शर्तें पूरी करनी चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-135">If version 1611 with platform update 3 or later has been deployed for your organization, the system administrator must complete the following prerequisites.</span></span> 
 
 <table>
 <thead>
 <tr class="header">
-<th>पूर्वावश्यकता</th>
-<th>भूमिका</th>
-<th>विवरण</th>
+<th><span data-ttu-id="46ab0-136">पूर्वावश्यकता</span><span class="sxs-lookup"><span data-stu-id="46ab0-136">Prerequisite</span></span></th>
+<th><span data-ttu-id="46ab0-137">भूमिका</span><span class="sxs-lookup"><span data-stu-id="46ab0-137">Role</span></span></th>
+<th><span data-ttu-id="46ab0-138">विवरण</span><span class="sxs-lookup"><span data-stu-id="46ab0-138">Description</span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>KB 4019015 लागू करें.</td>
-<td>सिस्टम व्यवस्थापक</td>
-<td>KB 4019015, X++ अपडेट या मेटाडेटा हॉटफिक्स है जिसमें <strong>व्यय प्रबंधन</strong> मोबाइल कार्यस्थान है. KB 4019015 कार्यान्वित करने के लिए, आपके सिस्टम व्यवस्थापक को निम्न चरणों का पालन करना होगा.
+<td><span data-ttu-id="46ab0-139">KB 4019015 लागू करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-139">Implement KB 4019015.</span></span></td>
+<td><span data-ttu-id="46ab0-140">सिस्टम व्यवस्थापक</span><span class="sxs-lookup"><span data-stu-id="46ab0-140">System administrator</span></span></td>
+<td><span data-ttu-id="46ab0-141">KB 4019015, X++ अपडेट या मेटाडेटा हॉटफिक्स है जिसमें <strong>व्यय प्रबंधन</strong> मोबाइल कार्यस्थान है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-141">KB 4019015 is an X++ update or metadata hotfix that contains the <strong>Expense management</strong> mobile workspace.</span></span> <span data-ttu-id="46ab0-142">KB 4019015 कार्यान्वित करने के लिए, आपके सिस्टम व्यवस्थापक को निम्न चरणों का पालन करना होगा.</span><span class="sxs-lookup"><span data-stu-id="46ab0-142">To implement KB 4019015, your system administrator must follow these steps.</span></span>
 <ol>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Lifecycle Services से अपडेट डाउनलोड करें</a>.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">मेटाडेटा हॉटफ़िक्स स्थापित करें</a>.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">लागू करने योग्य पैकेज बनाएं</a> जिसमें <strong>ApplicationSuite</strong> और <strong>ExpenseMobile</strong> मॉडल हों और उसके बाद LCS में नियोजित करने योग्य पैकेज अपलोड करें.</li>
-<li><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">तैनात करने योग्य पैकेज लागू करें</a>.</li>
+<li><span data-ttu-id="46ab0-143"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Lifecycle Services से अपडेट डाउनलोड करें</a>.</span><span class="sxs-lookup"><span data-stu-id="46ab0-143"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/download-hotfix-lcs">Download updates from Lifecycle Services</a>.</span></span></li>
+<li><span data-ttu-id="46ab0-144"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">मेटाडेटा हॉटफ़िक्स स्थापित करें</a>.</span><span class="sxs-lookup"><span data-stu-id="46ab0-144"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/install-metadata-hotfix-package">Install the metadata hotfix</a>.</span></span></li>
+<li><span data-ttu-id="46ab0-145"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">लागू करने योग्य पैकेज बनाएं</a> जिसमें <strong>ApplicationSuite</strong> और <strong>ExpenseMobile</strong> मॉडल हों और उसके बाद LCS में नियोजित करने योग्य पैकेज अपलोड करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-145"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/create-apply-deployable-package">Create a deployable package</a> that contains the <strong>ApplicationSuite</strong> and <strong>ExpenseMobile</strong> models, and then upload the deployable package to LCS.</span></span></li>
+<li><span data-ttu-id="46ab0-146"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">तैनात करने योग्य पैकेज लागू करें</a>.</span><span class="sxs-lookup"><span data-stu-id="46ab0-146"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/apply-deployable-package-system">Apply the deployable package</a>.</span></span></li>
 </ol></td>
 </tr>
 <tr class="even">
-<td><strong>व्यय प्रबंधन</strong> मोबाइल कार्यक्षेत्र प्रकाशित करें.</td>
-<td>सिस्टम व्यवस्थापक</td>
-<td><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">मोबाइल कार्यस्थान प्रकाशित करें</a> देखें.</td>
+<td><span data-ttu-id="46ab0-147"><strong>व्यय प्रबंधन</strong> मोबाइल कार्यक्षेत्र प्रकाशित करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-147">Publish the <strong>Expense management</strong> mobile workspace.</span></span></td>
+<td><span data-ttu-id="46ab0-148">सिस्टम व्यवस्थापक</span><span class="sxs-lookup"><span data-stu-id="46ab0-148">System administrator</span></span></td>
+<td><span data-ttu-id="46ab0-149"><a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">मोबाइल कार्यस्थान प्रकाशित करें</a> देखें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-149">See <a href="https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace">Publish a mobile workspace</a>.</span></span></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="download-and-install-the-dynamics-365-unified-ops-mobile-app"></a>Dynamics 365 Unified Ops मोबाइल अनुप्रयोग डाउनलोड और इंस्टॉल करें
-Dynamics 365 Unified Ops मोबाइल अनुप्रयोग डाउनलोड और इंस्टॉल करें:
+## <a name="download-and-install-the-dynamics-365-unified-ops-mobile-app"></a><span data-ttu-id="46ab0-150">Dynamics 365 Unified Ops मोबाइल अनुप्रयोग डाउनलोड और इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="46ab0-150">Download and install the Dynamics 365 Unified Ops mobile app</span></span>
+<span data-ttu-id="46ab0-151">Dynamics 365 Unified Ops मोबाइल अनुप्रयोग डाउनलोड और इंस्टॉल करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-151">Download and install the Dynamics 365 Unified Ops mobile app:</span></span>
 
-- [Android फ़ोन के लिए](https://go.microsoft.com/fwlink/?linkid=850662)
-- [iPhone के लिए](https://go.microsoft.com/fwlink/?linkid=850663)
+- [<span data-ttu-id="46ab0-152">Android फ़ोन के लिए</span><span class="sxs-lookup"><span data-stu-id="46ab0-152">For Android phones</span></span>](https://go.microsoft.com/fwlink/?linkid=850662)
+- [<span data-ttu-id="46ab0-153">iPhone के लिए</span><span class="sxs-lookup"><span data-stu-id="46ab0-153">For iPhones</span></span>](https://go.microsoft.com/fwlink/?linkid=850663)
 
-## <a name="sign-in-to-the-mobile-app"></a>मोबाइल अनुप्रयोग में साइन इन करें
-1. अपनी मोबाइल डिवाइस पर अनुप्रयोग शुरू करें.
-2. अपना Dynamics 365 URL दर्ज करें.
-4. पहली बार जब आप साइन इन करते हैं, तो आपको अपने उपयोगकर्ता नाम और पासवर्ड के लिए संकेत दिया जाता है. अपने क्रेडेंशियल दर्ज करें.
-5. साइन इन करने के बाद, आपकी कंपनी के लिए उपलब्ध कार्यक्षेत्र दिखाए जाते हैं. यदि आपका सिस्टम व्यवस्थापक बाद में नया कार्यक्षेत्र प्रकाशित करता है, तो आपको मोबाइल कार्यस्थानों की सूची को रीफ्रेश करना होगा.
+## <a name="sign-in-to-the-mobile-app"></a><span data-ttu-id="46ab0-154">मोबाइल अनुप्रयोग में साइन इन करें</span><span class="sxs-lookup"><span data-stu-id="46ab0-154">Sign in to the mobile app</span></span>
+1. <span data-ttu-id="46ab0-155">अपनी मोबाइल डिवाइस पर अनुप्रयोग शुरू करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-155">Start the app on your mobile device.</span></span>
+2. <span data-ttu-id="46ab0-156">अपना Dynamics 365 URL दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-156">Enter your Dynamics 365 URL.</span></span>
+4. <span data-ttu-id="46ab0-157">पहली बार जब आप साइन इन करते हैं, तो आपको अपने उपयोगकर्ता नाम और पासवर्ड के लिए संकेत दिया जाता है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-157">The first time that you sign in, you're prompted for your user name and password.</span></span> <span data-ttu-id="46ab0-158">अपने क्रेडेंशियल दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-158">Enter your credentials.</span></span>
+5. <span data-ttu-id="46ab0-159">साइन इन करने के बाद, आपकी कंपनी के लिए उपलब्ध कार्यक्षेत्र दिखाए जाते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-159">After you sign in, the available workspaces for your company are shown.</span></span> <span data-ttu-id="46ab0-160">यदि आपका सिस्टम व्यवस्थापक बाद में नया कार्यक्षेत्र प्रकाशित करता है, तो आपको मोबाइल कार्यस्थानों की सूची को रीफ्रेश करना होगा.</span><span class="sxs-lookup"><span data-stu-id="46ab0-160">If your system administrator publishes a new workspace later, you will have to refresh the list of mobile workspaces.</span></span>
 
-## <a name="capture-a-receipt-by-using-the-expense-management-mobile-workspace"></a>व्यय प्रबंधन मोबाइल कार्यक्षेत्र इस्तेमाल करके रसीद कैप्चर करें
+## <a name="capture-a-receipt-by-using-the-expense-management-mobile-workspace"></a><span data-ttu-id="46ab0-161">व्यय प्रबंधन मोबाइल कार्यक्षेत्र इस्तेमाल करके रसीद कैप्चर करें</span><span class="sxs-lookup"><span data-stu-id="46ab0-161">Capture a receipt by using the Expense management mobile workspace</span></span>
 
-1. अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.
-2. **रसीद कैप्चर करें** चुनें.
-3. **फोटो लें** या **छवि चुनें** का चयन करें.
-4. इन चरणों में से एक का पालन करें:
+1. <span data-ttu-id="46ab0-162">अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-162">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="46ab0-163">**रसीद कैप्चर करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-163">Select **Capture receipt**.</span></span>
+3. <span data-ttu-id="46ab0-164">**फोटो लें** या **छवि चुनें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-164">Select **Take photo** or **Choose image**.</span></span>
+4. <span data-ttu-id="46ab0-165">इन चरणों में से एक का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-165">Follow one of these steps:</span></span>
 
-   - अगर आपने **फोटो लें** चुना है तो इन चरणों का पालन करें:
+   - <span data-ttu-id="46ab0-166">अगर आपने **फोटो लें** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-166">If you selected **Take photo** , follow these steps:</span></span>
 
-      1. आपको आपके मोबाइल डिवाइस पर कैमरे में ले जाया जाता है, ताकि आप रसीद की फोटो ले सकें. 
-      2. जब आप फोटो कैप्चर कर चुके होते हैं, तो फ़ोटो स्वीकार करने के लिए **ठीक है** चुनें.
-      3. वैकल्पिक: फोटो का नाम दर्ज करें और कोई टिप्पणी दर्ज करें.
+      1. <span data-ttu-id="46ab0-167">आपको आपके मोबाइल डिवाइस पर कैमरे में ले जाया जाता है, ताकि आप रसीद की फोटो ले सकें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-167">You're taken to the camera on your mobile device, so that you can take a photo of the receipt.</span></span> 
+      2. <span data-ttu-id="46ab0-168">जब आप फोटो कैप्चर कर चुके होते हैं, तो फ़ोटो स्वीकार करने के लिए **ठीक है** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-168">When you've finished taking a photo, select **OK** to accept the photo.</span></span>
+      3. <span data-ttu-id="46ab0-169">वैकल्पिक: फोटो का नाम दर्ज करें और कोई टिप्पणी दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-169">Optional: Enter a name for the photo, and enter any notes.</span></span>
 
-    - अगर आपने **छवि चुनें** चुना है तो इन चरणों का पालन करें:
+    - <span data-ttu-id="46ab0-170">अगर आपने **छवि चुनें** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-170">If you selected **Choose image** , follow these steps:</span></span>
 
-        1. सूची में एक छवि का चयन करें.
-        2. वैकल्पिक: छवि का नाम दर्ज करें और कोई नोट दर्ज करें.
+        1. <span data-ttu-id="46ab0-171">सूची में एक छवि का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-171">Select an image in the list.</span></span>
+        2. <span data-ttu-id="46ab0-172">वैकल्पिक: छवि का नाम दर्ज करें और कोई नोट दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-172">Optional: Enter a name for the image, and enter any notes.</span></span>
 
-5. **पूर्ण** चयन करें.
+5. <span data-ttu-id="46ab0-173">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-173">Select **Done**.</span></span>
 
-## <a name="quickly-enter-expenses-by-using-the-expense-management-mobile-workspace"></a>व्यय प्रबंधन मोबाइल कार्यक्षेत्र इस्तेमाल करके तुरंत व्यय दर्ज करें
+## <a name="quickly-enter-expenses-by-using-the-expense-management-mobile-workspace"></a><span data-ttu-id="46ab0-174">व्यय प्रबंधन मोबाइल कार्यक्षेत्र इस्तेमाल करके तुरंत व्यय दर्ज करें</span><span class="sxs-lookup"><span data-stu-id="46ab0-174">Quickly enter expenses by using the Expense management mobile workspace</span></span>
 
-1. अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.
-2. **त्वरित व्यय प्रविष्टि** चुनें.
-3. व्यय श्रेणी का चयन करें. आप उन ऑफ़लाइन श्रेणियों की सूची देखते हैं जिन्हें ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किया गया है. डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं. और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए. अगर आपकी श्रेणी सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें. व्यय श्रेणी से खोजें या व्यय प्रकार से खोजने के लिए स्विच करें.
-4. व्यय की लेनदेन तिथि दर्ज करें.
-5. वैकल्पिक: व्यय के लिए व्यापारी का नाम दर्ज करें.
-6. व्यय की राशि दर्ज करें.
-7. व्यय की राशि चुनें. आपको अपने अनुप्रयोग में ऑफ़लाइन इस्तेमाल के लिए लोड की गयी मुद्रा कोडों की सूची दिखायी देती है. डिफ़ॉल्ट रूप से, 400 मुद्राएं लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं. और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए. अगर आपकी मुद्रा सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें. मुद्रा से खोजें या बदलकर श्रेणी नाम से खोजें.
-8. **फोटो लें** या **छवि चुनें** का चयन करें.
-9. इन चरणों में से एक का पालन करें:
+1. <span data-ttu-id="46ab0-175">अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-175">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="46ab0-176">**त्वरित व्यय प्रविष्टि** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-176">Select **Quick expense entry**.</span></span>
+3. <span data-ttu-id="46ab0-177">व्यय श्रेणी का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-177">Select the expense category.</span></span> <span data-ttu-id="46ab0-178">आप उन ऑफ़लाइन श्रेणियों की सूची देखते हैं जिन्हें ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किया गया है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-178">You see a list of expense categories that are loaded into your app for offline use.</span></span> <span data-ttu-id="46ab0-179">डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-179">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="46ab0-180">और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-180">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="46ab0-181">अगर आपकी श्रेणी सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-181">If your category isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="46ab0-182">व्यय श्रेणी से खोजें या व्यय प्रकार से खोजने के लिए स्विच करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-182">Search by expense category, or switch to search by expense type.</span></span>
+4. <span data-ttu-id="46ab0-183">व्यय की लेनदेन तिथि दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-183">Enter the transaction date of the expense.</span></span>
+5. <span data-ttu-id="46ab0-184">वैकल्पिक: व्यय के लिए व्यापारी का नाम दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-184">Optional: Enter the merchant for the expense.</span></span>
+6. <span data-ttu-id="46ab0-185">व्यय की राशि दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-185">Enter the amount of the expense.</span></span>
+7. <span data-ttu-id="46ab0-186">व्यय की राशि चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-186">Select the currency of the expense.</span></span> <span data-ttu-id="46ab0-187">आपको अपने अनुप्रयोग में ऑफ़लाइन इस्तेमाल के लिए लोड की गयी मुद्रा कोडों की सूची दिखायी देती है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-187">You see a list of the currency codes that are loaded into your app for offline use.</span></span> <span data-ttu-id="46ab0-188">डिफ़ॉल्ट रूप से, 400 मुद्राएं लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-188">By default, 400 currencies are loaded, but a developer can change this number.</span></span> <span data-ttu-id="46ab0-189">और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-189">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="46ab0-190">अगर आपकी मुद्रा सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-190">If your currency isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="46ab0-191">मुद्रा से खोजें या बदलकर श्रेणी नाम से खोजें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-191">Search by currency, or switch to search by name.</span></span>
+8. <span data-ttu-id="46ab0-192">**फोटो लें** या **छवि चुनें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-192">Select **Take photo** or **Choose image**.</span></span>
+9. <span data-ttu-id="46ab0-193">इन चरणों में से एक का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-193">Follow one of these steps:</span></span>
 
-    - अगर आपने **फोटो लें** चुना है तो आपको आपके मोबाइल डिवाइस के कैमरे पर ले जाया जाता है, ताकि आप रसीद की फोटो कैप्चर कर सकें. जब आप फोटो कैप्चर कर चुके होते हैं, तो फ़ोटो स्वीकार करने के लिए **ठीक है** चुनें.
-    - अगर आपने **छवि चुनें** चुना है तो सूची से छवि चुनें.
+    - <span data-ttu-id="46ab0-194">अगर आपने **फोटो लें** चुना है तो आपको आपके मोबाइल डिवाइस के कैमरे पर ले जाया जाता है, ताकि आप रसीद की फोटो कैप्चर कर सकें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-194">If you selected **Take photo** , you're taken to the camera on your mobile device, so that you can take a photo of the receipt.</span></span> <span data-ttu-id="46ab0-195">जब आप फोटो कैप्चर कर चुके होते हैं, तो फ़ोटो स्वीकार करने के लिए **ठीक है** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-195">When you've finished taking a photo, select **OK** to accept the photo.</span></span>
+    - <span data-ttu-id="46ab0-196">अगर आपने **छवि चुनें** चुना है तो सूची से छवि चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-196">If you selected **Choose image** , select an image in the list.</span></span>
 
-10. **पूर्ण** चयन करें.
+10. <span data-ttu-id="46ab0-197">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-197">Select **Done**.</span></span>
 
-## <a name="approve-an-expense-report-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a>व्यय प्रबंधन मोबाइल कार्यक्षेत्र का इस्तेमाल करके व्यय रिपोर्ट स्वीकृत करें (यदि आप जुलाई 2017 अद्यतन का इस्तेमाल करते हैं)
+## <a name="approve-an-expense-report-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a><span data-ttu-id="46ab0-198">व्यय प्रबंधन मोबाइल कार्यक्षेत्र का इस्तेमाल करके व्यय रिपोर्ट स्वीकृत करें (यदि आप जुलाई 2017 अद्यतन का इस्तेमाल करते हैं)</span><span class="sxs-lookup"><span data-stu-id="46ab0-198">Approve an expense report by using the Expense management mobile workspace (if you use the July 2017 update)</span></span>
 
-1. अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.
-2. **व्यय स्वीकृतियां** उन व्यय रिपोर्ट की संख्या दिखाती है, जो आपको स्वीकृति के लिए सौंपी गई हैं. संख्या प्रत्येक 30 मिनट में अद्यतन की जाती है. **व्यय स्वीकृतियां** चुनें.
+1. <span data-ttu-id="46ab0-199">अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-199">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="46ab0-200">**व्यय स्वीकृतियां** उन व्यय रिपोर्ट की संख्या दिखाती है, जो आपको स्वीकृति के लिए सौंपी गई हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-200">**Expense approvals** shows the number of expense reports that are assigned to you for approval.</span></span> <span data-ttu-id="46ab0-201">संख्या प्रत्येक 30 मिनट में अद्यतन की जाती है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-201">The number is updated approximately every 30 minutes.</span></span> <span data-ttu-id="46ab0-202">**व्यय स्वीकृतियां** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-202">Select **Expense approvals**.</span></span>
 
-    स्वीकृति के लिए आपको सौंपी गई व्यय रिपोर्ट की सूची दिखायी गई है.
+    <span data-ttu-id="46ab0-203">स्वीकृति के लिए आपको सौंपी गई व्यय रिपोर्ट की सूची दिखायी गई है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-203">The list of expense reports that are assigned to you for approval is shown.</span></span>
     
-3. इसका व्यय विवरण देखने के लिए व्यय रिपोर्ट चुनें.
-4. इसका विवरण देखने के लिए व्यय चुनें. व्यय के लिए दिखाई गई जानकारी में रसीद, अतिथि और वस्तु विवरण शामिल होते हैं.
-5. **व्यय रिपोर्ट** पृष्ठ पर वापस जाकर, व्यय रिपोर्ट स्वीकृत या अस्वीकार करना चुनें.
-6. स्वीकृत कार्रवाई के लिए कोई टिप्पणी दर्ज करें.
-7. **पूर्ण** चयन करें.
+3. <span data-ttu-id="46ab0-204">इसका व्यय विवरण देखने के लिए व्यय रिपोर्ट चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-204">Select an expense report to view the expense details for it.</span></span>
+4. <span data-ttu-id="46ab0-205">इसका विवरण देखने के लिए व्यय चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-205">Select an expense to view the details for it.</span></span> <span data-ttu-id="46ab0-206">व्यय के लिए दिखाई गई जानकारी में रसीद, अतिथि और वस्तु विवरण शामिल होते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-206">The information that is shown for an expense includes any receipt, guest, and itemization details.</span></span>
+5. <span data-ttu-id="46ab0-207">**व्यय रिपोर्ट** पृष्ठ पर वापस जाकर, व्यय रिपोर्ट स्वीकृत या अस्वीकार करना चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-207">Back on the **Expense report** page, select to approve or reject the expense report.</span></span>
+6. <span data-ttu-id="46ab0-208">स्वीकृत कार्रवाई के लिए कोई टिप्पणी दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-208">Enter any comments for the approval action.</span></span>
+7. <span data-ttu-id="46ab0-209">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-209">Select **Done**.</span></span>
 
-## <a name="create-a-new-expense-report-and-submit-it-for-approval-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a>नई व्यय रिपोर्ट बनाएं और व्यय प्रबंधन मोबाइल कार्यक्षेत्र को इस्तेमाल करके स्वीकृति के लिए सबमिट करें (यदि आप जुलाई 2017 अद्यतन का इस्तेमाल कर रहे हैं)
+## <a name="create-a-new-expense-report-and-submit-it-for-approval-by-using-the-expense-management-mobile-workspace-if-you-use-the-july-2017-update"></a><span data-ttu-id="46ab0-210">नई व्यय रिपोर्ट बनाएं और व्यय प्रबंधन मोबाइल कार्यक्षेत्र को इस्तेमाल करके स्वीकृति के लिए सबमिट करें (यदि आप जुलाई 2017 अद्यतन का इस्तेमाल कर रहे हैं)</span><span class="sxs-lookup"><span data-stu-id="46ab0-210">Create a new expense report and submit it for approval by using the Expense management mobile workspace (if you use the July 2017 update)</span></span>
 
-1. अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.
-2. **व्यय प्रविष्टि** चुनें.
-3. **नयी रिपोर्ट** चुनें या सूची में मौजूद व्यय रिपोर्ट चुनें.
-4. नई व्यय रिपोर्ट के लिए उद्देश्य और कोई अतिरिक्त उपलब्ध जानकारी दर्ज करें. यह जानकारी उस तरीके के कारण अलग होती हैं, जिससे व्यय प्रबंधन आपकी कंपनी के लिए कॉन्फ़िगर किया गया है.
-5. **पूर्ण** चयन करें.
-6. मौजूदा व्यय जैसे कि क्रेडिट कार्ड लेनदेन को व्यय रिपोर्ट में जोड़ने के लिए **संलग्न करें** चुनें.
-7. सूची में एक या अधिक व्यय चुनें.
-8. **पूर्ण** चयन करें.
-9. व्यय रिपोर्ट में नया व्यय जोड़ने के लिए **नया व्यय** चुनें.
-10. व्यय के लिए श्रेणी चुनें. आप उन ऑफ़लाइन श्रेणियों की सूची देखते हैं जिन्हें ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किया गया है. डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं. और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए. अगर आपकी श्रेणी सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें. व्यय श्रेणी से खोजें या व्यय प्रकार से खोजने के लिए स्विच करें.
-11. वैकल्पिक: व्यय के लिए व्यापारी का नाम दर्ज करें.
-12. व्यय की लेनदेन तिथि दर्ज करें.
-13. व्यय की राशि दर्ज करें.
-14. व्यय की राशि चुनें. आपको अपने अनुप्रयोग में ऑफ़लाइन इस्तेमाल के लिए लोड की गयी मुद्रा कोडों की सूची दिखायी देती है. डिफ़ॉल्ट रूप से, 400 मुद्राएं लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं. और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए. अगर आपकी मुद्रा सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें. मुद्रा से खोजें या बदलकर श्रेणी नाम से खोजें.
-15. **पूर्ण** चयन करें.
-16. व्यय में और विवरण जोड़ने के लिए, **और विवरण जोड़ें** चुनें. उपलब्ध फ़ील्ड आपकी कंपनी के लिए व्यय प्रबंधन के कॉन्फ़िगरेशन पर निर्भर करती हैं.
-17. यदि कंपनी की नीति में व्यय के लिए रसीद की ज़रूरत है तो **रसीद** चुनें और फिर इन चरणों का पालन करें:
+1. <span data-ttu-id="46ab0-211">अपनी मोबाइल डिवाइस पर **व्यय प्रबंधन** मोबाइल कार्यक्षेत्र खोलें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-211">On your mobile device, open the **Expense management** workspace.</span></span>
+2. <span data-ttu-id="46ab0-212">**व्यय प्रविष्टि** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-212">Select **Expense entry**.</span></span>
+3. <span data-ttu-id="46ab0-213">**नयी रिपोर्ट** चुनें या सूची में मौजूद व्यय रिपोर्ट चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-213">Select **New report** , or select an existing expense report in the list.</span></span>
+4. <span data-ttu-id="46ab0-214">नई व्यय रिपोर्ट के लिए उद्देश्य और कोई अतिरिक्त उपलब्ध जानकारी दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-214">For new expense reports, enter the purpose and any additional information that is available.</span></span> <span data-ttu-id="46ab0-215">यह जानकारी उस तरीके के कारण अलग होती हैं, जिससे व्यय प्रबंधन आपकी कंपनी के लिए कॉन्फ़िगर किया गया है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-215">This information varies, depending on that way that expense management is configured for your company.</span></span>
+5. <span data-ttu-id="46ab0-216">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-216">Select **Done**.</span></span>
+6. <span data-ttu-id="46ab0-217">मौजूदा व्यय जैसे कि क्रेडिट कार्ड लेनदेन को व्यय रिपोर्ट में जोड़ने के लिए **संलग्न करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-217">To add existing expenses, such as credit card transactions, to the expense report, select **Attach**.</span></span>
+7. <span data-ttu-id="46ab0-218">सूची में एक या अधिक व्यय चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-218">Select one or more expenses in the list.</span></span>
+8. <span data-ttu-id="46ab0-219">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-219">Select **Done**.</span></span>
+9. <span data-ttu-id="46ab0-220">व्यय रिपोर्ट में नया व्यय जोड़ने के लिए **नया व्यय** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-220">To add a new expense to the expense report, select **New expense**.</span></span>
+10. <span data-ttu-id="46ab0-221">व्यय के लिए श्रेणी चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-221">Select the category for the expense.</span></span> <span data-ttu-id="46ab0-222">आप उन ऑफ़लाइन श्रेणियों की सूची देखते हैं जिन्हें ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किया गया है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-222">You see a list of expense categories that are loaded into your app for offline use.</span></span> <span data-ttu-id="46ab0-223">डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-223">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="46ab0-224">और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-224">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="46ab0-225">अगर आपकी श्रेणी सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-225">If your category isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="46ab0-226">व्यय श्रेणी से खोजें या व्यय प्रकार से खोजने के लिए स्विच करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-226">Search by expense category, or switch to search by expense type.</span></span>
+11. <span data-ttu-id="46ab0-227">वैकल्पिक: व्यय के लिए व्यापारी का नाम दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-227">Optional: Enter the merchant for the expense.</span></span>
+12. <span data-ttu-id="46ab0-228">व्यय की लेनदेन तिथि दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-228">Enter the transaction date of the expense.</span></span>
+13. <span data-ttu-id="46ab0-229">व्यय की राशि दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-229">Enter the amount of the expense.</span></span>
+14. <span data-ttu-id="46ab0-230">व्यय की राशि चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-230">Select the currency of the expense.</span></span> <span data-ttu-id="46ab0-231">आपको अपने अनुप्रयोग में ऑफ़लाइन इस्तेमाल के लिए लोड की गयी मुद्रा कोडों की सूची दिखायी देती है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-231">You see a list of the currency codes that are loaded into your app for offline use.</span></span> <span data-ttu-id="46ab0-232">डिफ़ॉल्ट रूप से, 400 मुद्राएं लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-232">By default, 400 currencies are loaded, but a developer can change this number.</span></span> <span data-ttu-id="46ab0-233">और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-233">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="46ab0-234">अगर आपकी मुद्रा सूची में नहीं है तो ऑनलाइन खोजने के लिए **खोजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-234">If your currency isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="46ab0-235">मुद्रा से खोजें या बदलकर श्रेणी नाम से खोजें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-235">Search by currency, or switch to search by name.</span></span>
+15. <span data-ttu-id="46ab0-236">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-236">Select **Done**.</span></span>
+16. <span data-ttu-id="46ab0-237">व्यय में और विवरण जोड़ने के लिए, **और विवरण जोड़ें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-237">To add more details to the expense, select **Add more details**.</span></span> <span data-ttu-id="46ab0-238">उपलब्ध फ़ील्ड आपकी कंपनी के लिए व्यय प्रबंधन के कॉन्फ़िगरेशन पर निर्भर करती हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-238">The fields that are available depend on the configuration of expense management for your company.</span></span>
+17. <span data-ttu-id="46ab0-239">यदि कंपनी की नीति में व्यय के लिए रसीद की ज़रूरत है तो **रसीद** चुनें और फिर इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-239">If company policy requires a receipt for the expense, select **Receipts** , and then follow these steps:</span></span>
 
-    1. **रसीद कैप्चर करें** या **रसीद संलग्न करें** चुनें.
-    2. इन चरणों में से एक का पालन करें:
+    1. <span data-ttu-id="46ab0-240">**रसीद कैप्चर करें** या **रसीद संलग्न करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-240">Select **Capture receipt** or **Attach receipt**.</span></span>
+    2. <span data-ttu-id="46ab0-241">इन चरणों में से एक का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-241">Follow one of these steps:</span></span>
 
-        - अगर आपने **रसीद कैप्चर करें**चुना है, तो इन चरणों का पालन करें:
+        - <span data-ttu-id="46ab0-242">अगर आपने **रसीद कैप्चर करें** चुना है, तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-242">If you selected **Capture receipt** , follow these steps:</span></span>
 
-            1. **फोटो लें** या **छवि चुनें** का चयन करें.
-            2. इन चरणों में से एक का पालन करें:
+            1. <span data-ttu-id="46ab0-243">**फोटो लें** या **छवि चुनें** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-243">Select **Take photo** or **Choose image**.</span></span>
+            2. <span data-ttu-id="46ab0-244">इन चरणों में से एक का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-244">Follow one of these steps:</span></span>
 
-                - अगर आपने **फोटो लें** चुना है तो इन चरणों का पालन करें:
+                - <span data-ttu-id="46ab0-245">अगर आपने **फोटो लें** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-245">If you selected **Take photo** , follow these steps:</span></span>
 
-                    1. आपको आपके मोबाइल डिवाइस पर कैमरे में ले जाया जाता है, ताकि आप रसीद की फोटो ले सकें. जब आप फोटो कैप्चर कर चुके होते हैं, तो फ़ोटो स्वीकार करने के लिए **ठीक है** चुनें.
-                    2. वैकल्पिक: फोटो का नाम दर्ज करें और कोई टिप्पणी दर्ज करें.
+                    1. <span data-ttu-id="46ab0-246">आपको आपके मोबाइल डिवाइस पर कैमरे में ले जाया जाता है, ताकि आप रसीद की फोटो ले सकें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-246">You're taken to the camera on your mobile device, so that you can take a photo of the receipt.</span></span> <span data-ttu-id="46ab0-247">जब आप फोटो कैप्चर कर चुके होते हैं, तो फ़ोटो स्वीकार करने के लिए **ठीक है** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-247">When you've finished taking a photo, select **OK** to accept the photo.</span></span>
+                    2. <span data-ttu-id="46ab0-248">वैकल्पिक: फोटो का नाम दर्ज करें और कोई टिप्पणी दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-248">Optional: Enter a name for the photo, and enter any notes.</span></span>
 
-                - अगर आपने **छवि चुनें** चुना है तो इन चरणों का पालन करें:
+                - <span data-ttu-id="46ab0-249">अगर आपने **छवि चुनें** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-249">If you selected **Choose image** , follow these steps:</span></span>
 
-                    1. सूची में एक छवि का चयन करें.
-                    2. वैकल्पिक: छवि का नाम दर्ज करें और कोई नोट दर्ज करें.
+                    1. <span data-ttu-id="46ab0-250">सूची में एक छवि का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-250">Select an image in the list.</span></span>
+                    2. <span data-ttu-id="46ab0-251">वैकल्पिक: छवि का नाम दर्ज करें और कोई नोट दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-251">Optional: Enter a name for the image, and enter any notes.</span></span>
 
-            3.  **पूर्ण** चयन करें.
+            3.  <span data-ttu-id="46ab0-252">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-252">Select **Done**.</span></span>
 
-        - अगर आपने **रसीद संलग्न करें** चुना है तो इन चरणों का पालन करें:
+        - <span data-ttu-id="46ab0-253">अगर आपने **रसीद संलग्न करें** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-253">If you selected **Attach receipt** , follow these steps:</span></span>
 
-            1.  सूची में एक या अधिक छवि चुनें.
-            2.  **पूर्ण** चयन करें.
+            1.  <span data-ttu-id="46ab0-254">सूची में एक या अधिक छवि चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-254">Select one or more images in the list.</span></span>
+            2.  <span data-ttu-id="46ab0-255">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-255">Select **Done**.</span></span>
 
-    3. व्यय विवरण पर वापस जाने के लिए **पीछे** बटन चुनें.
+    3. <span data-ttu-id="46ab0-256">व्यय विवरण पर वापस जाने के लिए **पीछे** बटन चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-256">Select the **Back** button to return to the expense details.</span></span>
 
-18. अगर कंपनी की नीति में अतिथियों के लिए व्यय की ज़रूरत है, तो **अतिथि** चुनें और फिर इन चरणों का पालन करें:
+18. <span data-ttu-id="46ab0-257">अगर कंपनी की नीति में अतिथियों के लिए व्यय की ज़रूरत है, तो **अतिथि** चुनें और फिर इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-257">If company policy requires guests for the expense, select **Guests** , and then follow these steps:</span></span>
 
-    1. **अतिथि**, **पिछले अतिथि** या **सहकर्मी** चुनें.
-    2. इन चरणों में से एक का पालन करें:
+    1. <span data-ttu-id="46ab0-258">**अतिथि** , **पिछले अतिथि** या **सहकर्मी** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-258">Select **Guest** , **Previous guests** , or **Coworkers**.</span></span>
+    2. <span data-ttu-id="46ab0-259">इन चरणों में से एक का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-259">Follow one of these steps:</span></span>
 
-        - अगर आपने **अतिथि** चुना है तो इन चरणों का पालन करें:
+        - <span data-ttu-id="46ab0-260">अगर आपने **अतिथि** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-260">If you selected **Guest** , follow these steps:</span></span>
 
-            1. अतिथि का नाम दर्ज करें.
-            2. वैकल्पिक: अतिथि का संगठन और / या देश दर्ज करें.
-            3. वैकल्पिक: अतिथि का शीर्षक दर्ज करें.
-            4. **पूर्ण** चयन करें.
+            1. <span data-ttu-id="46ab0-261">अतिथि का नाम दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-261">Enter the name of the guest.</span></span>
+            2. <span data-ttu-id="46ab0-262">वैकल्पिक: अतिथि का संगठन और / या देश दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-262">Optional: Enter the organization and/or country of the guest.</span></span>
+            3. <span data-ttu-id="46ab0-263">वैकल्पिक: अतिथि का शीर्षक दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-263">Optional: Enter the title of the guest.</span></span>
+            4. <span data-ttu-id="46ab0-264">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-264">Select **Done**.</span></span>
 
-        - अगर आपने **पिछले अतिथि** चुना है तो इन चरणों का पालन करें:
+        - <span data-ttu-id="46ab0-265">अगर आपने **पिछले अतिथि** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-265">If you selected **Previous guests** , follow these steps:</span></span>
 
-            1. सूची में एक या एक से अधिक पिछले अतिथि चुनें. आप उन पिछले अतिथियों की सूची देखते हैं, जिन्हें आपने पिछली व्यय रिपोर्ट में जोड़ा है जो ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किए गए हैं. डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं. और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए. यदि आपका पिछला अतिथि सूची में नहीं है, तो ऑनलाइन ढूंढने के लिए **खोजें** चुनें. नाम से खोजें या फिर संगठन, देश या शीर्षक से खोजें.
-            2. **पूर्ण** चयन करें.
+            1. <span data-ttu-id="46ab0-266">सूची में एक या एक से अधिक पिछले अतिथि चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-266">Select one or more previous guests in the list.</span></span> <span data-ttu-id="46ab0-267">आप उन पिछले अतिथियों की सूची देखते हैं, जिन्हें आपने पिछली व्यय रिपोर्ट में जोड़ा है जो ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किए गए हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-267">You see a list of previous guests that you've added to previous expense reports that are loaded into your app for offline use.</span></span> <span data-ttu-id="46ab0-268">डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-268">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="46ab0-269">और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-269">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="46ab0-270">यदि आपका पिछला अतिथि सूची में नहीं है, तो ऑनलाइन ढूंढने के लिए **खोजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-270">If your previous guest isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="46ab0-271">नाम से खोजें या फिर संगठन, देश या शीर्षक से खोजें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-271">Search by name, or switch to search by organization, country, or title.</span></span>
+            2. <span data-ttu-id="46ab0-272">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-272">Select **Done**.</span></span>
 
-        - अगर आपने **सहकर्मी** चुना है तो इन चरणों का पालन करें:
+        - <span data-ttu-id="46ab0-273">अगर आपने **सहकर्मी** चुना है तो इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-273">If you selected **Coworkers** , follow these steps:</span></span>
 
-            1. सूची से एक या अधिक सहकर्मी चुनें. आपको सहकर्मियों की सूची दिखाई देती हैं जो ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड होती हैं. डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं. और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए. अगर आपका सहकर्मी सूची में नहीं है तो ऑनलाइन ढूंढने के लिए **खोजें** चुनें. नाम से खोजें या फिर कंपनी या शीर्षक से खोजें.
-            2. **पूर्ण** चयन करें.
+            1. <span data-ttu-id="46ab0-274">सूची से एक या अधिक सहकर्मी चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-274">Select one or more coworkers in the list.</span></span> <span data-ttu-id="46ab0-275">आपको सहकर्मियों की सूची दिखाई देती हैं जो ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड होती हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-275">You see a list of coworkers that are loaded into your app for offline use.</span></span> <span data-ttu-id="46ab0-276">डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-276">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="46ab0-277">और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-277">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="46ab0-278">अगर आपका सहकर्मी सूची में नहीं है तो ऑनलाइन ढूंढने के लिए **खोजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-278">If your coworker isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="46ab0-279">नाम से खोजें या फिर कंपनी या शीर्षक से खोजें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-279">Search by name, or switch to search by company or title.</span></span>
+            2. <span data-ttu-id="46ab0-280">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-280">Select **Done**.</span></span>
 
-    3. व्यय विवरण पर वापस जाने के लिए **पीछे** बटन चुनें.
+    3. <span data-ttu-id="46ab0-281">व्यय विवरण पर वापस जाने के लिए **पीछे** बटन चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-281">Select the **Back** button to return to the expense details.</span></span>
 
-19. यदि कंपनी की नीति के लिए ज़रूरी है कि व्यय का मदद लिखा जाए तो **मद लिखें** चुनें और फिर इन चरणों का पालन करें:
+19. <span data-ttu-id="46ab0-282">यदि कंपनी की नीति के लिए ज़रूरी है कि व्यय का मदद लिखा जाए तो **मद लिखें** चुनें और फिर इन चरणों का पालन करें:</span><span class="sxs-lookup"><span data-stu-id="46ab0-282">If company policy requires that the expense be itemized, select **Itemize** , and then follow these steps:</span></span>
 
-    1. मद लिखने के लिए पहले तिथि चुनें.
-    2. **सूचीकरण जोड़ें** चुनें.
-    3. व्यय सूचीकरण के लिए उपश्रेणी चुनें. आप उन ऑफ़लाइन उपश्रेणियों की सूची देखते हैं जिन्हें ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किया गया है. डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं. और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए. अगर आपकी उपश्रेणी सूची में नहीं है, तो ऑनलाइन ढूंढने के लिए **खोजें** चुनें. व्यय उपश्रेणी नाम से खोजें.
-    4. सूचीकरण के लिए लेनदेन राशि दर्ज करें.
-    5. अगर ज़रूर हो तो लेनदेन की तिथि बदलें.
-    6. **पूर्ण** चयन करें.
-    7. पूर्ववर्ती चरणों को तब तक दोहराएं जब तक कि आप चुनी गयी तिथि के लिए सभी सूचीकरण जोड़ना पूरा न कर लें.
-    8. अतिरिक्त दिनों के लिए आप अगले दिन में सूचीकरण कॉपी करने के लिए **अगले दिन में कॉपी करें** चुन सकते हैं. विकल्प के रूप में, आप मद बनाने के लिए तिथि चुन सकते हैं और फिर सूचीकरण जोड़ सकते हैं जैसा कि आपने पहली तिथि के लिए किया था.
-    9. व्यय मद बनाने के बाद, व्यय विवरण पर वापस जाने के लिए **पीछे** बटन चुनें.
+    1. <span data-ttu-id="46ab0-283">मद लिखने के लिए पहले तिथि चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-283">Select the first date to itemize.</span></span>
+    2. <span data-ttu-id="46ab0-284">**सूचीकरण जोड़ें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-284">Select **Add itemization**.</span></span>
+    3. <span data-ttu-id="46ab0-285">व्यय सूचीकरण के लिए उपश्रेणी चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-285">Select the subcategory for the expense itemization.</span></span> <span data-ttu-id="46ab0-286">आप उन ऑफ़लाइन उपश्रेणियों की सूची देखते हैं जिन्हें ऑफ़लाइन इस्तेमाल के लिए आपके अनुप्रयोग में लोड किया गया है.</span><span class="sxs-lookup"><span data-stu-id="46ab0-286">You see a list of expense subcategories that are loaded into your app for offline use.</span></span> <span data-ttu-id="46ab0-287">डिफ़ॉल्ट रूप से, 50 आइटम लोड किए जाते हैं, लेकिन डेवलपर इस संख्या को परिवर्तित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-287">By default, 50 items are loaded, but a developer can change this number.</span></span> <span data-ttu-id="46ab0-288">और जानकारी के लिए डेलवेपर्स को [मोबाइल प्लेटफॉर्म](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started) देखना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="46ab0-288">For more information, developers should see [Mobile platform](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/mobile-apps/platform/mobile-platform-getting-started).</span></span> <span data-ttu-id="46ab0-289">अगर आपकी उपश्रेणी सूची में नहीं है, तो ऑनलाइन ढूंढने के लिए **खोजें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-289">If your subcategory isn't in the list, select **Search** to do an online search.</span></span> <span data-ttu-id="46ab0-290">व्यय उपश्रेणी नाम से खोजें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-290">Search by expense subcategory name.</span></span>
+    4. <span data-ttu-id="46ab0-291">सूचीकरण के लिए लेनदेन राशि दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-291">Enter the transaction amount for the itemization.</span></span>
+    5. <span data-ttu-id="46ab0-292">अगर ज़रूर हो तो लेनदेन की तिथि बदलें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-292">Edit the transaction date if it's required.</span></span>
+    6. <span data-ttu-id="46ab0-293">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-293">Select **Done**.</span></span>
+    7. <span data-ttu-id="46ab0-294">पूर्ववर्ती चरणों को तब तक दोहराएं जब तक कि आप चुनी गयी तिथि के लिए सभी सूचीकरण जोड़ना पूरा न कर लें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-294">Repeat the preceding steps until you've finished adding all itemizations for the selected date.</span></span>
+    8. <span data-ttu-id="46ab0-295">अतिरिक्त दिनों के लिए आप अगले दिन में सूचीकरण कॉपी करने के लिए **अगले दिन में कॉपी करें** चुन सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-295">For additional days, you can select **Copy to next day** to copy the itemizations to the next day.</span></span> <span data-ttu-id="46ab0-296">विकल्प के रूप में, आप मद बनाने के लिए तिथि चुन सकते हैं और फिर सूचीकरण जोड़ सकते हैं जैसा कि आपने पहली तिथि के लिए किया था.</span><span class="sxs-lookup"><span data-stu-id="46ab0-296">Alternatively, you can select the date to itemize and then add itemizations as you did for the first date.</span></span>
+    9. <span data-ttu-id="46ab0-297">व्यय मद बनाने के बाद, व्यय विवरण पर वापस जाने के लिए **पीछे** बटन चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-297">After you've finished itemizing the expense, select the **Back** button to return to the expense details.</span></span>
 
-20. **व्यय रिपोर्ट** पृष्ठ पर वापस जाने के लिए **पीछे** बटन चुनें.
-21. पूर्ववर्ती चरणों को तब तक दोहराएं जब तक आप सभी व्यय जोड़ नहीं लेते हैं.
-22. **सबमिट करें** चुनें.
-23. स्वीकृत करने वाले के लिए कोई टिप्पणी दर्ज करें.
-24. **पूर्ण** चयन करें.
+20. <span data-ttu-id="46ab0-298">**व्यय रिपोर्ट** पृष्ठ पर वापस जाने के लिए **पीछे** बटन चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-298">Select the **Back** button to return to the **Expense report** page.</span></span>
+21. <span data-ttu-id="46ab0-299">पूर्ववर्ती चरणों को तब तक दोहराएं जब तक आप सभी व्यय जोड़ नहीं लेते हैं.</span><span class="sxs-lookup"><span data-stu-id="46ab0-299">Repeat the preceding steps until you've finished adding all expenses.</span></span>
+22. <span data-ttu-id="46ab0-300">**सबमिट करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-300">Select **Submit**.</span></span>
+23. <span data-ttu-id="46ab0-301">स्वीकृत करने वाले के लिए कोई टिप्पणी दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-301">Enter any comments for the approver.</span></span>
+24. <span data-ttu-id="46ab0-302">**पूर्ण** चयन करें.</span><span class="sxs-lookup"><span data-stu-id="46ab0-302">Select **Done**.</span></span>

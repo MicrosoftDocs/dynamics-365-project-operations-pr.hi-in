@@ -9,28 +9,28 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: ruhercul
 ms.openlocfilehash: 2ebde2b3c5bcfb5faa02ee476065ac34b1953432
-ms.sourcegitcommit: f255b2cbf290973ce62fe2c1c121bd1df15a7392
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "3928572"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077620"
 ---
-# <a name="resource-estimates"></a>संसाधन का अनुमान
+# <a name="resource-estimates"></a><span data-ttu-id="9a85c-103">संसाधन का अनुमान</span><span class="sxs-lookup"><span data-stu-id="9a85c-103">Resource estimates</span></span>
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+<span data-ttu-id="9a85c-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="9a85c-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-संसाधन के अनुमान चरणबद्ध प्रयासों से आते हैं, जो लागू मूल्य निर्धारण आयामों के साथ-साथ काम के रुकने की संरचना में परिभाषित होते हैं। आमतौर पर, गणना **प्रत्येक भूमिका x घंटे के लिए दर/घंटा है।** प्रत्येक संसाधन के लिए चरणबद्ध प्रयास संसाधन को असाइनमेंट रिकॉर्ड में रखा जाता है। मूल्य निर्धारण को पूर्व-निर्धारित मूल्य सूची में रखा जाता है। लागू मूल्य सूची के आधार पर इकाई रूपांतरण लागू किया जाता है।
+<span data-ttu-id="9a85c-105">संसाधन के अनुमान चरणबद्ध प्रयासों से आते हैं, जो लागू मूल्य निर्धारण आयामों के साथ-साथ काम के रुकने की संरचना में परिभाषित होते हैं।</span><span class="sxs-lookup"><span data-stu-id="9a85c-105">Resource estimates come from time-phased effort that is defined in the work breakdown structure along with applicable pricing dimensions.</span></span> <span data-ttu-id="9a85c-106">आमतौर पर, गणना **प्रत्येक भूमिका x घंटे के लिए दर/घंटा है।**</span><span class="sxs-lookup"><span data-stu-id="9a85c-106">Typically, the calculation is **rate/hr for each role x hours.**</span></span> <span data-ttu-id="9a85c-107">प्रत्येक संसाधन के लिए चरणबद्ध प्रयास संसाधन को असाइनमेंट रिकॉर्ड में रखा जाता है।</span><span class="sxs-lookup"><span data-stu-id="9a85c-107">The time-phased effort for each resource is stored in the resource assignment record.</span></span> <span data-ttu-id="9a85c-108">मूल्य निर्धारण को पूर्व-निर्धारित मूल्य सूची में रखा जाता है।</span><span class="sxs-lookup"><span data-stu-id="9a85c-108">The pricing is stored in a pre-defined price list.</span></span> <span data-ttu-id="9a85c-109">लागू मूल्य सूची के आधार पर इकाई रूपांतरण लागू किया जाता है।</span><span class="sxs-lookup"><span data-stu-id="9a85c-109">Unit conversion is applied based on the applicable price list.</span></span>
 
 ![संसाधन का अनुमान](./media/navigation12.png)
 
-## <a name="default-cost-price-and-cost-currency"></a>डिफ़ॉल्ट लागत मूल्य और लागत मुद्रा
+## <a name="default-cost-price-and-cost-currency"></a><span data-ttu-id="9a85c-111">डिफ़ॉल्ट लागत मूल्य और लागत मुद्रा</span><span class="sxs-lookup"><span data-stu-id="9a85c-111">Default cost price and cost currency</span></span>
 
-संगठनात्मक इकाई से लागत मूल्य डिफ़ॉल्ट हैं।
+<span data-ttu-id="9a85c-112">संगठनात्मक इकाई से लागत मूल्य डिफ़ॉल्ट हैं।</span><span class="sxs-lookup"><span data-stu-id="9a85c-112">Cost prices are defaulted from the Organizational Unit.</span></span>
 
-## <a name="default-bill-rate-and-sales-currency"></a>डिफ़ॉल्ट बिल दर और बिक्री मुद्रा
+## <a name="default-bill-rate-and-sales-currency"></a><span data-ttu-id="9a85c-113">डिफ़ॉल्ट बिल दर और बिक्री मुद्रा</span><span class="sxs-lookup"><span data-stu-id="9a85c-113">Default bill rate and sales currency</span></span>
 
-बिक्री मूल्य प्रति सौदा एक बार लागू होते हैं। बिक्री मूल्य सूची डिफ़ॉल्ट के लिए पदानुक्रम इस प्रकार है:
+<span data-ttu-id="9a85c-114">बिक्री मूल्य प्रति सौदा एक बार लागू होते हैं।</span><span class="sxs-lookup"><span data-stu-id="9a85c-114">Sales prices are applied once per deal.</span></span> <span data-ttu-id="9a85c-115">बिक्री मूल्य सूची डिफ़ॉल्ट के लिए पदानुक्रम इस प्रकार है:</span><span class="sxs-lookup"><span data-stu-id="9a85c-115">The hierarchy for sale price list defaulting is as follows:</span></span>
 
-1. संगठन
-2. ग्राहक
-3. कोट/अनुबंध
+1. <span data-ttu-id="9a85c-116">संगठन</span><span class="sxs-lookup"><span data-stu-id="9a85c-116">Organization</span></span>
+2. <span data-ttu-id="9a85c-117">ग्राहक</span><span class="sxs-lookup"><span data-stu-id="9a85c-117">Customer</span></span>
+3. <span data-ttu-id="9a85c-118">कोट/अनुबंध</span><span class="sxs-lookup"><span data-stu-id="9a85c-118">Quote/contract</span></span>

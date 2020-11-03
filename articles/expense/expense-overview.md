@@ -9,37 +9,37 @@ ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.author: stsporen
 ms.openlocfilehash: 6da831fef5dba060b8019d7689645405c7ebdbed
-ms.sourcegitcommit: 0874b3d89e1dc0e65a51cedb82bf8f80831ca0bb
+ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "3967368"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077580"
 ---
-# <a name="expense-home-page"></a>मुख पृष्ठ व्यय
+# <a name="expense-home-page"></a><span data-ttu-id="c555f-103">मुख पृष्ठ व्यय</span><span class="sxs-lookup"><span data-stu-id="c555f-103">Expense home page</span></span>
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+<span data-ttu-id="c555f-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="c555f-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
 
-Dynamics 365 Project Operations खर्चों को संसाधित करने की क्षमता का समर्थन करता है. नीतियों, लेनदेन श्रेणियों और अनुमोदनों के अनुकूलन योग्य कार्यप्रवाह का उपयोग करके परियोजनाओं के साथ या बिना ख़र्च प्रसंस्करण होता है.
+<span data-ttu-id="c555f-105">Dynamics 365 Project Operations खर्चों को संसाधित करने की क्षमता का समर्थन करता है.</span><span class="sxs-lookup"><span data-stu-id="c555f-105">Dynamics 365 Project Operations supports the ability to process expenses.</span></span> <span data-ttu-id="c555f-106">नीतियों, लेनदेन श्रेणियों और अनुमोदनों के अनुकूलन योग्य कार्यप्रवाह का उपयोग करके परियोजनाओं के साथ या बिना ख़र्च प्रसंस्करण होता है.</span><span class="sxs-lookup"><span data-stu-id="c555f-106">Expense processing occurs with or without projects by using a customizable workflow of policies, transaction categories, and approvals.</span></span>
 
-Project Operations में, ख़र्च के लिए दो समर्थित नियोजन मॉडल हैं: 
+<span data-ttu-id="c555f-107">Project Operations में, ख़र्च के लिए दो समर्थित नियोजन मॉडल हैं:</span><span class="sxs-lookup"><span data-stu-id="c555f-107">In Project Operations, there are two supported deployment models for Expense:</span></span> 
 
-- **पूर्ण**: **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** या **उत्पादन आदेश आधारित परिदृश्यों के लिए Project Operations** के लिए पूर्ण नियोजन उपलब्ध है.
-- **बुनियादी**: **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** और **हल्के नियोजन - प्रोफार्मा इन्वॉयसिंग के लिए समझौता** के लिए बुनियादी नियोजन उपलब्ध है.
+- <span data-ttu-id="c555f-108">**पूर्ण** : **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** या **उत्पादन आदेश आधारित परिदृश्यों के लिए Project Operations** के लिए पूर्ण नियोजन उपलब्ध है.</span><span class="sxs-lookup"><span data-stu-id="c555f-108">**Full** : Full deployment is available for **Project Operations for resource/non-stocked based scenarios** or **Project Operations for production order based scenarios**.</span></span>
+- <span data-ttu-id="c555f-109">**बुनियादी** : **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** और **हल्के नियोजन - प्रोफार्मा इन्वॉयसिंग के लिए समझौता** के लिए बुनियादी नियोजन उपलब्ध है.</span><span class="sxs-lookup"><span data-stu-id="c555f-109">**Basic** : Basic deployment is available for **Project Operations for resource/non-stocked based scenarios** and **Lite deployment – deal to proforma invoicing**.</span></span>
 
-## <a name="full"></a>पूर्ण 
-पूर्ण ख़र्च नियोजन एक पूर्ण नीति प्रवर्तन प्रदान करती है जिसमें नीतियां बनाने की क्षमता शामिल है, जैसे:
+## <a name="full"></a><span data-ttu-id="c555f-110">पूर्ण</span><span class="sxs-lookup"><span data-stu-id="c555f-110">Full</span></span> 
+<span data-ttu-id="c555f-111">पूर्ण ख़र्च नियोजन एक पूर्ण नीति प्रवर्तन प्रदान करती है जिसमें नीतियां बनाने की क्षमता शामिल है, जैसे:</span><span class="sxs-lookup"><span data-stu-id="c555f-111">Full Expense deployment provides a complete policy enforcement which includes the ability to create policies, such as:</span></span>
 
-  - खर्च की श्रेणी सीमाएँ
-  - यात्रा
-  - प्रति भत्ता
-  - क्रेडिट कार्ड का आयात
-  - ऑप्टिकल कैरेक्टर रेकॉग्निजन रसीद
+  - <span data-ttu-id="c555f-112">खर्च की श्रेणी सीमाएँ</span><span class="sxs-lookup"><span data-stu-id="c555f-112">Expense category limits</span></span>
+  - <span data-ttu-id="c555f-113">यात्रा</span><span class="sxs-lookup"><span data-stu-id="c555f-113">Travel</span></span>
+  - <span data-ttu-id="c555f-114">प्रति भत्ता</span><span class="sxs-lookup"><span data-stu-id="c555f-114">Per diem</span></span>
+  - <span data-ttu-id="c555f-115">क्रेडिट कार्ड का आयात</span><span class="sxs-lookup"><span data-stu-id="c555f-115">Credit card imports</span></span>
+  - <span data-ttu-id="c555f-116">ऑप्टिकल कैरेक्टर रेकॉग्निजन रसीद</span><span class="sxs-lookup"><span data-stu-id="c555f-116">Receipt optical character recognition</span></span>
 
-## <a name="basic"></a>मूल 
-बुनियादी ख़र्च नियोजन परिदृश्य आपको केवल किसी परियोजना के प्रति बुनियादी ख़र्चों को रिकॉर्ड करने की अनुमति देता है. 
+## <a name="basic"></a><span data-ttu-id="c555f-117">मूल</span><span class="sxs-lookup"><span data-stu-id="c555f-117">Basic</span></span> 
+<span data-ttu-id="c555f-118">बुनियादी ख़र्च नियोजन परिदृश्य आपको केवल किसी परियोजना के प्रति बुनियादी ख़र्चों को रिकॉर्ड करने की अनुमति देता है.</span><span class="sxs-lookup"><span data-stu-id="c555f-118">Basic Expense deployment scenario only allows you to record basic expenses against a project.</span></span> 
 
-अधिक जानकारी के लिए देखें [व्यय प्रविष्टि (लाइट)](basic-expense.md)
+<span data-ttu-id="c555f-119">अधिक जानकारी के लिए देखें [व्यय प्रविष्टि (लाइट)](basic-expense.md)</span><span class="sxs-lookup"><span data-stu-id="c555f-119">For more information, see [Expense entry (lite)](basic-expense.md)</span></span>
 
-## <a name="determine-your-expense-deployment"></a>अपने व्यय की परिनियोजन का निर्धारण करें
-यह निर्धारित करने के लिए कि क्या आप बुनियादी ख़र्च प्रबंधन नियोजन चला रहे/रही हैं, सत्यापित करें कि एड्रेस URL **.crm.dynamics.com** के साथ समाप्त होता है. 
+## <a name="determine-your-expense-deployment"></a><span data-ttu-id="c555f-120">अपने व्यय की परिनियोजन का निर्धारण करें</span><span class="sxs-lookup"><span data-stu-id="c555f-120">Determine your Expense deployment</span></span>
+<span data-ttu-id="c555f-121">यह निर्धारित करने के लिए कि क्या आप बुनियादी ख़र्च प्रबंधन नियोजन चला रहे/रही हैं, सत्यापित करें कि एड्रेस URL **.crm.dynamics.com** के साथ समाप्त होता है.</span><span class="sxs-lookup"><span data-stu-id="c555f-121">To determine if you're running the Basic Expense management deployment, verify that the address URL ends with **.crm.dynamics.com**.</span></span> 
