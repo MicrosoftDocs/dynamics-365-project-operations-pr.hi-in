@@ -1,26 +1,32 @@
 - name: Dynamics 365 Project Operations
   href: index.md
-- name: आरंभ करना
+- name: शुरू करें
   items:
     - name: अपना परिनियोजन प्रकार निर्धारित करें
       href: environment/determine-deployment-type.md
+    - name: Project Operations अद्यतन
+      href: whats-new/project-operations-updates.md
 - name: संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
   items:
-    - name: आरंभ करना
+    - name: शुरू करें
       items:
-        - name: पूर्वावलोकन सदस्यता के लिए साइन अप करें (संसाधन / गैर-स्टॉक आधारित)
+        - name: संसाधन/गैर-स्टॉक आधारित परिदृश्य परिनियोजन के लिए Project Operations ओवरव्यू
+          href: environment/project-operations-integrated-deployment-overview.md
+        - name: पूर्वावलोकन सदस्यता के लिए साइन अप करें
           href: environment/resource-sign-up-preview-subscription.md
-        - name: किसी और चीज को कॉन्फ़िगर करें
+        - name: Project Operations नेविगेट करें
+          href: environment/navigate-project-operations.md
+        - name: पूर्वावश्यकताओं को कॉन्फ़िगर करें
           items:
-            - name: एक नया LCS परियोजना प्रारंभ करें
+            - name: एक नई LCS परियोजना प्रारंभ करें
               href: environment/create-lcs-project.md
             - name: LCS परियोजना के लिए एक Azure सदस्यता जोड़ें
               href: environment/resource-add-azure-subscription-lcs-project.md
         - name: डेमो डेटा लागू करें
           items:
-            - name: किसी Finance क्लाउड-होस्टेड परिवेश में Project Operations डेमो डेटा लागू करें
+            - name: किसी Finance क्लाउड-होस्टेड परिवेश में डेमो डेटा लागू करें
               href: environment/resource-apply-finance-demo-data.md
-            - name: Project Operations के लिए Common Data Service में कॉन्फ़िगरेशन डेटा लागू करें
+            - name: Common Data Service में कॉन्फ़िगरेशन डेटा लागू करें
               href: environment/resource-apply-pro-setup-config-data.md
         - name: परिवेश परिनियोजित करें
           items:
@@ -30,9 +36,13 @@
               href: environment/security-model.md
             - name: प्रति कानूनी निकाय Project Operations एकीकरण को कॉन्फ़िगर करें
               href: environment/resource-configure-integration-per-legal-entity.md
-    - name: विक्रय प्रक्रिया
+    - name: नया क्या है
       items:
-        - name: विक्रय अवलोकन
+        - name: नवंबर 2020 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-nov-2020-resource-based.md
+    - name: परियोजना विक्रय प्रक्रिया
+      items:
+        - name: परियोजना विक्रय प्रक्रिया ओवरव्यू
           href: sales/sales-overview.md
         - name: सेटअप करें
           items:
@@ -42,104 +52,116 @@
               href: sales/sales-units-unit-groups.md
             - name: मुद्रा
               href: sales/sales-currency.md
-        - name: लीड प्रबंधित करें
+        - name: परियोजना लीड प्रबंधित करें
           href: sales/manage-leads.md
-        - name: अवसरों को प्रबंधित करें
+        - name: परियोजना अवसर प्रबंधित करें
           items:
-            - name: परियोजना-आधारित अवसरों को प्रबंधित करें
+            - name: परियोजना अवसर प्रबंधित करें ओवरव्यू
               href: sales/manage-project-based-opportunities.md
-            - name: अवसर हैडर
+            - name: परियोजना-आधारित अवसर सेटिंग
               href: sales/opportunity-header.md
-            - name: परियोजना-आधारित पंक्तियाँ
+            - name: परियोजना-आधारित अवसर पंक्तियाँ
               href: sales/project-based-lines.md
-            - name: एक परियोजना-आधारित अवसरों की प्रतिलिपि बनाएँ
-              href: sales/copy-project-based-opportunity.md
             - name: अवसरों से परियोजना कोट बनाएँ
               href: sales/link-quotes-opportunities.md
-            - name: कोई अवसर बंद करें
+            - name: परियोजना-आधारित अवसरों की प्रतिलिपि बनाएँ
+              href: sales/copy-project-based-opportunity.md
+            - name: परियोजना अवसर बंद करें
               href: sales/close-opportunity.md
-        - name: कोट प्रबंधित करें
+        - name: परियोजना कोट प्रबंधित करें
           items:
-            - name: मुख्य अवधारणाएँ
+            - name: परियोजना कोट प्रबंधित करें ओवरव्यू
+              href: pro/sales/manage-quotes-sales.md
+            - name: परियोजना कोट अवधारणाएँ
               href: sales/quotes-key-concepts.md
-            - name: एक परियोजना कोट पर सारांश जानकारी
+            - name: परियोजना कोट सेटिंग
               href: sales/quote-values-budget-limits-contract.md
-            - name: एक कोट पर कई ग्राहकों को प्रबंधित करें
+            - name: परियोजना कोट पर एकाधिक ग्राहक प्रबंधित करें
               href: sales/manage-multiple-customers-quote.md
-            - name: उत्पाद-आधारित कोट पंक्तियाँ
-              item:
-                - name: उत्पाद-आधारित कोट लागत
-                  href: sales/costing-product-based-quote-lines.md
-                - name: उत्पाद-आधारित कोट पंक्तियों के लिए जटिल इकाइयों का प्रबंधन करें
-                  href: sales/managing-complex-units-product-based-quote-lines.md
+            - name: कोट पर परियोजना मूल्य सूचियाँ प्रबंधित करें
+              href: sales/managing-project-price-lists.md
             - name: परियोजना-आधारित कोट पंक्तियाँ
               items:
-                - name: परियोजना मूल्य सूचियों का प्रबंधन करें
-                  href: sales/managing-project-price-lists.md
+                - name: परियोजना-आधारित कोट पंक्तियाँ ओवरव्यू
+                  href: sales/manage-quoted-values-budget-limits-quote-line.md
                 - name: परियोजना-आधारित कोट पंक्तियों पर कई ग्राहकों को प्रबंधित करें
                   href: sales/manage-multiple-customers-quote-line.md
-                - name: एक कोट पंक्ति पर अनुमान बनाएँ
+                - name: परियोजना कोट पंक्ति के प्रभार्य घटकों को कॉन्फ़िगर करें
+                  href: pro/sales/configure-chargeable-components-quote-line-sales.md
+                - name: कोट पंक्ति पर अनुमान बनाएँ
                   href: sales/create-estimate-quote-line.md
-                - name: किसी परियोजना के अनुमानों को कोट पंक्ति विवरण में आयात करें
+                - name: परियोजना-आधारित कोट पंक्ति पर परियोजना से अनुमान आयात करें
                   href: sales/import-estimate-quote-line.md
-                - name: 'कोट किए गए मान, ग्राहक बजट और सीमा-में रखी सीमाएँ प्रबंधित करें'
-                  href: sales/manage-quoted-values-budget-limits-quote-line.md
                 - name: परियोजना-आधारित कोट पंक्तियों पर इनवॉइस शेड्यूल
                   href: sales/invoice-schedule-quote-line.md
-            - name: परियोजना-आधारित कोट की प्रतिलिपि बनाएँ
+            - name: परियोजना कोट की प्रतिलिपि बनाएँ
               href: sales/lose-quote.md
-            - name: कोई कोट बंद करें
+            - name: परियोजना कोट बंद करें
               href: sales/win-quote.md
-        - name: अनुबंध प्रबंधित करें
+        - name: परियोजना अनुबंध प्रबंधित करें
           items:
-            - name: मुख्य अवधारणाएँ - परियोजना अनुबंध
+            - name: परियोजना अनुबंध प्रबंधित करें ओवरव्यू
+              href: pro/sales/manage-contracts-sales.md
+            - name: परियोजना अनुबंध अवधारणाएँ
               href: sales/contracts-key-concepts.md
-            - name: परियोजना अनुबंध सेटिंग्स
+            - name: परियोजना अनुबंध सेटिंग
               href: sales/project-contract-settings.md
+            - name: परियोजना अनुबंधों पर परियोजना मूल्य सूचियाँ प्रबंधित करें
+              href: sales/contracts-manage-project-price-lists.md
+            - name: परियोजना अनुबंधों पर कई ग्राहकों को प्रबंधित करें
+              href: sales/contracts-manage-project-price-lists.md
             - name: परियोजना-आधारित अनुबंध पंक्तियाँ
               items:
-                - name: परियोजना-आधारित अनुबंध पंक्ति के सशुल्क घटकों को कॉन्फ़िगर करें
+                - name: उत्पाद-आधारित अनुबंध पंक्तियाँ ओवरव्यू
+                  href: sales/manage-contract-values-project-based.md
+                - name: परियोजना-आधारित अनुबंध पंक्तियों पर कई ग्राहकों को प्रबंधित करें
+                  href: sales/manage-multiple-customers-contract-line.md
+                - name: परियोजना-आधारित अनुबंध पंक्ति के प्रभार्य घटकों को कॉन्फ़िगर करें
                   href: sales/configure-chargeable-contract-line.md
-                - name: किसी अनुमान को एक परियोजना-आधारित अनुबंध पंक्ति में आयात करें
+                - name: परियोजना-आधारित अनुबंध पंक्ति का अनुमान लगाएँ
+                  href: sales/create-estimate-contract-line.md
+                - name: परियोजना-आधारित अनुबंध पंक्ति पर परियोजना से अनुमान आयात करें
                   href: sales/import-estimate-project-contract-line.md
-                - name: परियोजना-आधारित अनुबंध पंक्ति पर इनवॉइस शेड्यूल बनाएँ
+                - name: परियोजना-आधारित अनुबंध पंक्तियों पर इनवॉइस शेड्यूल बनाएँ
                   href: sales/invoice-schedules-contract-line.md
-            - name: किसी परियोजना अनुबंध की पुष्टि करें
+            - name: परियोजना अनुबंध की पुष्टि करें
               href: pro/sales/confirm-contract-sales.md
+            - name: परियोजना अनुबंध की प्रतिलिपि बनाएँ
+              href: pro/sales/copy-project-contracts-sales.md
     - name: मूल्य निर्धारण और लागत
       items:
-        - name: मूल्य सूची सेटअप करें
-          href: pricing-costing/price-list-setup.md
-        - name: उत्पाद मूल्य सूचियाँ
-          href: pricing-costing/product-price-list.md
-        - name: परियोजना मूल्य सूचियाँ
+        - name: मूल्य सूची सेटअप
           items:
-            - name: विक्रय के लिए मूल्य सूची सेटअप करें
-              items:
-                - name: विक्रय मूल्य सूची सेटअप करें
-                  href: pricing-costing/sales-price-list-setup.md
-                - name: लेबर बिल की दरें तय करें
-                  href: pricing-costing/set-up-labor-bill-rate.md
-                - name: लेबर लागत की दरें तय करें
-                  href: pricing-costing/set-up-labor-cost-rate.md
-                - name: व्यय के लिए लागत और विक्रय दर निर्धारित करें
-                  href: pricing-costing/set-up-cost-sales-rates-expenses.md
-                - name: डिफ़ॉल्ट मूल्य सूची
-                  href: pricing-costing/default-project-sales-price-lists.md
-                - name: अनुमानों और वास्तविक के लिए लागत मूल्यों का समाधान करना
-                  href: pricing-costing/cost-price-resolution.md
+            - name: मूल्य सूचियाँ सेटअप करें
+              href: pricing-costing/price-list-setup.md
+            - name: उत्पाद मूल्य सूचियाँ
+              href: pricing-costing/product-price-list.md
+            - name: लेबर बिल की दरें तय करें
+              href: pricing-costing/set-up-labor-bill-rate.md
+            - name: लेबर लागत की दरें तय करें
+              href: pricing-costing/set-up-labor-cost-rate.md
+            - name: व्यय के लिए लागत और विक्रय दर सेट अप करें
+              href: pricing-costing/set-up-cost-sales-rates-expenses.md
         - name: डिफ़ॉल्ट और ओवरराइड
           items:
+            - name: डिफ़ॉल्ट मूल्य सूचियाँ
+              href: pricing-costing/default-project-sales-price-lists.md
+            - name: परियोजना विक्रय मूल्य सूचियाँ ओवरराइड करें
+              href: pricing-costing/override-project-sales-price-list-default.md
+            - name: अनुमानों और वास्तविक के लिए लागत मूल्यों का समाधान करें
+              href: pricing-costing/cost-price-resolution.md
             - name: अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करें
               href: pricing-costing/sales-price-resolution.md
-            - name: मूल्य सूचियाँ कॉपी करें
+            - name: मूल्य सूचियों की प्रतिलिपि बनाएँ
               href: pricing-costing/copy-price-lists.md
         - name: मूल्य निर्धारण आयाम
           items:
-            - name: मूल्य निर्धारण आयाम अवलोकन
+            - name: मूल्य निर्धारण आयाम ओवरव्यू
               href: pricing-costing/pricing-dimensions-overview.md
-            - name: मूल्य निर्धारण आयाम के रूप में मौजूदा क्षेत्र का उपयोग करें
-              href: pricing-costing/use-existing-field-pricing-dimension.md
+            - name: मूल्य निर्धारण आयाम के रूप में मौजूदा फ़ील्ड का उपयोग करें
+              items:
+                - name: मूल्य निर्धारण आयाम के रूप में Project Operations फ़ील्ड
+                  href: pricing-costing/use-existing-field-pricing-dimension.md
             - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड
               items:
                 - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड और निकाय बनाएँ
@@ -152,11 +174,11 @@
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: परियोजना प्रबंधन
       items:
-        - name: परियोजना प्रबंधन अवलोकन
+        - name: परियोजना प्रबंधन ओवरव्यू
           href: project-management/project-management-overview.md
         - name: परियोजना अवस्थाएँ
           href: project-management/project-stages.md
-        - name: UI नेविगेट करना
+        - name: उपयोगकर्ता इंटरफ़ेस नेविगेट करें
           href: project-management/navigate-ui.md
         - name: परियोजना की स्थिति को समझें
           href: project-management/understand-project-status.md
@@ -196,7 +218,7 @@
               href: project-management/collaboration-groups.md
         - name: डेवलपर नोट्स
           items:
-            - name: कॉपी परियोजना के साथ परियोजना टेम्प्लेट विकसित करें
+            - name: कॉपी परियोजना के साथ परियोजना टेम्पलेट विकसित करें
               href: project-management/dev-copy-project.md
     - name: संसाधन प्रबंधन
       items:
@@ -204,9 +226,9 @@
           href: resource-management/resource-management-key-concepts.md
         - name: बुकिंग बनाम असाइनमेंट
           href: resource-management/booking-vs-assignment.md
-        - name: संसाधन प्रबंधन मोड का अवलोकन
+        - name: संसाधन प्रबंधन मोड ओवरव्यू
           href: resource-management/resource-management-mode-overview.md
-        - name: शेड्यूल सहायक का अवलोकन
+        - name: शेड्यूल सहायक ओवरव्यू
           href: resource-management/schedule-assistant-overview.md
         - name: केंद्रीकृत संसाधन बुकिंग
           items:
@@ -222,7 +244,7 @@
               href: resource-management/review-proposed-resources.md
         - name: विकेंद्रीकृत संसाधन बुकिंग (हाइब्रिड)
           items:
-            - name: टीम के सदस्य ग्रिड से टीम के सदस्यों को जोड़ें
+            - name: टीम सदस्य ग्रिड से टीम सदस्यों को जोड़ें
               href: resource-management/add-team-members-grid.md
             - name: जेनेरिक संसाधन आवश्यकताओं को पूरा करना
               href: resource-management/generic-resource-requirement-fulfillment.md
@@ -238,25 +260,29 @@
           href: resource-management/skills-proficiency-models.md
         - name: संसाधन समन्वय
           items:
-            - name: संसाधन समन्वय अवलोकन
+            - name: संसाधन समन्वय ओवरव्यू
               href: resource-management/resource-reconciliation-overview.md
             - name: समय क्षेत्र प्रबंधित करें
               href: resource-management/manage-multiple-time-zones.md
+        - name: संसाधन उपयोग
+          items:
+            - name: संसाधन उपयोग ओवरव्यू
+              href: resource-management/resource-utilization-overview.md
     - name: समय
       items:
-        - name: समय अवलोकन
+        - name: समय ओवरव्यू
           href: time/time-entry-overview.md
         - name: समय प्रविष्टियाँ बनाएँ
           items:
-            - name: समय प्रविष्टि यूजर इंटरफेस व्यवहार
+            - name: समय प्रविष्टि उपयोगकर्ता इंटरफ़ेस
               href: time/ui-behavior-time.md
         - name: डेवलपर नोट्स
           items:
-            - name: साप्ताहिक समय प्रविष्टि ग्रिड कस्टमाइज़ करें
+            - name: साप्ताहिक समय प्रविष्टि ग्रिड अनुकूलित करें
               href: time/customize-weekly-time-entry-grid.md
     - name: व्यय
       items:
-        - name: व्यय का अवलोकन
+        - name: व्यय ओवरव्यू
           href: expense/expense-overview.md
         - name: परियोजनाओं के लिए व्यय प्रबंधन का अनुभव
           items:
@@ -304,50 +330,68 @@
               href: expense/expense-using-mobile.md
     - name: अनुमोदन
       items:
-        - name: अनुमोदनों का अवलोकन
+        - name: अनुमोदन ओवरव्यू
           href: approvals/approvals-overview.md
+        - name: डेवलपर नोट्स
+          items:
+            - name: अनुमोदन के लिए डेवलपर नोट्स
+              href: approvals/dev-notes-approvals.md
     - name: वास्तविक
       items:
-        - name: वास्तविक अवलोकन
+        - name: वास्तविक ओवरव्यू
           href: actuals/actuals-overview.md
         - name: सुधार जर्नल
           items:
-            - name: सुधार जर्नल की पुष्टि करना और बनाना
+            - name: सुधार जर्नल की पुष्टि करें और बनाएँ
               href: actuals/create-confirm-correction-journals.md
-    - name: प्रोफ़ॉर्मा इनवॉइस करना
+    - name: प्रोफ़ॉर्मा इनवॉइसिंग
       items:
-        - name: बिलिंग बैकलॉग प्रबंधित करें
+        - name: परियोजना बिलिंग बैकलॉग प्रबंधित करें
           href: proforma-invoicing/manage-billing-backlog.md
-        - name: एक मैनुअल प्रोफ़ॉर्मा इनवॉइस बनाएँ
+        - name: सीमा-में-रखें की स्थिति और मान्यताएँ प्रबंधित करें
+          href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
+        - name: एक प्रोफ़ॉर्मा परियोजना इनवॉइस मैनुअल रूप से बनाएँ
           href: proforma-invoicing/create-manual-proforma-invoice.md
-        - name: एक प्रोफ़ॉर्मा इनवॉइस की पुष्टि करें
+        - name: प्रोफ़ॉर्मा परियोजना इनवॉइस प्रबंधित करें
+          href: proforma-invoicing/manage-proforma-invoice.md
+        - name: प्रोफ़ॉर्मा परियोजना इनवॉइस की पुष्टि करें
           href: proforma-invoicing/confirm-proforma-invoice.md
-        - name: सुधार किए गए इनवॉइस
-          href: proforma-invoicing/corrective-invoices.md
-        - name: स्वचालित इनवॉइस निर्माण कॉन्फ़िगर करें
+        - name: परियोजना इनवॉइस स्वचालन कॉन्फ़िगर करें
           href: proforma-invoicing/configure-automated-invoice-creation.md
     - name: परियोजना लेखांकन
       items:
+        - name: वित्तीय आयाम डिफ़ॉल्ट
+          href: project-accounting/financial-dimension-defaults.md
         - name: परियोजना श्रेणियाँ कॉन्फ़िगर करें
           href: project-accounting/configure-project-categories.md
         - name: आंतरिक परियोजनाओं के लिए लेखांकन कॉन्फ़िगर करें
           href: project-accounting/configure-accounting-internal-projects.md
         - name: बिल करने योग्य परियोजनाओं के लिए लेखांकन कॉन्फ़िगर करें
           href: project-accounting/configure-accounting-billable-projects.md
+        - name: Project Operations में एकीकरण जर्नल
+          href: project-accounting/project-operations-integration-journal.md
 - name: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
   items:
-    - name: आरंभ करना
+    - name: शुरू करें
       items:
-        - name: पूर्वावलोकन सदस्यता के लिए साइन अप करें (लाइट)
+        - name: लाइट परिनियोजन ओवरव्यू
+          href: pro/project-operations-overview-lite.md
+        - name: पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट
           href: environment/lite-preview-subscription-sign-up.md
-        - name: Project Operations Lite परिनियोजन को परिनियोजित करें - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
+        - name: Project Operations परिनियोजित करें - लाइट
           href: environment/lite-deployment.md
-        - name: डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें
+        - name: डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट
           href: environment/lite-apply-demo-setup-config-data.md
         - name: सुरक्षा मॉडल
           href: environment/security-model.md
-    - name: विक्रय प्रक्रिया
+    - name: नया क्या है
       items:
+        - name: नया क्या है नवंबर 2020 - लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
+          href: pro/whats-new/whats-new-nov-2020-lite.md
+    - name: परियोजना विक्रय प्रक्रिया
+      items:
+        - name: परियोजना विक्रय प्रक्रिया ओवरव्यू
+          href: sales/sales-overview.md
         - name: सेटअप करें
           items:
             - name: उत्पाद
@@ -356,119 +400,149 @@
               href: sales/sales-units-unit-groups.md
             - name: मुद्रा
               href: sales/sales-currency.md
-        - name: लीड प्रबंधित करें
+        - name: परियोजना लीड प्रबंधित करें
           href: pro/sales/managing-leads-sales.md
-        - name: अवसरों को प्रबंधित करें
+        - name: परियोजना अवसर प्रबंधित करें
           items:
-            - name: परियोजना-आधारित अवसरों को प्रबंधित करें
+            - name: परियोजना अवसर ओवरव्यू
               href: sales/manage-project-based-opportunities.md
-            - name: अवसर हैडर
+            - name: परियोजना अवसर सेटिंग
               href: pro/sales/opportunity-header-sales.md
-            - name: परियोजना-आधारित पंक्तियाँ
-              href: pro/sales/project-based-lines-sales.md
-            - name: एक परियोजना-आधारित अवसरों की प्रतिलिपि बनाएँ
-              href: sales/copy-project-based-opportunity.md
-            - name: अवसरों से परियोजना कोट बनाएँ
-              href: sales/link-quotes-opportunities.md
-            - name: उत्पाद-आधारित अवसर पंक्तियाँ
+            - name: उत्पाद-आधारित अवसर पंक्तियाँ प्रबंधित करें
               href: pro/sales/product-based-lines-sales.md
-            - name: कोई अवसर बंद करें
+            - name: परियोजना-आधारित अवसर पंक्तियाँ प्रबंधित करें
+              href: pro/sales/project-based-lines-sales.md
+            - name: परियोजना अवसरों से कोट बनाएँ
+              href: sales/link-quotes-opportunities.md
+            - name: परियोजना-आधारित अवसरों की प्रतिलिपि बनाएँ
+              href: sales/copy-project-based-opportunity.md
+            - name: परियोजना अवसर बंद करें
               href: sales/close-opportunity.md
-        - name: कोट प्रबंधित करें
+        - name: परियोजना-आधारित कोट प्रबंधित करें
           items:
-            - name: परियोजना कोट मुख्य अवधारणाएँ
+            - name: परियोजना-आधारित कोट ओवरव्यू
+              href: pro/sales/manage-quotes-sales.md
+            - name: परियोजना कोट अवधारणाएँ
               href: pro/sales/quotes-key-concepts-sales.md
-            - name: एक परियोजना कोट (विक्रय) पर सारांश जानकारी
+            - name: परियोजना कोट सेटिंग
               href: pro/sales/quote-values-budget-limits-contract-sales.md
-            - name: परियोजना कोट पर कई ग्राहकों को प्रबंधित करना
+            - name: परियोजना कोट पर एकाधिक ग्राहक
               href: pro/sales/manage-multiple-customers-quote-sales.md
+            - name: परियोजना कोट पर परियोजना मूल्य सूचियाँ
+              href: pro/sales/manage-project-price-lists-sales.md
             - name: उत्पाद-आधारित कोट पंक्तियाँ
               items:
-                - name: उत्पाद-आधारित कोट लागत
+                - name: उत्पाद-आधारित कोट पंक्तियाँ ओवरव्यू
+                  href: pro/sales/product-based-quote-lines-sales.md
+                - name: उत्पाद-आधारित कोट पंक्तियाँ लागत
                   href: pro/sales/costing-product-based-quote-lines-sales.md
-                - name: 'उत्पाद-आधारित कोट पंक्तियों के लिए प्रति-उपयोगकर्ता, प्रति माह जैसी जटिल इकाइयाँ प्रबंधित करना'
+                - name: उत्पाद-आधारित कोट पंक्तियों के लिए जटिल इकाइयों का प्रबंधन करें
                   href: pro/sales/managing-complex-units-product-based-quote-lines-sales.md
             - name: परियोजना-आधारित कोट पंक्तियाँ
               items:
-                - name: परियोजना कोट पर परियोजना मूल्य सूचियाँ प्रबंधित करें
-                  href: pro/sales/manage-project-price-lists-sales.md
-                - name: परियोजना-आधारित कोट पंक्तियों पर कई ग्राहकों को प्रबंधित करना
+                - name: परियोजना-आधारित कोट पंक्तियाँ ओवरव्यू
+                  href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
+                - name: एकाधिक ग्राहकों को प्रबंधित करें
                   href: pro/sales/manage-multiple-customers-quote-line-sales.md
-                - name: किसी परियोजना-आधारित कोट पंक्ति में परियोजनाओं और कार्यों को मानचित्र करें
+                - name: मानचित्र परियोजनाएँ और कार्य
                   href: pro/sales/mapping-projects-tasks-quote-line-sales.md
+                - name: प्रभार्य घटकों को कॉन्फ़िगर करें
+                  href: pro/sales/configure-chargeable-components-quote-line-sales.md
                 - name: परियोजना-आधारित कोट पंक्ति का अनुमान लगाएँ
                   href: pro/sales/create-estimate-quote-line-sales.md
-                - name: परियोजना-आधारित कोट पंक्तियाँ (विक्रय)
-                  href: pro/sales/manage-quoted-values-budget-limits-quote-line-sales.md
-                - name: किसी परियोजना के अनुमानों को कोट पंक्ति विवरण में आयात करें
+                - name: परियोजना से अनुमान आयात करें
                   href: pro/sales/import-estimate-project-quote-sales.md
-                - name: परियोजना-आधारित कोट पंक्तियों पर इनवॉइस शेड्यूल
+                - name: इनवॉइस शेड्यूल प्रबंधित करें
                   href: sales/invoice-schedule-quote-line.md
-                - name: एक कोट पंक्ति के सशुल्क घटकों को कॉन्फ़िगर करें
-                  href: pro/sales/configure-chargeable-components-quote-line-sales.md
-        - name: परियोजना-आधारित कोट की प्रतिलिपि बनाएँ
-          href: sales/lose-quote.md
-        - name: कोई कोट बंद करें
-          href: pro/sales/win-quote-sales.md
-    - name: अनुबंध प्रबंधित करें
-      items:
-        - name: परियोजना अनुबंधों की मुख्य अवधारणाएँ
-          href: pro/sales/contracts-key-concepts-sales.md
-        - name: परियोजना अनुबंध फ़ील्ड और जानकारी
-          href: pro/sales/project-contract-settings-sales.md
-        - name: उत्पाद-आधारित अनुबंध पंक्तियाँ
+            - name: परियोजना-आधारित कोट की प्रतिलिपि बनाएँ
+              href: sales/lose-quote.md
+            - name: परियोजना-आधारित कोट बंद करें
+              href: pro/sales/win-quote-sales.md
+        - name: परियोजना-आधारित अनुबंध प्रबंधित करें
           items:
-            - name: उत्पाद-आधारित अनुबंध पंक्ति अवलोकन
-              href: pro/sales/product-based-contract-lines-overview-sales.md
-            - name: उत्पाद-आधारित अनुबंध पंक्ति लागत
-              href: pro/sales/cost-product-based-contract-lines-sales.md
-        - name: परियोजना-आधारित अनुबंध पंक्तियाँ
-          items:
-            - name: परियोजना-आधारित अनुबंध पंक्ति के सशुल्क घटकों को कॉन्फ़िगर करना
-              href: pro/sales/configure-chargeable-components-contract-line.md
-            - name: किसी अनुमान को एक परियोजना-आधारित अनुबंध पंक्ति में आयात करना
-              href: pro/sales/import-estimate-project-contract-line-sales.md
-            - name: परियोजना-आधारित अनुबंध पंक्ति पर इनवॉइस शेड्यूल बनाना
-              href: pro/sales/invoice-schedules-contract-line-sales.md
-        - name: परियोजना अनुबंधों की प्रतिलिपि करना
-          href: pro/sales/copy-project-contracts-sales.md
-        - name: किसी परियोजना अनुबंध की पुष्टि करें
-          href: pro/sales/confirm-contract-sales.md
-        - name: एडवांसेस और रिटेनर-आधारित अनुबंध
-          href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
+            - name: परियोजना-आधारित अनुबंध ओवरव्यू
+              href: pro/sales/manage-contracts-sales.md
+            - name: परियोजना अनुबंध अवधारणाएँ
+              href: pro/sales/contracts-key-concepts-sales.md
+            - name: परियोजना अनुबंध सेटिंग
+              href: pro/sales/project-contract-settings-sales.md
+            - name: परियोजना अनुबंधों पर एकाधिक ग्राहक
+              href: pro/sales/manage-multiple-customers-contract-sales.md
+            - name: परियोजना अनुबंधों पर परियोजना मूल्य सूचियाँ
+              href: sales/contracts-manage-project-price-lists.md
+            - name: उत्पाद-आधारित अनुबंध पंक्तियाँ
+              items:
+                - name: उत्पाद-आधारित अनुबंध पंक्ति ओवरव्यू
+                  href: pro/sales/product-based-contract-lines-overview-sales.md
+                - name: उत्पाद-आधारित अनुबंध पंक्ति लागत
+                  href: pro/sales/cost-product-based-contract-lines-sales.md
+                - name: उत्पाद-आधारित अनुबंध पंक्तियों के लिए जटिल इकाइयों का प्रबंधन करें
+                  href: pro/sales/manage-complex-units-product-based-contract-lines-sales.md
+            - name: परियोजना-आधारित अनुबंध पंक्तियाँ
+              items:
+                - name: उत्पाद-आधारित अनुबंध पंक्तियाँ ओवरव्यू
+                  href: pro/sales/manage-contract-values-project-based-sales.md
+                - name: एकाधिक अनुबंध ग्राहकों को प्रबंधित करें
+                  href: pro/sales/manage-multiple-customers-contract-line-sales.md
+                - name: परियोजना अनुबंध पंक्ति पर परियोजना और कार्य मैप करें
+                  href: pro/sales/mapping-projects-tasks-contract-line-sales.md
+                - name: परियोजना-आधारित अनुबंध पंक्ति पर प्रभार्य घटकों को कॉन्फ़िगर करें
+                  href: pro/sales/configure-chargeable-components-contract-line.md
+                - name: परियोजना-आधारित अनुबंध पंक्ति का अनुमान लगाएँ
+                  href: pro/sales/create-estimate-project-contract-line-sales.md
+                - name: परियोजना अनुबंध पंक्ति पर परियोजना से अनुमान आयात करें
+                  href: pro/sales/import-estimate-project-contract-line-sales.md
+                - name: परियोजना अनुबंध पंक्ति पर इनवॉइस शेड्यूल प्रबंधित करें
+                  href: pro/sales/invoice-schedules-contract-line-sales.md
+            - name: परियोजना अनुबंधों की प्रतिलिपि बनाएँ
+              href: pro/sales/copy-project-contracts-sales.md
+            - name: परियोजना अनुबंध की पुष्टि करें
+              href: pro/sales/confirm-contract-sales.md
+            - name: एडवांस और रिटेनर्स
+              items:
+                - name: एडवांसेस और रिटेनर-आधारित अनुबंध - लाइट
+                  href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
+                - name: रिटेनर शेड्यूल सेट अप करें - लाइट
+                  href: pro/sales/set-up-schedule-retainers-sales.md
+                - name: अनुबंध पर एक एड-हॉक उन्नत बनाएँ - लाइट
+                  href: pro/sales/create-ad-hoc-advance-sales.md
     - name: मूल्य निर्धारण और लागत
       items:
-        - name: मूल्य सूची सेटअप करें
-          href: pricing-costing/price-list-setup.md
-        - name: परियोजना मूल्य सूचियाँ
+        - name: मूल्य सूची सेटअप
           items:
-            - name: विक्रय के लिए मूल्य सूची सेटअप करें
-              items:
-                - name: विक्रय मूल्य सूची सेटअप करें
-                  href: pricing-costing/sales-price-list-setup.md
-                - name: लेबर बिल की दरें तय करना
-                  href: pro/pricing-costing/set-up-labor-bill-rate-sales.md
-                - name: लेबर बिल की लागत तय करना
-                  href: pro/pricing-costing/set-up-labor-cost-rates-sales.md
-                - name: कैटलॉग उत्पाद के लिए लागत और विक्रय दर निर्धारित करें
-                  href: pro/pricing-costing/set-up-cost-sales-rates-catalog-products.md
-                - name: व्यय के लिए लागत और विक्रय दर निर्धारित करें
-                  href: pricing-costing/set-up-cost-sales-rates-expenses.md
-                - name: डिफ़ॉल्ट मूल्य सूची
-                  href: pricing-costing/default-project-sales-price-lists.md
-                - name: अनुमानों और वास्तविक पर लागत मूल्यों का समाधान करना
-                  href: pro/pricing-costing/cost-price-resolution-sales.md
+            - name: मूल्य सूचियाँ सेटअप करें
+              href: pricing-costing/price-list-setup.md
+            - name: विक्रय मूल्य सूची सेटअप करें
+              href: pricing-costing/sales-price-list-setup.md
+            - name: लेबर बिल की दरें तय करें - लाइट
+              href: pro/pricing-costing/set-up-labor-bill-rate-sales.md
+            - name: लेबर लागत की दरें तय करें - लाइट
+              href: pro/pricing-costing/set-up-labor-cost-rates-sales.md
+            - name: कैटलॉग उत्पाद के लिए लागत और विक्रय दर सेट अप करें - लाइट
+              href: pro/pricing-costing/set-up-cost-sales-rates-catalog-products.md
+            - name: व्यय के लिए लागत और विक्रय दर सेट अप करें
+              href: pricing-costing/set-up-cost-sales-rates-expenses.md
         - name: डिफ़ॉल्ट और ओवरराइड
           items:
-            - name: अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करना
+            - name: डिफ़ॉल्ट मूल्य सूचियाँ
+              href: pricing-costing/default-project-sales-price-lists.md
+            - name: परियोजना विक्रय मूल्य सूचियाँ ओवरराइड करें
+              href: pricing-costing/override-project-sales-price-list-default.md
+            - name: अनुमानों और वास्तविक पर लागत मूल्यों का समाधान करें - लाइट
+              href: pro/pricing-costing/cost-price-resolution-sales.md
+            - name: अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करें - लाइट
               href: pro/pricing-costing/sales-price-resolution-sales.md
-            - name: मूल्य सूचियाँ कॉपी करें
+            - name: मूल्य सूचियों की प्रतिलिपि बनाएँ
               href: pricing-costing/copy-price-lists.md
         - name: मूल्य निर्धारण आयाम
           items:
-            - name: मूल्य निर्धारण आयाम के रूप में मौजूदा क्षेत्र का उपयोग करें
-              href: pricing-costing/use-existing-field-pricing-dimension.md
-            - name: मूल्य निर्धारण आयाम के रूप में कस्टम फ़ील्ड
+            - name: मूल्य निर्धारण आयाम ओवरव्यू
+              href: pricing-costing/pricing-dimensions-overview.md
+            - name: मूल्य निर्धारण आयाम के रूप में मौजूदा फ़ील्ड का उपयोग करें
+              items:
+                - name: मूल्य निर्धारण आयाम के रूप में मौजूदा फ़ील्ड का उपयोग करें
+                  href: pricing-costing/use-existing-field-pricing-dimension.md
+            - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड
               items:
                 - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड और निकाय बनाएँ
                   href: pricing-costing/create-custom-fields-entities-pricing-dimensions.md
@@ -480,7 +554,7 @@
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: परियोजना प्रबंधन
       items:
-        - name: परियोजना प्रबंधन अवलोकन
+        - name: परियोजना प्रबंधन ओवरव्यू
           href: project-management/project-management-overview.md
         - name: परियोजना अवस्थाएँ
           href: project-management/project-stages.md
@@ -528,9 +602,9 @@
           href: resource-management/resource-management-key-concepts.md
         - name: बुकिंग बनाम असाइनमेंट
           href: resource-management/booking-vs-assignment.md
-        - name: संसाधन प्रबंधन मोड का अवलोकन
+        - name: संसाधन प्रबंधन मोड ओवरव्यू
           href: resource-management/resource-management-mode-overview.md
-        - name: शेड्यूल सहायक का अवलोकन
+        - name: शेड्यूल सहायक ओवरव्यू
           href: resource-management/schedule-assistant-overview.md
         - name: केंद्रीकृत संसाधन बुकिंग
           items:
@@ -546,7 +620,7 @@
               href: resource-management/review-proposed-resources.md
         - name: विकेंद्रीकृत संसाधन बुकिंग (हाइब्रिड)
           items:
-            - name: टीम के सदस्य ग्रिड से टीम के सदस्यों को जोड़ें
+            - name: टीम सदस्य ग्रिड से टीम सदस्यों को जोड़ें
               href: resource-management/add-team-members-grid.md
             - name: जेनेरिक संसाधन आवश्यकताओं को पूरा करना
               href: resource-management/generic-resource-requirement-fulfillment.md
@@ -556,61 +630,81 @@
               href: resource-management/define-skills-proficiencies.md
             - name: संसाधन कैलेंडरों को परिभाषित करें
               href: resource-management/define-resource-calendars.md
-        - name: आबंटन विधियाँ बुक करना
+        - name: आबंटन विधियाँ बुक करें
           href: resource-management/booking-allocation-methods.md
         - name: कौशल और दक्षता मॉडल
           href: resource-management/skills-proficiency-models.md
         - name: संसाधन समन्वय
           items:
-            - name: संसाधन समन्वय अवलोकन
+            - name: संसाधन समन्वय ओवरव्यू
               href: resource-management/resource-reconciliation-overview.md
             - name: समय क्षेत्र प्रबंधित करें
               href: resource-management/manage-multiple-time-zones.md
+        - name: संसाधन उपयोग
+          items:
+            - name: संसाधन उपयोग ओवरव्यू
+              href: resource-management/resource-utilization-overview.md
     - name: समय
       items:
-        - name: समय अवलोकन
+        - name: समय ओवरव्यू
           href: time/time-entry-overview.md
         - name: समय प्रविष्टियाँ बनाएँ
           items:
-            - name: समय प्रविष्टि यूजर इंटरफेस व्यवहार
+            - name: समय प्रविष्टि उपयोगकर्ता इंटरफ़ेस
               href: time/ui-behavior-time.md
         - name: डेवलपर नोट्स
           items:
-            - name: साप्ताहिक समय प्रविष्टि ग्रिड कस्टमाइज़ करें
+            - name: साप्ताहिक समय प्रविष्टि ग्रिड अनुकूलित करें
               href: time/customize-weekly-time-entry-grid.md
     - name: व्यय
       items:
-        - name: व्यय का अवलोकन
+        - name: व्यय ओवरव्यू
           href: expense/expense-overview.md
         - name: व्यय-प्रविष्टि (लाइट)
           href: expense/basic-expense.md
     - name: अनुमोदन
       items:
-        - name: अनुमोदनों का अवलोकन
+        - name: अनुमोदन ओवरव्यू
           href: approvals/approvals-overview.md
+        - name: डेवलपर नोट्स
+          items:
+            - name: अनुमोदन के लिए डेवलपर नोट्स
+              href: approvals/dev-notes-approvals.md
     - name: वास्तविक
       items:
-        - name: वास्तविक अवलोकन
+        - name: वास्तविक ओवरव्यू
           href: actuals/actuals-overview.md
         - name: सुधार जर्नल
           items:
-            - name: सुधार जर्नल की पुष्टि करना और बनाना
+            - name: सुधार जर्नल की पुष्टि करें और बनाएँ
               href: actuals/create-confirm-correction-journals.md
-        - name: प्रोफ़ॉर्मा इनवॉइस करना
-          items:
-            - name: बिलिंग बैकलॉग प्रबंधित करें
-              href: proforma-invoicing/manage-billing-backlog.md
-            - name: एक मैनुअल प्रोफ़ॉर्मा इनवॉइस बनाना
-              href: pro/proforma-invoicing/create-manual-proforma-invoice-sales.md
-            - name: एक रिटेनर या एडवांस को इनवॉइस करें
-              href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
-            - name: सुधार किए गए इनवॉइस
-              href: proforma-invoicing/corrective-invoices.md
-            - name: स्वचालित इनवॉइस निर्माण कॉन्फ़िगर करें
-              href: proforma-invoicing/configure-automated-invoice-creation.md
-- name: स्टॉक/उत्पादन ऑर्डर परिदृश्यों के लिए परियोजना संचालन
+    - name: प्रोफ़ॉर्मा इनवॉइसिंग
+      items:
+        - name: परियोजना बिलिंग बैकलॉग प्रबंधित करें
+          href: pro/proforma-invoicing/manage-billing-backlog-sales.md
+        - name: सीमा-में-रखें की स्थिति और मान्यताएँ प्रबंधित करें
+          href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
+        - name: एक प्रोफ़ॉर्मा परियोजना इनवॉइस मैनुअल रूप से बनाएँ
+          href: pro/proforma-invoicing/create-manual-proforma-invoice-sales.md
+        - name: प्रोफ़ॉर्मा परियोजना इनवॉइस प्रबंधित करें
+          href: pro/proforma-invoicing/manage-proforma-invoice-sales.md
+        - name: एक रिटेनर या एडवांस को इनवॉइस करें
+          href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
+        - name: प्रोफ़ॉर्मा परियोजना इनवॉइस की पुष्टि करें
+          href: pro/proforma-invoicing/confirm-proforma-invoice-sales.md
+        - name: सुधारात्मक परियोजना इनवॉइस बनाएँ
+          href: pro/proforma-invoicing/corrective-invoices-sales.md
+        - name: परियोजना इनवॉइस स्वचालन कॉन्फ़िगर करें
+          href: pro/proforma-invoicing/configure-automated-invoice-creation-sales.md
+- name: स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
   items:
-    - name: परियोजना प्रबंधन और लेखांकन विवरण
+    - name: नया क्या है
+      items:
+        - name: नया क्या है नवंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-nov-2020-production-based.md
+    - name: स्टॉक/उत्पादन-आधारित परिदृश्य परिनियोजन के लिए Project Operations ओवरव्यू
+      href: prod-pma/project-operations-prod-order-deployment-overview.md
+    - name: परियोजना प्रबंधन और लेखांकन ओवरव्यू
       href: prod-pma/overview-project-management-accounting.md
     - name: इंटरकंपनी इनवॉइसिंग
       href: prod-pma/intercompany-invoicing.md
@@ -734,12 +828,14 @@
       href: prod-exp/personal-expenses.md
 - name: Dynamics 365 Project Service Automation
   items:
-    - name: Project Service Automation ओवरव्यू
+    - name: Project Service Automation
       href: psa/overview.md
     - name: नया क्या है
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 25, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-25.md
         - name: 'अद्यतन रिलीज़ 24, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-24.md
         - name: 'अद्यतन रिलीज़ 23, V3 में नया क्या है या क्या बदल गया है'
@@ -770,76 +866,88 @@
           href: psa/whats-new-v3-2020-wave1.md
         - name: Project Service Automation V3 में नया क्या है या क्या बदल गया है
           href: psa/whats-new-changed-v3.md
-    - name: Project Service Automation 3.x लागू करें
+    - name: अपने कार्यान्वयन की योजना बनाएँ (अनुप्रयोग संस्करण 3.x)
       items:
-        - name: कार्यान्वयन ओवरव्यू
+        - name: नमूना डेटा स्थापना
           href: psa/install-sample-data-3-x.md
-    - name: अपग्रेड करें
+        - name: परियोजना नियोजन और ट्रैकिंग मार्गदर्शिका
+          href: psa/implementation-guides/project-planning-tracking.md
+        - name: 'मूलभूत कोटिंग, मूल्य निर्धारण और बिलिंग मार्गदर्शिका.'
+          href: psa/implementation-guides/begin-quoting-pricing-billing.md
+        - name: 'उन्नत कोटिंग, मूल्य निर्धारण और बिलिंग मार्गदर्शिका'
+          href: psa/implementation-guides/adv-quoting-pricing-billing.md
+        - name: संसाधन प्रबंधन मार्गदर्शिका
+          href: psa/implementation-guides/resource-management-guide.md
+        - name: रिपोर्टिंग मार्गदर्शिका
+          href: psa/implementation-guides/reporting-guide.md
+    - name: Project Service Automation नवीनीकरण (ऐप संस्करण 3.x)
       items:
-        - name: Project Service Automation अपग्रेड (3.x)
+        - name: Project Service Automation नवीनीकरण
           href: psa/upgrade-psa-home-page.md
-        - name: अपग्रेड विकल्प - संस्करण 2.x या 1.x से संस्करण 3 में
+        - name: नवीनीकरण विकल्प - संस्करण 2.x या 1.x से संस्करण 3 में
           href: psa/upgrade-v3.md
         - name: डेवलपमेंट (3.x)
-          href: psa/developer-guides/overview-dev-notes-v3.x.md
-        - name: निकाय परिवर्तन
-          href: psa/developer-guides/entity-changes-v3.x.md
-        - name: समय और व्यय
-          href: psa/developer-guides/time-expense-changes-v3.x.md
-        - name: संसाधन प्रबंधन
-          href: psa/developer-guides/resource-management-changes-v3.x.md
-        - name: Project Service Automation v3.x में डेप्रिकेट किए गए वेब संसाधन
-          href: psa/developer-guides/web-resources-deprecated-v3.x.md
-    - name: परियोजना नियोजन
-      items:
-        - name: परियोजना नियोजन का ओवरव्यू
-          href: psa/project-planning.md
-        - name: परियोजना शेड्यूल
-          href: psa/project-creating.md
-        - name: परियोजना लागत और आय
-          href: psa/project-estimating.md
-        - name: विक्रय अनुमान और परियोजना
-          href: psa/project-leveraging.md
-        - name: परियोजना प्रगति और लागत उपभोग
-          href: psa/project-tracking.md
-        - name: परियोजना टेम्पलेट
-          href: psa/project-templates.md
-        - name: परियोजना अवस्थाएँ
-          href: psa/project-stages.md
-        - name: परियोजना सेटिंग
-          href: psa/project-settings.md
-    - name: मूल्य निर्धारण और लागत आयाम
-      items:
-        - name: मूल्य निर्धारण और लागत आयाम ओवरव्यू
-          href: psa/pricing-costing-dimensions.md
-        - name: कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ
-          href: psa/custompricingdimensionssolution.md
-        - name: कस्टम फ़ील्ड और निकाय बनाएँ
-          href: psa/create-custom-fields-entities.md
-        - name: कस्टम फ़ील्ड को मूल्य सेटअप और लेन-देन वाली निकाय में जोड़ें
-          href: psa/field-references.md
-        - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड सेटअप
-          href: psa/set-up-pricing-dimensions.md
-        - name: नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन एट्रिब्यूटों को अपडेट करें
-          href: psa/update-plug-in-attributes.md
-        - name: तत्वों का मूल्य निर्धारण आयामों के रूप में पुनः उपयोग करें
           items:
-            - name: मूल्य निर्धारण आयाम के रूप में Project Service में एक मौजूदा फ़ील्ड का उपयोग करें
-              href: psa/use-existing-field.md
-            - name: मूल्य निर्धारण आयाम के रूप में बुक करने योग्य संसाधन का उपयोग करें
-              href: psa/bookable-resource-pricing-dimension.md
-            - name: मूल्य निर्धारण के रूप में लेन-देन श्रेणी का उपयोग करें
-              href: psa/transaction-category-pricing-dimension.md
-        - name: परियोजना में कई भूमिका वाले बुक करने योग्य संसाधन
-          href: psa/bookable-resource-multiple-roles.md
-        - name: मूल्य निर्धारण आयाम बंद करें
-          href: psa/turn-off-pricing-dimension.md
-    - name: 'कोट करना, मूल्य निर्धारण और बिलिंग'
+            - name: विकास (ऐप संस्करण 3.x)
+              href: psa/developer-guides/overview-dev-notes-v3.x.md
+            - name: निकाय परिवर्तन
+              href: psa/developer-guides/entity-changes-v3.x.md
+            - name: समय और व्यय
+              href: psa/developer-guides/time-expense-changes-v3.x.md
+            - name: संसाधन प्रबंधन
+              href: psa/developer-guides/resource-management-changes-v3.x.md
+            - name: Project Service Automation v3.x में अप्रचलित वेब संसाधन
+              href: psa/developer-guides/web-resources-deprecated-v3.x.md
+    - name: Project Service Automation (3.x)
       items:
-        - name: 'कोट करने, मूल्य निर्धारण और बिलिंग का ओवरव्यू'
-          href: psa/quote-bill-price.md
-        - name: कोट करना
+        - name: परियोजना नियोजन
           items:
+            - name: परियोजना नियोजन मुख पृष्ठ
+              href: psa/project-planning.md
+            - name: परियोजना शेड्यूल
+              href: psa/project-creating.md
+            - name: परियोजना लागत और आय
+              href: psa/project-estimating.md
+            - name: विक्रय अनुमान और परियोजना
+              href: psa/project-leveraging.md
+            - name: परियोजना प्रगति और लागत उपभोग
+              href: psa/project-tracking.md
+            - name: परियोजना टेम्पलेट
+              href: psa/project-templates.md
+            - name: परियोजना अवस्थाएँ
+              href: psa/project-stages.md
+            - name: परियोजना सेटिंग
+              href: psa/project-settings.md
+        - name: मूल्य निर्धारण और लागत आयाम
+          items:
+            - name: मूल्य निर्धारण और लागत आयाम मुख पृष्ठ
+              href: psa/pricing-costing-dimensions.md
+            - name: कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ
+              href: psa/custompricingdimensionssolution.md
+            - name: कस्टम फ़ील्ड और निकाय बनाएँ
+              href: psa/create-custom-fields-entities.md
+            - name: कस्टम फ़ील्ड को मूल्य सेटअप और लेन-देन वाली निकाय में जोड़ें
+              href: psa/field-references.md
+            - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड सेटअप
+              href: psa/set-up-pricing-dimensions.md
+            - name: नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन एट्रिब्यूट अद्यतन करें
+              href: psa/update-plug-in-attributes.md
+            - name: मूल्य निर्धारण आयाम के रूप में मौजूदा फ़ील्ड का उपयोग करें
+              items:
+                - name: मूल्य निर्धारण आयाम के रूप में Project Service में एक मौजूदा फ़ील्ड का उपयोग करें
+                  href: psa/use-existing-field.md
+                - name: मूल्य निर्धारण आयाम के रूप में बुक करने योग्य संसाधन का उपयोग करें
+                  href: psa/bookable-resource-pricing-dimension.md
+                - name: मूल्य निर्धारण के रूप में लेन-देन श्रेणी का उपयोग करें
+                  href: psa/transaction-category-pricing-dimension.md
+            - name: परियोजना में कई भूमिका वाले बुक करने योग्य संसाधन
+              href: psa/bookable-resource-multiple-roles.md
+            - name: मूल्य निर्धारण आयाम बंद करें
+              href: psa/turn-off-pricing-dimension.md
+        - name: 'कोट करना, मूल्य निर्धारण और बिलिंग'
+          items:
+            - name: 'कोट करने, मूल्य निर्धारण और बिलिंग मुख पृष्ठ'
+              href: psa/quote-bill-price.md
             - name: विक्रय प्रक्रियाएँ
               href: psa/basic-sales-process.md
             - name: इकाई समूह और इकाइयाँ
@@ -850,21 +958,15 @@
               href: psa/basic-quote-lines.md
             - name: उत्पाद-आधारित कोट पंक्तियाँ
               href: psa/product-based-quote-lines.md
-            - name: परियोजना कोट का विश्लेषण करना
-              href: psa/basic-analyzing-quotes.md
-        - name: मूल्य निर्धारण
-          items:
             - name: परियोजना मूल्य निर्धारण
               href: psa/basic-pricing.md
             - name: उत्पाद कैटलॉग मूल्य निर्धारण
-              hreF: psa/product-catalog-pricing.md
+              href: psa/product-catalog-pricing.md
             - name: व्यावसायिक लेनदेन
               href: psa/basic-business-transactions.md
             - name: अनुमान
               href: psa/estimates.md
-        - name: बिलिंग
-          items:
-            - name: परियोजना कोट का विश्लेषण करना
+            - name: परियोजना कोट का विश्लेषण करें
               href: psa/basic-analyzing-quotes.md
             - name: पूर्व में अनुमोदित समय या व्यय प्रविष्टियों को रीकॉल करें
               href: psa/recall-approved.md
@@ -880,71 +982,71 @@
               href: psa/invoicing.md
             - name: एकाधिक-मुद्रा परिदृश्य
               href: psa/advanced-currency.md
-    - name: परियोजना संसाधन
-      items:
-        - name: परियोजना संसाधन ओवरव्यू
-          href: psa/resource-management.md
-        - name: कार्य के लिए जेनेरिक बुक करने-योग्य संसाधन असाइन करें और संसाधन आवश्यकताएं जेनरेट करें
-          href: psa/assign-generic-bookable-resource.md
-        - name: किसी परियोजना टीम में बुक करने-योग्य नामित संसाधन को बुक करें और कार्य असाइन करें
-          href: psa/assign-named-bookable-resource.md
-        - name: किसी कार्य में एक संसाधन असाइन करें
-          href: psa/FAQ-assign-resources-to-tasks.md
-        - name: संसाधनों की आवश्यकताओं से नामित संसाधनों को बुक करें
-          href: psa/book-named-resource.md
-        - name: संसाधन बुकिंग और ये कार्य असाइनमेंट से कैसे संबंधित हैं
-          href: psa/FAQ-bookings-and-assignments.md
-        - name: कोई संसाधन अनुरोध सबमिट करें
-          href: psa/submit-resource-request.md
-        - name: किसी प्रस्तावित संसाधन को स्वीकार या अस्वीकार करें
-          href: psa/accept-reject-proposed-resource.md
-        - name: संसाधनों के लिए सशुल्क उपयोग देखें
-          href: psa/FAQ-utilization-view.md
+        - name: परियोजना संसाधन
+          items:
+            - name: रिसोर्सिंग परियोजना मुख पृष्ठ
+              href: psa/resource-management.md
+            - name: कार्य के लिए जेनेरिक बुक करने-योग्य संसाधन असाइन करें और संसाधन आवश्यकताएं जेनरेट करें
+              href: psa/assign-generic-bookable-resource.md
+            - name: किसी परियोजना टीम में बुक करने-योग्य नामित संसाधन को बुक करें और कार्य असाइन करें
+              href: psa/assign-named-bookable-resource.md
+            - name: कार्य को संसाधन असाइन करें
+              href: psa/FAQ-assign-resources-to-tasks.md
+            - name: संसाधन आवश्यकताओं से नामित संसाधनों को बुक करें
+              href: psa/book-named-resource.md
+            - name: संसाधन बुकिंग और ये कार्य असाइनमेंट से कैसे संबंधित हैं
+              href: psa/FAQ-bookings-and-assignments.md
+            - name: कोई संसाधन अनुरोध सबमिट करें
+              href: psa/submit-resource-request.md
+            - name: किसी प्रस्तावित संसाधन को स्वीकार या अस्वीकार करें
+              href: psa/accept-reject-proposed-resource.md
+            - name: संसाधनों के लिए सशुल्क उपयोग देखें
+              href: psa/FAQ-utilization-view.md
         - name: बुकिंग और असाइनमेंट का मिलान करें
           href: psa/reconcile-booking-assignment.md
-    - name: संसाधन प्रबंधन
-      items:
-        - name: संसाधन का प्रबंधन मुख पृष्ठ
-          href: psa/resource-management-home-page.md
-        - name: संसाधनों का प्रबंधन करें
-          href: psa/manage-resources.md
-        - name: मुख्य अवधारणाएँ
-          href: psa/reports-key-concepts.md
-        - name: पूर्णता संसाधन अनुरोध
-          href: psa/resource-management-fulfill-requests.md
-        - name: संसाधनों का प्रस्ताव
-          href: psa/resource-management-propose-resources.md
-        - name: संसाधन बुक करना
-          href: psa/resource-management-book-resources-scheduleboard.md
-        - name: आबंटन विधियाँ बुक करना
-          href: psa/FAQ-allocation-methods.md
-        - name: सॉफ़्ट बुक आवश्यकताएँ
-          href: psa/resource-management-softbook-requirements.md
-        - name: किसी संसाधन को सॉफ़्ट बुक करें
-          href: psa/FAQ-soft-book.md
-        - name: शेड्यूल बोर्ड से एक परियोजना बुकिंग बनाएँ
-          href: psa/FAQ-project-booking-schedule-board.md
-        - name: कौशल और दक्षता मॉडल
-          href: psa/resource-management-skills-proficiency.md
-        - name: संसाधन प्रबंधन संबंधी सामान्य प्रश्न
-          href: psa/resource-management-faq.md
-    - name: रिपोर्टिंग
-      items:
-        - name: रिपोर्टिंग ओवरव्यू
-          href: psa/reports-reporting-dynamics-365-project-service.md
-        - name: डैशबोर्ड्स
-          href: psa/reports-dashboards.md
-        - name: Project Service Automation डेटा मॉडल के साथ कार्य करना
-          href: psa/reports-working-project-service-data-model.md
-    - name: समय प्रविष्टि
-      items:
-        - name: समय प्रविष्टियाँ बनाएँ
-          href: psa/time-entries.md
-        - name: समय प्रविष्टि कैलेंडर
-          href: psa/time-entry-calendar.md
-        - name: साप्ताहिक समय प्रविष्टि अनुकूलित करें
-          href: psa/time-entry-extensibility-v3.md
-    - name: सामान्य प्रश्न और समस्या निवारण
+        - name: संसाधन प्रबंधन
+          items:
+            - name: संसाधन प्रबंधन मुख पृष्ठ
+              href: psa/resource-management-home-page.md
+            - name: संसाधनों का प्रबंधन करें
+              href: psa/manage-resources.md
+            - name: मुख्य अवधारणाएँ
+              href: psa/reports-key-concepts.md
+            - name: पूर्णता संसाधन अनुरोध
+              href: psa/resource-management-fulfill-requests.md
+            - name: संसाधन प्रस्तावित करें
+              href: psa/resource-management-propose-resources.md
+            - name: संसाधन बुक करें
+              href: psa/resource-management-book-resources-scheduleboard.md
+            - name: आबंटन विधियाँ बुक करें
+              href: psa/FAQ-allocation-methods.md
+            - name: सॉफ़्ट-बुक आवश्यकताएँ
+              href: psa/resource-management-softbook-requirements.md
+            - name: संसाधन को सॉफ़्ट बुक करें
+              href: psa/FAQ-soft-book.md
+            - name: शेड्यूल बोर्ड से एक परियोजना बुकिंग बनाएँ
+              href: psa/FAQ-project-booking-schedule-board.md
+            - name: कौशल और दक्षता मॉडल
+              href: psa/resource-management-skills-proficiency.md
+            - name: संसाधन प्रबंधन संबंधी सामान्य प्रश्न
+              href: psa/resource-management-faq.md
+        - name: रिपोर्टिंग
+          items:
+            - name: रिपोर्टिंग मुख पृष्ठ
+              href: psa/reports-reporting-dynamics-365-project-service.md
+            - name: डैशबोर्ड्स
+              href: psa/reports-dashboards.md
+            - name: Project Service Automation डेटा मॉड्यूल
+              href: psa/reports-working-project-service-data-model.md
+        - name: समय प्रविष्टियाँ
+          items:
+            - name: समय प्रविष्टियाँ बनाएँ
+              href: psa/time-entries.md
+            - name: समय प्रविष्टि कैलेंडर
+              href: psa/time-entry-calendar.md
+            - name: साप्ताहिक समय प्रविष्टि अनुकूलित करें
+              href: psa/time-entry-extensibility-v3.md
+    - name: सामान्य प्रश्न और समस्या निवारण (3.x)
       items:
         - name: व्यय लागत वास्तविक पर मूल्य को शून्य पर डिफ़ॉल्ट क्यों बनाया गया है?
           href: psa/FAQ-zero-price-expense-cost-actuals.md
@@ -966,79 +1068,81 @@
               href: psa/FAQ-soft-book-in-web-app.md
             - name: मैं प्रोजेक्ट अवस्थाएँ व्यवसाय प्रोसेस फ़्लो कैसे अनुकूलित करूँ?
               href: psa/FAQ-customize-bpf.md
-            - name: कार्य विश्लेषण संरचना के लिए अपग्रेड संबंधी विचार
+            - name: कार्य विश्लेषण संरचना के लिए नवीनीकरण संबंधी विचार
               href: psa/upgrade-considerations-tasks.md
         - name: श्वेत पत्र
           href: psa/white-papers.md
         - name: व्यवस्थापक मार्गदर्शिका
-          href: psa/admin-guide.md
-        - name: स्थापित और अनुकूलित करें
-          href: psa/install-customize.md
-        - name: डेमो डेटा का उपयोग करें
-          href: psa/use-demo-data.md
-        - name: Project Service Automation को कॉन्फ़िगर करें
           items:
-            - name: Project Service Automation अनुप्रयोग को कॉन्फ़िगर करें
-              href: psa/configure.md
-            - name: समय इकाइयाँ सेट अप करें
-              href: psa/set-up-time-units.md
-            - name: मुद्रा और विनिमय दर सेट अप करें
-              href: psa/set-up-currencies-exchange-rates.md
-            - name: संगठनात्मक इकाईयाँ बनाएँ
-              href: psa/create-organizational-units.md
-            - name: इनवॉइस आवृत्तियाँ सेट अप करें
-              href: psa/set-up-invoice-frequencies.md
-            - name: लेनदेन श्रेणियाँ कॉन्फ़िगर करें
-              href: psa/configure-transaction-categories.md
-            - name: व्यय श्रेणियाँ कॉन्फ़िगर करें
-              href: psa/configure-expense-categories.md
-            - name: उत्पाद कैटलॉग आइटम बनाएँ
-              href: psa/create-product-catalog-items.md
-            - name: एक मूल्य सूची बनाएँ
-              href: psa/create-price-list.md
-        - name: संसाधन
-          items:
+            - name: व्यवस्थापक मार्गदर्शिका (Project Service)
+              href: psa/admin-guide.md
+            - name: स्थापित और अनुकूलित करें
+              href: psa/install-customize.md
+            - name: डेमो डेटा का उपयोग करें
+              href: psa/use-demo-data.md
+            - name: Project Service ऐप कॉन्फ़िगर करें
+              items:
+                - name: Project Service कॉन्फ़िगर करें
+                  href: psa/configure.md
+                - name: समय इकाइयाँ सेट अप करें
+                  href: psa/set-up-time-units.md
+                - name: मुद्रा और विनिमय दर सेट अप करें
+                  href: psa/set-up-currencies-exchange-rates.md
+                - name: संगठनात्मक इकाईयाँ बनाएँ
+                  href: psa/create-organizational-units.md
+                - name: इनवॉइस आवृत्तियाँ सेट अप करें
+                  href: psa/set-up-invoice-frequencies.md
+                - name: लेनदेन श्रेणियाँ कॉन्फ़िगर करें
+                  href: psa/configure-transaction-categories.md
+                - name: व्यय श्रेणियाँ कॉन्फ़िगर करें
+                  href: psa/configure-expense-categories.md
+                - name: उत्पाद कैटलॉग आइटम बनाएँ
+                  href: psa/create-product-catalog-items.md
+                - name: एक मूल्य सूची बनाएँ
+                  href: psa/create-price-list.md
             - name: संसाधन सेट अप करें
-              href: psa/set-up-resources.md
-            - name: संसाधन जोड़ें
-              href: psa/add-resources.md
-            - name: संसाधन कौशल जोड़ें
-              href: psa/add-resource-skills.md
-            - name: दक्षता मॉडल सेट अप करें
-              href: psa/set-up-proficiency-models.md
-            - name: संसाधन भूमिकाएँ जोड़ें
-              href: psa/add-resource-roles.md
-            - name: संसाधन भूमिकाएँ कॉन्फ़िगर करें
-              href: psa/configure-resource-roles.md
-            - name: कौशल को संसाधनों के साथ संबद्ध करें
-              href: psa/associate-skills-with-resources.md
-            - name: कौशल को संसाधनों के साथ संबद्ध करें
-              href: psa/associate-skills-with-resource-roles.md
-            - name: कार्य घंटों का एक टेम्पलेट बनाएँ
-              href: psa/create-work-hours-template.md
-            - name: किसी संसाधन में कैलेंडर लागू करें
-              href: psa/apply-calendar-resource.md
-            - name: अतिरिक्त सेटिंग कॉन्फ़िगर करें
-              href: psa/configure-additional-parameters-settings.md
-            - name: Project Finder Mobile सक्षम करें
-              href: psa/enable-project-finder-mobile-app-features.md
-        - name: संसाधन प्रबंधन
+              items:
+                - name: संसाधन सेट अप करें (Project Service)
+                  href: psa/set-up-resources.md
+                - name: संसाधन जोड़ें
+                  href: psa/add-resources.md
+                - name: संसाधन कौशल जोड़ें
+                  href: psa/add-resource-skills.md
+                - name: दक्षता मॉडल सेट अप करें
+                  href: psa/set-up-proficiency-models.md
+                - name: संसाधन भूमिकाएँ जोड़ें
+                  href: psa/add-resource-roles.md
+                - name: संसाधन भूमिकाएँ कॉन्फ़िगर करें
+                  href: psa/configure-resource-roles.md
+                - name: कौशल को संसाधनों के साथ संबद्ध करें
+                  href: psa/associate-skills-with-resources.md
+                - name: कौशल को संसाधनों के साथ संबद्ध करें
+                  href: psa/associate-skills-with-resource-roles.md
+                - name: कार्य घंटों का एक टेम्पलेट बनाएँ
+                  href: psa/create-work-hours-template.md
+                - name: किसी संसाधन में कैलेंडर लागू करें
+                  href: psa/apply-calendar-resource.md
+                - name: अतिरिक्त सेटिंग कॉन्फ़िगर करें
+                  href: psa/configure-additional-parameters-settings.md
+                - name: Project Finder Mobile सक्षम करें
+                  href: psa/enable-project-finder-mobile-app-features.md
+        - name: संसाधन प्रबंधक मार्गदर्शिका
           items:
-            - name: संसाधन प्रबंधक मार्गदर्शिका
+            - name: संसाधन प्रबंधक मार्गदर्शिका (Project Service)
               href: psa/resource-manager-guide.md
             - name: संसाधन अनुरोध प्रबंधित करें
               href: psa/manage-resource-requests.md
-            - name: किसी परियोजना के लिए संसाधन शेड्यूल करें
+            - name: परियोजना के लिए संसाधन शेड्यूल करें
               href: psa/schedule-resources-project.md
             - name: संसाधन की उपलब्धता देखें
               href: psa/view-resource-availability.md
-            - name: संसाधन का उपयोग देखें
+            - name: संसाधन उपयोग देखें
               href: psa/view-resource-utilization.md
             - name: Universal Resource Scheduling (URS)
               href: 'https://docs.microsoft.com/dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling'
-        - name: परियोजना प्रबंधन
+        - name: परियोजना प्रबंधक मार्गदर्शिका
           items:
-            - name: परियोजना प्रबंधक मार्गदर्शिका
+            - name: परियोजना प्रबंधक मार्गदर्शिका (Project Service)
               href: psa/project-manager-guide.md
             - name: कार्य अनुमान प्रदान करें
               href: psa/provide-estimates-project-during-sales-process.md
@@ -1074,21 +1178,21 @@
               href: psa/view-dashboards-reports.md
             - name: Microsoft Project में कार्य की योजना बनाने के लिए ऐड-इन का उपयोग करें
               href: psa/add-plan-work-microsoft-project.md
-        - name: खाता प्रबंधन
+        - name: खाता प्रबंधक मार्गदर्शिका
           items:
-            - name: खाता प्रबंधक मार्गदर्शिका
+            - name: खाता प्रबंधक मार्गदर्शिका (Project Service)
               href: psa/account-manager-guide.md
             - name: एक ग्राहक खाता बनाएँ
               href: psa/create-customer-account.md
             - name: परियोजना अवसर बनाएँ
               href: psa/create-project-opportunity.md
-            - name: कोई परियोजना कोट बनाएँ
+            - name: परियोजना कोट बनाएँ
               href: psa/create-project-quote.md
-            - name: एक परियोजना अनुबंध बनाएँ
+            - name: परियोजना अनुबंध बनाएँ
               href: psa/create-project-contract.md
-        - name: समय और व्यय
+        - name: 'समय, व्यय और सहयोग'
           items:
-            - name: 'समय, व्यय और सहयोग'
+            - name: 'समय, व्यय और सहयोग मार्गदर्शिका (Project Service)'
               href: psa/time-expense-collaboration-guide.md
             - name: ऐप प्राप्त करें
               href: psa/get-apps.md
@@ -1106,12 +1210,13 @@
               href: psa/allow-someone-else-enter-time-entry-expense.md
             - name: टाइम ऑफ़ शेड्यूल करें
               href: psa/schedule-time-off.md
-            - name: 'Office 365 समूह का उपयोग करके सहयोग करें] (collaborate-project-team-members-office-365-groups.md'
+            - name: Office 365 समूह का उपयोग करके सहयोग करें
+              href: psa/collaborate-project-team-members-office-365-groups.md
             - name: Project Finder mobile से परियोजना खोजें
               href: psa/find-next-project-finder-mobile-app.md
             - name: परियोजना संसाधन हब मार्गदर्शिका
               href: psa/project-resource-hub-users-guide.md
-        - name: डेवलपर नोट्स
+        - name: डेवलपर के लिए नोट्स (ऐप संस्करण 2.x)
           items:
             - name: निकायों के लिए कस्टम प्रपत्र जोड़ें
               href: psa/developer-guides/add-custom-qoi-forms-v2.x.md
