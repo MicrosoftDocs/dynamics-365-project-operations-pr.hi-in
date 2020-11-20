@@ -3,7 +3,7 @@ title: एक कार्य और प्रोजेक्ट टीम क�
 description: यह विषय कार्यों और प्रोजेक्ट टीमों के लिए सामान्य संसाधनों की बुकिंग के बारे में जानकारी प्रदान करता है।
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 12/11/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ca0999ae5413d824dd1384fe2262e5226695a5f8
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 19761b3e570ad664522e832069a8ac50fffead64
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077715"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4127070"
 ---
 # <a name="assign-generic-bookable-resources-to-a-task-and-generate-resource-requirements"></a>किसी भी कार्य के लिए जेनेरिक बुक करने-योग्य संसाधनों को असाइन करें और संसाधनों की ज़रूरतों को उत्पन्न करें 
 

@@ -3,7 +3,7 @@ title: संसाधन भूमिकाएँ जोड़ें
 description: Project Service संसाधनों को भूमिका असाइन करने का तरीका
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 47bb6bc5e52553db77d6fe0eda2181069ddcbc2b
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 378c43e206f9295d445b1323b1c67f9d573df713
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077896"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129590"
 ---
 # <a name="add-resource-roles-project-service"></a>संसाधन भूमिकाएँ जोड़ना (Project Service)
 
@@ -31,7 +31,7 @@ ms.locfileid: "4077896"
 
 प्रत्येक भूमिका के लिए लक्षित उपयोग दर सेट करें. जब आप परियोजना के लिए स्टाफ की व्यवस्था करते हैं और वास्तविक परिस्थितियों का विश्लेषण करते हैं, तो ये सेटिंग्स संसाधन उपलब्धता और उपयोग निर्धारित करती हैं.  
   
-1.  उस संसाधन भूमिका पर जाएँ जिसके लिए आप उपयोग को कॉन्फ़िगर करना चाहते हैं ( **Project Service > संसाधन भूमिका** ).  
+1.  उस संसाधन भूमिका पर जाएँ जिसके लिए आप उपयोग को कॉन्फ़िगर करना चाहते हैं (**Project Service > संसाधन भूमिका**).  
   
 2.  स्क्रीन के ऊपर संसाधन भूमिका के आगे स्थित नीचे तीर पर क्लिक करें.  
   

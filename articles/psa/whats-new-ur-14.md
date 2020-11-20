@@ -3,7 +3,7 @@ title: Project Service Automation के अपडेट रिलीज़ 14, 
 description: यह टॉपिक Project Service Automation अपडेट रिलीज़ 14 V3 में क्या नया है, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/29/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 00ce5c68b1141c88671f0534f7500bf0d7eebd8e
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b811bf7ccfb626e6944801dffa943d2afab0c5e8
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077658"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124820"
 ---
 # <a name="project-service-automation-update-release-14-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 14, V3
 हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).

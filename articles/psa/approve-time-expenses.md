@@ -3,7 +3,7 @@ title: समय और व्यय अनुमोदित करें
 description: Project Service में समय और व्यय को अनुमोदित करने का तरीका
 author: revathiMuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6b5fca4ab1eb4c907c3fd6cca5e2adf79fad9590
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: ce126815dce37055fb364512a9a14c828d9b0c32
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077878"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4127115"
 ---
 # <a name="approve-time-and-expenses-project-service"></a>समय और व्यय अनुमोदित करना (Project Service)
 
@@ -35,7 +35,7 @@ ms.locfileid: "4077878"
   
 2.  अनुमोदित करने के लिए आइटम पर क्लिक करें.  
   
-3.  **समय प्रविष्टियाँ** , **व्यय प्रविष्टियाँ** और **अनुपस्थिति/अवकाश** टैब पर, प्रत्येक आइटम की समीक्षा करें और आवश्यकतानुसार परिवर्तन करें.  
+3.  **समय प्रविष्टियाँ**, **व्यय प्रविष्टियाँ** और **अनुपस्थिति/अवकाश** टैब पर, प्रत्येक आइटम की समीक्षा करें और आवश्यकतानुसार परिवर्तन करें.  
   
 4.  आइटम अनुमोदित करने के लिए, उसका चयन करें और **अनुमोदन करें** पर क्लिक करें. आप एक ही बार में एकाधिक आइटम्स का चयन करके उन्हें अनुमोदित कर सकते हैं.  
   

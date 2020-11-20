@@ -5,15 +5,15 @@ author: stsporen
 manager: Annbe
 ms.date: 10/08/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 190ad9e1f9ced690aee953ed992bf7aa2844c3b3
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: d9c14f0550d4429ac794607a3fb61717566207e4
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077599"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124640"
 ---
 # <a name="extending-time-entries"></a>समय प्रविष्टियाँ विस्तारित करें
 
@@ -33,7 +33,7 @@ Dynamics 365 Project Operations में विस्तार योग्य 
 
 ## <a name="add-custom-time-entries-for-your-own-use"></a><a name="add"></a>अपने इस्तेमाल के लिए कस्टम समय प्रविष्टियां जोड़ें
 
-समय प्रविष्टियां कई परिदृश्यों में उपयोग की जाने वाली एक मुख्य निकाय हैं. अप्रैल वेव 1 2020 में, TESA मुख्य समाधान पेश किया गया था. TESA एक **सेटिंग्स** निकाय और एक नया **समय प्रविष्टि उपयोगकर्ता** सुरक्षा भूमिका प्रदान करता है. नए क्षेत्रों, **msdyn_start** और **msdyn_end** , जिनका **msdyn_duration** से सीधा संबंध है, को भी शामिल किया गया था. नया निकाय, सुरक्षा भूमिका और फ़ील्ड कई उत्पादों में समय के लिए अधिक एकीकृत पहुंच की अनुमति देता है.
+समय प्रविष्टियां कई परिदृश्यों में उपयोग की जाने वाली एक मुख्य निकाय हैं. अप्रैल वेव 1 2020 में, TESA मुख्य समाधान पेश किया गया था. TESA एक **सेटिंग्स** निकाय और एक नया **समय प्रविष्टि उपयोगकर्ता** सुरक्षा भूमिका प्रदान करता है. नए क्षेत्रों, **msdyn_start** और **msdyn_end**, जिनका **msdyn_duration** से सीधा संबंध है, को भी शामिल किया गया था. नया निकाय, सुरक्षा भूमिका और फ़ील्ड कई उत्पादों में समय के लिए अधिक एकीकृत पहुंच की अनुमति देता है.
 
 
 ### <a name="time-source-entity"></a>समय स्रोत निकाय

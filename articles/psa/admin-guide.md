@@ -3,7 +3,7 @@ title: व्यवस्थापक मार्गदर्शिका
 description: Project Service व्यवस्थापन के लिए चरण-दर-चरण निर्देश
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7462a57ad750f255cfb48dbbeda7f899f51ecfa7
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 7bce13430f56b4c72453c90a259e3ffb3a63d8a3
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077737"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129544"
 ---
 # <a name="administrator-guide-project-service"></a>व्यवस्थापक मार्गदर्शिका (Project Service)
 
@@ -36,7 +36,7 @@ ms.locfileid: "4077737"
 - [Project Service Automation कॉन्फ़िगर करें](configure.md)
 - [समय इकाइयाँ सेट अप करें](set-up-time-units.md)
 - [मुद्रा और विनिमय दर सेट अप करें](set-up-currencies-exchange-rates.md)
-- [संगठनात्मक इकाइयाँ बनाएँ](create-organizational-units.md)
+- [संगठनात्मक इकाईयाँ बनाएँ](create-organizational-units.md)
 - [इनवॉइस आवृत्तियाँ सेट अप करें](set-up-invoice-frequencies.md)
 - [लेनदेन श्रेणियाँ कॉन्फ़िगर करें](configure-transaction-categories.md)
 - [व्यय श्रेणियाँ कॉन्फ़िगर करें](configure-expense-categories.md)

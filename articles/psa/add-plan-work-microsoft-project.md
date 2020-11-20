@@ -3,7 +3,7 @@ title: Microsoft Project में अपने कार्य की योज
 description: यह विषय Microsoft Project Service के लिए Microsoft प्रोजेक्ट ऐड-इन को जोड़ना, कॉन्फ़िगर और उपयोग कैसे करना है के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 04/06/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d988419ae5a9d57532902d2553cd7de147e27c1
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 6bc74442866caccc02e53afc913a55aab81f9629
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077830"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4129680"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Microsoft Project में आपके कार्य की योजना बनाने के लिए Project Service Automation ऐड-इन का उपयोग करें
 

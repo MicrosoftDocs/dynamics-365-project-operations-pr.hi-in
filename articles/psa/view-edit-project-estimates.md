@@ -3,7 +3,7 @@ title: परियोजना अनुमान देखें और सं
 description: Project Service में परियोजना अनुमान देखने और संपादित करने का तरीका
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d6f8375b71ef17319924e3a57800b1218f7258ee
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 34f0c1d85311dc6ec00e892ee899bc4dad0eed32
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077776"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4125855"
 ---
 # <a name="view-and-edit-project-estimates-project-service"></a>परियोजना अनुमान देखना और संपादित करना (Project Service)
 
@@ -37,7 +37,7 @@ ms.locfileid: "4077776"
   
 3.  स्क्रीन के ऊपर पट्टी में, परियोजना नाम के आगे स्थित नीचे तीर का चयन करें और उसके बाद **परियोजना अनुमान** पर क्लिक करें.  
   
-4.  **समय-चरण द्वारा** में, कौन से परियोजना अनुमान प्रदर्शित करने हैं, इसे बदलने के लिए **प्रयास** , **लागत** या **विक्रय** पर क्लिक करें.  
+4.  **समय-चरण द्वारा** में, कौन से परियोजना अनुमान प्रदर्शित करने हैं, इसे बदलने के लिए **प्रयास**, **लागत** या **विक्रय** पर क्लिक करें.  
   
 5.  व्यय को जोड़ने या हटाने के लिए, **ग्रिड दृश्य दिखाएँ** पर क्लिक करें. नया व्यय बनाने के लिए, **नया व्यय** पर क्लिक करें. व्यय को हटाने के लिए, उसे सूची से चुनें और उसके बाद **व्यय हटाएँ** पर क्लिक करें. व्ययों को जोड़ना या हटाना पूर्ण करने के बाद, **सहेजें** पर क्लिक करें.  
   

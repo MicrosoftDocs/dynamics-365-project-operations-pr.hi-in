@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 24538ed1d610a0cae4c2badc0fd33c2f738a8338
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 8738a4743554704ef76807c81fdefcd74e668e1b
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077644"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124775"
 ---
 # <a name="define-skills-and-proficiencies"></a>कौशल और दक्षता को परिभाषित करें
 
@@ -38,7 +38,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 1. प्रवीणता मॉडल बनाने के लिए **संसाधन** \> **प्रवीणता मॉडल** पर जाएं और फिर **नया** का चुनाव करें।
 2. नए रेटिंग मॉडल में न्यूनतम रेटिंग का मान, अधिकतम रेटिंग का मान और जिस इकाई को रेटिंग दी जा रही है, उसके बारे में जानकारी दें।
-3. **रेटिंग मान** सब-ग्रिड में आप न्यूनतम से लेकर अधिकतम तक रेटिंग के विभिन्न मान परिभाषित कर सकते हैं।
+3. **रेटिंग मान** सबग्रिड में आप न्यूनतम से लेकर अधिकतम तक रेटिंग के विभिन्न मान परिभाषित कर सकते हैं.
 
 
-ये रेटिंग मान **संसाधनों की आवश्यकताएँ** , **शेड्यूल बोर्ड** , और **शेड्यूल असिस्टेंट** फ़िल्टर पर दर्शाये जाते हैं।
+ये रेटिंग मान **संसाधनों की आवश्यकताएँ**, **शेड्यूल बोर्ड**, और **शेड्यूल असिस्टेंट** फ़िल्टर पर दर्शाये जाते हैं।
