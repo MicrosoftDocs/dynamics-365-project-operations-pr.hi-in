@@ -3,7 +3,7 @@ title: Project Service Automation के अपडेट रिलीज़ 18, 
 description: यह विषय Project Service Automation अपडेट रिलीज़ 18, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 04/27/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1d7ea200531dd24d56a829f879e3a2532a9b38dc
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 3a6d3ee21ecf742b2253132f3d3cc1cb2b57af75
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077654"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4119870"
 ---
 # <a name="project-service-automation-update-release-18-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 18, V3
 
@@ -36,7 +36,7 @@ ms.locfileid: "4077654"
 
 **समय और व्यय**
 
-- सुधार किया गया: **रिकॉल करें** , **अनुरोध करें** और **अनुमोदन रद्द करें** प्रवाह अस्पष्ट त्रुटि संदेशों के साथ अपवाद दिखाता है.
+- सुधार किया गया: **रिकॉल करें**, **अनुरोध करें** और **अनुमोदन रद्द करें** प्रवाह अस्पष्ट त्रुटि संदेशों के साथ अपवाद दिखाता है.
 - सुधार किया गया: जब **अनुमोदन रद्द करें** किसी व्यय के लिए विफल हो जाता है, तो एक प्रासंगिक अपवाद त्रुटि नहीं दिखाई जाती है.
 - सुधार किया गया: टाइम एंट्री ग्रिड अक्टूबर में डेलाइट सेविंग टाइम (DST) स्विच के बाद ऑस्ट्रेलिया में गैर-कार्य दिवसों को गलत तरीके से संभालती है.
 - सुधार किया गया: गलत डिफ़ॉल्टिंग लॉजिक व्ययों के सबमिशन को रोकता है.
@@ -60,4 +60,4 @@ ms.locfileid: "4077654"
 
 **Sales**
 
-- सुधार किया गया: जब समय प्रविष्टियों का फिर से अनुमोदन ( **अनुमोदन करें > रद्द करें >** फिर से अनुमोदन करें) किया जाता है, तो एक डुप्लिकेट नॉन-चार्जिएबल एक्चुअल बन जाता है.
+- सुधार किया गया: जब समय प्रविष्टियों का फिर से अनुमोदन (**अनुमोदन करें > रद्द करें >** फिर से अनुमोदन करें) किया जाता है, तो एक डुप्लिकेट नॉन-चार्जिएबल एक्चुअल बन जाता है.

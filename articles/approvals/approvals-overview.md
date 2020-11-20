@@ -5,15 +5,15 @@ author: stsporen
 manager: Annbe
 ms.date: 10/05/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 37994422e9146765076fdbb77f5c763b4f1d0802
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 14c6914cf9b5fb52e7554e51604e79f0920064df
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077560"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123830"
 ---
 # <a name="approvals-overview"></a>अनुमोदनों का अवलोकन
 
@@ -27,7 +27,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 ## <a name="approve-an-entry"></a>प्रविष्टि स्वीकृत करें
 **स्वीकृति** प्रपत्र आपको विभिन्न दृश्यों में स्विच करने की अनुमति देता है, जिससे आप विभिन्न प्रकार की स्वीकृतियां देख सकें.
   
-1. **स्वीकृति** प्रपत्र पर जाएं और **व्यय** , **समय** या **वापसी** चुनें.
+1. **स्वीकृति** प्रपत्र पर जाएं और **व्यय**, **समय** या **वापसी** चुनें.
 2. प्रत्येक स्वीकृति की समीक्षा करें और उसका चयन करें जिसे आप स्वीकृत करना चाहते/चाहती हैं.
 3. चुनी गयी प्रविष्टियां स्वीकृत करने के लिए **स्वीकृत करें** चुनें.
 सिस्टम इन प्रविष्टियों को संसाधित करेगा और वास्तविक आंकड़े या बुकिंग बनाएगा.

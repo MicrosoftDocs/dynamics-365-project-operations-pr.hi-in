@@ -3,7 +3,7 @@ title: संसाधन प्रबंधक मार्गदर्शि�
 description: Project Service में संसाधन प्रबंधन मार्गदर्शिका
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 4a26a384dfaf6b974ed35105434152e655ff6444
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 04ee87e5b1a2cf96434f4862e07d2b85bad9eace
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077908"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124010"
 ---
 # <a name="resource-manager-guide-project-service"></a>संसाधन प्रबंधक मार्गदर्शिका (Project Service)
 

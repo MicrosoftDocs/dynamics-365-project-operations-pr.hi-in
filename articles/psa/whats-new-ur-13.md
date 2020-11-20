@@ -3,7 +3,7 @@ title: Project Service Automation के अपडेट रिलीज़ 13, 
 description: यह टॉपिक Project Service Automation अपडेट रिलीज़ 13, V3 में क्या नया है, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 435b70255dd0053a496362c9ced9e742cfcca843
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: bcb05b640966e760a7a74a306a3f0a39594baed8
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077660"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121625"
 ---
 # <a name="project-service-automation-update-release-13-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 13, V3
 हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
@@ -48,11 +48,11 @@ ms.locfileid: "4077660"
 
 - परियोजना प्रबंधन
 
-     - फ़िक्स्ड: टीम सदस्य को असाइन करते समय नल संदर्भ अपवाद, जब **TransactionType** , **इकाई** और **DefaultGroup** के लिए सेटअप जानकारी उपलब्ध न हो.
+     - फ़िक्स्ड: टीम सदस्य को असाइन करते समय नल संदर्भ अपवाद, जब **TransactionType**, **इकाई** और **DefaultGroup** के लिए सेटअप जानकारी उपलब्ध न हो.
 
 - Sales
 
      - फ़िक्स्ड: डुप्लिकेट ट्रांजेक्शन टाइप रिकॉर्ड एक त्रुटि लौटाते हैं जब भूमिका मूल्य रिकॉर्ड बनाया जाता है.
-     - फ़िक्स्ड: अवसरों, उद्धरणों, उत्पादों के ऑर्डर और परियोजना-आधारित पंक्ति सब-ग्रिड के लिए **नया मौका** , **उद्धरण** , **ऑर्डर पंक्ति** और **उत्पाद जोड़ें** के लिए अतिरिक्त बटन आदेश में दिखाई देते हैं.
+     - ठीक किया गया: **नया अवसर**, **कोट**, **ऑर्डर पंक्ति**, और **उत्पाद जोड़ें** के लिए अतिरिक्त बटन, अवसर, कोट, उत्पाद ऑर्डर और परियोजना-आधारित पंक्ति सबग्रिड के आदेशों में दिखाई देते हैं.
 
 

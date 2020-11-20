@@ -3,7 +3,7 @@ title: एक मूल्य सूची बनाएँ
 description: Project Service में मूल्य सूची बनाने का तरीका
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: bf75286fd1837e27a9b6053ccb21b60771ee197d
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 08d93ad86d782922df6b22370749628ddbdc0718
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077736"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122030"
 ---
 # <a name="create-a-price-list-project-service"></a>मूल्‍य सूची बनाना (Project Service)
 
@@ -39,7 +39,7 @@ ms.locfileid: "4077736"
   
 2.  **नया** पर क्लिक करें.  
   
-3.  **संदर्भ** में, यह चयन करें कि यह मूल्‍य सूची **लागत** , **क्रय** या **विक्रय** के लिए है.  
+3.  **संदर्भ** में, यह चयन करें कि यह मूल्‍य सूची **लागत**, **क्रय** या **विक्रय** के लिए है.  
   
 4.  **नाम** में, मूल्य सूची के लिए एक नाम दर्ज करें.  
   
@@ -47,7 +47,7 @@ ms.locfileid: "4077736"
   
 6.  **समय इकाई** में, वह समय अवधि निर्दिष्ट करें, जिस पर मूल्य लागू होते हैं, जैसे दिन या घंटा.  
   
-7.  आवश्‍यकतानुसार **प्रारंभ दिनांक** , **समाप्ति दिनांक** और **वर्णन** भरें.  
+7.  आवश्‍यकतानुसार **प्रारंभ दिनांक**, **समाप्ति दिनांक** और **वर्णन** भरें.  
   
 8.  रिकॉर्ड बनाने के लिए, **सहेजें** पर क्लिक करें ताकि आप उसको संपादित करना जारी रख सकें.  
   

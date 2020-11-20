@@ -6,7 +6,7 @@ manager: kfend
 ms.custom: ''
 ms.date: 11/19/2018
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -16,12 +16,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f215555dd7b29444e00499c0e731624e51057250
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: c42e5fda79d51430f4dedf46037e11c86a38c474
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077783"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121850"
 ---
 # <a name="update-plug-in-attributes-to-include-new-pricing-dimensions"></a>नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन विशेषताओं को अपडेट करें
 
@@ -34,8 +34,8 @@ ms.locfileid: "4077783"
 
 जब आप लागत पक्ष की मात्रा या फील्ड में परिवर्तन करते हैं तो यह परिवर्तन बिक्री पक्ष में भी पहुंच जाता है। ऐसा निम्न प्लग-इन के कारण संभव हो पाता है, जिन्हें प्राइस निर्धारण आयामों में बदलाव के बाद री -रजिस्टर किया जाना चाहिए।
 
-- PreOperationContractLineDetailUpdate - Updates **msdyn_orderlinetransaction** ।
-- PreOperationQuoteLineDetailUpdate - Updates **msdyn_quotelinetransaction** ।
+- PreOperationContractLineDetailUpdate - Updates **msdyn_orderlinetransaction**।
+- PreOperationQuoteLineDetailUpdate - Updates **msdyn_quotelinetransaction**।
 
 निम्न चरणों में प्लग-इन को री- रजिस्टर करने की प्रक्रिया बताई गई है।
 
@@ -50,7 +50,7 @@ ms.locfileid: "4077783"
 
  ![प्लग-इन का स्क्रीनशॉट अपडेट किया जाना है](media/PRT-2.png)
  
-5. अपडेट विंडो में फ़िल्टरिंग विशेषताओं में एलिप्सिस ( **...** ) पर क्लिक करें।
+5. अपडेट विंडो में फ़िल्टरिंग विशेषताओं में एलिप्सिस (**...**) पर क्लिक करें।
 
  ![मौजूदा चरण कॉन्फ़िगरेशन से जुड़ी जानकारी अपडेट करें का स्क्रीनशॉट](media/PRT-3.png)
  

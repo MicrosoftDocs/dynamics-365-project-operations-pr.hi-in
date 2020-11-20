@@ -3,7 +3,7 @@ title: सॉफ़्ट बुक की आवश्यकताएँ
 description: इस टॉपिक में सॉफ्ट-बुकिंग की आवश्यकताओं के बारे में जानकारी प्रदान की गई है।
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 861e484ea2fc251e0082b4cb0cd5409a45a74057
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: e753dd2f5635d1e9d0d6a02ea5d1d537879dd3a5
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077910"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124100"
 ---
 # <a name="soft-book-requirements"></a>सॉफ़्ट बुक की आवश्यकताएँ
 

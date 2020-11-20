@@ -3,7 +3,7 @@ title: संसाधन प्रबंधन FAQ
 description: यह विषय संसाधन प्रबंधन के बारे में अक्सर पूछे जाने वाले प्रश्नों के उत्तर प्रदान करता है।
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 395aa57d73e5d4a0c9c827c79bf4e7ef229c3981
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 38d9509768323a5a1d78683a2e65ade241adc65f
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077911"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4120140"
 ---
 # <a name="resource-management-faq"></a>संसाधन प्रबंधन FAQ
 
@@ -47,7 +47,7 @@ ms.locfileid: "4077911"
 
 ## <a name="what-resources-types-does-project-service-automation-support"></a>Project Service Automation कौन से संसाधन प्रकार का समर्थन करते हैं?
 
-**उपयोगकर्ता** और **संपर्क** ही केवल वे संसाधन प्रकार हैं, जो Microsoft Dynamics 365 Project Service Automation में समर्थित हैं। यद्यपि आप अन्य प्रकार के संसाधन बना सकते हैं (उदाहरण के लिए, **उपकरण** और **समूह** ), उनके लिए कोई आद्योपान्त प्रक्रिया नहीं है।
+**उपयोगकर्ता** और **संपर्क** ही केवल वे संसाधन प्रकार हैं, जो Microsoft Dynamics 365 Project Service Automation में समर्थित हैं। यद्यपि आप अन्य प्रकार के संसाधन बना सकते हैं (उदाहरण के लिए, **उपकरण** और **समूह**), उनके लिए कोई आद्योपान्त प्रक्रिया नहीं है।
 
 ## <a name="what-is-the-difference-between-an-assignment-and-a-booking"></a>असाइनमेंट और बुकिंग में क्या अंतर है?
 

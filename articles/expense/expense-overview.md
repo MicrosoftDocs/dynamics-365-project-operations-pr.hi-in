@@ -5,15 +5,15 @@ author: stsporen
 manager: AnnBe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 6da831fef5dba060b8019d7689645405c7ebdbed
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 6c5ef2a45e8141bda38baf3eaf0a403d6db95e48
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077580"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122839"
 ---
 # <a name="expense-home-page"></a>मुख पृष्ठ व्यय
 
@@ -24,8 +24,8 @@ Dynamics 365 Project Operations खर्चों को संसाधित 
 
 Project Operations में, ख़र्च के लिए दो समर्थित नियोजन मॉडल हैं: 
 
-- **पूर्ण** : **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** या **उत्पादन आदेश आधारित परिदृश्यों के लिए Project Operations** के लिए पूर्ण नियोजन उपलब्ध है.
-- **बुनियादी** : **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** और **हल्के नियोजन - प्रोफार्मा इन्वॉयसिंग के लिए समझौता** के लिए बुनियादी नियोजन उपलब्ध है.
+- **पूर्ण**: **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** या **उत्पादन आदेश आधारित परिदृश्यों के लिए Project Operations** के लिए पूर्ण नियोजन उपलब्ध है.
+- **बुनियादी**: **संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations** और **हल्के नियोजन - प्रोफार्मा इन्वॉयसिंग के लिए समझौता** के लिए बुनियादी नियोजन उपलब्ध है.
 
 ## <a name="full"></a>पूर्ण 
 पूर्ण ख़र्च नियोजन एक पूर्ण नीति प्रवर्तन प्रदान करती है जिसमें नीतियां बनाने की क्षमता शामिल है, जैसे:

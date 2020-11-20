@@ -3,7 +3,7 @@ title: Project Service Automation के अपडेट रिलीज़ 12, 
 description: यह टॉपिक Project Service Automation अपडेट रिलीज़ 12, V3 में क्या नया है, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 62c3a0c5cfbecb568faef570da309c20afd86de9
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: fc92a5dcc111688159f9be5b2839b7c040404a3b
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077661"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4119960"
 ---
 # <a name="project-service-automation-update-release-12-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 12, V3
 हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
@@ -39,7 +39,7 @@ ms.locfileid: "4077661"
     - फ़िक्स्ड: समय प्रविष्टि ग्रिड और शेड्यूल सही ढंग से जब आवश्यकत पड़ने पर वर्टिकल स्क्रॉलबार दिखाता है.
     - फ़िक्स्ड: प्रस्तुत व्यय और समय प्रविष्टियों को अनुमोदित किया जा सकता है.
     - फ़िक्स्ड: अनुमोदन पुष्टि रद्द करें संवाद संदेश में **अनुमोदित** से **प्रस्तुत** में बदलने पर, अनुमोदन की स्थिति दिखाने के लिए सुधार किया गया है.
-    - फ़िक्स्ड: **कीमत** , **इकाई** और **मात्रा** फील्ड को अनुमोदित होने के बाद अब व्यय रिकॉर्ड पर लॉक किया गया है.
+    - फ़िक्स्ड: **कीमत**, **इकाई** और **मात्रा** फील्ड को अनुमोदित होने के बाद अब व्यय रिकॉर्ड पर लॉक किया गया है.
 
 - परियोजना प्रबंधन
 

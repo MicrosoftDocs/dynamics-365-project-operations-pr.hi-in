@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 47c1bce0c886897b295a3c1a355f4db843c4b73a
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 18d7407681906361f3f818225efb8510ac981d98
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077766"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122795"
 ---
 # <a name="expense-reports-reimagined"></a>व्यय रिपोर्ट पुनर्कल्पित
 
@@ -45,7 +45,7 @@ ms.locfileid: "4077766"
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Y7gO]
 
-[Dynamics 365 for Finance and Operations में ख़र्च अनुभव](https://youtu.be/Ocy-MsTvEE0)[ वीडियो (ऊपर दिखाया गया)](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) प्लेलिस्ट Finance and Operationsमें शामिल है और YouTube पर उपलब्ध है.
+[Dynamics 365 for Finance and Operations में ख़र्च अनुभव](https://youtu.be/Ocy-MsTvEE0) [वीडियो (ऊपर दिखाया गया)](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) प्लेलिस्ट Finance and Operationsमें शामिल है और YouTube पर उपलब्ध है.
 
 ## <a name="new-features"></a>नई सुविधाएँ
 

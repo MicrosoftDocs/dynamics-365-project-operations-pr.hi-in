@@ -3,7 +3,7 @@ title: समय, व्यय और सहयोग से जुड़े दि
 description: Project Service के लिए समय, व्यय और सहयोग मार्गदर्शिका
 author: revathiMuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3404642bf20ee23000202b3447f3167aeb4dee27
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 4f975a248c6224bdea72ca1ecdb8a299f0f9254c
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077789"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4120050"
 ---
 # <a name="time-expense-and-collaboration-guide-project-service"></a>समय, व्यय और सहयोग मार्गदर्शिका (Project Service)
 
@@ -59,7 +59,7 @@ ms.locfileid: "4077789"
   
 -   [दूसरों को अपनी समय प्रविष्टि या व्यय दर्ज करने की अनुमति दें](../psa/allow-someone-else-enter-time-entry-expense.md)  
   
--   [टाइम ऑफ़ शेड्यूल करें ](../psa/schedule-time-off.md)  
+-   [टाइम ऑफ़ शेड्यूल करें](../psa/schedule-time-off.md)  
   
 -   [Office 365 समूहों के साथ अपने प्रोजेक्ट टीम के सदस्यों के साथ सहयोग करें](../psa/collaborate-project-team-members-office-365-groups.md)  
   

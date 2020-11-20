@@ -3,7 +3,7 @@ title: स्वीकृत समय या खर्चों की प्�
 description: इस विषय में पहले स्वीकृत किए गए समय या खर्चों के लेनदेन को रीकॉल करने के बारे में जानकारी दी गई है।
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: ''
 ms.author: rumant
 ms.date: 03/08/2019
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7bacd70881a6c463cc449a365173da5338a3d3fc
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 102da39d5940874a8e1f4220437ecdf386a7187b
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077747"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4120545"
 ---
 # <a name="recall-approved-time-or-expense-entries"></a>स्वीकृत समय या खर्चों की प्रविष्टियाँ रीकॉल करना
 

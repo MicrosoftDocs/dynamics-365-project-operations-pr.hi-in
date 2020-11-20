@@ -3,7 +3,7 @@ title: विक्रय प्रक्रिया के दौरान ए
 description: Project Service में विक्रय प्रक्रिया के दौरान परियोजना के लिए कार्य अनुमान प्रदान करने का तरीका
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ddb7f8c0ff8c7fd7e51edb42f9d227f2b91a811b
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 7bd83b6872d437f1d074d6ea2336c751bdfdd9e6
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077750"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4120590"
 ---
 # <a name="provide-work-estimates-for-a-project-during-the-sales-process-project-service"></a>विक्रय प्रक्रिया के दौरान परियोजना के लिए कार्य अनुमान प्रदान करना (Project Service)
 
