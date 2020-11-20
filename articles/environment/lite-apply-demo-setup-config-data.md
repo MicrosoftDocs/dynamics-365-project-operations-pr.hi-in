@@ -1,23 +1,30 @@
 ---
-title: डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें
+title: डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट
 description: यह विषय Project Operations के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: sigitac
 manager: Annbe
-ms.date: 10/01/2020
+ms.date: 11/04/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 33b85115963f3561718b8951e5b518fd34de7723
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 5cfc270c07a568d692f6cd180b9c367ae185044c
+ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077565"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "4401265"
 ---
-# <a name="apply-demo-setup-and-configuration-data-for-project-operations-lite-deployment---deal-to-proforma-invoicing"></a>Project Operations लाइट नियोजन के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता
+# <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Project Operations के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट 
 
 _**लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील_
+
+## <a name="prerequisites"></a>पूर्वावश्यकताएँ
+
+कॉन्फ़िगरेशन शुरू करने से पहले, आपके पास Dynamics 365 Project Operations के लिए Common Data Service (CDS) परिवेश प्रोविज़न किया गया होना चाहिए.
+
+
+## <a name="instructions"></a>निर्देश
 
 1. [मास्टर डेटा पैकेज](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData%20-%20CE%20only%20CMT.zip) डाउनलोड करें. 
 2. फ़ोल्डर *ProjOpsDemoDataSetupAndMaster - Integrated CMT* पर नेविगेट करें और निष्पादित फ़ाइल, *DataMigrationUtility* को चलाएं.
@@ -32,7 +39,7 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
 ![साइन इन का कॉन्फ़िगरेशन करें](./media/2ConfigurationSignin.png)
 
 7. पृष्ठ 3 पर, किरायेदार पर संगठनों की सूची से, चुनें कि आप किस संगठन में डेमो डेटा आयात करना चाहते/चाहती हैं और फिर **लॉग-इन** का चयन करें.
-8. पृष्ठ 4 पर, जिप फाइल का चयन करें, अनपैक्ड फोल्डर से *MasterAndSetupData* , *ProjOpsDemoDataSetupAndMaster - Integrated CMT*.
+8. पृष्ठ 4 पर, जिप फाइल का चयन करें, अनपैक्ड फोल्डर से *MasterAndSetupData*, *ProjOpsDemoDataSetupAndMaster - Integrated CMT*.
 
 ![ज़िप फ़ाइल](./media/3ZipFile.png)
 
@@ -45,25 +52,25 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
 10. आपके नेटवर्क की स्पीड के आधार पर आयात लगभग दो-दस मिनट तक चलेगा। इसके पूरा होने के बाद, CMT विजार्ड से बाहर निकलें. 
 11. डेटा के लिए अपने संगठन की निम्नलिखित 20 निकायों में जांच करें:
 
-- मुद्रा
-- संगठनात्मक इकाई
-- संपर्क
-- कर समूह
-- ग्राहक समूह
-- इकाई
-- इकाई समूह
-- मूल्य सूची
-- परियोजना पैरामीटर मूल्य सूची
-- इनवॉइस आवृत्ति
-- इनवॉइस आवृत्ति विवरण
-- बुक करने योग्य संसाधन श्रेणी
-- लेनदेन श्रेणी
-- व्यय श्रेणी
-- भूमिका मू्ल्य
-- लेनदेन श्रेणी मूल्य
-- विशेषता
-- बुक करने योग्य संसाधन
-- बुक करने योग्य संसाधन श्रेणी Assn
-- बुक करने योग्य संसाधन विशेषता
+-   मुद्रा
+-   अकाउंट
+-   संगठनात्मक इकाई
+-   संपर्क
+-   कर समूह
+-   ग्राहक समूह
+-   इकाई
+-   इकाई समूह
+-   मूल्य सूची
+-   परियोजना पैरामीटर मूल्य सूची 
+-   इनवॉइस आवृत्ति
+-   बुक करने योग्य संसाधन श्रेणी
+-   लेनदेन श्रेणी
+-   व्यय श्रेणी
+-   भूमिका मू्ल्य
+-   लेनदेन श्रेणी मूल्य
+-   विशेषता
+-   बुक करने योग्य संसाधन
+-   बुक करने योग्य संसाधन श्रेणी Assn
+-   बुक करने योग्य संसाधन विशेषता
 
 ![पूरा आयात](./media/6CompleteImport.png)

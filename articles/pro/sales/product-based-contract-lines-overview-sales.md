@@ -1,21 +1,21 @@
 ---
-title: उत्पाद-आधारित अनुबंध पंक्ति का अवलोकन
+title: उत्पाद-आधारित अनुबंध पंक्ति ओवरव्यू - लाइट
 description: यह विषय, उत्पाद-आधारित अनुबंध पंक्ति के बारे में जानकारी प्रदान करता है.
 author: rumant
 manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 794a80b0dd6b8717b43e712b96b9ac077517c226
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: eb09140eae5383b882db73195d0360a836ece791
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077627"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4177873"
 ---
-# <a name="product-based-contract-lines-overview"></a>उत्पाद-आधारित अनुबंध पंक्ति का अवलोकन
+# <a name="product-based-contract-lines-overview---lite"></a>उत्पाद-आधारित अनुबंध पंक्ति ओवरव्यू - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
