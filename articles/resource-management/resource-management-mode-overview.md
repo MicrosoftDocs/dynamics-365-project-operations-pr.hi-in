@@ -5,46 +5,46 @@ author: ruhercul
 manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 4a8e605109e48b50da68abeee989f8ac8d3d659c
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 73ba6190e2e366f22372102d14d26f6d71ba0bc1
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077588"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4118520"
 ---
-# <a name="resource-management-modes-overview"></a><span data-ttu-id="f90c6-103">संसाधन प्रबंधन मोड का अवलोकन</span><span class="sxs-lookup"><span data-stu-id="f90c6-103">Resource management modes overview</span></span>
+# <a name="resource-management-modes-overview"></a><span data-ttu-id="87bb1-103">संसाधन प्रबंधन मोड का अवलोकन</span><span class="sxs-lookup"><span data-stu-id="87bb1-103">Resource management modes overview</span></span>
 
-<span data-ttu-id="f90c6-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="f90c6-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
+<span data-ttu-id="87bb1-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="87bb1-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
 
-<span data-ttu-id="f90c6-105">Dynamics 365 परियोजना संचालन आपके द्वारा समग्र बुकिंग प्रवाह को निष्पादित करने के लिए दो मोड का समर्थन करता है।</span><span class="sxs-lookup"><span data-stu-id="f90c6-105">Dynamics 365 Project Operations supports two modes in order for you to execute the overall booking flow.</span></span> <span data-ttu-id="f90c6-106">प्रबंधन के मोड को एक परियोजना मापदंड के रूप में परिभाषित किया गया है और यदि आपके व्यवसाय को बदलने की आवश्यकता है, तो इसे संशोधित किया जा सकता है।</span><span class="sxs-lookup"><span data-stu-id="f90c6-106">The mode of management is defined as a project parameter and can be modified if your business needs change.</span></span>    
+<span data-ttu-id="87bb1-105">Dynamics 365 परियोजना संचालन आपके द्वारा समग्र बुकिंग प्रवाह को निष्पादित करने के लिए दो मोड का समर्थन करता है।</span><span class="sxs-lookup"><span data-stu-id="87bb1-105">Dynamics 365 Project Operations supports two modes in order for you to execute the overall booking flow.</span></span> <span data-ttu-id="87bb1-106">प्रबंधन के मोड को एक परियोजना मापदंड के रूप में परिभाषित किया गया है और यदि आपके व्यवसाय को बदलने की आवश्यकता है, तो इसे संशोधित किया जा सकता है।</span><span class="sxs-lookup"><span data-stu-id="87bb1-106">The mode of management is defined as a project parameter and can be modified if your business needs change.</span></span>    
 
-## <a name="central-mode"></a><span data-ttu-id="f90c6-107">केंद्रीय मोड</span><span class="sxs-lookup"><span data-stu-id="f90c6-107">Central mode</span></span>
-<span data-ttu-id="f90c6-108">परियोजनाओं के लिए संसाधनों के आवंटन को केंद्रीकृत करने वाले संगठनों के लिए, केंद्रीय मोड यह सुनिश्चित करने का एक तरीका प्रदान करता है कि परियोजना प्रबंधक परियोजना स्तर पर संसाधन आवश्यकताओं को परिभाषित कर सकें।</span><span class="sxs-lookup"><span data-stu-id="f90c6-108">For organizations who centralize the allocation for resources to projects, the Central mode provides a way to ensure Project managers can define resource requirements at the project level.</span></span> <span data-ttu-id="f90c6-109">संसाधन आवश्यकताओं की पूर्ति एक संसाधन प्रबंधक को सौंप दी जाती है।</span><span class="sxs-lookup"><span data-stu-id="f90c6-109">Fulfillment of the resource requirements is delegated to a Resource manager.</span></span> <span data-ttu-id="f90c6-110">परियोजना प्रबंधक संसाधन प्रबंधक द्वारा प्रस्तावित संसाधनों को स्वीकार या अस्वीकार कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="f90c6-110">Project managers can accept or reject resources that are proposed by the Resource manager.</span></span>
+## <a name="central-mode"></a><span data-ttu-id="87bb1-107">केंद्रीय मोड</span><span class="sxs-lookup"><span data-stu-id="87bb1-107">Central mode</span></span>
+<span data-ttu-id="87bb1-108">परियोजनाओं के लिए संसाधनों के आवंटन को केंद्रीकृत करने वाले संगठनों के लिए, केंद्रीय मोड यह सुनिश्चित करने का एक तरीका प्रदान करता है कि परियोजना प्रबंधक परियोजना स्तर पर संसाधन आवश्यकताओं को परिभाषित कर सकें।</span><span class="sxs-lookup"><span data-stu-id="87bb1-108">For organizations who centralize the allocation for resources to projects, the Central mode provides a way to ensure Project managers can define resource requirements at the project level.</span></span> <span data-ttu-id="87bb1-109">संसाधन आवश्यकताओं की पूर्ति एक संसाधन प्रबंधक को सौंप दी जाती है।</span><span class="sxs-lookup"><span data-stu-id="87bb1-109">Fulfillment of the resource requirements is delegated to a Resource manager.</span></span> <span data-ttu-id="87bb1-110">परियोजना प्रबंधक संसाधन प्रबंधक द्वारा प्रस्तावित संसाधनों को स्वीकार या अस्वीकार कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="87bb1-110">Project managers can accept or reject resources that are proposed by the Resource manager.</span></span>
 
 ![केंद्रीय मोड](./media/resource-management-central.png)
 
-<span data-ttu-id="f90c6-112">केंद्रीय मोड वाले संसाधनों का प्रबंधन करने के लिए, देखें:</span><span class="sxs-lookup"><span data-stu-id="f90c6-112">To manage resources with the Central mode, see:</span></span>
+<span data-ttu-id="87bb1-112">केंद्रीय मोड वाले संसाधनों का प्रबंधन करने के लिए, देखें:</span><span class="sxs-lookup"><span data-stu-id="87bb1-112">To manage resources with the Central mode, see:</span></span>
 
-- [<span data-ttu-id="f90c6-113">किसी भी कार्य में जेनेरिक बुक करने-योग्य संसाधनों को असाइन करें और संसाधनों की ज़रूरतों को जेनरेट करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-113">Assign generic bookable resources to a task and generate resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/assign-generic-bookable-resource)
-- [<span data-ttu-id="f90c6-114">संसाधनों की आवश्यकताओं से नामित संसाधनों को बुक करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-114">Book named resources from resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/book-named-resource)
-- [<span data-ttu-id="f90c6-115">कोई संसाधन अनुरोध सबमिट करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-115">Submit a resource request</span></span>](https://docs.microsoft.com/dynamics365/project-service/submit-resource-request)
-- [<span data-ttu-id="f90c6-116">संसाधन अनुरोध को पूरा करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-116">Fulfill a resource request</span></span>](https://docs.microsoft.com/dynamics365/project-service/resource-management-fulfill-requests)
-- [<span data-ttu-id="f90c6-117">संसाधनों हेतु अनुरोध में से प्रस्तावित परियोजना के किसी संसाधन को स्वीकार या अस्वीकार करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-117">Accept or reject a proposed project resource from a resource request</span></span>](https://docs.microsoft.com/dynamics365/project-service/accept-reject-proposed-resource)
+- [<span data-ttu-id="87bb1-113">किसी भी कार्य में जेनेरिक बुक करने-योग्य संसाधनों को असाइन करें और संसाधनों की ज़रूरतों को जेनरेट करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-113">Assign generic bookable resources to a task and generate resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/assign-generic-bookable-resource)
+- [<span data-ttu-id="87bb1-114">संसाधनों की आवश्यकताओं से नामित संसाधनों को बुक करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-114">Book named resources from resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/book-named-resource)
+- [<span data-ttu-id="87bb1-115">कोई संसाधन अनुरोध सबमिट करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-115">Submit a resource request</span></span>](https://docs.microsoft.com/dynamics365/project-service/submit-resource-request)
+- [<span data-ttu-id="87bb1-116">संसाधन अनुरोध को पूरा करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-116">Fulfill a resource request</span></span>](https://docs.microsoft.com/dynamics365/project-service/resource-management-fulfill-requests)
+- [<span data-ttu-id="87bb1-117">संसाधनों हेतु अनुरोध में से प्रस्तावित परियोजना के किसी संसाधन को स्वीकार या अस्वीकार करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-117">Accept or reject a proposed project resource from a resource request</span></span>](https://docs.microsoft.com/dynamics365/project-service/accept-reject-proposed-resource)
 
-## <a name="hybrid-mode"></a><span data-ttu-id="f90c6-118">हाइब्रिड मोड</span><span class="sxs-lookup"><span data-stu-id="f90c6-118">Hybrid mode</span></span>
-<span data-ttu-id="f90c6-119">संसाधनों के आवंटन में लचीलापन चाहने वाले संगठनों के लिए, हाइब्रिड मोड परियोजना प्रबंधकों और संसाधन प्रबंधकों दोनों को संसाधनों को बुक करने की क्षमता देता है।</span><span class="sxs-lookup"><span data-stu-id="f90c6-119">For organizations who require flexibility in the allocation of resources, the hybrid mode enables both Project managers and Resource managers the ability to book resources.</span></span>
+## <a name="hybrid-mode"></a><span data-ttu-id="87bb1-118">हाइब्रिड मोड</span><span class="sxs-lookup"><span data-stu-id="87bb1-118">Hybrid mode</span></span>
+<span data-ttu-id="87bb1-119">संसाधनों के आवंटन में लचीलापन चाहने वाले संगठनों के लिए, हाइब्रिड मोड परियोजना प्रबंधकों और संसाधन प्रबंधकों दोनों को संसाधनों को बुक करने की क्षमता देता है।</span><span class="sxs-lookup"><span data-stu-id="87bb1-119">For organizations who require flexibility in the allocation of resources, the hybrid mode enables both Project managers and Resource managers the ability to book resources.</span></span>
 
 ![हाइब्रिड मोड](./media/resource-management-hybrid.png)
 
-<span data-ttu-id="f90c6-121">समर्थित केंद्रीय मोड प्रक्रिया के अलावा, हाइब्रिड मोड में अन्य सभी समर्थित बुकिंग प्रवाह को प्रबंधित करने के लिए निम्नलिखित विषयों को देखें:</span><span class="sxs-lookup"><span data-stu-id="f90c6-121">In addition to the supported Central mode process, see the following topics to manage all other supported booking flows in the Hybrid mode:</span></span>
+<span data-ttu-id="87bb1-121">समर्थित केंद्रीय मोड प्रक्रिया के अलावा, हाइब्रिड मोड में अन्य सभी समर्थित बुकिंग प्रवाह को प्रबंधित करने के लिए निम्नलिखित विषयों को देखें:</span><span class="sxs-lookup"><span data-stu-id="87bb1-121">In addition to the supported Central mode process, see the following topics to manage all other supported booking flows in the Hybrid mode:</span></span>
 
-<span data-ttu-id="f90c6-122">एक संसाधन सीधे परियोजना में बुक करें:</span><span class="sxs-lookup"><span data-stu-id="f90c6-122">Book a resource directly to a project:</span></span>
-- [<span data-ttu-id="f90c6-123">एक प्रोजेक्ट टीम को बुक करने योग्य संसाधनों का नाम और कार्यों को असाइन करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-123">Book named bookable resources to a project team and assign tasks</span></span>](https://docs.microsoft.com/dynamics365/project-service/assign-named-bookable-resource)
+<span data-ttu-id="87bb1-122">एक संसाधन सीधे परियोजना में बुक करें:</span><span class="sxs-lookup"><span data-stu-id="87bb1-122">Book a resource directly to a project:</span></span>
+- [<span data-ttu-id="87bb1-123">एक प्रोजेक्ट टीम को बुक करने योग्य संसाधनों का नाम और कार्यों को असाइन करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-123">Book named bookable resources to a project team and assign tasks</span></span>](https://docs.microsoft.com/dynamics365/project-service/assign-named-bookable-resource)
 
-<span data-ttu-id="f90c6-124">संसाधन आवश्यकता से संसाधन बुक करें:</span><span class="sxs-lookup"><span data-stu-id="f90c6-124">Book a resource from a resource requirement:</span></span>
-- [<span data-ttu-id="f90c6-125">किसी भी कार्य में जेनेरिक बुक करने-योग्य संसाधनों को असाइन करें और संसाधनों की ज़रूरतों को जेनरेट करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-125">Assign generic bookable resources to a task and generate resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/assign-generic-bookable-resource)
-- [<span data-ttu-id="f90c6-126">संसाधनों की आवश्यकताओं से नामित संसाधनों को बुक करें</span><span class="sxs-lookup"><span data-stu-id="f90c6-126">Book named resources from resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/book-named-resource)
+<span data-ttu-id="87bb1-124">संसाधन आवश्यकता से संसाधन बुक करें:</span><span class="sxs-lookup"><span data-stu-id="87bb1-124">Book a resource from a resource requirement:</span></span>
+- [<span data-ttu-id="87bb1-125">किसी भी कार्य में जेनेरिक बुक करने-योग्य संसाधनों को असाइन करें और संसाधनों की ज़रूरतों को जेनरेट करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-125">Assign generic bookable resources to a task and generate resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/assign-generic-bookable-resource)
+- [<span data-ttu-id="87bb1-126">संसाधनों की आवश्यकताओं से नामित संसाधनों को बुक करें</span><span class="sxs-lookup"><span data-stu-id="87bb1-126">Book named resources from resource requirements</span></span>](https://docs.microsoft.com/dynamics365/project-service/book-named-resource)
