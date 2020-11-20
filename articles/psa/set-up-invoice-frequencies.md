@@ -3,7 +3,7 @@ title: इनवॉइस आवृत्तियाँ सेट अप कर
 description: Project Service में इनवॉइस आवृत्तियाँ को सेट अप करने का तरीका
 author: rumant
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 18fb4e6968612adb1c946650c829174286c5f3cd
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 2739db966b332db35e383589e06e023ff156ed45
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077916"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132035"
 ---
 # <a name="set-up-invoice-frequencies-project-service"></a>इनवॉइस आवृत्तियाँ सेट अप करना (Project Service)
 
@@ -37,7 +37,7 @@ ms.locfileid: "4077916"
   
 3.  **सामान्य** क्षेत्र में, **नाम** में इनवॉइस आवृत्ति के लिए कोई नाम दर्ज करें.  
   
-4.  **अवधि** में, **मासिक** , **द्विसाप्ताहिक** या **साप्ताहिक** चुनें.  
+4.  **अवधि** में, **मासिक**, **द्विसाप्ताहिक** या **साप्ताहिक** चुनें.  
   
 5.  यदि आप मासिक या द्विसाप्ताहिक अवधि निर्दिष्ट करते हैं, तो अवधि में किसी विशेष दिन (कार्य दिवस या सप्ताहांत) को इनवॉइस करने के लिए **चलाने के लिए दिन** में, **अवधि में दिन** चुनें या अवधि के किसी विशेष कार्य दिवस को इनवॉइस करने के लिए **अवधि में कार्य दिवस** चुनें.  
   

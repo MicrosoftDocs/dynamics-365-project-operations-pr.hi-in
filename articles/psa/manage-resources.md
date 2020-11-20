@@ -3,7 +3,7 @@ title: संसाधनों का प्रबंधन करें
 description: यह विषय संसाधनों को व्यवस्थित करने की जानकारी देता है।
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/13/2019
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5b34ad66750dba9459d551a2527c13111196511e
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 548595e3951f824e1c79a641d3f336e381fcaaf9
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077901"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132335"
 ---
 # <a name="manage-resources"></a>संसाधनों का प्रबंधन करें
 
@@ -64,7 +64,7 @@ PSA में, आप एक परियोजना टीम में सा
 
     ![आवश्यकता लिंक](media/Resource-Management-image10.png)
 
-3. दिखने वाले **रिसोर्स रिक्वायरमेंट** पेज में, **स्किल्स** ग्रिड में, एल्लिप्सिस ( **...** ) चुनें और उसके बाद, अपने डेवलपर के लिए आवश्यक कौशल जोड़ने के लिए **एड न्यू रिक्वायरमेंट कैरेक्टरिस्टिक** चुनें।
+3. दिखने वाले **रिसोर्स रिक्वायरमेंट** पेज में, **स्किल्स** ग्रिड में, एल्लिप्सिस (**...**) चुनें और उसके बाद, अपने डेवलपर के लिए आवश्यक कौशल जोड़ने के लिए **एड न्यू रिक्वायरमेंट कैरेक्टरिस्टिक** चुनें।
 
     ![एड न्यू रिक्वायरमेंट कैरेक्टरिस्टिक कमांड जोड़ना](media/Resource-Management-image11.png)
 

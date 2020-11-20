@@ -1,25 +1,25 @@
 ---
-title: अनुमानों और वास्तविक आँकड़ों पर लागत मूल्यों को तय करना
+title: अनुमानों और वास्तविक पर लागत मूल्यों का समाधान करें - लाइट
 description: यह विषय इस बारे में जानकारी प्रदान करता है कि अनुमानों और वास्तविक आँकड़ों पर लागत मूल्य कैसे तय किए जाते हैं.
 author: rumant
 manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: bad8f4b95ac5803d3f334e1b306d2a9d27a6645d
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 3fedf7b577e2372fb10ea85ea1e3caa9bf2f5ad0
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077610"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176793"
 ---
-# <a name="resolving-cost-prices-on-estimates-and-actuals"></a>अनुमानों और वास्तविक आँकड़ों पर लागत मूल्यों को तय करना
+# <a name="resolve-cost-prices-on-estimates-and-actuals---lite"></a>अनुमानों और वास्तविक पर लागत मूल्यों का समाधान करें - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-अनुमानों और वास्तविक आँकड़ों के लिए लागत मूल्यों और लागत मूल्य सूची तय करने के लिए, सिस्टम संबंधित प्रोजेक्ट के **दिनांक** , **मुद्रा** , और **अनुबंध करने वाली इकाई** फ़ील्डों में जानकारी का उपयोग करता है. लागत मूल्य सूची तय होने के बाद, एप्लिकेशन लागत दर को तय करता है.
+अनुमानों और वास्तविक आँकड़ों के लिए लागत मूल्यों और लागत मूल्य सूची तय करने के लिए, सिस्टम संबंधित प्रोजेक्ट के **दिनांक**, **मुद्रा**, और **अनुबंध करने वाली इकाई** फ़ील्डों में जानकारी का उपयोग करता है. लागत मूल्य सूची तय होने के बाद, एप्लिकेशन लागत दर को तय करता है.
 
 ## <a name="resolving-cost-rates-on-actual-and-estimate-lines-for-time"></a>समय के लिए वास्तविक आँकड़ों और अनुमान लाइनों पर लागत दरों को तय करना
 

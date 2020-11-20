@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 9dd43be79f8e906298578911b3bff03e66c2f1e5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 616bcd5758b434b45bd06aa1a026f32efc8b7f99
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077738"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4130895"
 ---
 # <a name="create-custom-fields-and-entities-as-pricing-dimensions"></a>मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड और निकाय बनाएँ
 
@@ -36,7 +36,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="create-a-custom-solution-for-pricing-dimensions"></a>मूल्य निर्धारण आयामों के लिए एक कस्टम समाधान बनाएं
 1. **सेटिंग्स** > **समाधान** पर जाएँ, और फिर नया समाधान बनाने के लिए **नया** चुनें. 
-2. समाधान का नाम दें, **\<your organization name> मूल्य निर्धारण के आयामों** , शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
+2. समाधान का नाम दें, **\<your organization name> मूल्य निर्धारण के आयामों**, शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
   
 ## <a name="create-custom-fields-and-option-sets-in-the-pricing-dimension-solution"></a>मूल्य निर्धारण आयाम समाधान में कस्टम फ़ील्ड और विकल्प सेट बनाएं
 
@@ -60,7 +60,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="create-data-for-entity-based-dimensions"></a>इकाई-आधारित आयामों के लिए डेटा बनाएं
 
-आप इकाई-आधारित आयामों के लिए मैनुअल रूप से या Microsoft Excel आयात या सेवा कॉल का उपयोग करके डेटा बना सकते हैं। दो मानक शीर्षक बनाने के लिए इस प्रक्रिया में चरणों का उपयोग करें, इकाई-आधारित आयाम, **मानक शीर्षक** से **सिस्टम इंजीनियर** और **वरिष्ठ सिस्टम इंजीनियर** । यदि आप जो डेटा बनाना चाहते हैं वह छोटा है, तो निम्न उदाहरण में, आप एक मानक फॉर्म का उपयोग कर सकते हैं।
+आप इकाई-आधारित आयामों के लिए मैनुअल रूप से या Microsoft Excel आयात या सेवा कॉल का उपयोग करके डेटा बना सकते हैं। दो मानक शीर्षक बनाने के लिए इस प्रक्रिया में चरणों का उपयोग करें, इकाई-आधारित आयाम, **मानक शीर्षक** से **सिस्टम इंजीनियर** और **वरिष्ठ सिस्टम इंजीनियर**। यदि आप जो डेटा बनाना चाहते हैं वह छोटा है, तो निम्न उदाहरण में, आप एक मानक फॉर्म का उपयोग कर सकते हैं।
 
 1. **उन्नत खोज** चुनें, निकाय **मानक शीर्षक** चुनें और फिर **परिणाम** चुनें. **मानक शीर्षक** इकाई में सभी पंक्तियों को दिखाया जाएगा।
 2. **नया** चुनें, और **नाम** फ़ील्ड में, "सिस्टम इंजीनियर" दर्ज करें और फिर **सहेजें** चुनें.

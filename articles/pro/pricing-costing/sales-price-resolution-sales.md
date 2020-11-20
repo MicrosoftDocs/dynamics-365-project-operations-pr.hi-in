@@ -1,21 +1,21 @@
 ---
-title: अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करना
+title: अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करें - लाइट
 description: य विषय विक्रय मूल्य संबंधी अनुमानित और वास्तविक को लेकर समाधान प्रस्तुत करता है.
 author: rumant
 manager: Annbe
 ms.date: 10/19/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: c8972bd7710735e9acdbf951079f2da24a00bd7f
-ms.sourcegitcommit: f8edff6422b82fdf2cea897faa6abb51e2c0c3c8
+ms.openlocfilehash: 92cebbe851c3cface86d0580e7e060134295e8c2
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "4087944"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176748"
 ---
-# <a name="resolving-sales-prices-for-estimates-and-actuals"></a>अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करना
+# <a name="resolve-sales-prices-for-estimates-and-actuals---lite"></a>अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करें - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 

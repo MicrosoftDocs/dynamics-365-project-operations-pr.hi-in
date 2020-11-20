@@ -3,7 +3,7 @@ title: समय दर्ज करें
 description: Project Service में समय दर्ज करने का तरीका
 author: revathimuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 4db1e62e062aa5024c8b8807e155fbd543af1059
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b06062cf21cacedda759cc7bf7f940fc33f16bd0
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077903"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132875"
 ---
 # <a name="enter-time-project-service"></a>समय दर्ज करना (Project Service)
 
@@ -51,7 +51,7 @@ ms.locfileid: "4077903"
   
    यदि आप मोबाइल अनुप्रयोग का उपयोग कर रहे हैं:  
   
-9. मेनू से, **समय प्रविष्टि** पर जाएँ.     आप **दिन** , **सप्ताह** या **माह** दृश्य में स्विच कर सकते हैं या पिछली या अगली समय अवधि पर नेविगेट कर सकते हैं.  
+9. मेनू से, **समय प्रविष्टि** पर जाएँ.     आप **दिन**, **सप्ताह** या **माह** दृश्य में स्विच कर सकते हैं या पिछली या अगली समय अवधि पर नेविगेट कर सकते हैं.  
   
 10. **…** पर टैप करें और **नया** पर टैप करें.  
   

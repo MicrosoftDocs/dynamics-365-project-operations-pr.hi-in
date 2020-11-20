@@ -5,15 +5,15 @@ author: stsporen
 manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: cb49109e8c199bc4569702ae844a19985534294d
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 0100c29873be6346614e958ef6ea0c77da2c9590
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077640"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131615"
 ---
 # <a name="develop-project-templates-with-copy-project"></a>कॉपी प्रोजेक्ट के साथ प्रोजेक्ट टेम्पलेट विकसित करें
 
@@ -39,7 +39,7 @@ Dynamics 365 Project Operations किसी प्रोजेक्ट को 
 | लक्ष्य             | संदर्भ निकाय | टारगेट प्रोजेक्ट |
 
 
-- **{"clearTeamsAndAssignments":true}** : वेब के लिए प्रोजेक्ट के लिए डिफ़ॉल्ट व्यवहार, और सभी असाइनमेंट और टीम के सदस्यों को हटा देंगे.
+- **{"clearTeamsAndAssignments":true}**: वेब के लिए प्रोजेक्ट के लिए डिफ़ॉल्ट व्यवहार, और सभी असाइनमेंट और टीम के सदस्यों को हटा देंगे.
 - **{"removeNamedResources":true}** Project Operations के लिए डिफ़ॉल्ट व्यवहार, और असाइनमेंटों को जेनेरिक संसाधनों पर वापस कर देगा.
 
 कार्रवाइयों पर अधिक डिफ़ॉल्ट के लिए, देखें [वेब API कार्रवाइयों का उपयोग करें](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/use-web-api-actions)

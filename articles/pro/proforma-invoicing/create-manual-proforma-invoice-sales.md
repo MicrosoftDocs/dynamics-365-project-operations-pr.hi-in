@@ -1,21 +1,21 @@
 ---
-title: एक मैनुअल प्रोफ़ॉर्मा इनवॉइस बनाना
+title: एक मैनुअल प्रोफ़ॉर्मा इनवॉइस बनाएँ - लाइट
 description: यह विषय Project Operations में एक मैनुअल प्रोफ़ॉर्मा इनवॉइस बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
 manager: Annbe
 ms.date: 10/19/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d5e93206737507bf6698a9746815c790d3dfc904
-ms.sourcegitcommit: 3a0c18823a7ad23df5aa3de272779313abe56c82
+ms.openlocfilehash: 87ef090454b2a7ab997e7c21d8d10badc31c8235
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "4077929"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176388"
 ---
-# <a name="creating-a-manual-proforma-invoice"></a>एक मैनुअल प्रोफ़ॉर्मा इनवॉइस बनाना
+# <a name="create-a-manual-proforma-invoice---lite"></a>एक मैनुअल प्रोफ़ॉर्मा इनवॉइस बनाएँ - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 

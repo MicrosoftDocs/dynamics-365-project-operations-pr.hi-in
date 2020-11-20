@@ -3,7 +3,7 @@ title: परियोजना के लिए संसाधन शेड्
 description: Project Service में परियोजना के लिए संसाधन शेड्यूल करने का तरीका
 author: JohnPBurrows
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: db69348aac96cbfaaa865228c9230cbda4b1e784
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 1479bf920be897a6ee3498aada7a6c36692a01fc
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077906"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4132141"
 ---
 # <a name="schedule-resources-for-a-project-project-service"></a>परियोजना के लिए संसाधन शेड्यूल करना (Project Service)
 
@@ -31,7 +31,7 @@ ms.locfileid: "4077906"
 
 आपके बुक किए गए संसाधन कैसे हैं, इसका संपूर्ण दृश्य पाने के लिए आप संसाधन उपलब्धता देख सकते हैं या आप कौशल, टीम, स्थान और अन्य विकल्पों के अनुसार दृश्य फ़िल्टर कर सकते हैं.  
   
-शेड्यूल बोर्ड संसाधनों की सूची और उनकी उपलब्धता दिखाता है. **घंटे** , **दिन** , **सप्ताह** , या **महीना** के अनुसार उपलब्धता से दिखाने के लिए दृश्य मोड का चयन करें.  
+शेड्यूल बोर्ड संसाधनों की सूची और उनकी उपलब्धता दिखाता है. **घंटे**, **दिन**, **सप्ताह**, या **महीना** के अनुसार उपलब्धता से दिखाने के लिए दृश्य मोड का चयन करें.  
   
 शेड्यूल बोर्ड का उपयोग करने से पहले, उसको सेट अप करना महत्वपूर्ण होता है. अधिक जानकारी के लिए, [शेड्यूल बोर्ड कॉन्फ़िगर करें (Field Service या Project Service Automation)](https://docs.microsoft.com/dynamics365/field-service/configure-schedule-board).
   

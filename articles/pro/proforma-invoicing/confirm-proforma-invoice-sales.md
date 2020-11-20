@@ -1,21 +1,21 @@
 ---
-title: एक प्रोफ़ॉर्मा इनवॉइस की पुष्टि करना
+title: एक प्रोफ़ॉर्मा इनवॉइस की पुष्टि करें - लाइट
 description: यह विषय परियोजना संचालन में प्रोफोर्मा इनवॉइस की पुष्टि की जानकारी देता है.
 author: rumant
 manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4b67ee6848efdcb85cf732c1eaa3e40cdc51a2e2
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 02b671e4ad327b2448529d7119211613f3a9cb27
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077608"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176523"
 ---
-# <a name="confirming-a-proforma-invoice"></a>एक प्रोफ़ॉर्मा इनवॉइस की पुष्टि करना
+# <a name="confirm-a-proforma-invoice---lite"></a>एक प्रोफ़ॉर्मा इनवॉइस की पुष्टि करें - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 

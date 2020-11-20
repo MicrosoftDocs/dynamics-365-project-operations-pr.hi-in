@@ -5,15 +5,15 @@ author: ruhercul
 manager: AnnBe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 8e7ee4888a907b9d8c3ce06c1597f6b05be84477
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: d35be82563515adbba2c22402a751ed3daca8f83
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077589"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131570"
 ---
 # <a name="estimate-projects-overview"></a>अनुमानित परियोजनाओं का अवलोकन करें
 
@@ -74,7 +74,7 @@ Project operations अनुबंध या प्रोजेक्ट पर 
 2. **खोज** का चयन करें और अपडेट करने के लिए प्लग-इन को खोजें।
 3. प्लग-इन का चयन करें और फिर, मुख्य पृष्ठ पर, **चुनें** पर क्लिक करें.
 4. अपडेट करने के लिए प्लग-इन का चरण चुनें, राइट-क्लिक करें और फिर **अपडेट** चुनें।
-5. **मौजूदा चरण अपडेट** संवाद बॉक्स में, **फ़िल्टरिंग विशेषताएं** फ़ील्ड में, दीर्घवृत्त बटन ( **।।।** ) का चयन करें:
+5. **मौजूदा चरण अपडेट** संवाद बॉक्स में, **फ़िल्टरिंग विशेषताएं** फ़ील्ड में, दीर्घवृत्त बटन (**।।।**) का चयन करें:
 6. **चयन विशेषताएं** संवाद बॉक्स में, कस्टम विशेषताओं के लिए चेक बॉक्स का चयन करें।
 7. संवाद बॉक्स बंद करने के लिए **ठीक** चुनें और फिर **चरण अपडेट** चुनें।
 8. दूसरे प्लग-इन के लिए चरण 1 को 7 से दोहराएं।

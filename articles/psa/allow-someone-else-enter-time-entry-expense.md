@@ -3,7 +3,7 @@ title: दूसरों को अपनी समय प्रविष्ट
 description: Project Service में अपनी समय प्रविष्टि या व्यय को दर्ज करने की किसी अन्य व्यक्ति को अनुमति देना का तरीका
 author: revathiMuthiah
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f56fae115b383d66a59cbcb08fffe95c83c83e17
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 50c54e73cf4898ce525492b8ef7c8b8cf6dc36cd
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077673"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4130372"
 ---
 # <a name="allow-someone-else-to-enter-your-time-entry-or-expense-project-service"></a>अपनी समय प्रविष्टि या व्यय को दर्ज करने की किसी अन्य व्यक्ति को अनुमति देना (Project Service)
 
@@ -37,13 +37,13 @@ ms.locfileid: "4077673"
   
 2.  आदेश पट्टी पर, **नया** क्लिक करें.  
   
-3. **नाम** : रिकॉर्ड के लिए एक नाम दर्ज करें.  
+3. **नाम**: रिकॉर्ड के लिए एक नाम दर्ज करें.  
   
-4. **प्रकार** : चुनें कि क्या प्रतिनिधि आपकी ओर से समय या व्यय प्रविष्टियाँ दर्ज कर सकता है या नहीं.  
+4. **प्रकार**: चुनें कि क्या प्रतिनिधि आपकी ओर से समय या व्यय प्रविष्टियाँ दर्ज कर सकता है या नहीं.  
   
-5. **प्रतिनिधि** : उस व्यक्ति का नाम चुनें जिसे आप प्रतिनिधि बनाना चाहते हैं.  
+5. **प्रतिनिधि**: उस व्यक्ति का नाम चुनें जिसे आप प्रतिनिधि बनाना चाहते हैं.  
   
-6. **प्रारंभ और समाप्ति दिनांक** : प्रतिनिधि के प्रारंभ और समाप्त करने के दिनांक चुनें.  
+6. **प्रारंभ और समाप्ति दिनांक**: प्रतिनिधि के प्रारंभ और समाप्त करने के दिनांक चुनें.  
   
 7.  पूर्ण करने के बाद, **सहेजें और बंद करें** पर क्लिक करें.  
   

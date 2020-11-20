@@ -1,21 +1,21 @@
 ---
-title: मुख्य अवधारणाएं - परियोजना अनुबंध
+title: परियोजना अनुबंध - मुख्य अवधारणाएँ
 description: यह विषय परियोजना संचालन में परियोजना अनुबंध की मुख्य अवधारणाओं पर जानकारी प्रदान करता है.
 author: rumant
 manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4ab43a9de6b27f0f0e9b8cbe6ea8b613ce81e08d
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 24b3fcd74e4167ba419e12c890a119d22c54c99a
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077636"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4175533"
 ---
-# <a name="key-concepts---project-contracts"></a>मुख्य अवधारणाएं - परियोजना अनुबंध
+# <a name="project-contracts---key-concepts"></a>परियोजना अनुबंध - मुख्य अवधारणाएँ
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 

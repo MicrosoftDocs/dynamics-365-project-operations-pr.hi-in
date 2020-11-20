@@ -1,21 +1,21 @@
 ---
-title: परियोजना-आधारित कोटेशन लाइनों पर कई ग्राहकों का प्रबंधन
+title: परियोजना-आधारित कोट पंक्तियों पर कई ग्राहकों को प्रबंधित करें - लाइट
 description: यह विषय परियोजना-आधारित कोटेशन लाइनों पर कई ग्राहकों का प्रबंधन करने का तरीका बताता है.
 author: rumant
 manager: Annbe
 ms.date: 10/06/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 6a509fcf8d1fa11b4ce1ba1493d9c3cc64b4f22f
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 7cab29693fc1447beba74dc6266367f13e48634d
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077601"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176478"
 ---
-# <a name="managing-multiple-customers-on-project-based-quote-lines"></a>परियोजना-आधारित कोटेशन लाइनों पर कई ग्राहकों का प्रबंधन
+# <a name="manage-multiple-customers-on-project-based-quote-lines---lite"></a>परियोजना-आधारित कोट पंक्तियों पर कई ग्राहकों को प्रबंधित करें - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 

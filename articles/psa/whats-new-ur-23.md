@@ -3,7 +3,7 @@ title: Project Service Automation के अपडेट रिलीज़ 23, 
 description: यह विषय Project Service Automation अपडेट रिलीज़ 23, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 08/25/2020
 ms.topic: article
@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: eaae9cc62c449695cb2e999be48c57075aadbb21
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 07f1a274914d7e641ddf2fd42f377dce1da7f815
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077647"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131120"
 ---
 # <a name="project-service-automation-update-release-23-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 23, V3
 
