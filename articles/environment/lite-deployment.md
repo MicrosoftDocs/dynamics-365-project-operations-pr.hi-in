@@ -1,44 +1,44 @@
 ---
-title: Project Operations लाइट नियोजन- प्रोफार्मा इuवॉयसिंग करने के लिए समझौता
+title: Project Operations परिनियोजित करें - लाइट
 description: यह विषय Project Operations लाइट नियोजन स्थापित करने के तरीके के बारे में जानकारी प्रदान करता है - प्रोफार्मा इuवॉयसिंग करने के लिए समझौता.
 author: stsporen
 manager: Annbe
 ms.date: 10/02/2020
 ms.topic: article
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: e938876d459b3f6dfedd90e57e3042cda96bffb7
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 0633585fcef91d9218d6140764addb7cf96ab31d
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077564"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4175668"
 ---
-# <a name="deploy-project-operations-lite-deployment--deal-to-proforma-invoicing"></a><span data-ttu-id="bca4a-103">Project Operations लाइट नियोजन- प्रोफार्मा इuवॉयसिंग करने के लिए समझौता</span><span class="sxs-lookup"><span data-stu-id="bca4a-103">Deploy Project Operations Lite deployment – deal to proforma invoicing</span></span>
+# <a name="deploy-project-operations---lite"></a><span data-ttu-id="ee242-103">Project Operations परिनियोजित करें - लाइट</span><span class="sxs-lookup"><span data-stu-id="ee242-103">Deploy Project Operations - lite</span></span>
 
-<span data-ttu-id="bca4a-104">_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_</span><span class="sxs-lookup"><span data-stu-id="bca4a-104">_**Applies To:** Lite deployment - deal to proforma invoicing_</span></span>
+<span data-ttu-id="ee242-104">_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_</span><span class="sxs-lookup"><span data-stu-id="ee242-104">_**Applies To:** Lite deployment - deal to proforma invoicing_</span></span>
 
-<span data-ttu-id="bca4a-105">Project Operations कई नियोजन मॉडल का समर्थन करता है.</span><span class="sxs-lookup"><span data-stu-id="bca4a-105">Project Operations supports multiple deployment models.</span></span> <span data-ttu-id="bca4a-106">सबसे अच्छा नियोजन मॉडल निर्धारित करने के लिए, देखें [नियोजन के प्रकार](determine-deployment-type.md).</span><span class="sxs-lookup"><span data-stu-id="bca4a-106">To determine the best deployment model, see [Deployment types](determine-deployment-type.md).</span></span>
+<span data-ttu-id="ee242-105">Project Operations कई नियोजन मॉडल का समर्थन करता है.</span><span class="sxs-lookup"><span data-stu-id="ee242-105">Project Operations supports multiple deployment models.</span></span> <span data-ttu-id="ee242-106">सबसे अच्छा नियोजन मॉडल निर्धारित करने के लिए, देखें [नियोजन के प्रकार](determine-deployment-type.md).</span><span class="sxs-lookup"><span data-stu-id="ee242-106">To determine the best deployment model, see [Deployment types](determine-deployment-type.md).</span></span>
 
 
 > [!IMPORTANT]
-> <span data-ttu-id="bca4a-107">यह नियोजन, लाइट नियोजन - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता, एक **Common Data Service Project Operations की नियोजन** में परिणाम है.</span><span class="sxs-lookup"><span data-stu-id="bca4a-107">This deployment, Lite deployment – deal to proforma invoicing, results in a **Common Data Service-only deployment of Project Operations**.</span></span>
+> <span data-ttu-id="ee242-107">यह नियोजन, लाइट नियोजन - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता, एक **Common Data Service Project Operations की नियोजन** में परिणाम है.</span><span class="sxs-lookup"><span data-stu-id="ee242-107">This deployment, Lite deployment – deal to proforma invoicing, results in a **Common Data Service-only deployment of Project Operations**.</span></span>
 
-- [<span data-ttu-id="bca4a-108">एक नए CDS परिवेश में Project Operations इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="bca4a-108">Install Project Operations into a new CDS environment</span></span>](#new)
-- [<span data-ttu-id="bca4a-109">एक मौजूदा CDS परिवेश में इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="bca4a-109">Install into an existing CDS environment</span></span>](#existing)
-
-
-
-## <a name="install-project-operations-to-a-new-cds-environment"></a><a name="new"></a><span data-ttu-id="bca4a-110">एक नए CDS परिवेश के लिए Project Operations इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="bca4a-110">Install Project Operations to a new CDS environment</span></span>
-
-1. <span data-ttu-id="bca4a-111">एक Project Operations लाइसेंस के साथ [ग्लोबल या Power Platform एडमिनिस्ट्रेटर](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) के रूप में, [पावर प्लेटफॉर्म व्यवस्थापक केंद्रर](https://admin.powerplatform.com) में एक नया CDS परिवेश बनाएं .</span><span class="sxs-lookup"><span data-stu-id="bca4a-111">As the [Global or Power Platform Administrator](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) with a Project Operations license, create a new CDS environment in the [PowerPlatform admin center](https://admin.powerplatform.com).</span></span> <span data-ttu-id="bca4a-112">सुनिश्चित करें कि **CDS डेटाबेस** और **Dynamics 365 अनुप्रयोग** सक्षम हैं.</span><span class="sxs-lookup"><span data-stu-id="bca4a-112">Make sure that **CDS database** and **Dynamics 365 Apps** are enabled.</span></span> <span data-ttu-id="bca4a-113">अधिक जानकारी के लिए, देखें [Power Platform एडमिन सेंटर में परिवेश बनाएं और प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center).</span><span class="sxs-lookup"><span data-stu-id="bca4a-113">For more information, see [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center).</span></span>
-2. <span data-ttu-id="bca4a-114">Dynamics 365 अनुप्रयोग की प्रतिनियुक्ति सूची से **Microsoft Dynamics 365 Project Operations** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="bca4a-114">Select **Microsoft Dynamics 365 Project Operations** from the deployment list of Dynamics 365 apps.</span></span>
+- [<span data-ttu-id="ee242-108">एक नए CDS परिवेश में Project Operations इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="ee242-108">Install Project Operations into a new CDS environment</span></span>](#new)
+- [<span data-ttu-id="ee242-109">एक मौजूदा CDS परिवेश में इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="ee242-109">Install into an existing CDS environment</span></span>](#existing)
 
 
-## <a name="install-project-operations-to-an-existing-cds-environment"></a><a name="existing"></a><span data-ttu-id="bca4a-115">एक मौजूदा CDS परिवेश में Project Operations इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="bca4a-115">Install Project Operations to an existing CDS environment</span></span>
 
-1. <span data-ttu-id="bca4a-116">[ग्लोबल या Power Platform एडमिनिस्ट्रेटर](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) के रूप में एक Project Operations लाइसेंस के साथ, [पावर प्लेटफॉर्म व्यवस्थापक केंद्र](https://admin.powerplatform.com) में परिवेश का पता लगाएं, जहां आप Project Operations इंस्टॉल करना चाहते हैं.</span><span class="sxs-lookup"><span data-stu-id="bca4a-116">As the [Global or Power Platform Administrator](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) with a Project Operations license, locate the environment in the [PowerPlatform admin center](https://admin.powerplatform.com) where you want to install Project Operations.</span></span>
-2. <span data-ttu-id="bca4a-117">Dynamics 365 अनुप्रयोग की नियोजन सूची से **Microsoft Dynamics 365 Project Operations** इंस्टॉल करें.</span><span class="sxs-lookup"><span data-stu-id="bca4a-117">Install **Microsoft Dynamics 365 Project Operations** from the deployment list of Dynamics 365 apps.</span></span> <span data-ttu-id="bca4a-118">अधिक जानकारी के लिए, [Dynamics 365 अनुप्रयोग प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/manage-apps) देखें.</span><span class="sxs-lookup"><span data-stu-id="bca4a-118">For more information, see [Manage Dynamics 365 apps](https://docs.microsoft.com/power-platform/admin/manage-apps).</span></span>
+## <a name="install-project-operations-to-a-new-cds-environment"></a><a name="new"></a><span data-ttu-id="ee242-110">एक नए CDS परिवेश के लिए Project Operations इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="ee242-110">Install Project Operations to a new CDS environment</span></span>
+
+1. <span data-ttu-id="ee242-111">एक Project Operations लाइसेंस के साथ [ग्लोबल या Power Platform एडमिनिस्ट्रेटर](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) के रूप में, [पावर प्लेटफॉर्म व्यवस्थापक केंद्रर](https://admin.powerplatform.com) में एक नया CDS परिवेश बनाएं .</span><span class="sxs-lookup"><span data-stu-id="ee242-111">As the [Global or Power Platform Administrator](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) with a Project Operations license, create a new CDS environment in the [PowerPlatform admin center](https://admin.powerplatform.com).</span></span> <span data-ttu-id="ee242-112">सुनिश्चित करें कि **CDS डेटाबेस** और **Dynamics 365 अनुप्रयोग** सक्षम हैं.</span><span class="sxs-lookup"><span data-stu-id="ee242-112">Make sure that **CDS database** and **Dynamics 365 Apps** are enabled.</span></span> <span data-ttu-id="ee242-113">अधिक जानकारी के लिए, देखें [Power Platform एडमिन सेंटर में परिवेश बनाएं और प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center).</span><span class="sxs-lookup"><span data-stu-id="ee242-113">For more information, see [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center).</span></span>
+2. <span data-ttu-id="ee242-114">Dynamics 365 अनुप्रयोग की प्रतिनियुक्ति सूची से **Microsoft Dynamics 365 Project Operations** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="ee242-114">Select **Microsoft Dynamics 365 Project Operations** from the deployment list of Dynamics 365 apps.</span></span>
+
+
+## <a name="install-project-operations-to-an-existing-cds-environment"></a><a name="existing"></a><span data-ttu-id="ee242-115">एक मौजूदा CDS परिवेश में Project Operations इंस्टॉल करें</span><span class="sxs-lookup"><span data-stu-id="ee242-115">Install Project Operations to an existing CDS environment</span></span>
+
+1. <span data-ttu-id="ee242-116">[ग्लोबल या Power Platform एडमिनिस्ट्रेटर](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) के रूप में एक Project Operations लाइसेंस के साथ, [पावर प्लेटफॉर्म व्यवस्थापक केंद्र](https://admin.powerplatform.com) में परिवेश का पता लगाएं, जहां आप Project Operations इंस्टॉल करना चाहते हैं.</span><span class="sxs-lookup"><span data-stu-id="ee242-116">As the [Global or Power Platform Administrator](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) with a Project Operations license, locate the environment in the [PowerPlatform admin center](https://admin.powerplatform.com) where you want to install Project Operations.</span></span>
+2. <span data-ttu-id="ee242-117">Dynamics 365 अनुप्रयोग की नियोजन सूची से **Microsoft Dynamics 365 Project Operations** इंस्टॉल करें.</span><span class="sxs-lookup"><span data-stu-id="ee242-117">Install **Microsoft Dynamics 365 Project Operations** from the deployment list of Dynamics 365 apps.</span></span> <span data-ttu-id="ee242-118">अधिक जानकारी के लिए, [Dynamics 365 अनुप्रयोग प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/manage-apps) देखें.</span><span class="sxs-lookup"><span data-stu-id="ee242-118">For more information, see [Manage Dynamics 365 apps](https://docs.microsoft.com/power-platform/admin/manage-apps).</span></span>
 
 
