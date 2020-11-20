@@ -3,7 +3,7 @@ title: Project Service Automation के अपडेट रिलीज़ 17, 
 description: यह विषय Project Service Automation अपडेट रिलीज़ 17, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
 manager: kfend
-ms.service: dynamics-365-customerservice
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 03/06/2020
 ms.topic: article
@@ -17,41 +17,41 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7ba685568692dafe117de42a71bb14d391cd7cc4
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: bb93208217972639f91b39b7b6705d9897373ef7
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077656"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4126800"
 ---
-# <a name="project-service-automation-update-release-17-v3"></a><span data-ttu-id="3184c-103">Project Service Automation V3 अद्यतन रिलीज़ 17, V3</span><span class="sxs-lookup"><span data-stu-id="3184c-103">Project Service Automation Update Release 17, V3</span></span>
+# <a name="project-service-automation-update-release-17-v3"></a><span data-ttu-id="c0509-103">Project Service Automation V3 अद्यतन रिलीज़ 17, V3</span><span class="sxs-lookup"><span data-stu-id="c0509-103">Project Service Automation Update Release 17, V3</span></span>
 
-<span data-ttu-id="3184c-104">हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है.</span><span class="sxs-lookup"><span data-stu-id="3184c-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="3184c-105">इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं.</span><span class="sxs-lookup"><span data-stu-id="3184c-105">This release includes some important improvements to quality, performance, and usability.</span></span>  <span data-ttu-id="3184c-106">यह रिलीज़ Dynamics 365 9.x के साथ संगत में है.</span><span class="sxs-lookup"><span data-stu-id="3184c-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="3184c-107">इस रिलीज़ को अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="3184c-107">To update to this release, visit the Admin Center for Dynamics 365 online, solutions page to install the update.</span></span> <span data-ttu-id="3184c-108">अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="3184c-108">For more information, see [Install, update, or remove a preferred solution](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span></span>
+<span data-ttu-id="c0509-104">हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है.</span><span class="sxs-lookup"><span data-stu-id="c0509-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="c0509-105">इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं.</span><span class="sxs-lookup"><span data-stu-id="c0509-105">This release includes some important improvements to quality, performance, and usability.</span></span>  <span data-ttu-id="c0509-106">यह रिलीज़ Dynamics 365 9.x के साथ संगत में है.</span><span class="sxs-lookup"><span data-stu-id="c0509-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="c0509-107">इस रिलीज़ को अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="c0509-107">To update to this release, visit the Admin Center for Dynamics 365 online, solutions page to install the update.</span></span> <span data-ttu-id="c0509-108">अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="c0509-108">For more information, see [Install, update, or remove a preferred solution](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span></span>
 
-<span data-ttu-id="3184c-109">यह टॉपिक PSA V3, अपडेट रिलीज़ 17 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है.</span><span class="sxs-lookup"><span data-stu-id="3184c-109">This topic lists the features and fixes that are new or changed for PSA V3, Update Release 17.</span></span> <span data-ttu-id="3184c-110">इस संस्करण की बिल्ड संख्या V3.10.6.34 है और यह आमतौर पर मार्च 2020 के स्वयं-अपडेट के माध्यम से उपलब्ध है.</span><span class="sxs-lookup"><span data-stu-id="3184c-110">This version has a build number of V3.10.6.34 and is generally available through a self-update in March 2020.</span></span>
+<span data-ttu-id="c0509-109">यह टॉपिक PSA V3, अपडेट रिलीज़ 17 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है.</span><span class="sxs-lookup"><span data-stu-id="c0509-109">This topic lists the features and fixes that are new or changed for PSA V3, Update Release 17.</span></span> <span data-ttu-id="c0509-110">इस संस्करण की बिल्ड संख्या V3.10.6.34 है और यह आमतौर पर मार्च 2020 के स्वयं-अपडेट के माध्यम से उपलब्ध है.</span><span class="sxs-lookup"><span data-stu-id="c0509-110">This version has a build number of V3.10.6.34 and is generally available through a self-update in March 2020.</span></span>
 
 
-## <a name="update-release-17"></a><span data-ttu-id="3184c-111">अपडेट रिलीज़ 17</span><span class="sxs-lookup"><span data-stu-id="3184c-111">Update Release 17</span></span>
+## <a name="update-release-17"></a><span data-ttu-id="c0509-111">अपडेट रिलीज़ 17</span><span class="sxs-lookup"><span data-stu-id="c0509-111">Update Release 17</span></span>
 
-### <a name="bug-fixes"></a><span data-ttu-id="3184c-112">बग समाधान</span><span class="sxs-lookup"><span data-stu-id="3184c-112">Bug fixes</span></span>
+### <a name="bug-fixes"></a><span data-ttu-id="c0509-112">बग समाधान</span><span class="sxs-lookup"><span data-stu-id="c0509-112">Bug fixes</span></span>
 
-<span data-ttu-id="3184c-113">**सामान्‍य**</span><span class="sxs-lookup"><span data-stu-id="3184c-113">**General**</span></span>
+<span data-ttu-id="c0509-113">**सामान्‍य**</span><span class="sxs-lookup"><span data-stu-id="c0509-113">**General**</span></span>
 
-- <span data-ttu-id="3184c-114">निश्चित: टीम के सदस्य लाइसेंस लागू करने के लिए Project Service Automation अपडेट करें (Project Resource Hub में टीम के सदस्य सेवा प्लान मेटाडेटा 3.x शामिल होगा)</span><span class="sxs-lookup"><span data-stu-id="3184c-114">Fixed: Update Project Service Automation to enforce Team Member licenses (Project Resource Hub will include Team Member Service plan metadata 3.x)</span></span>
+- <span data-ttu-id="c0509-114">निश्चित: टीम के सदस्य लाइसेंस लागू करने के लिए Project Service Automation अपडेट करें (Project Resource Hub में टीम के सदस्य सेवा प्लान मेटाडेटा 3.x शामिल होगा)</span><span class="sxs-lookup"><span data-stu-id="c0509-114">Fixed: Update Project Service Automation to enforce Team Member licenses (Project Resource Hub will include Team Member Service plan metadata 3.x)</span></span>
  
-<span data-ttu-id="3184c-115">**समय और व्यय**</span><span class="sxs-lookup"><span data-stu-id="3184c-115">**Time and Expense**</span></span>
+<span data-ttu-id="c0509-115">**समय और व्यय**</span><span class="sxs-lookup"><span data-stu-id="c0509-115">**Time and Expense**</span></span>
 
-- <span data-ttu-id="3184c-116">निश्चित: गैर-शून्य मूल्य से शून्य (0) के लिए व्यय अनुमान बदलना संभव नहीं है.</span><span class="sxs-lookup"><span data-stu-id="3184c-116">Fixed: It is not possible to change an expense estimate from a non-zero price to zero (0).</span></span> <span data-ttu-id="3184c-117">बदलाव को नजरअंदाज किया जाता है.</span><span class="sxs-lookup"><span data-stu-id="3184c-117">The change is ignored.</span></span>
+- <span data-ttu-id="c0509-116">निश्चित: गैर-शून्य मूल्य से शून्य (0) के लिए व्यय अनुमान बदलना संभव नहीं है.</span><span class="sxs-lookup"><span data-stu-id="c0509-116">Fixed: It is not possible to change an expense estimate from a non-zero price to zero (0).</span></span> <span data-ttu-id="c0509-117">बदलाव को नजरअंदाज किया जाता है.</span><span class="sxs-lookup"><span data-stu-id="c0509-117">The change is ignored.</span></span>
 
-<span data-ttu-id="3184c-118">**परियोजना प्रबंधन**</span><span class="sxs-lookup"><span data-stu-id="3184c-118">**Project Management**</span></span>
+<span data-ttu-id="c0509-118">**परियोजना प्रबंधन**</span><span class="sxs-lookup"><span data-stu-id="c0509-118">**Project Management**</span></span>
 
-- <span data-ttu-id="3184c-119">निश्चित: टीम के सदस्य के पद नाम पर शून्य मानों के लिए एक चेक जोड़ा गया है.</span><span class="sxs-lookup"><span data-stu-id="3184c-119">Fixed: A check for null values has been added on a team member's position name.</span></span>
-- <span data-ttu-id="3184c-120">निश्चित: **msdyn_resourceassignment** निकाय पर **msdyn_userresourceid** फ़ील्ड को रोका गया.</span><span class="sxs-lookup"><span data-stu-id="3184c-120">Fixed: **msdyn_userresourceid** field on the **msdyn_resourceassignment** entity has been deprecated.</span></span>
-- <span data-ttu-id="3184c-121">निश्चित: 2.x से 3.x पर अपग्रेड करें अब कार्य असाइनमेंट पर रिक्त प्रयास आकृति को संभालता है.</span><span class="sxs-lookup"><span data-stu-id="3184c-121">Fixed: Upgrade from 2.x to 3.x now handles empty effort contours on task assignments.</span></span>
+- <span data-ttu-id="c0509-119">निश्चित: टीम के सदस्य के पद नाम पर शून्य मानों के लिए एक चेक जोड़ा गया है.</span><span class="sxs-lookup"><span data-stu-id="c0509-119">Fixed: A check for null values has been added on a team member's position name.</span></span>
+- <span data-ttu-id="c0509-120">निश्चित: **msdyn_resourceassignment** निकाय पर **msdyn_userresourceid** फ़ील्ड को रोका गया.</span><span class="sxs-lookup"><span data-stu-id="c0509-120">Fixed: **msdyn_userresourceid** field on the **msdyn_resourceassignment** entity has been deprecated.</span></span>
+- <span data-ttu-id="c0509-121">निश्चित: 2.x से 3.x पर अपग्रेड करें अब कार्य असाइनमेंट पर रिक्त प्रयास आकृति को संभालता है.</span><span class="sxs-lookup"><span data-stu-id="c0509-121">Fixed: Upgrade from 2.x to 3.x now handles empty effort contours on task assignments.</span></span>
 
-<span data-ttu-id="3184c-122">**Sales**</span><span class="sxs-lookup"><span data-stu-id="3184c-122">**Sales**</span></span>
+<span data-ttu-id="c0509-122">**Sales**</span><span class="sxs-lookup"><span data-stu-id="c0509-122">**Sales**</span></span>
 
-- <span data-ttu-id="3184c-123">निश्चित: **Invoice.PreValidateInvoiceUpdate** अब रिकॉर्ड मालिकों को फिर से ठीक करने के परिदृश्य को संभालता है.</span><span class="sxs-lookup"><span data-stu-id="3184c-123">Fixed: **Invoice.PreValidateInvoiceUpdate** now handles the scenario of reassigning record owners properly.</span></span>
-- <span data-ttu-id="3184c-124">निश्चित: जब लेन-देन वर्ग **समय** , **UnitGroup** सहित सभी प्रविष्टियों के लिए गैर-संपादन योग्य है, **QuoteLineDetails** , **JournalLine** , **InvoiceLineDetail** , और **ContractLineDetails**.</span><span class="sxs-lookup"><span data-stu-id="3184c-124">Fixed: When the transaction class is **Time** , **UnitGroup** is non-editable for all entities including, **QuoteLineDetails** , **JournalLine** , **InvoiceLineDetail** , and **ContractLineDetails**.</span></span> <span data-ttu-id="3184c-125">हालाँकि, **इकाई** केवल **JournalLine** और **InvoiceLineDetails** के लिए गैर-संपादन योग्य है.</span><span class="sxs-lookup"><span data-stu-id="3184c-125">However, **Unit** is non-editable only for **JournalLine** and **InvoiceLineDetails**.</span></span>
+- <span data-ttu-id="c0509-123">निश्चित: **Invoice.PreValidateInvoiceUpdate** अब रिकॉर्ड मालिकों को फिर से ठीक करने के परिदृश्य को संभालता है.</span><span class="sxs-lookup"><span data-stu-id="c0509-123">Fixed: **Invoice.PreValidateInvoiceUpdate** now handles the scenario of reassigning record owners properly.</span></span>
+- <span data-ttu-id="c0509-124">निश्चित: जब लेन-देन वर्ग **समय**, **UnitGroup** सहित सभी प्रविष्टियों के लिए गैर-संपादन योग्य है, **QuoteLineDetails**, **JournalLine**, **InvoiceLineDetail**, और **ContractLineDetails**.</span><span class="sxs-lookup"><span data-stu-id="c0509-124">Fixed: When the transaction class is **Time**, **UnitGroup** is non-editable for all entities including, **QuoteLineDetails**, **JournalLine**, **InvoiceLineDetail**, and **ContractLineDetails**.</span></span> <span data-ttu-id="c0509-125">हालाँकि, **इकाई** केवल **JournalLine** और **InvoiceLineDetails** के लिए गैर-संपादन योग्य है.</span><span class="sxs-lookup"><span data-stu-id="c0509-125">However, **Unit** is non-editable only for **JournalLine** and **InvoiceLineDetails**.</span></span>
 
 
