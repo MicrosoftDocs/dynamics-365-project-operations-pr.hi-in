@@ -38,7 +38,9 @@
               href: environment/resource-configure-integration-per-legal-entity.md
     - name: नया क्या है
       items:
-        - name: नवंबर 2020 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
+        - name: दिसंबर 2020 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-dec-2020-resource-based.md
+        - name: नवंबर 2020 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-nov-2020-resource-based.md
     - name: परियोजना विक्रय प्रक्रिया
       items:
@@ -87,7 +89,7 @@
                 - name: परियोजना-आधारित कोट पंक्तियों पर कई ग्राहकों को प्रबंधित करें
                   href: sales/manage-multiple-customers-quote-line.md
                 - name: परियोजना कोट पंक्ति के प्रभार्य घटकों को कॉन्फ़िगर करें
-                  href: pro/sales/configure-chargeable-components-quote-line-sales.md
+                  href: sales/configure-chargeable-quoteline.md
                 - name: कोट पंक्ति पर अनुमान बनाएँ
                   href: sales/create-estimate-quote-line.md
                 - name: परियोजना-आधारित कोट पंक्ति पर परियोजना से अनुमान आयात करें
@@ -109,7 +111,7 @@
             - name: परियोजना अनुबंधों पर परियोजना मूल्य सूचियाँ प्रबंधित करें
               href: sales/contracts-manage-project-price-lists.md
             - name: परियोजना अनुबंधों पर कई ग्राहकों को प्रबंधित करें
-              href: sales/contracts-manage-project-price-lists.md
+              href: sales/manage-multiple-customers-contract.md
             - name: परियोजना-आधारित अनुबंध पंक्तियाँ
               items:
                 - name: उत्पाद-आधारित अनुबंध पंक्तियाँ ओवरव्यू
@@ -128,6 +130,14 @@
               href: pro/sales/confirm-contract-sales.md
             - name: परियोजना अनुबंध की प्रतिलिपि बनाएँ
               href: pro/sales/copy-project-contracts-sales.md
+            - name: एडवांस और रिटेनर्स
+              items:
+                - name: एडवांसेस और रिटेनर-आधारित अनुबंध - लाइट
+                  href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
+                - name: रिटेनर शेड्यूल सेट अप करें - लाइट
+                  href: pro/sales/set-up-schedule-retainers-sales.md
+                - name: अनुबंध पर एक एड-हॉक उन्नत बनाएँ - लाइट
+                  href: pro/sales/create-ad-hoc-advance-sales.md
     - name: मूल्य निर्धारण और लागत
       items:
         - name: मूल्य सूची सेटअप
@@ -158,10 +168,18 @@
           items:
             - name: मूल्य निर्धारण आयाम ओवरव्यू
               href: pricing-costing/pricing-dimensions-overview.md
+            - name: कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ
+              href: sales/create-solution-custompd.md
             - name: मूल्य निर्धारण आयाम के रूप में मौजूदा फ़ील्ड का उपयोग करें
               items:
                 - name: मूल्य निर्धारण आयाम के रूप में Project Operations फ़ील्ड
                   href: pricing-costing/use-existing-field-pricing-dimension.md
+                - name: मूल्य निर्धारण आयाम के रूप में बुक करने योग्य संसाधन का उपयोग करें
+                  href: sales/use-br-as-pd.md
+                - name: मूल्य निर्धारण के रूप में लेन-देन श्रेणी का उपयोग करें
+                  href: pricing-costing/use-transaction-category-as-pd.md
+                - name: परियोजना में कई भूमिका वाले बुक करने योग्य संसाधन
+                  href: sales/br-playing-multiple-roles.md
             - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड
               items:
                 - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड और निकाय बनाएँ
@@ -170,6 +188,8 @@
                   href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
                 - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड सेटअप
                   href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
+                - name: नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन एट्रिब्यूट अद्यतन करें
+                  href: pricing-costing/update-plugin-attributes-pd.md
             - name: मूल्य निर्धारण आयाम बंद करें
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: परियोजना प्रबंधन
@@ -250,12 +270,18 @@
               href: resource-management/generic-resource-requirement-fulfillment.md
         - name: संसाधनों का व्यवस्थापन
           items:
+            - name: संसाधन बनाएँ
+              href: resource-management/create-resources.md
             - name: कौशल और दक्षता को परिभाषित करें
               href: resource-management/define-skills-proficiencies.md
+            - name: भूमिकाओं को परिभाषित करें
+              href: resource-management/define-roles.md
             - name: संसाधन कैलेंडरों को परिभाषित करें
               href: resource-management/define-resource-calendars.md
         - name: आबंटन विधियाँ बुक करना
           href: resource-management/booking-allocation-methods.md
+        - name: बुकिंग की स्थितियाँ
+          href: resource-management/booking-status.md
         - name: कौशल और दक्षता मॉडल
           href: resource-management/skills-proficiency-models.md
         - name: संसाधन समन्वय
@@ -354,6 +380,8 @@
           href: proforma-invoicing/create-manual-proforma-invoice.md
         - name: प्रोफ़ॉर्मा परियोजना इनवॉइस प्रबंधित करें
           href: proforma-invoicing/manage-proforma-invoice.md
+        - name: एक रिटेनर या एडवांस को इनवॉइस करें
+          href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
         - name: प्रोफ़ॉर्मा परियोजना इनवॉइस की पुष्टि करें
           href: proforma-invoicing/confirm-proforma-invoice.md
         - name: परियोजना इनवॉइस स्वचालन कॉन्फ़िगर करें
@@ -370,6 +398,32 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Project Operations में एकीकरण जर्नल
           href: project-accounting/project-operations-integration-journal.md
+        - name: इंटरकंपनी इनवॉइसिंग
+          items:
+            - name: इंटरकंपनी इनवॉइसिंग का अवलोकन
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: इंटरकंपनी इनवॉइस को कॉन्फ़िगर करें
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: इंटरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
+            - name: इंटरकंपनी लेन-देन बनाएँ
+              href: project-accounting/create-intercompany-transactions.md
+    - name: आमदनी मान्यता
+      items:
+        - name: आमदनी मान्यता का अवलोकन
+          href: revenue-recognition/revenue-recognition-overview.md
+        - name: आमदनी मान्यता सेट अप करें
+          items:
+            - name: अवधि प्रकार सेट अप करें
+              href: project-accounting/period-types.md
+            - name: लागत टेम्पलेट सेट अप करें
+              href: revenue-recognition/rev-rec-cost-templates.md
+        - name: आमदनी अनुमान प्रबंधित करें
+          href: revenue-recognition/rev-rec-completed-contract-method.md
+        - name: निश्चित मूल्य आमदनी अनुमान परियोजनाएँ
+          href: revenue-recognition/rev-rec-percentage-completion-method.md
+        - name: पूर्ण विधियों की लागत
+          href: revenue-recognition/cost-complete-methods.md
 - name: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
   items:
     - name: शुरू करें
@@ -386,6 +440,8 @@
           href: environment/security-model.md
     - name: नया क्या है
       items:
+        - name: नया क्या है दिसंबर 2020 - लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
+          href: pro/whats-new/whats-new-dec-2020-lite.md
         - name: नया क्या है नवंबर 2020 - लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
           href: pro/whats-new/whats-new-nov-2020-lite.md
     - name: परियोजना विक्रय प्रक्रिया
@@ -538,10 +594,18 @@
           items:
             - name: मूल्य निर्धारण आयाम ओवरव्यू
               href: pricing-costing/pricing-dimensions-overview.md
+            - name: कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ
+              href: sales/create-solution-custompd.md
             - name: मूल्य निर्धारण आयाम के रूप में मौजूदा फ़ील्ड का उपयोग करें
               items:
-                - name: मूल्य निर्धारण आयाम के रूप में मौजूदा फ़ील्ड का उपयोग करें
+                - name: मूल्य निर्धारण आयाम के रूप में Project Operations फ़ील्ड
                   href: pricing-costing/use-existing-field-pricing-dimension.md
+                - name: मूल्य निर्धारण आयाम के रूप में बुक करने योग्य संसाधन का उपयोग करें
+                  href: sales/use-br-as-pd.md
+                - name: मूल्य निर्धारण के रूप में लेन-देन श्रेणी का उपयोग करें
+                  href: pricing-costing/use-transaction-category-as-pd.md
+                - name: परियोजना में कई भूमिका वाले बुक करने योग्य संसाधन
+                  href: sales/br-playing-multiple-roles.md
             - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड
               items:
                 - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड और निकाय बनाएँ
@@ -550,6 +614,8 @@
                   href: pricing-costing/add-custom-fields-price-setup-transactional-entities.md
                 - name: मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड सेटअप
                   href: pricing-costing/set-up-custom-fields-pricing-dimensions.md
+                - name: नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन एट्रिब्यूट अद्यतन करें
+                  href: pricing-costing/update-plugin-attributes-pd.md
             - name: मूल्य निर्धारण आयाम बंद करें
               href: pricing-costing/turning-off-pricing-dimension.md
     - name: परियोजना प्रबंधन
@@ -626,12 +692,18 @@
               href: resource-management/generic-resource-requirement-fulfillment.md
         - name: संसाधनों का व्यवस्थापन
           items:
+            - name: संसाधन बनाएँ
+              href: resource-management/create-resources.md
             - name: कौशल और दक्षता को परिभाषित करें
               href: resource-management/define-skills-proficiencies.md
+            - name: भूमिकाओं को परिभाषित करें
+              href: resource-management/define-roles.md
             - name: संसाधन कैलेंडरों को परिभाषित करें
               href: resource-management/define-resource-calendars.md
         - name: आबंटन विधियाँ बुक करें
           href: resource-management/booking-allocation-methods.md
+        - name: बुकिंग की स्थितियाँ
+          href: resource-management/booking-status.md
         - name: कौशल और दक्षता मॉडल
           href: resource-management/skills-proficiency-models.md
         - name: संसाधन समन्वय
@@ -834,6 +906,8 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 26, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-26.md
         - name: 'अद्यतन रिलीज़ 25, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-25.md
         - name: 'अद्यतन रिलीज़ 24, V3 में नया क्या है या क्या बदल गया है'
