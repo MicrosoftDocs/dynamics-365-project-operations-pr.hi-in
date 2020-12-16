@@ -1,30 +1,22 @@
 ---
 title: मूल्य निर्धारण आयाम अवलोकन
-description: इस विषय में Dynamics 365 Project Operations में मूल्य निर्धारण के पैमाने की जानकारी दी गई है.
+description: यह विषय Dynamics 365 Project Operations में मूल्य निर्धारण आयामों के बारे में जानकारी प्रदान करता है.
 author: rumant
 manager: AnnBe
-ms.date: 09/18/2020
+ms.date: 11/30/2020
 ms.topic: article
 ms.prod: ''
 ms.service: project-operations
-audience: Application User
 ms.reviewer: kfend
-ms.search.scope: ''
-ms.custom: ''
-ms.assetid: ''
-ms.search.region: Global
-ms.search.industry: Service industries
-ms.author: suvaidya
-ms.dyn365.ops.version: ''
-ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: ec2e350e0e4c28ea1c9540d70c83fdf0a75dc408
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.author: rumant
+ms.openlocfilehash: 33f55976eafedd046fba952ab6381c297ab4e271
+ms.sourcegitcommit: 13a4e58eddbb0f81aca07c1ff452c420dbd8a68f
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4128465"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "4650195"
 ---
-# <a name="pricing-dimensions-overview"></a>मूल्य निर्धारण आयाम अवलोकन
+# <a name="pricing-dimensions-overview"></a>मूल्य निर्धारण आयाम ओवरव्यू
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
@@ -40,9 +32,21 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="pricing-dimensions"></a>मूल्य निर्धारण आयाम
 
-Dynamics 365 Project Operations मूल्य निर्धारण आयामों के डिफ़ॉल्ट सेट के साथ भेजा जाता है. आप इन मूल्य निर्धारण आयामों को **Project Operations** > **मापदंड**. पैरामीटर रिकार्ड में, **राशि आधारित मूल्य निर्धारण आयाम** टैब पर, इसका सत्यापन करें कि भूमिका, **msdyn_resourcecategory** और रिसोर्सिंग ऑर्गेनाइज़ेशन यूनिट, **msdyn_organizationalunit** में **विक्रय पर लागू** और **लागत पर लागू** फील्ड **हाँ** पर सेट हैं। इन फ़ील्ड को सक्षम करने के साथ, आप प्रत्येक भूमिका और संगठनात्मक इकाई संयोजन के लिए मूल्य और लागत सेट कर सकते हैं.
+Dynamics 365 Project Operations मूल्य निर्धारण आयामों के डिफ़ॉल्ट सेट के साथ भेजा जाता है. आप इन मूल्य निर्धारण आयामों को **Project Operations** > **मापदंड**. पैरामीटर रिकार्ड में, **राशि आधारित मूल्य निर्धारण आयाम** टैब पर, इसका सत्यापन करें कि भूमिका, **msdyn_resourcecategory** और रिसोर्सिंग ऑर्गेनाइज़ेशन यूनिट, **msdyn_organizationalunit** में **विक्रय पर लागू** और **लागत पर लागू** फील्ड **हाँ** पर सेट हैं। इन फ़ील्ड को सक्षम करने के साथ, आप प्रत्येक भूमिका और संगठनात्मक इकाई संयोजन के लिए मूल्य और लागत सेट कर सकते हैं.
 
-यदि आपको अतिरिक्त गुणों का इस्तेमाल करते हुए अपने संसाधनों की कीमत और लागत निर्धारण करना हो तो आप अपनी ज़रूरत के अनुसार फील्ड, एंटिटी और डायमेंशन बना सकते हैं।
+!["विक्रय पर लागू" के साथ Project Service पैरामीटर का स्क्रीनशॉट](media/PS-OOB-parameters.png)
+
+यदि आपको अतिरिक्त गुणों का इस्तेमाल करते हुए अपने संसाधनों की कीमत और लागत निर्धारण करना हो तो आप अपनी ज़रूरत के अनुसार फील्ड, एंटिटी और डायमेंशन बना सकते हैं। अधिक जानकारी के लिए, निम्न विषय देखें. 
+  
+  > [!NOTE]
+  > ये प्रक्रियाओं सूचीबद्ध क्रम में पूरी की जानी चाहिए.
+
+1. [कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ](../sales/create-solution-custompd.md)
+2. [कस्टम फ़ील्ड और निकाय बनाएँ](create-custom-fields-entities-pricing-dimensions.md)
+3. [कस्टम फ़ील्ड को मूल्य सेटअप और लेन-देन वाली निकाय में जोड़ें ](add-custom-fields-price-setup-transactional-entities.md)
+4. [मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड सेटअप](set-up-custom-fields-pricing-dimensions.md)
+5. [नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन विशेषताओं को अपडेट करें](update-plugin-attributes-pd.md)
+
 
 ## <a name="pricing-human-resource-time"></a>मानव संसाधन समय का कीमत निर्धारण
 संगठनों में मानव संसाधन के समय का कीमत निर्धारण कैसे किया जाता है यह अक्सर एक महत्वपूर्ण और रणनीतिक निर्णय होता है जो संगठन की लाभप्रदता को प्रत्यक्ष रूप से प्रभावित करता है। जब आपका संगठन इसकी पहचान करने के लिए तैयार होता है कि वह मानव संसाधन समय के लिए बिल और लागत दरों को किस प्रकार तय करना चाहता है, वित्त की टीमों और प्रैक्टिस प्रमुखों के साथ काम करें।

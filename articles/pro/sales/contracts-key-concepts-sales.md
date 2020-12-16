@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: ce37c9dd18fd01e599e8766389e42c066e182547
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 3381707457ef35ff604c716592afd8382b98ad5d
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4177063"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4643040"
 ---
 # <a name="project-contracts---key-concepts---lite"></a>परियोजना अनुबंध - मुख्य अवधारणाएँ - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-यह विषय Dynamics 365 Project Operations में परियोजना अनुबंधों का उपयोग शुरू करने से पहले मुख्य अवधारनाओं के बारे में बताता है:
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+यह विषय Dynamics 365 Project Operations में परियोजना अनुबंधों का उपयोग करना शुरू करने से पहले वे मुख्य अवधारणाएँ प्रदान करना है, जिनसे अवगत रहना होता है:
 
 ## <a name="contracting-unit"></a>अनुबंध इकाई
 

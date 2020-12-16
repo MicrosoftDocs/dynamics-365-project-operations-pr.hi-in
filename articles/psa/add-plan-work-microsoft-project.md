@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6bc74442866caccc02e53afc913a55aab81f9629
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 86b676a0cf74e0257fd76cf32271497eebc06e75
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129680"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642770"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Microsoft Project में आपके कार्य की योजना बनाने के लिए Project Service Automation ऐड-इन का उपयोग करें
 
@@ -173,6 +173,59 @@ ms.locfileid: "4129680"
 4. **प्रकाशित करें** क्लिक करें.  
 
 Project फ़ाइल को [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] से लिंक करना परियोजना फ़ाइल को मास्टर बनाता है और [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] टेम्पलेट में कार्य विश्लेषण संरचना को केवल पढ़ने के लिए पर सेट करता है.  परियोजना की योजना में परिवर्तन करने के लिए, वे परिवर्तन आपको [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] में करने होंगे और उन्हें [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] के अद्यतन के रूप में प्रकाशित करना होगा.
+
+## <a name="read-a-resource-loaded-schedule"></a>संसाधन लोड हुआ शेड्यूल पढ़ें
+
+Project Service Automation से किसी परियोजना को पढ़ते समय, संसाधन का कैलेंडर डेस्कटॉप क्लाइंट के लिए सिंक्रनाइज़ नहीं किया जाता है. यदि कार्य अवधि, प्रयास, या अंत में अंतर हैं, तो यह संभवतः इसलिए है, क्योंकि संसाधन और डेस्कटॉप क्लाइंट के पास परियोजना पर लागू समान कार्य समय टेम्पलेट कैलेंडर नहीं है.
+
+
+## <a name="data-synchronization"></a>डेटा सिंक्रोनाइज़ेशन
+
+निम्न तालिका बताती है कि Project Service Automation और Microsoft Project डेस्कटॉप ऐड-इन के बीच डेटा को कैसे सिंक्रनाइज़ किया जाता है.
+
+| **निकाय** | **फ़ील्ड** | **Microsoft Project से Project Service Automation में** | **Project Service Automation से Microsoft Project में** |
+| --- | --- | --- | --- |
+| परियोजना कार्य | नियत तिथि | ● | - |
+| परियोजना कार्य | अनुमानित प्रयास | ● | - |
+| परियोजना कार्य | MS Project क्लाइंट ID | ● | - |
+| परियोजना कार्य | पैरेंट कार्य | ● | - |
+| परियोजना कार्य | Project | ● | - |
+| परियोजना कार्य | परियोजना कार्य | ● | - |
+| परियोजना कार्य | परियोजना कार्य का नाम | ● | - |
+| परियोजना कार्य | संसाधन इकाई (v3.0 में डेप्रिकेटेड) | ● | - |
+| परियोजना कार्य | शेड्यूल की गई अवधि | ● | - |
+| परियोजना कार्य | प्रारंभ तिथि | ● | - |
+| परियोजना कार्य | WBS ID | ● | - |
+
+| **निकाय** | **फ़ील्ड** | **Microsoft Project से Project Service Automation में** | **Project Service Automation से Microsoft Project में** |
+| --- | --- | --- | --- |
+| टीम सदस्य | MS Project क्लाइंट ID | ● | - |
+| टीम सदस्य | पद का नाम | ● | - |
+| टीम सदस्य | प्रोजेक्ट | ● | ● |
+| टीम सदस्य | परियोजना टीम | ● | ● |
+| टीम सदस्य | संसाधन इकाई | - | ● |
+| टीम सदस्य | भूमिका | - | ● |
+| टीम सदस्य | कार्य घंटे | सिंक्रनाइज़्ड नहीं | सिंक्रनाइज़्ड नहीं |
+
+| **निकाय** | **फ़ील्ड** | **Microsoft Project से Project Service Automation में** | **Project Service Automation से Microsoft Project में** |
+| --- | --- | --- | --- |
+| संसाधन असाइनमेंट | प्रारंभ दिनांक | ● | - |
+| संसाधन असाइनमेंट | घंटे | ● | - |
+| संसाधन असाइनमेंट | MS Project क्लाइंट ID | ● | - |
+| संसाधन असाइनमेंट | नियोजित कार्य | ● | - |
+| संसाधन असाइनमेंट | Project | ● | - |
+| संसाधन असाइनमेंट | परियोजना टीम | ● | - |
+| संसाधन असाइनमेंट | संसाधन असाइनमेंट | ● | - |
+| संसाधन असाइनमेंट | कार्य | ● | - |
+| संसाधन असाइनमेंट | आज तक | ● | - |
+
+| **निकाय** | **फ़ील्ड** | **Microsoft Project से Project Service Automation में** | **Project Service Automation से Microsoft Project में** |
+| --- | --- | --- | --- |
+| परियोजना कार्य निर्भरताएँ | परियोजना कार्य निर्भरता | ● | - |
+| परियोजना कार्य निर्भरताएँ | लिंक प्रकार | ● | - |
+| परियोजना कार्य निर्भरताएँ | पूर्वगामी कार्य | ● | - |
+| परियोजना कार्य निर्भरताएँ | Project | ● | - |
+| परियोजना कार्य निर्भरताएँ | उत्तरवर्ती कार्य | ● | - |
 
 ### <a name="see-also"></a>यह भी देखें  
  [परियोजना प्रबंधक मार्गदर्शिका](../psa/project-manager-guide.md)

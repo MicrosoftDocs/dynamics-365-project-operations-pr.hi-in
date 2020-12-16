@@ -17,16 +17,17 @@ ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1e1a963bccefd1552aab6e42d3b2d1dc63a82e8f
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: d9ccbb29d5035ea061d232011af87cef2c81e76c
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077841"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642455"
 ---
 # <a name="project-service-automation-overview"></a>Project Service Automation अवलोकन
 
 [!include[banner](../includes/banner.md)]
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 यह विषय Dynamics 365 Project Service Automation के Dynamics 365 Finance में एकीकरण समाधान डेटा एकीकरण सुविधा का उपयोग Common Data Service के माध्यम से Dynamics 365 Finance और Dynamics 365 Project Service Automation के इंस्टेंस में डेटा को सिंक्रनाइज़ करने के लिए करता है. डेटा एकीकरण फ़ीचर के साथ उपलब्ध एकीकरण टेम्पलेट Project Service Automation से Finance में परियोजनाओं, परियोजना अनुबंधों, परियोजना अनुबंध लाइनों, परियोजना अनुबंध लाइन उपलब्धि, परियोजना कार्य, व्यय लेनदेन श्रेणियों और व्यय अनुमान के प्रवाह को सक्षम करते हैं.
 

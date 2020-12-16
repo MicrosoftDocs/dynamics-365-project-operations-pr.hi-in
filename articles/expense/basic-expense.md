@@ -3,17 +3,17 @@ title: व्यय प्रविष्टि (लाइट)
 description: यह विषय लाइट परिनियोजन में व्यय प्रविष्टि के साथ काम कैसे किया जाए, यह जानकारी देता है.
 author: stsporen
 manager: AnnBe
-ms.date: 10/06/2020
+ms.date: 11/19/2020
 ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 536c961593599df8e7e2986f92259b0e690eae8b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: d87094882751f0751a8d9d539fa4cdcfc6b7b0d7
+ms.sourcegitcommit: 16c442258ba24c79076cf5877a0f3c1f51a85f61
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121085"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "4590948"
 ---
 # <a name="expense-entry-lite"></a>व्यय प्रविष्टि (लाइट)
 
@@ -21,7 +21,7 @@ _**लागू होता है:** लाइट नियोजन-प्र
 
 बेसिक, या लाइट, व्यय प्रबंधन सामान्य व्यय रिकॉर्ड करने की क्षमता है. आप परियोजना के सापेक्ष खर्च दर्ज कर सकते हैं, और फिर परियोजना अनुमोदक इसकी समीक्षा करेंगे और उन्हें स्वीकृत करेंगे.
 
-Dynamics 365 Project Operations में व्यय क्षमता के बारे में और जानकारी के लिए [व्यय अवलोकन](expense-overview.md) देखें.
+Dynamics 365 Project Operations में व्यय क्षमताओं के बारे में अधिक जानकारी के लिए, [व्यय ओवरव्यू](expense-overview.md) देखें.
 
 ## <a name="capture-a-basic-expense"></a>मूल व्यय अधिकृत करें
 
@@ -36,6 +36,10 @@ Dynamics 365 Project Operations में व्यय क्षमता के
 
 1. **व्यय** पर जाएँ, और व्यय चुनें. या, शीर्ष लेख पर चेक बॉक्स इस्तेमाल करके सभी व्यय चुनें.
 2. **सबमिट करें** चुनें. सिस्टम चुनी गई प्रविष्टियों को संसाधित करता है और फिर व्यय स्वीकृत करने के लिए अनुरोध बनाता है.
+
+## <a name="add-an-attachment"></a>एक अनुलग्नक जोड़ें
+
+आपको अपने व्यय के बारे में अनुमोदनकर्ता को अतिरिक्त दस्तावेज़ प्रदान करना पड़ सकता है. आप व्यय प्रविष्टि की टाइमलाइन में रसीद संलग्न कर सकते हैं. **संपादित करें** और **टाइमलाइन** सेक्शन चुनें और उसके बाद अपनी रसीद संलग्न करने के लिए पेपरक्लिप आइकन का उपयोग करें.
 
 ## <a name="recall-a-basic-expense"></a>मूल व्यय को रिकॉल करें
 

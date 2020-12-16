@@ -8,18 +8,20 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: aa6771ba5346fd4133b82c3e670badfa7655299f
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 03b9a9028c1610b191db9c1bfb0163adc88bdf3e
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131885"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642365"
 ---
 # <a name="financial-dimension-defaults"></a>वित्तीय आयाम डिफ़ॉल्ट
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 
-परियोजना सबलेज़र और सामान्य लेज़र ट्रांज़ैक्शन पर अतिरिक्त जानकारी प्रदान करने के लिए Dynamics 365 Project Operations Dynamics 365 Finance में [वित्तीय आयाम](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions) फ़्रेमवर्क का उपयोग करता है.
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+परियोजना सबलेज़र और सामान्य लेज़र लेनदेन पर अतिरिक्त जानकारी प्रदान करने के लिए Dynamics 365 Project Operations, Dynamics 365 Finance में [वित्तीय आयाम](https://docs.microsoft.com/dynamics365/finance/general-ledger/financial-dimensions) फ़्रेमवर्क का उपयोग करता है.
 
 डिफ़ॉल्ट वित्तीय आयाम को ग्राहक, परियोजना फ़ंडिंग स्रोत, माइलस्टोन, परियोजना अनुबंध पंक्ति या परियोजना पर सेट किया जा सकता है.
 

@@ -1,5 +1,5 @@
 ---
-title: अनुबंध पर एक एड-हॉक एडवांस बनाना - लाइट
+title: अनुबंध पर एक एड-हॉक उन्नत बनाना
 description: यह विषय आवश्यकतानुसार अनुबंध पर एडवांस बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
 manager: Annbe
@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: a6bf02c2e2ab2f3c696b1eab1b92a20272187bf5
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 790a0281f72eff5f241d11da025b5b4af643a567
+ms.sourcegitcommit: 250270409412ba4cad95fbd4c345a80d3d2b3e53
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181364"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "4595986"
 ---
-# <a name="creating-an-ad-hoc-advance-on-a-contract---lite"></a>अनुबंध पर एक एड-हॉक एडवांस बनाना - लाइट
+# <a name="creating-an-ad-hoc-advance-on-a-contract"></a>अनुबंध पर एक एड-हॉक उन्नत बनाना
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 Microsoft Dynamics 365 Project Operations उन इनवॉइसिंग परिदृश्यों का समर्थन करता है, जिनमें पूर्व-भुगतान और एडवांस शामिल होते हैं. **Project Operations** में **एडवांस** उपयोग करने की प्रक्रिया **रिटेनर** अनुबंधों के समान है. 
 

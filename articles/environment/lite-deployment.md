@@ -8,16 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 0633585fcef91d9218d6140764addb7cf96ab31d
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: d4ef905f875ac8af7b2d70c3e64506558bdea1ed
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175668"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642185"
 ---
 # <a name="deploy-project-operations---lite"></a>Project Operations परिनियोजित करें - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Project Operations कई नियोजन मॉडल का समर्थन करता है. सबसे अच्छा नियोजन मॉडल निर्धारित करने के लिए, देखें [नियोजन के प्रकार](determine-deployment-type.md).
 
@@ -33,12 +35,12 @@ Project Operations कई नियोजन मॉडल का समर्थ
 ## <a name="install-project-operations-to-a-new-cds-environment"></a><a name="new"></a>एक नए CDS परिवेश के लिए Project Operations इंस्टॉल करें
 
 1. एक Project Operations लाइसेंस के साथ [ग्लोबल या Power Platform एडमिनिस्ट्रेटर](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) के रूप में, [पावर प्लेटफॉर्म व्यवस्थापक केंद्रर](https://admin.powerplatform.com) में एक नया CDS परिवेश बनाएं . सुनिश्चित करें कि **CDS डेटाबेस** और **Dynamics 365 अनुप्रयोग** सक्षम हैं. अधिक जानकारी के लिए, देखें [Power Platform एडमिन सेंटर में परिवेश बनाएं और प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center).
-2. Dynamics 365 अनुप्रयोग की प्रतिनियुक्ति सूची से **Microsoft Dynamics 365 Project Operations** का चयन करें.
+2. Dynamics 365 ऐप की परिनियोजन सूची से **Microsoft Dynamics 365 Project Operations** चुनें.
 
 
 ## <a name="install-project-operations-to-an-existing-cds-environment"></a><a name="existing"></a>एक मौजूदा CDS परिवेश में Project Operations इंस्टॉल करें
 
 1. [ग्लोबल या Power Platform एडमिनिस्ट्रेटर](https://docs.microsoft.com/power-platform/admin/global-service-administrators-can-administer-without-license) के रूप में एक Project Operations लाइसेंस के साथ, [पावर प्लेटफॉर्म व्यवस्थापक केंद्र](https://admin.powerplatform.com) में परिवेश का पता लगाएं, जहां आप Project Operations इंस्टॉल करना चाहते हैं.
-2. Dynamics 365 अनुप्रयोग की नियोजन सूची से **Microsoft Dynamics 365 Project Operations** इंस्टॉल करें. अधिक जानकारी के लिए, [Dynamics 365 अनुप्रयोग प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/manage-apps) देखें.
+2. Dynamics 365 ऐप की परिनियोजन सूची से **Microsoft Dynamics 365 Project Operations** स्थापित करें. अधिक जानकारी के लिए, [Dynamics 365 अनुप्रयोग प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/manage-apps) देखें.
 
 

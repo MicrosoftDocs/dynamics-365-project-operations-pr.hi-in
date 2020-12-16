@@ -18,16 +18,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8d63a1b36abe0a154c43e99738340f32f28c2f5e
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 9bceb96153f0e9f5c0d40478baf691220de95f27
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4120275"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642680"
 ---
 # <a name="working-with-the-project-service-automation-data-model"></a>Project Service Automation डेटा मॉडल के साथ काम करना
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Dynamics 365 Project Service Automation में अन्य ऐप एंटिटी में काम करने की सुविधा होती है और इसमें Common Data Service डेटा मॉडल में स्वयं की प्रविष्टियाँ करने की सुविधा शुरु की गई है। इस विषय में कुछ ऐसे एंटिटी का वर्णन किया गया है जो आपको सामान्य PSA रिपोर्टिंग के दौरान मिलेंगे।
 

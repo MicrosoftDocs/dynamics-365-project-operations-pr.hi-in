@@ -1,5 +1,5 @@
 ---
-title: रिटेनर शेड्यूल सेट अप करें - लाइट
+title: रिटेनर शेड्यूल सेट अप करें
 description: यह विषय Project Operations में रिटेनर शेड्यूल सेट अप करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: rumant
 manager: Annbe
@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 5e0312b89d9969f140146b6aaaa9bdcfde702c0b
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 1c264b544660cf7a0b116f09b6bd7c94fcf0457e
+ms.sourcegitcommit: 250270409412ba4cad95fbd4c345a80d3d2b3e53
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181274"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "4596374"
 ---
-# <a name="set-up-a-retainer-schedule---lite"></a>रिटेनर शेड्यूल सेट अप करें - लाइट
+# <a name="set-up-a-retainer-schedule"></a>रिटेनर शेड्यूल सेट अप करें
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 Dynamics 365 Project Operations में **परियोजना अनुबंध** पृष्ठ पर रिटेनर शेड्यूल सेट अप किए जाते हैं.
 

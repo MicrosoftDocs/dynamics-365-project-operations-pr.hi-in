@@ -18,15 +18,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 46cbbc3ff3b0efcecd3cba30b265a782f6cdcf60
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 7c57476b250a8010daff6f609ac4dcdf1ec132cf
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4120005"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642590"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3"></a>Project Service Automation वर्ज़न 3 में क्या क्या नया है या बदल गया है
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 इस टॉपिक में वर्ज़न 2 या वर्ज़न 1 और वर्ज़न 3 के बीच Project Service Automation में यूज़र इंटरफ़ेस (UI), कार्यक्षमता और टर्मिनॉलॉजी में परिवर्तन के बारे में जानकारी प्रदान की गई है.
 
