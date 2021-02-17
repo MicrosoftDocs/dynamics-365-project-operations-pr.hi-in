@@ -24,8 +24,6 @@
               href: environment/resource-add-azure-subscription-lcs-project.md
         - name: डेमो डेटा लागू करें
           items:
-            - name: किसी Finance क्लाउड-होस्टेड परिवेश में डेमो डेटा लागू करें
-              href: environment/resource-apply-finance-demo-data.md
             - name: Common Data Service में कॉन्फ़िगरेशन डेटा लागू करें
               href: environment/resource-apply-pro-setup-config-data.md
         - name: परिवेश परिनियोजित करें
@@ -38,6 +36,10 @@
               href: environment/resource-configure-integration-per-legal-entity.md
     - name: नया क्या है
       items:
+        - name: फरवरी 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-feb-2021-resource-based.md
+        - name: जनवरी 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-jan-2021-resource-based.md
         - name: दिसंबर 2020 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-dec-2020-resource-based.md
         - name: नवंबर 2020 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
@@ -132,17 +134,17 @@
               href: pro/sales/copy-project-contracts-sales.md
             - name: एडवांस और रिटेनर्स
               items:
-                - name: एडवांसेस और रिटेनर-आधारित अनुबंध - लाइट
+                - name: एडवांसेस और रिटेनर-आधारित अनुबंध
                   href: pro/sales/set-up-advances-retainer-based-contracts-sales.md
-                - name: रिटेनर शेड्यूल सेट अप करें - लाइट
+                - name: रिटेनर शेड्यूल सेट अप करें
                   href: pro/sales/set-up-schedule-retainers-sales.md
-                - name: अनुबंध पर एक एड-हॉक उन्नत बनाएँ - लाइट
+                - name: अनुबंध पर एक एड-हॉक उन्नत बनाएँ
                   href: pro/sales/create-ad-hoc-advance-sales.md
     - name: मूल्य निर्धारण और लागत
       items:
         - name: मूल्य सूची सेटअप
           items:
-            - name: मूल्य सूचियाँ सेटअप करें
+            - name: मूल्य सूचियाँ सेट अप करें
               href: pricing-costing/price-list-setup.md
             - name: उत्पाद मूल्य सूचियाँ
               href: pricing-costing/product-price-list.md
@@ -210,6 +212,8 @@
           href: project-management/copy-project.md
         - name: कार्य विश्लेषण संरचना नियोजन
           items:
+            - name: एक कार्य विश्लेषण संरचना बनाएँ
+              href: project-management/create-wbs.md
             - name: असाइनमेंट बनाएँ
               href: project-management/create-assignments.md
         - name: परियोजनाओं का अनुमान लगाएँ
@@ -232,6 +236,8 @@
               href: project-management/project-team-members-overview.md
             - name: टीम के सदस्यों का रखरखाव करें
               href: project-management/maintain-team-members.md
+        - name: कार्य ग्रिड में काम करने की समस्या का निवारण करें
+          href: project-management/projectplanningUIFAQ.md
         - name: सहयोग
           items:
             - name: Office समूहों के साथ सहयोग
@@ -262,6 +268,8 @@
               href: resource-management/book-project.md
             - name: प्रस्तावित संसाधनों की समीक्षा करें
               href: resource-management/review-proposed-resources.md
+            - name: बुकिंग संपादित करें
+              href: resource-management/edit-existing-bookings.md
         - name: विकेंद्रीकृत संसाधन बुकिंग (हाइब्रिड)
           items:
             - name: टीम सदस्य ग्रिड से टीम सदस्यों को जोड़ें
@@ -326,6 +334,8 @@
                   href: expense/set-up-credit-card-integration.md
                 - name: व्यय श्रेणियाँ सेटअप करें
                   href: expense/set-up-expense-categories.md
+            - name: व्यय रिपोर्ट पर व्यक्तिगत व्यय के साथ काम करें
+              href: expense/personal-expenses-expense-report.md
             - name: व्यय रिपोर्ट बनाएँ
               items:
                 - name: एक व्यय रिपोर्ट पर वितरण
@@ -370,22 +380,28 @@
           items:
             - name: सुधार जर्नल की पुष्टि करें और बनाएँ
               href: actuals/create-confirm-correction-journals.md
-    - name: प्रोफ़ॉर्मा इनवॉइसिंग
+    - name: इनवॉइस प्रक्रिया
       items:
-        - name: परियोजना बिलिंग बैकलॉग प्रबंधित करें
-          href: proforma-invoicing/manage-billing-backlog.md
-        - name: सीमा-में-रखें की स्थिति और मान्यताएँ प्रबंधित करें
-          href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
-        - name: एक प्रोफ़ॉर्मा परियोजना इनवॉइस मैनुअल रूप से बनाएँ
-          href: proforma-invoicing/create-manual-proforma-invoice.md
-        - name: प्रोफ़ॉर्मा परियोजना इनवॉइस प्रबंधित करें
-          href: proforma-invoicing/manage-proforma-invoice.md
-        - name: एक रिटेनर या एडवांस को इनवॉइस करें
-          href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
-        - name: प्रोफ़ॉर्मा परियोजना इनवॉइस की पुष्टि करें
-          href: proforma-invoicing/confirm-proforma-invoice.md
-        - name: परियोजना इनवॉइस स्वचालन कॉन्फ़िगर करें
-          href: proforma-invoicing/configure-automated-invoice-creation.md
+        - name: इनवॉइस प्रक्रिया का अवलोकन
+          href: invoicing/post-project-invoices.md
+        - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
+          href: invoicing/format-update-project-invoice-proposals.md
+        - name: प्रोफ़ॉर्मा इनवॉइसिंग
+          items:
+            - name: परियोजना बिलिंग बैकलॉग प्रबंधित करें
+              href: proforma-invoicing/manage-billing-backlog.md
+            - name: सीमा-में-रखें की स्थिति और मान्यताएँ प्रबंधित करें
+              href: pro/proforma-invoicing/manage-nte-status-validations-sales.md
+            - name: एक प्रोफ़ॉर्मा परियोजना इनवॉइस मैनुअल रूप से बनाएँ
+              href: proforma-invoicing/create-manual-proforma-invoice.md
+            - name: प्रोफ़ॉर्मा परियोजना इनवॉइस प्रबंधित करें
+              href: proforma-invoicing/manage-proforma-invoice.md
+            - name: एक रिटेनर या एडवांस को इनवॉइस करें
+              href: pro/proforma-invoicing/invoice-retainer-advance-sales.md
+            - name: प्रोफ़ॉर्मा परियोजना इनवॉइस की पुष्टि करें
+              href: proforma-invoicing/confirm-proforma-invoice.md
+            - name: परियोजना इनवॉइस स्वचालन कॉन्फ़िगर करें
+              href: proforma-invoicing/configure-automated-invoice-creation.md
     - name: परियोजना लेखांकन
       items:
         - name: वित्तीय आयाम डिफ़ॉल्ट
@@ -404,31 +420,31 @@
               href: project-accounting/intercompany-invoicing-overview.md
             - name: इंटरकंपनी इनवॉइस को कॉन्फ़िगर करें
               href: project-accounting/configure-intercompany-invoicing.md
-            - name: इंटरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ
-              href: project-accounting/create-intercompany-customer-vendor-invoices.md
             - name: इंटरकंपनी लेन-देन बनाएँ
               href: project-accounting/create-intercompany-transactions.md
-    - name: आमदनी मान्यता
+            - name: इंटरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
+    - name: राजस्व मान्यता
       items:
-        - name: आमदनी मान्यता का अवलोकन
+        - name: राजस्व मान्यता का अवलोकन
           href: revenue-recognition/revenue-recognition-overview.md
-        - name: आमदनी मान्यता सेट अप करें
+        - name: राजस्व मान्यता सेट अप करें
           items:
             - name: अवधि प्रकार सेट अप करें
               href: project-accounting/period-types.md
             - name: लागत टेम्पलेट सेट अप करें
               href: revenue-recognition/rev-rec-cost-templates.md
-        - name: आमदनी अनुमान प्रबंधित करें
-          href: revenue-recognition/rev-rec-completed-contract-method.md
-        - name: निश्चित मूल्य आमदनी अनुमान परियोजनाएँ
+        - name: निश्चित मूल्य राजस्व अनुमान परियोजनाएँ
           href: revenue-recognition/rev-rec-percentage-completion-method.md
         - name: पूर्ण विधियों की लागत
           href: revenue-recognition/cost-complete-methods.md
+        - name: राजस्व अनुमान प्रबंधित करें
+          href: revenue-recognition/rev-rec-completed-contract-method.md
 - name: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
   items:
     - name: शुरू करें
       items:
-        - name: लाइट परिनियोजन ओवरव्यू
+        - name: लाइट परिनियोजन का अवलोकन
           href: pro/project-operations-overview-lite.md
         - name: पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट
           href: environment/lite-preview-subscription-sign-up.md
@@ -440,9 +456,13 @@
           href: environment/security-model.md
     - name: नया क्या है
       items:
-        - name: नया क्या है दिसंबर 2020 - लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
+        - name: नया क्या है फरवरी 2021 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-feb-2021-lite.md
+        - name: नया क्या है जनवरी 2021 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-jan-2021-lite.md
+        - name: नया क्या है दिसंबर 2020 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-dec-2020-lite.md
-        - name: नया क्या है नवंबर 2020 - लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
+        - name: नया क्या है नवंबर 2020 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-nov-2020-lite.md
     - name: परियोजना विक्रय प्रक्रिया
       items:
@@ -636,6 +656,8 @@
           href: project-management/copy-project.md
         - name: कार्य विश्लेषण संरचना नियोजन
           items:
+            - name: एक कार्य विश्लेषण संरचना बनाएँ
+              href: project-management/create-wbs.md
             - name: असाइनमेंट बनाएँ
               href: project-management/create-assignments.md
         - name: परियोजनाओं का अनुमान लगाएँ
@@ -658,10 +680,16 @@
               href: project-management/project-team-members-overview.md
             - name: टीम के सदस्यों का रखरखाव करें
               href: project-management/maintain-team-members.md
+        - name: कार्य ग्रिड में काम करने की समस्या का निवारण करें
+          href: project-management/projectplanningUIFAQ.md
         - name: सहयोग
           items:
             - name: Office समूहों के साथ सहयोग
               href: project-management/collaboration-groups.md
+        - name: डेवलपर नोट्स
+          items:
+            - name: कॉपी परियोजना के साथ परियोजना टेम्पलेट विकसित करें
+              href: project-management/dev-copy-project.md
     - name: संसाधन प्रबंधन
       items:
         - name: मुख्य अवधारणाएँ
@@ -684,6 +712,8 @@
               href: resource-management/book-project.md
             - name: प्रस्तावित संसाधनों की समीक्षा करें
               href: resource-management/review-proposed-resources.md
+            - name: बुकिंग संपादित करें
+              href: resource-management/edit-existing-bookings.md
         - name: विकेंद्रीकृत संसाधन बुकिंग (हाइब्रिड)
           items:
             - name: टीम सदस्य ग्रिड से टीम सदस्यों को जोड़ें
@@ -772,6 +802,10 @@
   items:
     - name: नया क्या है
       items:
+        - name: नया क्या है जनवरी 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-jan-2021-stocked.md
+        - name: नया क्या है दिसंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-dec-2020-stocked.md
         - name: नया क्या है नवंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
           href: prod-pma/whats-new/whats-new-nov-2020-production-based.md
     - name: स्टॉक/उत्पादन-आधारित परिदृश्य परिनियोजन के लिए Project Operations ओवरव्यू
@@ -906,6 +940,14 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 28.5 हॉटफ़िक्स, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-28-5.md
+        - name: 'अद्यतन रिलीज़ 28, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-28.md
+        - name: 'अद्यतन रिलीज़ 27.5 हॉटफ़िक्स, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-27-5.md
+        - name: 'अद्यतन रिलीज़ 27, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-27.md
         - name: 'अद्यतन रिलीज़ 26, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-26.md
         - name: 'अद्यतन रिलीज़ 25, V3 में नया क्या है या क्या बदल गया है'
@@ -936,6 +978,8 @@
           href: psa/whats-new-ur-13.md
         - name: 'अद्यतन रिलीज़ 12, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-12.md
+        - name: Project Service Automation 3.x wave 1 2021 में नया क्या है या क्या बदल गया है
+          href: psa/whats-new-2021-wave1.md
         - name: Project Service Automation 3.x wave 1 2020 में नया क्या है या क्या बदल गया है
           href: psa/whats-new-v3-2020-wave1.md
         - name: Project Service Automation V3 में नया क्या है या क्या बदल गया है
@@ -992,6 +1036,8 @@
               href: psa/project-stages.md
             - name: परियोजना सेटिंग
               href: psa/project-settings.md
+            - name: Microsoft Project में Project Service एड-इन की मदद से कार्य की योजना बनाएँ
+              href: psa/add-in-plan-work-projects.md
         - name: मूल्य निर्धारण और लागत आयाम
           items:
             - name: मूल्य निर्धारण और लागत आयाम मुख पृष्ठ
@@ -1052,7 +1098,7 @@
               href: psa/bulk-corrections-actuals-created-by-approved-time-expense-entries.md
             - name: परियोजना के बिलिंग बैकलॉग की समीक्षा करें
               href: psa/review-invoicing-backlog.md
-            - name: इनवॉइस करना
+            - name: इनवॉइस प्रक्रिया
               href: psa/invoicing.md
             - name: एकाधिक-मुद्रा परिदृश्य
               href: psa/advanced-currency.md
