@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: f80922877f3d3d0e1149c2aa690f881bcf927b11
-ms.sourcegitcommit: 5791f6347e800fc4f6c76e7460947cb6824edebe
+ms.openlocfilehash: 3889402ab991e307bc3fe5463098dfab383a53b4
+ms.sourcegitcommit: 04c446746aad97fc3f4c3d441983c586b918a3a6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "4700682"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "4727882"
 ---
 # <a name="whats-new-december-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है दिसंबर 2020 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
 
@@ -24,6 +24,8 @@ _**इस पर लागू होता है:** संसाधन/गै�
 
 - Dataverse पर Project Operations परिवेश संस्करण 4.5.0.134
 - Dynamics 365 Finance में परियोजना प्रबंधन और लेखांकन परिवेश संस्करण 10.0.15
+
+इस रिलीज़ को कैसे अद्यतन किया जाए, इसकी जानकारी के लिए, [अपने Finance परिवेश में Project Operations अद्यतन करें](ur5-nonstocked-installation.md) देखें.
 
 ## <a name="features-included-in-this-release"></a>इस रिलीज़ में शामिल की गई सुविधाएँ
 इस रिलीज़ में निम्न सुविधाएँ शामिल की गई हैं:

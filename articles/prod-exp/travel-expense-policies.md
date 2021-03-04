@@ -16,16 +16,14 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 6240a7be175800ce6f3b066de9e935ab370629ef
-ms.sourcegitcommit: 13a4e58eddbb0f81aca07c1ff452c420dbd8a68f
+ms.openlocfilehash: ab99c0ec769eb2e0914fc7d993f83d20e2c327f6
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "4650096"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960699"
 ---
 # <a name="set-up-expense-policies"></a>व्यय नीतियों सेट अप करें
-
-[!include [banner](../includes/banner.md)]
 
 आप उन नीतियों को निर्धारित कर सकते हैं जिनका आपके कर्मचारियों को व्यय रिपोर्ट दर्ज करने और यात्रा मांग-पत्र को दर्ज करने और सबमिट करने के दौरान पालन करना चाहिए.         
 व्यय नीतियों को लागू करके आप व्यय को प्रभावपूर्ण तरीके से प्रबंधित कर सकते हैं.         

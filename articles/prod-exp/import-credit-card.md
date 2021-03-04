@@ -18,16 +18,14 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 6cec15e436bc699e361577c970dd5845c6c68908
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 7bf75c13bb190c7b992aa516f1593d886dfa604d
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077853"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960429"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>क्रेडिट कार्ड लेनदेन आयात करें और कायम करें
-
-[!include [banner](../includes/banner.md)]
 
 व्यय से संबंधित क्रेडिट कार्ड लेनदेन को सेट किया जा सकता है ताकि वे आवर्ती शेड्यूल पर अपने आप आयात किये जा सकें. विकल्प रूप से, लेनदेन को मैन्युअल रूप से आयात किया जा सकता है क्योंकि उनकी ज़रूरत है. क्रेडिट कार्ड लेनदेन को क्रेडिट कार्ड लेनदेन डेटा निकाय के माध्यम से आयात किया जाता है.
 

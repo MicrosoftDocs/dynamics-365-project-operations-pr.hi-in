@@ -16,16 +16,14 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 825b6c131c8a65b99d5b7ebdadcd6389886f2d11
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: d6b9d4fa0f69b4b0fe4bd1786958d22e5580a321
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077849"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960879"
 ---
 # <a name="personal-expenses-on-an-expense-report"></a>ख़र्च रिपोर्ट पर व्यक्तिगत ख़र्च
-
-[!include [banner](../includes/banner.md)]
 
 व्यावसायिक यात्रा के दौरान, श्रमिक कभी-कभी अपने कॉर्पोरेट क्रेडिट कार्ड पर व्यक्तिगत ख़र्च ले सकते हैं. यदि आप व्यक्तिगत ख़र्चों को संभालने के लिए किसी प्रक्रिया को परिभाषित नहीं करते हैं, तो ख़र्च रिपोर्ट के लिए अनुमोदन प्रक्रिया तब बाधित हो सकती है जब श्रमिक अपनी आइटम किए गए ख़र्च रिपोर्ट प्रस्तुत करते हैं. 
 

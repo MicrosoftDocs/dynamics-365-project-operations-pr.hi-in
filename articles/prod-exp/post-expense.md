@@ -16,16 +16,14 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 2d008ef8dd55550431fbb9e329cd7d9428a08831
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 982b7621c35547448b5d756f77f3873b9fbbcb9d
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077846"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960113"
 ---
 # <a name="post-an-expense-report"></a>व्यय रिपोर्ट पोस्ट करें
-
-[!include [banner](../includes/banner.md)]
 
 एक ख़र्च रिपोर्ट को मंजूरी दे दी गई है और सामान्य पत्रिका को स्थानांतरित करने के बाद, इसे सामान्य लेजर में पोस्ट किया जा सकता है. जब आप ख़र्च रिपोर्ट पोस्ट करते हैं, तो मूल्य पर जुड़ने वाले कर (VAT) की वसूली के लिए उपयुक्त ख़र्चों की पहचान की जाती है. VAT भुगतानों का सत्यापन करने और उन्हें वसूल करने का कार्य उस कर्मचारी को सौंपा जाता है जो ख़र्च रिपोर्ट का सत्यापन करने के लिए उत्तरदायी हैं.
 

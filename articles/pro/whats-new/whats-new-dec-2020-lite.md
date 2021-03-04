@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6a001cea56411865599a5c0a41fe47682dad35c2
-ms.sourcegitcommit: 5791f6347e800fc4f6c76e7460947cb6824edebe
+ms.openlocfilehash: bfa13ab74031eb52c128fed16a31e3a8167e8bde
+ms.sourcegitcommit: ec8ab099a03725de9f61edfdeb90fbefae54cd4e
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "4700818"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "4707675"
 ---
 # <a name="whats-new-december-2020---project-operations-lite-deployment---deal-to-proforma-invoicing"></a>नया क्या है दिसंबर 2020 - Project Operations लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
 
@@ -24,7 +24,7 @@ _**लागू होता है:** लाइट नियोजन-प्र
 
   - Dataverse पर Project Operations परिवेश संस्करण 4.5.0.134 
 
-निम्न तालिका Dataverse पर Project Operations परिवेश संस्करण 4.4.0.70 के अद्यतनों को सूचीबद्ध करती है.
+निम्न तालिका Dataverse पर Project Operations परिवेश संस्करण 4.5.0.134 के अद्यतनों को सूचीबद्ध करती है.
 
 | **सुविधा क्षेत्र** | **संदर्भ संख्या** | **गुणवत्ता अद्यतन** |
 | --- | --- | --- |
