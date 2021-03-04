@@ -18,14 +18,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0b75fd372732f42a3557aaa5eccec1f24a644941
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: cea8ce7f61fbc0f0c8c8deb522bc332be102238d
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121805"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149545"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>कार्य की विवरण संरचना के लिए अपग्रेड संबंधी विचार
+
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 इस टॉपिक में Project Service Automation 2.x से 3.x के मामले में कार्य की विवरण संरचना को अपग्रेड करने के बारे में जानकारी प्रदान की गई है। इस टॉपिक में Project Service Automation (PSA) में किसी परियोजना के स्वास्थ्य को परिभाषित किया गया है, जो सफल अपग्रेड के लिए आवश्यक है। आम पायी जाने वाली ब्लॉकिंग परिस्थितियों के बारे में भी जानकारी दी गई है, जो अपग्रेड को विफल बना सकती हैं। किसी परियोजना शेड्यूल में परियोजना टास्क और उनके कार्यों को परिभाषित करने के बारे में अधिक जानकारी के लिए [प्रोजेक्ट शेड्यूल](project-creating.md) देखें।
 
 ## <a name="key-entities"></a>प्रमुख इकाइयां

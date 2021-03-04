@@ -16,20 +16,22 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5176d2c6b7b00d47d4aeb12f54bdb84d4b87304c
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 94f9adc67163254486387a1ce59d5d3e8e93c335
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077891"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148645"
 ---
 # <a name="resource-management-changes-project-service-automation-3x"></a>संसाधन प्रबंधन में परिवर्तन (Project Service Automation 3.x)
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 इस टॉपिक के अनुभागों में Dynamics 365 Project Service Automation संस्करण 3.x के संसाधन प्रबंधन क्षेत्र में किए गए परिवर्तनों के बारे में जानकारी प्रदान की गई है.
 
 ## <a name="project-estimates"></a>परियोजना अनुमान
 
-परियोजना के अनुमान **msdyn\_projecttask** निकाय ( **परियोजना कार्य** ) पर आधारित होने के बजाय **msdyn\_resourceassignment** निकाय ( **संसाधन असाइनमेंट** ) पर आधारित हैं. संसाधनों को एसाइनमेंट देना कार्य की शेड्यूलिंग और मूल्य के निर्धारण के लिए "सत्य का स्रोत" बन गया है.
+परियोजना के अनुमान **msdyn\_projecttask** निकाय (**परियोजना कार्य**) पर आधारित होने के बजाय **msdyn\_resourceassignment** निकाय (**संसाधन असाइनमेंट**) पर आधारित हैं. संसाधनों को एसाइनमेंट देना कार्य की शेड्यूलिंग और मूल्य के निर्धारण के लिए "सत्य का स्रोत" बन गया है.
 
 ## <a name="line-tasks"></a>पंक्ति कार्य
 
@@ -65,7 +67,7 @@ PSA 3.x में अनएसाइंड एसाइनमेंट ऐसा
 
 ## <a name="scheduling-fields-on-the-project-task-entity"></a>परियोजना कार्य इकाई पर शेड्यूलिंग फ़ील्ड
 
-**msdyn\_projecttask** निकाय से फ़ील्ड अवमानित कर दिए गए हैं या फिर **msdyn\_resourceassignment** निकाय पर स्थानान्तरित कर दिए गए हैं या उन्हें अब **msdyn\_projectteam** निकाय ( **परियोजना टीम सदस्य** ) से संदर्भित किया जाता है.
+**msdyn\_projecttask** निकाय से फ़ील्ड अवमानित कर दिए गए हैं या फिर **msdyn\_resourceassignment** निकाय पर स्थानान्तरित कर दिए गए हैं या उन्हें अब **msdyn\_projectteam** निकाय (**परियोजना टीम सदस्य**) से संदर्भित किया जाता है.
 
 | msdyn\_projecttask पर अवमानित फील्ड (परियोजना टास्क) | msdyn\_resourceassignment पर नया फ़ील्ड (संसाधन का एसाइनमेंट) | टिप्पणी |
 |---|---|---|
@@ -77,7 +79,7 @@ PSA 3.x में अनएसाइंड एसाइनमेंट ऐसा
 
 ## <a name="schedule-contour"></a>शेड्यूल कंटूअर
 
-इस शेड्यूल कंटूअर को प्रत्येक **संसाधन एसाइनमेंट** इकाई ( **msdyn\_resourceassignment** ) के **नियोजित कार्य** फ़ील्ड ( **msdyn\_plannedwork** ) में संग्रहीत किया जाता है.
+इस शेड्यूल कंटूअर को प्रत्येक **संसाधन एसाइनमेंट** इकाई (**msdyn\_resourceassignment**) के **नियोजित कार्य** फ़ील्ड (**msdyn\_plannedwork**) में संग्रहीत किया जाता है.
 
 ### <a name="structure"></a>संरचना
 
@@ -139,7 +141,7 @@ PSA 3.x में अनएसाइंड एसाइनमेंट ऐसा
 
 ## <a name="pricing-dimensions"></a>कीमत निर्धारण के डायमेंशन
 
-PSA 3.x में संसाधन के मामले में विशिष्ट मूल्य निर्धारण से जुड़े आयाम के फ़ील्ड (जैसे **भूमिका** और **संगठनात्मक इकाई** ) **msdyn\_projecttask** इकाई से हटा दिए गए हैं. ये फ़ील्ड अब परियोजना के अनुमान तैयार किये जाने के समय संसाधन एसाइनमेंट ( **msdyn\_projectteam** ) से संबंधित परियोजना टीम सदस्य ( **msdyn\_resourceassignment** ) से प्राप्त किए जा सकते हैं. एक नया फील्ड, **msdyn\_organizationalunit** , **msdyn\_projectteam** इकाई में जोड़ा गया है.
+PSA 3.x में संसाधन के मामले में विशिष्ट मूल्य निर्धारण से जुड़े आयाम के फ़ील्ड (जैसे **भूमिका** और **संगठनात्मक इकाई**) **msdyn\_projecttask** इकाई से हटा दिए गए हैं. ये फ़ील्ड अब परियोजना के अनुमान तैयार किये जाने के समय संसाधन एसाइनमेंट (**msdyn\_projectteam**) से संबंधित परियोजना टीम सदस्य (**msdyn\_resourceassignment**) से प्राप्त किए जा सकते हैं. एक नया फील्ड, **msdyn\_organizationalunit**, **msdyn\_projectteam** इकाई में जोड़ा गया है.
 
 | msdyn\_projecttask पर अवमानित फील्ड (परियोजना टास्क) | इसके बजाए msdyn\_projectteam (परियोजना टीम सदस्य) से फ़ील्ड का उपयोग किया जाता है |
 |---|---|

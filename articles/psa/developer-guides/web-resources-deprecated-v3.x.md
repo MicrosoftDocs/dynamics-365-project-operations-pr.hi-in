@@ -16,14 +16,16 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 46aab1bdce15613ce0551de5a8265b9130aa1938
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 7c63000cc9d320340dad824256e63dc445b3a921
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077711"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148555"
 ---
 # <a name="deprecated-web-resources-in-project-service-automation-3x"></a>Project Service Automation 3.x में अवमानित वेब संसाधन
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 नए क्लाइंट इंटरफ़ेस और Dynamics 365 Project Service Automation समाधान में किए गए अन्य परिवर्तनों के कारण समाधान के लिए कुछ वेब संसाधनों का अब उपयोग नहीं किया जाता है. इसलिए वे 3.0 वर्ज़न में अप्रचलित (अवमानित) हैं.
 
