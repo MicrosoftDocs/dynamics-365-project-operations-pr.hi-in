@@ -170,3 +170,6 @@ PSA 3.x में संसाधन के मामले में विश�
 * msdyn\_actualsales
 * msdyn\_remainingcost
 * msdyn\_remainingsales
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

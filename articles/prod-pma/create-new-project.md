@@ -104,3 +104,6 @@ ms.locfileid: "4077835"
 
 3. **सहेजें** का चयन करें, और उसके बाद पृष्ठ बंद करें.
 4. **योग्यता** टैब पर, **ProjectMgmt** कौशल और **PMP** प्रमाण-पत्र जोड़ें.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

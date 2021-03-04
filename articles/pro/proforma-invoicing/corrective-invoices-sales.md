@@ -288,3 +288,6 @@ _**लागू होता है:** लाइट नियोजन-प्र
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

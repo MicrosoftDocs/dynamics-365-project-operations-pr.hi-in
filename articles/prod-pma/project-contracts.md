@@ -344,3 +344,6 @@ Dynamics 365 Finance में, आप एक ही लेनदेन के �
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

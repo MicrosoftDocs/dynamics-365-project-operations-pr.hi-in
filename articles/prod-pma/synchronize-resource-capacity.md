@@ -49,3 +49,6 @@ ms.locfileid: "4077678"
     | समाप्ति दिनांक    | संसाधन क्षमता एकत्र करने के लिए सिंक्रनाइज़ेशन प्रक्रिया की समाप्ति तिथि दर्ज करें. |
 
 [![सिंक्रनाइज़ेशन प्रक्रिया](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -142,3 +142,6 @@ _इस पर लागू होता है: स्टॉक/उत्पा
 ## <a name="regulatory-updates"></a>नियामक अद्यतन
 
 Dynamics 365 Finance के लिए विनियामक अद्यतनों के बारे में जानकारी के लिए, [विनियामक अद्यतन](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) देखें. विनियामक अद्यतनों के बारे में जानने का दूसरा तरीका Lifecycle Services (LCS) में साइन इन करना और समस्या खोज टूल का उपयोग करके नियोजित विनियामक अद्यतनों को देखना है. समस्या खोज के चलते आप देश, सुविधा के प्रकार और रिलीज़ के आधार पर खोज सकते हैं.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

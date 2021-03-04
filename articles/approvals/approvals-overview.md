@@ -59,3 +59,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 3. **सहेजें** चुनें.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

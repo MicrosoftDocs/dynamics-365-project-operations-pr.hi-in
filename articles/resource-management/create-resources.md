@@ -20,3 +20,6 @@ ms.locfileid: "4514533"
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 आप अपने Dynamics 365 Project Operations परिवेश में उपयोग करने के लिए बुक करने योग्य संसाधनों को बनाने हेतु Dynamics 365 Field Service का उपयोग कर सकते हैं. इन संसाधनों को बनाने के लिए, [बुक करने योग्य संसाधन सेट अप करें](https://docs.microsoft.com/dynamics365/field-service/set-up-bookable-resources) देखें.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

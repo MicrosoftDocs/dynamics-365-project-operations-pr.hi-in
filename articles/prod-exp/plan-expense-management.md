@@ -160,3 +160,6 @@ ms.locfileid: "4960339"
 - नीति कब समाप्त हो जाती है?
 - नीति नियम क्या है?
 - नीति नियम का परिणाम क्या है?
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

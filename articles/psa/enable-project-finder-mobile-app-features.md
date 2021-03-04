@@ -68,3 +68,6 @@ ms.locfileid: "5144550"
   
 ### <a name="see-also"></a>यह भी देखें  
  [संसाधन सेट अप करें](../psa/set-up-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

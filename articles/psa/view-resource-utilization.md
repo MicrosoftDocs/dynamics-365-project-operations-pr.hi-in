@@ -43,3 +43,6 @@ ms.locfileid: "5150715"
   
 ### <a name="see-also"></a>यह भी देखें  
  [संसाधन प्रबंधक मार्गदर्शिका](../psa/resource-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

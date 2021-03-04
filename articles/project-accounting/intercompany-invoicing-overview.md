@@ -43,3 +43,6 @@ Dynamics 365 Project Operations अंतरकंपनी लेनदेन �
 - [अंतरकंपनी इनवॉइस को कॉन्फ़िगर करें](configure-intercompany-invoicing.md)
 - [अंतरकंपनी लेनदेन रिकॉर्ड करें](create-intercompany-transactions.md)
 - [अंतरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ](create-intercompany-customer-vendor-invoices.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -73,3 +73,6 @@ Project Service Automation (PSA) के वेब इंटरफेस का �
 > ![मानक शीर्षक इकाई के लिए नमूना डेटा ](media/ST-data.png)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

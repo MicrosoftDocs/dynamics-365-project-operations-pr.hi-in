@@ -42,3 +42,6 @@ ms.locfileid: "5151075"
 निम्नलिखित मुद्दों को ठीक किया गया है:
 
 - शेड्यूल सहायता खोज प्रदर्शन में गिरावट
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

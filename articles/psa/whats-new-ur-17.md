@@ -57,3 +57,6 @@ ms.locfileid: "5143721"
 - निश्चित: जब लेन-देन वर्ग **समय**, **UnitGroup** सहित सभी प्रविष्टियों के लिए गैर-संपादन योग्य है, **QuoteLineDetails**, **JournalLine**, **InvoiceLineDetail**, और **ContractLineDetails**. हालाँकि, **इकाई** केवल **JournalLine** और **InvoiceLineDetails** के लिए गैर-संपादन योग्य है.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

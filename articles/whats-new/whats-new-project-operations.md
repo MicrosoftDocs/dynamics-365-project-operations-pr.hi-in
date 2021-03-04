@@ -25,3 +25,6 @@ ms.lasthandoff: 10/28/2020
 ms.locfileid: "4132116"
 ---
 # <a name="whats-new-in-project-operations"></a>परियोजना संचालन में नया क्या है
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

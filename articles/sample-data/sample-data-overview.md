@@ -25,3 +25,6 @@ ms.lasthandoff: 10/28/2020
 ms.locfileid: "4124595"
 ---
 # <a name="sample-data-home-page"></a>नमूना डेटा होम पेज
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -55,3 +55,6 @@ ms.locfileid: "4077686"
 - [प्रोजेक्ट संसाधन शेड्यूलिंग प्रदर्शन](project-scheduling-performance.md)
 - [कार्य विभाजन संरचना टेम्पलेट पर भूमिकाएं सेट करें](set-up-roles-wbs-template.md)
 - [योजनाबद्ध संसाधनों के लिए संसाधन की पूर्ति](resource-fulfillment-planned-resources.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -39,3 +39,6 @@ ms.locfileid: "4077677"
 10.  ठीक क्लिक करें. 
 
 इस चरण के बाद, क्रेडिट नोट इनवॉइस प्रस्ताव में उपलब्ध हो जाएगा.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

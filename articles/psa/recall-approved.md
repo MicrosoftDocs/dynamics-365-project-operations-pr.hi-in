@@ -107,3 +107,6 @@ ms.locfileid: "5147838"
 निम्नलिखित उदाहरण में ऐसे परिवर्तनों को बताया गया है जो रीकॉल करने पर स्वीकृत खर्च की प्रविष्टियों के कारण होते हैं।
 
 ![व्यय प्रविष्टि अवस्था के लेनदेन](media/ExpenseEntryStateTransitions.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

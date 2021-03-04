@@ -112,3 +112,6 @@ Dynamics 365 Project Operations परियोजना की प्रति�
     }
 }
 ```
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

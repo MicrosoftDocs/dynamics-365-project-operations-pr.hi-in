@@ -64,3 +64,6 @@ ms.locfileid: "4513989"
 5.  जब चयनित निकायों के लिए किसी भी निर्भर निकाय को शामिल करने के लिए कहा जाए, तो **नहीं, आवश्यक घटक शामिल न करें** चुनें.
 
     ![निर्भर निकायों को शामिल करना](./media/Do-not-include-required.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

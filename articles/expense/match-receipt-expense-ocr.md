@@ -94,3 +94,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 फ़ील्ड डेटा निकालने के लिए Finance, Cognitive Services से संपर्क करेगा. Cognitive Services इसे संसाधित करने के दौरान अपने पास 24 घंटे तक आपकी रसीद की प्रति रखेगी. संसाधित करने के बाद Cognitive Services रसीद को हटा देंगी. रसीदें अब भी Finance में संग्रहीत हैं.
 
 और जानकारकी के लिए [प्रपत्र पहचानकर्ता की नई क्षमता के साथ रसीद की समझ को सक्षम करें](https://azure.microsoft.com/blog/enable-receipt-understanding-with-form-recognizer-s-new-capability/) देखें.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

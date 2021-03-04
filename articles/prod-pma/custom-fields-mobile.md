@@ -429,3 +429,6 @@ final class TSTimesheetDetails_Extension
 1. ऐप परियोजना संसाधन से डिफॉल्ट श्रेणी को रखने की कोशिश करता है. डिफॉल्ट श्रेणी **TSTimesheetSettingsService** वर्ग में **getCurrentUserResource** और **getDelegatedResourcesForCurrentUser** पद्धति में सेट किया जाता है.
 2. अगर डिफॉल्ट श्रेणी परियोजना संसाधन के स्तर पर उपलब्ध नहीं कराया जाता, ऐप इसे परियोजना गतिविधि से लेने की कोशिश करता है. डिफॉल्ट श्रेणी **TSTimesheetProjectService** वर्ग में **getActivitiesForProject** पद्धति में सेट किया जाता है.
 3. अगर डिफॉल्ट श्रेणी किसी परियोजना गतिविधि के स्तर पर उपलब्ध नहीं कराई जाती, तो डिफॉल्ट श्रेणी इसे परियोजना मानक से लेती है. डिफॉल्ट श्रेणी **TSTimesheetProjectService** वर्ग में **getProjectDetailsbyRule** पद्धति में सेट किया जाता है.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -83,3 +83,6 @@ ms.locfileid: "5150445"
   
 ### <a name="additional-resources"></a>अतिरिक्त संसाधन  
  [संसाधन प्रबंधक मार्गदर्शिका](../psa/resource-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

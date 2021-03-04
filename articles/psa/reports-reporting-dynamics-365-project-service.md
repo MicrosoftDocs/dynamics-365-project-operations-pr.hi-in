@@ -52,3 +52,6 @@ PSA में रिपोर्टिंग के बारे में अ�
 - [Project Service डेटा मॉडल के साथ काम करना](reports-working-project-service-data-model.md)
 - [डैशबोर्ड](reports-dashboards.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

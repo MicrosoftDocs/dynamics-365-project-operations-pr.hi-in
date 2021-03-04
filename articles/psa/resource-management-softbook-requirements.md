@@ -63,3 +63,6 @@ ms.locfileid: "5147385"
 परियोजना के **टीम** टैब पर सॉफ्ट-बुकिंग हुए संसाधन को हार्ड- बुकिंग वाला बनाने के लिए संसाधन का चुनाव कर **पुष्टि करें** का चयन करें।
 
 ![कमांड की पुष्टि करें](media/Resource-Management-image83.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

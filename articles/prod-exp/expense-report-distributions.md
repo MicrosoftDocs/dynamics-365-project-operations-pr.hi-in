@@ -37,3 +37,6 @@ ms.locfileid: "4960744"
 |होटल         |725 EUR              |557 EUR                        |168 EUR                          |
 |भोजन         |346 EUR              |284 EUR                        |62 EUR                           |
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

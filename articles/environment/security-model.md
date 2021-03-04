@@ -81,3 +81,6 @@ Microsoft Dynamics 365 Project Operations में एक अद्विती
 वित्त में सुरक्षा के बारे में अधिक जानकारी के लिए, [भूमिका-आधारित सुरक्षा](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security) देखें.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

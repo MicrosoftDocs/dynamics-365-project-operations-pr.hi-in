@@ -34,3 +34,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 1. संगठन
 2. ग्राहक
 3. कोट/अनुबंध
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

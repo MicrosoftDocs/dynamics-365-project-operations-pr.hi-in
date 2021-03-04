@@ -106,3 +106,6 @@ PSA अनुबंध या प्रोजेक्ट पर बदलाव
 
 8. दूसरे प्लग-इन के लिए चरण 1 को 7 से दोहराएं।
 9. PluginRegistrationTool को बंद करें।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

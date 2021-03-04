@@ -35,3 +35,6 @@ Dynamics 365 Project Operations में एक परियोजना अन
 
 > [!NOTE]
 > Dynamics 365 Project Operations में, नहीं मिला के रूप में परियोजना अनुबंध को बंद करने से यह संबंधित अवसर की स्थिति पर प्रभाव नहीं पड़ेगा. यह अवसर खुला ही रहेगा और इसे मैन्युअल रूप से बंद करना होगा.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

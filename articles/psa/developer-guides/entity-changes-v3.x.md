@@ -84,3 +84,6 @@ SalesOrderDetail (ऑर्डर पंक्ति) | msdyn_quotelineid | msdy
 > हटाए गए संसाधनों की पूरी सूची के लिए, [Project Service Automation v3.x में हटाए गए वेब संसाधन](../developer-guides/web-resources-deprecated-v3.x.md) देखें।
 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

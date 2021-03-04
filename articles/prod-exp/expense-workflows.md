@@ -50,3 +50,6 @@ ms.locfileid: "4960519"
 |      <strong>नकद अग्रिम अनुरोध</strong>      |         नकद अग्रिम अनुरोधों के लिए स्वीकृति कार्यप्रवाह बनाएं.          |
 |        <strong>VAT कर रिकवरी</strong>        | मूल्य वर्धित कर (VAT) की वसूली के लिए स्वीकृति कार्यप्रवाह बनाएं.  |
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

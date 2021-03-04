@@ -170,3 +170,6 @@ Project Service Automation से Finance एकीकरण समाधान 
 [![व्यय अनुमान लेन-देन की टेम्पलेट मैपिंग](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
 
 [![व्यय अनुमानों की टेम्पलेट मैपिंग](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

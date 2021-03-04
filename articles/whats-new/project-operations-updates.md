@@ -77,3 +77,6 @@ Dataverse पर Project Operations परिवेश के लिए अद�
 | --- | --- |
 | 10.0.17 | 19 मार्च, 2021 |
 | 10.0.18 | 16 अप्रेल, 2021 |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

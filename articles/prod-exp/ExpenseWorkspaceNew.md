@@ -78,3 +78,6 @@ ms.locfileid: "4960249"
 - लाइन-स्तरीय कार्यप्रवाह
 - अंतरिम अनुमोदक का समर्थन करें
 - उन्नत वस्तुकरण
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

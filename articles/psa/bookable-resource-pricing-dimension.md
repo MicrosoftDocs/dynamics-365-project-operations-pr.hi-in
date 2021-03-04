@@ -76,3 +76,6 @@ ms.locfileid: "5145000"
 5. **msdyn_projectteam** को **इकाई लॉजिकल नाम** फ़ील्ड और **msdyn_bookableresourceid** से **फ़ील्ड नाम** फ़ील्ड जोड़ें। रिकॉर्ड सहेजें.
 
  ![नए मूल्य निर्धारण आयाम क्षेत्र का नाम रूप](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

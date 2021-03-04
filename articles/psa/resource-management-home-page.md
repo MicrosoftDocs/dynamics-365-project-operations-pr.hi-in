@@ -41,3 +41,6 @@ ms.locfileid: "5147565"
 - [सॉफ़्ट बुक की आवश्यकताएँ](resource-management-softbook-requirements.md)
 - [कौशल और दक्षता मॉडल्स](resource-management-skills-proficiency.md)
 - [संसाधन प्रबंधन FAQ](resource-management-faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -73,3 +73,6 @@ ms.locfileid: "5150130"
  [खाता प्रबंधक मार्गदर्शिका](../psa/account-manager-guide.md)   
  [परियोजना प्रबंधक मार्गदर्शिका](../psa/project-manager-guide.md)   
  [संसाधन प्रबंधक मार्गदर्शिका](../psa/resource-manager-guide.md)   
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

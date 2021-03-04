@@ -79,3 +79,6 @@ Project operations अनुबंध या प्रोजेक्ट पर 
 7. संवाद बॉक्स बंद करने के लिए **ठीक** चुनें और फिर **चरण अपडेट** चुनें।
 8. दूसरे प्लग-इन के लिए चरण 1 को 7 से दोहराएं।
 9. **PluginRegistrationTool** को बंद करें.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

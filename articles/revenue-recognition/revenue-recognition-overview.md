@@ -60,3 +60,6 @@ Dynamics 365 Project Operations में, आय पहचान सिद्�
 [आय अनुमान प्रबंधित करें](rev-rec-completed-contract-method.md)
 
 [पूर्णता की लागत विधि](cost-complete-methods.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

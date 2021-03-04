@@ -134,3 +134,6 @@ Common Data Service (CDS) में डेटा को कॉन्फ़िग
 13. **सहेजें** चुनें. 
 
 ![अपडेट किए गए परियोजना मापदंड](./media/17UpdatedProjectParameters.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

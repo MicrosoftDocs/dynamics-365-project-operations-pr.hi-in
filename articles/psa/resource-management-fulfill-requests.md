@@ -46,3 +46,6 @@ ms.locfileid: "5147610"
 > ![संसाधन चयनित](media/Resource-Management-image61.png)
 
 जेनेरिक टीम के सदस्य को प्रोजेक्ट टीम में हार्ड-बुक नामित संसाधन और प्रोजेक्ट शेड्यूल में टास्क असाइनमेंट्स से बदल दिया जाता है।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

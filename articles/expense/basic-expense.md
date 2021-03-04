@@ -55,3 +55,6 @@ Dynamics 365 Project Operations में व्यय क्षमताओं 
 ## <a name="see-also"></a>इसे भी देखें
 
 - [अनुमोदनों का अवलोकन](../approvals/approvals-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

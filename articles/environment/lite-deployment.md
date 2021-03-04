@@ -44,3 +44,6 @@ Project Operations कई नियोजन मॉडल का समर्थ
 2. Dynamics 365 ऐप की परिनियोजन सूची से **Microsoft Dynamics 365 Project Operations** स्थापित करें. अधिक जानकारी के लिए, [Dynamics 365 अनुप्रयोग प्रबंधित करें](https://docs.microsoft.com/power-platform/admin/manage-apps) देखें.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

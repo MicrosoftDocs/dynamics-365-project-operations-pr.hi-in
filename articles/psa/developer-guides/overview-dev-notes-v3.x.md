@@ -33,3 +33,6 @@ Dynamics 365 Project Service Automation (PSA) वर्शन 3.x. में न
 - [समय और व्यय परिवर्तन (Project Service Automation 3.x)](../developer-guides/time-expense-changes-v3.x.md)
 - [संसाधन प्रबंधन में परिवर्तन (Project Service Automation 3.x)](../developer-guides/resource-management-changes-v3.x.md)
 - [Project Service Automation 3.x में अवमानित वेब संसाधन](../developer-guides/web-resources-deprecated-v3.x.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

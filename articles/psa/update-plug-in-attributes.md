@@ -68,3 +68,6 @@ ms.locfileid: "5147070"
 
 9. प्लग-इन रजिस्ट्रेशन टूल को बंद करें।
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

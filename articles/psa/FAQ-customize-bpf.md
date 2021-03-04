@@ -107,3 +107,6 @@ Project Service 2.4.4.30 या पिछले संस्करण, प्ल
 
    ![प्रोजेक्ट निकाय पर दृश्यों को संशोधित करने का स्क्रीनशॉट](media/FAQ-Customize-BPF-8-720.png)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

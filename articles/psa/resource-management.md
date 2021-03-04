@@ -53,3 +53,6 @@ ms.locfileid: "5147429"
 - [संसाधनों की ज़रूरतों में से नामित संसाधनों को बुक करें](book-named-resource.md)
 - [संसाधनों हेतु अनुरोध सबमिट करें](submit-resource-request.md)
 - [संसाधनों हेतु अनुरोध में से प्रस्तावित परियोजना के किसी संसाधन को स्वीकार या अस्वीकार करें](accept-reject-proposed-resource.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

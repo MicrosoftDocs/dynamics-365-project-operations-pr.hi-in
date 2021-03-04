@@ -56,3 +56,6 @@ ms.locfileid: "4077867"
 21. **उत्पाद रसीद** में, एक मूल्य टाइप करें.
 22. **ठीक** चुनें।
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -95,3 +95,6 @@ ms.locfileid: "5148285"
  [संसाधन प्रबंधक मार्गदर्शिका](../psa/resource-manager-guide.md)   
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

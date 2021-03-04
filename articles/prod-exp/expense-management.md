@@ -58,3 +58,6 @@ ms.locfileid: "4077860"
 ### <a name="videos"></a>वीडियोज़
 
 कैसे-करें वीडियो को ख़ोजें जो अब [Microsoft Dynamics 365 YouTube चैनल](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ)पर उपलब्ध हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

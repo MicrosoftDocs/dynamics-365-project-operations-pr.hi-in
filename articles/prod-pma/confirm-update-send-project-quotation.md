@@ -57,3 +57,6 @@ ms.locfileid: "4077838"
 
 > [!NOTE]
 > स्थिति के **भेजा गया** में परिवर्तित होने के बाद आप परियोजना उद्धरण को बदल नहीं सकते हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

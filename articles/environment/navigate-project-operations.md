@@ -38,3 +38,6 @@ Finance में **परियोजना प्रबंधन और ले
 
 > [!NOTE]
 > Common Data Service और **परियोजना प्रबंधन और लेखांकन** मॉड्यूल में Project Operations तक आप सीधे उनके संबंधित URL का उपयोग करके पहुँच सकते हैं. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -49,3 +49,6 @@ Dynamics 365 Project Timesheet मोबाइल ऐप उपयोगकर�
 - [प्रोजेक्ट समय प्रविष्टि]( project-time-entry-mobile-workspace.md)
 - [मोबाइल डिवाइस पर प्रोजेक्ट टाइमशीट](Mobile-timesheets.md)
 - [iOS और Android पर Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग के लिए कस्टम फ़ील्ड लागू करें](custom-fields-mobile.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

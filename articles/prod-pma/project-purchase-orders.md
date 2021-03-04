@@ -76,3 +76,6 @@ ms.locfileid: "4077688"
 
 अधिक जानकारी के लिए, [जरूरी आइटम से क्रय ऑर्डर पर प्राप्त आइटम](tasks/receive-items-purchase-order-item-requirement.md) देखें.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -58,3 +58,6 @@ ms.locfileid: "5146935"
  [परियोजना प्रबंधक मार्गदर्शिका](../psa/project-manager-guide.md)   
  [संसाधन प्रबंधक मार्गदर्शिका](../psa/resource-manager-guide.md)   
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

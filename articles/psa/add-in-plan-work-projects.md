@@ -242,3 +242,6 @@ Project Service Automation से किसी परियोजना को �
 
 ### <a name="additional-resources"></a>अतिरिक्त संसाधन
  [परियोजना प्रबंधक मार्गदर्शिका](../psa/project-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -74,3 +74,6 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
     -   बुक करने योग्य संसाधन विशेषता
 
     ![पूरा आयात](./media/6CompleteImport.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

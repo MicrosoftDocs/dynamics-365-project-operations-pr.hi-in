@@ -44,3 +44,6 @@ ms.locfileid: "5147870"
 - [इकाई समूह और इकाइयाँ](advanced-units.md)
 - [एकाधिक-इकाई मुद्रा](advanced-currency.md)
 - [वास्तविक की रिकॉर्डिंग](advanced-actuals.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

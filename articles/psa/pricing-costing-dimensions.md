@@ -77,3 +77,6 @@ PSA कीमत निर्धारण डायमेंश के डिफ
 | ----------------|-------------|----------|----------:|----------|
 | मेरा company_Band1 | रैना US  |Hour | 145|USD     |
 | मेरा company_Band2 | रैना इंडिया |Hour|   67|USD     |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

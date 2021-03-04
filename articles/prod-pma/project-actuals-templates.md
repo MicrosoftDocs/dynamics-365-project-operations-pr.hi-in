@@ -140,3 +140,6 @@ Project Service Automation से Finance तक एक्च्यूअल्�
 [![टेम्पलेट मैपिंग - वास्तविक आंकड़े अद्यतन](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
 
 [![टेम्पलेट मैपिंग - लेन-देन अद्यतन](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

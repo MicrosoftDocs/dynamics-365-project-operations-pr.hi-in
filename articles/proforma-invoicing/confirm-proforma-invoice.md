@@ -198,3 +198,6 @@ _**इस पर लागू होता है:** संसाधन/गै�
         </tr>
     </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

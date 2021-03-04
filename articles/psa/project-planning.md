@@ -52,3 +52,6 @@ PSA में प्रोजेक्ट प्रबंधन के साध
 - [प्रोजेक्ट टेम्पलेट](project-templates.md)
 - [प्रोजेक्ट अवस्थाएँ](project-stages.md)
 - [प्रोजेक्ट सेटिंग्‍स](project-settings.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

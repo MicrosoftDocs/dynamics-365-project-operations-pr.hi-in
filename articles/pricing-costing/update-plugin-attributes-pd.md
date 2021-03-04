@@ -52,3 +52,6 @@ ms.locfileid: "4643220"
 7. पृष्ठ को बंद करने के लिए **ठीक** चुनें और उसके बाद **अद्यतन चरण** चुनें.
 8. दूसरे प्लग-इन के लिए चरण 2-7 को दोहराएं, **PreOperationQuoteLineDetail**. इस प्लग-इन के लिए, आपको **msdyn_quotelinetransaction का अद्यतन** चरण अद्यतन करना होगा.
 9. **PluginRegistrationTool** बंद करें.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

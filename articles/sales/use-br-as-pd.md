@@ -78,3 +78,6 @@ ms.locfileid: "4643085"
 5. **msdyn_bookableresourceid** को **फ़ील्ड नाम** में जोड़ें.
 
  ![नए मूल्य निर्धारण आयाम क्षेत्र का नाम रूप](media/PD-fieldname-Added.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

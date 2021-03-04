@@ -25,3 +25,6 @@ ms.lasthandoff: 10/28/2020
 ms.locfileid: "4119780"
 ---
 # <a name="resource-management-overview"></a>संसाधन प्रबंधन का अवलोकन
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

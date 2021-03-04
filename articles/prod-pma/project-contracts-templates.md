@@ -153,3 +153,6 @@ Project Service Automation में एक रूपरेखा परिव�
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>परियोजनाओं और अनुबंधों में परियोजना अनुबंध लाइन उपलब्धि मानचित्रण (PSA 3.x से Dynamics) - v2 टेम्पलेट:
 
 [![परियोजना अनुबंध लाइन माइलस्टोन मैपिंग संस्करण दो टेम्पलेट के साथ](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

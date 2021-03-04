@@ -113,3 +113,6 @@ ms.locfileid: "5147520"
 किसी व्यक्तिगत संसाधन के बारे में अधिक जानकारी पाने के लिए उस पर राइट-क्लिक कर संसाधन कार्ड खोलें।
 
 ![संसाधन कार्ड](media/Resource-Management-image71.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

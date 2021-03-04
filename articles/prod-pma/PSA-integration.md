@@ -75,3 +75,6 @@ ms.locfileid: "4642455"
 ## <a name="install-the-project-service-automation-to-finance-integration-solution-in-your-project-service-automation-instance"></a>Project Service Automation टू फाइनेंस एकीकरण समाधान को अपने Project Service Automation आवृत्ति में इंस्टॉल करें
 
 Project Service Automation टू फाइनेंस एकीकरण समाधान को [Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=57016) से डाउनलोड करें, और समाधान के साथ शामिल निर्देशों का पालन करें.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

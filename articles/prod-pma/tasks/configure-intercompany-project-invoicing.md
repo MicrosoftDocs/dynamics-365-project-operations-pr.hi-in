@@ -64,3 +64,6 @@ ms.locfileid: "4077759"
 32. **मूल्य** फ़ील्ड में, संख्या दर्ज करें.
 33. **सहेजें** चुनें.
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

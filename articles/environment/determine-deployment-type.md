@@ -98,3 +98,6 @@ Project Operations कानूनी निकाय-स्तर के कॉ
 
 इस नियोजन के लिए, देखें [पूर्वावलोकन सदस्यता के लिए साइन-अप करें](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/dev-tools/sign-up-preview-subscription?toc=/dynamics365/finance/toc.json) और [नए परिवेश का प्रावधान](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment?toc=/dynamics365/finance/toc.json). 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -74,3 +74,6 @@ ms.locfileid: "5143560"
 - कोट या अनुबंध में परियोजना-आधारित पंक्ति का चयन करते समय, **सुझाव** बटन केवल तब ही दृश्यमान होना चाहिए, जब उत्पाद-आधारित पंक्ति को चुनना मौजूदा उत्पाद से संबद्ध हो.
 - **Create_ProjectContract** विशेषाधिकार से **Create_Product** विशेषाधिकार विभाजित करें.
 - इनवॉइस पंक्ति को हटाने से **MarkReadyToInvoiceForProductContractLineAfterDeletingInvoice** पर नल संदर्भ विफलता होती है.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -342,3 +342,6 @@ Project Operations किसी प्रोजेक्ट के दौरा�
 </tr>
 </tbody>
 </table>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
