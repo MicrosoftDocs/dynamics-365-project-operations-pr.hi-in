@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e753dd2f5635d1e9d0d6a02ea5d1d537879dd3a5
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 09f7acb95be014034cc03d7eed9d37363d430601
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124100"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147385"
 ---
 # <a name="soft-book-requirements"></a>सॉफ़्ट बुक की आवश्यकताएँ
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 किसी संसाधन की आवश्यकता की हार्ड-बुकिंग की जा सकती है। हार्ड-बुकिंग से किसी संसाधन की क्षमता के उपभोग का प्रस्ताव निर्मित होता है। इसके बाद प्रस्ताव को अनुमोदन के लिए अनुरोधकर्ता के पास वापस भेजा जाता है। सॉफ्ट-बुकिंग के मामले में किसी संसाधन को परियोजना टीम में शामिल किया जाता है और शेड्यूल बोर्ड पर एक अलग स्थिति नज़र आती है, लेकिन इससे संसाधन की क्षमता का उपभोग नहीं होता है। शेड्यूल बोर्ड से संसाधन की सॉफ्ट-बुकिंग करने के लिए **बुकिंग की स्थिति** फ़ील्ड को **सॉफ्ट** पर सेट करें।
 

@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a1d1db532c65b2a13f3cf4e1281a5987490b96df
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 4516c562e7eaf35c5fef638183967eef5a033b11
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122165"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5146395"
 ---
 # <a name="view-chargeable-utilization-for-resources"></a>संसाधनों के लिए प्रभार्य उपयोग देखें
+
+[!include [banner](../includes/psa-now-project-operations.md)]
  
 **Project Service संसाधन उपयोगिता** पेज पर **उपयोगिता दृश्य** प्रत्येक बुक करने योग्य संसाधन के लिए प्रभार्य उपयोगिता को दर्शाता है। क्योंकि दृश्य शेड्यूल बोर्ड पर आधारित है, आप एक ही तरह के कई कार्य पाएंगे।
 

@@ -17,14 +17,16 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1ae95430c368370145c7081a5d94d6161a7700b4
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: da0ac942579ba8d9b2258a011b8eeef8e64ba9c9
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077785"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147295"
 ---
 # <a name="turn-off-a-pricing-dimension"></a>मूल्य निर्धारण आयाम बंद करें
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 आपको कुछेक वर्षों बाद अपनी प्राइस निर्धारण रणनीति की समीक्षा और इसे अपडेट करने की आवश्यकता हो सकती है। आपके द्वारा किए गए किसी भी अपडेट के लिए आपका किसी मौजूदा प्राइस निर्धारण आयाम को बंद कर नया आयाम बनाना आवश्यक हो सकता है। उदाहरण के लिए आपने पहले **भूमिका** के हिसाब से प्राइसिंग हो हो लेकिन अब आपने **कार्य अनुभव** के हिसाब से प्राइस तय करना है। ऐसा करने के लिए आपको प्राइस निर्धारण आयाम के रूप में **रोल** को बंद कर **कार्य अनुभव** को नया प्राइस निर्धारण आयाम बनाना होगा। 
 
