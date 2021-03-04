@@ -18,27 +18,29 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3b1f195cf712862972e6b52d1529089ccd52c775
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: a0a12840f7f53cab0e81a5d3764d5c1a9d4df6a3
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4132515"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149050"
 ---
-# <a name="resource-management-guide"></a><span data-ttu-id="71d80-103">संसाधन प्रबंधन मार्गदर्शिका</span><span class="sxs-lookup"><span data-stu-id="71d80-103">Resource management guide</span></span>
+# <a name="resource-management-guide"></a><span data-ttu-id="9d434-103">संसाधन प्रबंधन मार्गदर्शिका</span><span class="sxs-lookup"><span data-stu-id="9d434-103">Resource management guide</span></span>
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="71d80-104">इस विषय में पहले जो PDF लिंक था उसे हटा दिया गया है और सामग्री को निम्नलिखित विषयों में ले जाया गया है:</span><span class="sxs-lookup"><span data-stu-id="71d80-104">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
+<span data-ttu-id="9d434-104">इस विषय में पहले जो PDF लिंक था उसे हटा दिया गया है और सामग्री को निम्नलिखित विषयों में ले जाया गया है:</span><span class="sxs-lookup"><span data-stu-id="9d434-104">The PDF link that was previously in this topic has been removed and the content has been moved to the following topics:</span></span>
 
-- [<span data-ttu-id="71d80-105">संसाधन प्रबंधन मुख पृष्ठ</span><span class="sxs-lookup"><span data-stu-id="71d80-105">Resource management home page</span></span>](../resource-management-home-page.md)
-- [<span data-ttu-id="71d80-106">मुख्य अवधारणाएँ</span><span class="sxs-lookup"><span data-stu-id="71d80-106">Key concepts</span></span>](../reports-key-concepts.md)
-- [<span data-ttu-id="71d80-107">पूर्णता संसाधन अनुरोध</span><span class="sxs-lookup"><span data-stu-id="71d80-107">Fulfilling resource requests</span></span>](../resource-management-fulfill-requests.md)
-- [<span data-ttu-id="71d80-108">संसाधनों का प्रस्ताव</span><span class="sxs-lookup"><span data-stu-id="71d80-108">Proposing resources</span></span>](../resource-management-propose-resources.md)
-- [<span data-ttu-id="71d80-109">बुकिंग संसाधन</span><span class="sxs-lookup"><span data-stu-id="71d80-109">Booking resources</span></span>](../resource-management-book-resources-scheduleboard.md)
-- [<span data-ttu-id="71d80-110">सॉफ़्ट बुक की आवश्यकताएँ</span><span class="sxs-lookup"><span data-stu-id="71d80-110">Soft-book requirements</span></span>](../resource-management-softbook-requirements.md)
-- [<span data-ttu-id="71d80-111">कौशल और दक्षता मॉडल्स</span><span class="sxs-lookup"><span data-stu-id="71d80-111">Skills and proficiency models</span></span>](../resource-management-skills-proficiency.md)
-- [<span data-ttu-id="71d80-112">संसाधन प्रबंधन FAQ</span><span class="sxs-lookup"><span data-stu-id="71d80-112">Resource management FAQ</span></span>](../resource-management-faq.md)
+- [<span data-ttu-id="9d434-105">संसाधन प्रबंधन मुख पृष्ठ</span><span class="sxs-lookup"><span data-stu-id="9d434-105">Resource management home page</span></span>](../resource-management-home-page.md)
+- [<span data-ttu-id="9d434-106">मुख्य अवधारणाएँ</span><span class="sxs-lookup"><span data-stu-id="9d434-106">Key concepts</span></span>](../reports-key-concepts.md)
+- [<span data-ttu-id="9d434-107">पूर्णता संसाधन अनुरोध</span><span class="sxs-lookup"><span data-stu-id="9d434-107">Fulfilling resource requests</span></span>](../resource-management-fulfill-requests.md)
+- [<span data-ttu-id="9d434-108">संसाधनों का प्रस्ताव</span><span class="sxs-lookup"><span data-stu-id="9d434-108">Proposing resources</span></span>](../resource-management-propose-resources.md)
+- [<span data-ttu-id="9d434-109">बुकिंग संसाधन</span><span class="sxs-lookup"><span data-stu-id="9d434-109">Booking resources</span></span>](../resource-management-book-resources-scheduleboard.md)
+- [<span data-ttu-id="9d434-110">सॉफ़्ट बुक की आवश्यकताएँ</span><span class="sxs-lookup"><span data-stu-id="9d434-110">Soft-book requirements</span></span>](../resource-management-softbook-requirements.md)
+- [<span data-ttu-id="9d434-111">कौशल और दक्षता मॉडल्स</span><span class="sxs-lookup"><span data-stu-id="9d434-111">Skills and proficiency models</span></span>](../resource-management-skills-proficiency.md)
+- [<span data-ttu-id="9d434-112">संसाधन प्रबंधन FAQ</span><span class="sxs-lookup"><span data-stu-id="9d434-112">Resource management FAQ</span></span>](../resource-management-faq.md)
 
 > [!NOTE]
-> <span data-ttu-id="71d80-113">यह विषय भविष्य के दस्तावेज़ अपडेट में हटा दिया जाएगा।</span><span class="sxs-lookup"><span data-stu-id="71d80-113">This topic will be removed in a future documentation update.</span></span> 
+> <span data-ttu-id="9d434-113">यह विषय भविष्य के दस्तावेज़ अपडेट में हटा दिया जाएगा।</span><span class="sxs-lookup"><span data-stu-id="9d434-113">This topic will be removed in a future documentation update.</span></span> 

@@ -18,25 +18,27 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 413aba735a5011a9b40c1d5b0bf43c6771db0f7b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 94e580955b83b9f2eaf6c0487cc9fe8a30f51ce0
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131187"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150175"
 ---
-# <a name="time-entry-calendar"></a><span data-ttu-id="a859c-103">समय प्रविष्टि कैलेंडर</span><span class="sxs-lookup"><span data-stu-id="a859c-103">Time entry calendar</span></span>
+# <a name="time-entry-calendar"></a><span data-ttu-id="74ec3-103">समय प्रविष्टि कैलेंडर</span><span class="sxs-lookup"><span data-stu-id="74ec3-103">Time entry calendar</span></span>
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="a859c-104">**समय प्रविष्टियाँ** पृष्ठ पर, **के रूप में दिखाएँ** \> **कैलेंडर नियंत्रण** को चुन कर आप कैलेंडर पर समय प्रविष्टियाँ देख सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="a859c-104">On the **Time Entries** page, you can view the time entries on the calendar by selecting **Show as** \> **Calendar Control**.</span></span>
+<span data-ttu-id="74ec3-104">**समय प्रविष्टियाँ** पृष्ठ पर, **के रूप में दिखाएँ** \> **कैलेंडर नियंत्रण** को चुन कर आप कैलेंडर पर समय प्रविष्टियाँ देख सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="74ec3-104">On the **Time Entries** page, you can view the time entries on the calendar by selecting **Show as** \> **Calendar Control**.</span></span>
 
-## <a name="updated-calendar-control"></a><span data-ttu-id="a859c-105">अद्यतन किया गया कैलेंडर नियंत्रण</span><span class="sxs-lookup"><span data-stu-id="a859c-105">Updated calendar control</span></span>
+## <a name="updated-calendar-control"></a><span data-ttu-id="74ec3-105">अद्यतन किया गया कैलेंडर नियंत्रण</span><span class="sxs-lookup"><span data-stu-id="74ec3-105">Updated calendar control</span></span>
 
-<span data-ttu-id="a859c-106">Dynamics 365 Project Service Automation एक नया और विस्तारणीय समय प्रविष्टि का अनुभव प्रदान करता है।</span><span class="sxs-lookup"><span data-stu-id="a859c-106">Dynamics 365 Project Service Automation offers a new and extensible time entry experience.</span></span> <span data-ttu-id="a859c-107">यह नया अनुभव कस्टम कैलेंडर नियंत्रण की जगह लेता है जिसका उपयोग पुराने संस्करणों में किया गया था।</span><span class="sxs-lookup"><span data-stu-id="a859c-107">This new experience replaces the Custom Calendar Control that was used in earlier versions.</span></span> <span data-ttu-id="a859c-108">हालांकि, आप अभी-भी समय प्रविष्टियों को-केवल कैलेंडर नियंत्रण पढ़ें- के माध्यम से देख सकते हैं, जो दैनिक, साप्ताहिक या मासिक विचारों के लिए एकीकृत इंटरफ़ेस फ्रेमवर्क प्रदान करता है।</span><span class="sxs-lookup"><span data-stu-id="a859c-108">However, you can still view time entries through a read-only calendar control that the Unified Interface Framework provides for daily, weekly, or monthly views.</span></span>
+<span data-ttu-id="74ec3-106">Dynamics 365 Project Service Automation एक नया और विस्तारणीय समय प्रविष्टि का अनुभव प्रदान करता है।</span><span class="sxs-lookup"><span data-stu-id="74ec3-106">Dynamics 365 Project Service Automation offers a new and extensible time entry experience.</span></span> <span data-ttu-id="74ec3-107">यह नया अनुभव कस्टम कैलेंडर नियंत्रण की जगह लेता है जिसका उपयोग पुराने संस्करणों में किया गया था।</span><span class="sxs-lookup"><span data-stu-id="74ec3-107">This new experience replaces the Custom Calendar Control that was used in earlier versions.</span></span> <span data-ttu-id="74ec3-108">हालांकि, आप अभी-भी समय प्रविष्टियों को-केवल कैलेंडर नियंत्रण पढ़ें- के माध्यम से देख सकते हैं, जो दैनिक, साप्ताहिक या मासिक विचारों के लिए एकीकृत इंटरफ़ेस फ्रेमवर्क प्रदान करता है।</span><span class="sxs-lookup"><span data-stu-id="74ec3-108">However, you can still view time entries through a read-only calendar control that the Unified Interface Framework provides for daily, weekly, or monthly views.</span></span>
 
-<span data-ttu-id="a859c-109">कैलेंडर, व्यक्तिगत कैलेंडर आइटम पर कार्रवाई को मदद नहीं देता है, और आप दाखिल करने या विलोपन के लिए एक या अधिक कैलेंडर आइटम का चयन नहीं कर सकते।</span><span class="sxs-lookup"><span data-stu-id="a859c-109">The calendar doesn't support actions on individual calendar items, and you can't select one or more calendar items for submission or deletion.</span></span> <span data-ttu-id="a859c-110">इसके बजाय, **समय प्रविष्टि** इकाई पृष्ठ खोलने के लिए एक कैलेंडर आइटम का चयन करें, जहां आप आवश्यक कार्यों को पूरा कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="a859c-110">Instead, select a calendar item to open the **Time Entry** entity page, where you can complete the required actions.</span></span>
+<span data-ttu-id="74ec3-109">कैलेंडर, व्यक्तिगत कैलेंडर आइटम पर कार्रवाई को मदद नहीं देता है, और आप दाखिल करने या विलोपन के लिए एक या अधिक कैलेंडर आइटम का चयन नहीं कर सकते।</span><span class="sxs-lookup"><span data-stu-id="74ec3-109">The calendar doesn't support actions on individual calendar items, and you can't select one or more calendar items for submission or deletion.</span></span> <span data-ttu-id="74ec3-110">इसके बजाय, **समय प्रविष्टि** इकाई पृष्ठ खोलने के लिए एक कैलेंडर आइटम का चयन करें, जहां आप आवश्यक कार्यों को पूरा कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="74ec3-110">Instead, select a calendar item to open the **Time Entry** entity page, where you can complete the required actions.</span></span>
 
-## <a name="extensibility"></a><span data-ttu-id="a859c-111">विस्तारणीयता</span><span class="sxs-lookup"><span data-stu-id="a859c-111">Extensibility</span></span>
+## <a name="extensibility"></a><span data-ttu-id="74ec3-111">विस्तारणीयता</span><span class="sxs-lookup"><span data-stu-id="74ec3-111">Extensibility</span></span>
 
-<span data-ttu-id="a859c-112">**समय प्रविष्टि** पृष्ठ पर, जिसमें समय प्रविष्टि ग्रिड है, आप कस्टम फ़ील्ड जोड़ सकते हैं, लुकअप फ़ील्ड सेट कर सकते हैं, और कस्टम दृश्य बना सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="a859c-112">On the **Time Entries** page that has the time entry grid, you can add custom fields, set up lookup fields, and create custom views.</span></span> <span data-ttu-id="a859c-113">आप कस्टम बिजनेस लॉजिक भी सेट कर सकते हैं, यह उन मानों पर आधारित है जो कस्टम फ़ील्ड में चयनित या दर्ज किए गए हैं।</span><span class="sxs-lookup"><span data-stu-id="a859c-113">You can also set up custom business logic that is based on the values that are selected or entered in custom fields.</span></span>
+<span data-ttu-id="74ec3-112">**समय प्रविष्टि** पृष्ठ पर, जिसमें समय प्रविष्टि ग्रिड है, आप कस्टम फ़ील्ड जोड़ सकते हैं, लुकअप फ़ील्ड सेट कर सकते हैं, और कस्टम दृश्य बना सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="74ec3-112">On the **Time Entries** page that has the time entry grid, you can add custom fields, set up lookup fields, and create custom views.</span></span> <span data-ttu-id="74ec3-113">आप कस्टम बिजनेस लॉजिक भी सेट कर सकते हैं, यह उन मानों पर आधारित है जो कस्टम फ़ील्ड में चयनित या दर्ज किए गए हैं।</span><span class="sxs-lookup"><span data-stu-id="74ec3-113">You can also set up custom business logic that is based on the values that are selected or entered in custom fields.</span></span>

@@ -18,24 +18,26 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 50f076b89c5ac7fee4866534cbd47d81f92f3ab3
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 173572be43149aea253bf7beddb993f8c50ab337
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131271"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5149725"
 ---
-# <a name="submitting-a-resource-request"></a><span data-ttu-id="04bfb-103">संसाधन हेतु अनुरोध सबमिट करना</span><span class="sxs-lookup"><span data-stu-id="04bfb-103">Submitting a resource request</span></span>
+# <a name="submitting-a-resource-request"></a><span data-ttu-id="6dab3-103">संसाधन हेतु अनुरोध सबमिट करना</span><span class="sxs-lookup"><span data-stu-id="6dab3-103">Submitting a resource request</span></span>
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="04bfb-104">आप किसी संसाधन के लिए उत्पन्न आवश्यकता को संसाधन हेतु अनुरोध के रूप में सब्मिट कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="04bfb-104">You can submit a generated resource requirement as a resource request.</span></span> <span data-ttu-id="04bfb-105">इसके बाद इस अनुरोध को पूर्ति के लिए किसी संसाधन प्रबंधक को भेजा जाता है।</span><span class="sxs-lookup"><span data-stu-id="04bfb-105">The request is then sent to a resource manager for fulfillment.</span></span>
+<span data-ttu-id="6dab3-104">आप किसी संसाधन के लिए उत्पन्न आवश्यकता को संसाधन हेतु अनुरोध के रूप में सब्मिट कर सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="6dab3-104">You can submit a generated resource requirement as a resource request.</span></span> <span data-ttu-id="6dab3-105">इसके बाद इस अनुरोध को पूर्ति के लिए किसी संसाधन प्रबंधक को भेजा जाता है।</span><span class="sxs-lookup"><span data-stu-id="6dab3-105">The request is then sent to a resource manager for fulfillment.</span></span>
 
-1. <span data-ttu-id="04bfb-106">Project Service Automation (PSA) में **प्रोजेक्ट** पृष्ठ पर बुक करने-योग्य संसाधन देखने के लिए **टीम** टैब पर क्लिक करें।</span><span class="sxs-lookup"><span data-stu-id="04bfb-106">In Project Service Automation (PSA), on the **Projects** page, click the **Team** tab to view a list bookable resources.</span></span> 
-2. <span data-ttu-id="04bfb-107">इस सूची से संसाधन की आवश्यकता वाले जेनेरिक संसाधन का चयन करें और फिर **अनुरोध सब्मिट करें** पर क्लिक करें।</span><span class="sxs-lookup"><span data-stu-id="04bfb-107">Select the generic resource that has a resource requirement from the list and then click **Submit Request**.</span></span>
+1. <span data-ttu-id="6dab3-106">Project Service Automation (PSA) में **प्रोजेक्ट** पृष्ठ पर बुक करने-योग्य संसाधन देखने के लिए **टीम** टैब पर क्लिक करें।</span><span class="sxs-lookup"><span data-stu-id="6dab3-106">In Project Service Automation (PSA), on the **Projects** page, click the **Team** tab to view a list bookable resources.</span></span> 
+2. <span data-ttu-id="6dab3-107">इस सूची से संसाधन की आवश्यकता वाले जेनेरिक संसाधन का चयन करें और फिर **अनुरोध सब्मिट करें** पर क्लिक करें।</span><span class="sxs-lookup"><span data-stu-id="6dab3-107">Select the generic resource that has a resource requirement from the list and then click **Submit Request**.</span></span>
 
 ![संसाधन हेतु अनुरोध सबमिट करना](media/RM-how-to-18.png)
 
-<span data-ttu-id="04bfb-109">जेनेरिक टीम के सदस्य के अनुरोध की स्थिति परिवर्तित होकर **सब्मिटेड** हो जाएगी।</span><span class="sxs-lookup"><span data-stu-id="04bfb-109">The request status of the generic team member will change to **Submitted**.</span></span>
+<span data-ttu-id="6dab3-109">जेनेरिक टीम के सदस्य के अनुरोध की स्थिति परिवर्तित होकर **सब्मिटेड** हो जाएगी।</span><span class="sxs-lookup"><span data-stu-id="6dab3-109">The request status of the generic team member will change to **Submitted**.</span></span>
 
-<span data-ttu-id="04bfb-110">यदि संसाधन प्रबंधक किसी नामित संसाधन की बुकिंग कर अनुरोध की पूर्ति करता है तो संसाधन प्रबंधक द्वारा अनुरोध की पूर्ति किए जाने के बाद जेनेरिक संसाधन को बदल कर नामित संसाधन रखा जाएगा।</span><span class="sxs-lookup"><span data-stu-id="04bfb-110">After the request is fulfilled by the resource manager, the generic resource will be replaced by a named resource if the resource manager fulfills the request with the booking of a named resource.</span></span> <span data-ttu-id="04bfb-111">अन्यथा जेनेरिक संसाधन टीम में ही रहेगा और यदि संसाधन प्रबंधक ने किसी नामित संसाधन का प्रस्ताव दिया है तो अनुरोध की स्थिति परिवर्तित होकर **समीक्षा वांछित है** हो जाएगी।</span><span class="sxs-lookup"><span data-stu-id="04bfb-111">Otherwise, the generic resource will remain on the team and the request status will change to **Needs Review**, if the resource manager has proposed a named resource.</span></span>
+<span data-ttu-id="6dab3-110">यदि संसाधन प्रबंधक किसी नामित संसाधन की बुकिंग कर अनुरोध की पूर्ति करता है तो संसाधन प्रबंधक द्वारा अनुरोध की पूर्ति किए जाने के बाद जेनेरिक संसाधन को बदल कर नामित संसाधन रखा जाएगा।</span><span class="sxs-lookup"><span data-stu-id="6dab3-110">After the request is fulfilled by the resource manager, the generic resource will be replaced by a named resource if the resource manager fulfills the request with the booking of a named resource.</span></span> <span data-ttu-id="6dab3-111">अन्यथा जेनेरिक संसाधन टीम में ही रहेगा और यदि संसाधन प्रबंधक ने किसी नामित संसाधन का प्रस्ताव दिया है तो अनुरोध की स्थिति परिवर्तित होकर **समीक्षा वांछित है** हो जाएगी।</span><span class="sxs-lookup"><span data-stu-id="6dab3-111">Otherwise, the generic resource will remain on the team and the request status will change to **Needs Review**, if the resource manager has proposed a named resource.</span></span>
