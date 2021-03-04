@@ -17,20 +17,22 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3e437fce5b9f1fb330a713788e24100a4fe02948
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 3810df9b875d017a8d639b5253b96275571898f3
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077709"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144641"
 ---
 # <a name="create-custom-solutions-for-pricing-dimensions"></a>मूल्य निर्धारण आयामों के लिए एक कस्टम समाधान बनाएँ
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 > [!IMPORTANT]
 > सभी कस्टम मूल्य निर्धारण आयाम परिवर्तन एक अलग समाधान में होने चाहिए. यह महत्वपूर्ण सर्वोत्तम अभ्यास भविष्य में आवश्यकतानुसार परिवर्तन या अपडेट करने के लिए लचीलापन प्रदान करता है, आपके काम के पुन: उपयोग में मदद करेगा, और इन परिवर्तनों को दूसरे उदाहरण में पोर्ट करना आसान बनाता है। सभी आवश्यक परिवर्तन कर लेने के बाद, इस समाधान को **प्रबंधित समाधान** के रूप में निर्यात करें और अपने मूल्य निर्धारण सेटअप का पुन: उपयोग करने के लिए इसे अन्य आवृत्तियों में आयात करें.
 
 1. **सेटिंग** > **समाधान** चुने और फिर उसके बाद **नया** चुनें. 
-2. समाधान का नाम दें, **\<your organization name> मूल्य निर्धारण के आयामों** , शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
+2. समाधान का नाम दें, **\<your organization name> मूल्य निर्धारण के आयामों**, शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
 
 > ![मूल्य निर्धारण आयामों के लिए एक कस्टम समाधान बनाना](media/Creation-of-custom-pricing-dimension-solution.PNG)
   
