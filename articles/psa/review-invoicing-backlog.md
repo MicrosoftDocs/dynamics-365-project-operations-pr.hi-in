@@ -16,14 +16,16 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: bcdcc0cae06ce61bd582d56a8398e718051ff564
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 092455a131f556e4f943f6bb89d7e38358f0a697
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4123965"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150490"
 ---
 # <a name="review-the-invoicing-backlog-on-projects-and-project-contracts"></a>प्रोजेक्टस और प्रोजेक्ट कॉन्ट्रेक्ट पर इनवॉइस के बैकलॉग की समीक्षा करें
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 

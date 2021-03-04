@@ -18,14 +18,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2308f83e09c25059b6a36599b04b5b00f66c704f
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 5110679038ae7ed1e21a3e7dc80a4657e0752b49
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4126485"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150940"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3-wave-1-2020"></a>Project Service Automation वर्ज़न 3 wave 1 2020 में क्या क्या नया है या बदल गया है
+
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 यह टॉपिक Project Service Automation (PSA) वर्ज़न 3.x wave 1 2020 की नवीनतम रिलीज़ के लिए आगे बढ़ने पर मुख्य अपडेट विचारों पर प्रकाश डालता है.
 
 ## <a name="time-entry"></a>समय प्रविष्टि

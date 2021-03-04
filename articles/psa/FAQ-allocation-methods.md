@@ -18,14 +18,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3dc87a66a4b881a06f2b888c26d9dfaefb419f16
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: e1ceb7ea5484a1d099c4709eda48d34ecd9bac2e
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131360"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151615"
 ---
 # <a name="booking-allocation-methods-in-project-service-automation"></a>Project Service Automation में बुकिंग आवंटन के तरीके
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 चाहे आप सीधे **टीम** टैब में किसी प्रोजेक्ट में टीम का सदस्य जोड़ें, या शेड्यूल बोर्ड से किसी प्रोजेक्ट या आवश्यकता में किसी संसाधन को बुक करते हैं, तो कुछ अलग-अलग बुकिंग आबंटन विधियाँ हैं आप जिनका उपयोग कर सकते हैं. यह विषय बताता है कि प्रत्येक विधि कैसे काम करती है, और कौन सी विधियों के कारण संसाधन ज़रूरत से ज़्यादा बुक हो सकते हैं.
 
