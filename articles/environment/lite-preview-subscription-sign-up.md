@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6f4360b7febab57b97df0776ef9148d2a38f16a7
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 44edf2613ea4b26dadbd9edc47c784c488c577de
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4175893"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5290046"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट 
 
-यह विषय बताता है कि पूर्वावलोकन साझेदार की पेशकश की सदस्यता कैसे लें और Dynamics 365 Project Operations लाइट नियोजन को कैसे नियोजित करें - प्रोफार्मा इंवॉयसिंग करने के लिए समझौता.
+यह विषय समझता है कि पूर्वावलोकन सहभागी पेशकश की सदस्यता कैसे ली जाए और कैसे Dynamics 365 Project Operations लाइट परिनियोजन को परिनियोजित किया जाए - प्रोफ़ॉर्मा इनवॉइस के लिए डील.
 
 > [!NOTE]
 > यह प्रक्रिया Project Operations की आगामी रिलीज में बदल जाएगी.
@@ -42,7 +42,7 @@ ms.locfileid: "4175893"
 
 शुरू करने से पहले, सुनिश्चित करें कि आप टेनेंट में उपयोगकर्ता वर्क अकाउंट के साथ ब्राउज़र में लॉग इन कर रहे हैं जहां आप Project Operations का पूर्वावलोकन चाहते हैं.
 
-1. **Dynamics 365 Project Operations (CRM) - पूर्वावलोकन परीक्षण** को ब्राउजर URL में चिपकाकर, पहला ऑफर कोड रिडीम करें.
+1. पहले ऑफ़र कोड,**Dynamics 365 Project Operations (CRM) - पूर्वावलोकन परीक्षण** को ब्राउज़र URL में पेस्ट करके उसे रिडीम करें.
 
 ![ऑफ़र रीडीम करें](./media/16RedeemFirstOfferNew.png)
 
@@ -71,7 +71,7 @@ ms.locfileid: "4175893"
 
 ![लाइसेंस असाइन करें](./media/15AssignLicenses.png)
 
-3. सत्यापित करें कि **Dynamics 365 Project Operations (CRM) पूर्वावलोकन** और **Office 365 Office 365 Project Operations - पूर्वावलोकन** लाइसेंस चुने गए हैं. 
+3. सत्यापित करें कि **Dynamics 365 Project Operations (CRM) पूर्वावलोकन** और **Office 365 Project Operations - पूर्वावलोकन** लाइसेंस चुने गए हैं. 
 4. **परिवर्तन सहेजे** का चयन करें.
 
 ## <a name="create-a-new-cds-environment"></a>कोई नया CDS परिवेश बनाएँ
@@ -84,7 +84,7 @@ ms.locfileid: "4175893"
 
 ![डेटाबेस जोड़ें](./media/20CreateEnvironment1.png)
 
-4. परिवेश बनने के बाद, **Microsoft Dynamics 365 Project Operations** समाधान इस्टॉल करें. 
+4. परिवेश बन जाने के बाद, **Microsoft Dynamics 365 Project Operations** समाधान को स्थापित करें. 
 
 ![समाधान इस्टॉल करें](./media/21InstallSolution.png)
 
