@@ -18,38 +18,41 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 9c9db2e602ca97d63ba237fd2c0eb757583caebc
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 89eac463fd80378a6cfdb53741afbbd1444d5662
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144415"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5283190"
 ---
-# <a name="use-the-schedule-board-to-book-project-resources"></a><span data-ttu-id="16d0b-103">परियोजना के लिए संसाधनों को बुक करने हेतु शेड्यूल बोर्ड का उपयोग करें</span><span class="sxs-lookup"><span data-stu-id="16d0b-103">Use the Schedule Board to book project resources</span></span>
+# <a name="use-the-schedule-board-to-book-project-resources"></a><span data-ttu-id="7bbb5-103">परियोजना के लिए संसाधनों को बुक करने हेतु शेड्यूल बोर्ड का उपयोग करें</span><span class="sxs-lookup"><span data-stu-id="7bbb5-103">Use the Schedule Board to book project resources</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-<span data-ttu-id="16d0b-104">किसी परियोजना के लिए परियोजना के भीतर से ही संसाधन बुक करने के अलावा आप शेड्यूल बोर्ड से संसाधनों की हार्ड-बुकिंग या सॉफ्ट-बुकिंग कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="16d0b-104">In addition to booking resources on a project from within a project, you can hard-book or soft-book resources from the Schedule Board.</span></span>
+<span data-ttu-id="7bbb5-104">किसी परियोजना के लिए परियोजना के भीतर से ही संसाधन बुक करने के अलावा आप शेड्यूल बोर्ड से संसाधनों की हार्ड-बुकिंग या सॉफ्ट-बुकिंग कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-104">In addition to booking resources on a project from within a project, you can hard-book or soft-book resources from the Schedule Board.</span></span>
 
-<span data-ttu-id="16d0b-105">शेड्यूल बोर्ड की मदद से बुकिंग करने से पहले आपके लिए संसाधनों की ज़रूरतों का आंकलन करना आवश्यक है.</span><span class="sxs-lookup"><span data-stu-id="16d0b-105">Before you can book from the Schedule Board, you must create or generate resource requirements.</span></span> <span data-ttu-id="16d0b-106">शेड्यूल बोर्ड की मदद से संसाधनों की ज़रूरतों का आंकलन करने के लिए निम्न चरणों का पालन करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-106">Follow these steps to create resource requirements from the Schedule Board.</span></span>
+<span data-ttu-id="7bbb5-105">शेड्यूल बोर्ड की मदद से बुकिंग करने से पहले आपके लिए संसाधनों की ज़रूरतों का आंकलन करना आवश्यक है.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-105">Before you can book from the Schedule Board, you must create or generate resource requirements.</span></span> <span data-ttu-id="7bbb5-106">शेड्यूल बोर्ड की मदद से संसाधनों की ज़रूरतों का आंकलन करने के लिए निम्न चरणों का पालन करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-106">Follow these steps to create resource requirements from the Schedule Board.</span></span>
 
-1. <span data-ttu-id="16d0b-107">यदि पृष्ठ के निचले भाग में बनी **बुकिंग की आवश्यकताएं** नामक पेन कोलैप्स हो गई है, तो इसे एक्सपेंड करने के लिए एक्सपेंडर कंट्रोल का चुनाव करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-107">If the **Booking Requirements** pane at the bottom of the page is collapsed, select the expander control to expand it.</span></span>
-2. <span data-ttu-id="16d0b-108">**परियोजना** टैब पर **बुकिंग की आवश्यकताएं** पेन में वांछित बुकिंग का चुनाव करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-108">In the **Booking Requirements** pane, on the **Project** tab, select the requirement to book.</span></span>
+1. <span data-ttu-id="7bbb5-107">यदि पृष्ठ के निचले भाग में बनी **बुकिंग की आवश्यकताएं** नामक पेन कोलैप्स हो गई है, तो इसे एक्सपेंड करने के लिए एक्सपेंडर कंट्रोल का चुनाव करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-107">If the **Booking Requirements** pane at the bottom of the page is collapsed, select the expander control to expand it.</span></span>
+2. <span data-ttu-id="7bbb5-108">**परियोजना** टैब पर **बुकिंग की आवश्यकताएं** पेन में वांछित बुकिंग का चुनाव करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-108">In the **Booking Requirements** pane, on the **Project** tab, select the requirement to book.</span></span>
 
     ![परियोजना टैब पर चयनित आवश्यकताएं](media/Resource-Management-image73.png)
 
-3. <span data-ttu-id="16d0b-110">बुक करने-योग्य संसाधन छांटने और उपलब्ध संसाधन देखने हेतु **उपलब्धता का पता लगाएं** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-110">Select **Find Availability** to filter the bookable resources and view the available resources.</span></span> 
-4. <span data-ttu-id="16d0b-111">शेड्यूल बोर्ड से एक या एकाधिक संसाधनों का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-111">Select one or more resources from the Schedule Board.</span></span> 
-5. <span data-ttu-id="16d0b-112">पृष्ठ के दाईं ओर **संसाधन की बुकिंग करें** पेन में बुकिंग से जुड़ी जानकारी दर्ज करें इसके बाद **बुकिंग करें और बाहर आएं** का चुनाव करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-112">In the **Create Resource Booking** pane on the right side of the page, enter the booking information, and then select **Book and exit**.</span></span>
+3. <span data-ttu-id="7bbb5-110">बुक करने-योग्य संसाधन छांटने और उपलब्ध संसाधन देखने हेतु **उपलब्धता का पता लगाएं** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-110">Select **Find Availability** to filter the bookable resources and view the available resources.</span></span> 
+4. <span data-ttu-id="7bbb5-111">शेड्यूल बोर्ड से एक या एकाधिक संसाधनों का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-111">Select one or more resources from the Schedule Board.</span></span> 
+5. <span data-ttu-id="7bbb5-112">पृष्ठ के दाईं ओर **संसाधन की बुकिंग करें** पेन में बुकिंग से जुड़ी जानकारी दर्ज करें इसके बाद **बुकिंग करें और बाहर आएं** का चुनाव करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-112">In the **Create Resource Booking** pane on the right side of the page, enter the booking information, and then select **Book and exit**.</span></span>
 
     ![अपने द्वारा चयनित बुक करने-योग्य संसाधन के लिए संसाधन बुकिंग पेन बनाएँ](media/Resource-Management-image74.png)
 
-6. <span data-ttu-id="16d0b-114">यदि आपकी आवश्यकता **संसाधन बुकिंग करें** पेन में चयनित की गई हो है, बुकिंग करने के लिए संसाधन के एक या अधिक सेलों का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-114">While the requirement is selected in the **Create Resource Booking** pane, select one or more cells of a resource to create the booking.</span></span>
+6. <span data-ttu-id="7bbb5-114">यदि आपकी आवश्यकता **संसाधन बुकिंग करें** पेन में चयनित की गई हो है, बुकिंग करने के लिए संसाधन के एक या अधिक सेलों का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-114">While the requirement is selected in the **Create Resource Booking** pane, select one or more cells of a resource to create the booking.</span></span>
 
     ![किसी संसाधन के लिए कई सेल चयनित किये गए हैं](media/Resource-Management-image75.png)
 
-7. <span data-ttu-id="16d0b-116">**बुक** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="16d0b-116">Select **Book**.</span></span>
+7. <span data-ttu-id="7bbb5-116">**बुक** का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-116">Select **Book**.</span></span>
 
-<span data-ttu-id="16d0b-117">चयनित संसाधन का उपयोग कर आवश्यकता पूरी की जाती है.</span><span class="sxs-lookup"><span data-stu-id="16d0b-117">The requirement is fulfilled by using the selected resource.</span></span> <span data-ttu-id="16d0b-118">ध्यान दें कि **बुकिंग की आवश्यकताएँ** पेन में इस आवश्यकता को अपडेट कर दिया गया है और इस संसाधन को परियोजना के लिए बुक हो चुका दर्शाया गया है.</span><span class="sxs-lookup"><span data-stu-id="16d0b-118">In the **Booking Requirements** pane, notice that the requirement has been updated, and the resource is shown as booked on the project.</span></span>
+<span data-ttu-id="7bbb5-117">चयनित संसाधन का उपयोग कर आवश्यकता पूरी की जाती है.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-117">The requirement is fulfilled by using the selected resource.</span></span> <span data-ttu-id="7bbb5-118">ध्यान दें कि **बुकिंग की आवश्यकताएँ** पेन में इस आवश्यकता को अपडेट कर दिया गया है और इस संसाधन को परियोजना के लिए बुक हो चुका दर्शाया गया है.</span><span class="sxs-lookup"><span data-stu-id="7bbb5-118">In the **Booking Requirements** pane, notice that the requirement has been updated, and the resource is shown as booked on the project.</span></span>
 
 ![संसाधन को परियोजना हेतु बुक किया गया](media/Resource-Management-image76.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
