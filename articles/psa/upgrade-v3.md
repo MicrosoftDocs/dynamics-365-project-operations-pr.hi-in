@@ -1,5 +1,5 @@
 ---
-title: अपग्रेड से जुड़े विचार - Microsoft Dynamics 365 Project Service Automation वर्ज़न 2.x या 1.x से वर्ज़न 3
+title: नवीनीकरण विकल्प - Microsoft Dynamics 365 Project Service Automation संस्करण 2.x या 1.x से संस्करण 3
 description: यह टॉपिक आपको PSA Project Service Automation 2.x या 1.x से वर्ज़न 3 में अपग्रेड करते समय आपको उन विचारों के बारे में जानकारी प्रदान करता है, जिन पर आपको विचार करना चाहिए.
 manager: kfend
 ms.prod: ''
@@ -18,12 +18,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c0c1e07bacb4867254a12436cf3bff58989e117f
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: ff0777705c6d0e2c0d8aa4ed191f4ae6b1786100
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144166"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5281660"
 ---
 # <a name="upgrade-considerations---psa-version-2x-or-1x-to-version-3"></a>अपग्रेड से जुड़ा विचार - PSA वर्ज़न 2.x या 1.x से वर्ज़न 3 तक
 
