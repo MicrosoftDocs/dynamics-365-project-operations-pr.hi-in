@@ -17,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ee3be43da401af405ab329b9b5a724a2e95c0219
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: db416343ac9ac2591007e83be80493a48f9ae904
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147115"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5280670"
 ---
 # <a name="project-service-automation-update-release-20-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 20, V3
 
@@ -42,7 +42,7 @@ ms.locfileid: "5147115"
 
 - एक आवंटन विधि के साथ परियोजना टीम के सदस्यों को आयात करना जिसमें घंटे के परिणाम की आवश्यकता होती है, जब निर्दिष्ट घंटे शून्य होते हैं, तो एक अस्पष्ट त्रुटि संदेश होता है.
 - अधिकतम वर्ण किसी परियोजना कार्य के लिए फ़ील्ड **वर्णन** में दर्ज किए जाने पर उपयोगकर्ताओं को एक गलत त्रुटि प्राप्त होती है.
-- **Microsoft Dynamics 365 Project Service Automation ऐड-इन डाउनलोड** जब उपयोगकर्ता की भाषा सेटिंग जापानी में सेट हो जाती है, तो पृष्ठ अंग्रेजी डाउनलोड पृष्ठ पर रीडायरेक्ट करता है.
+- उपयोगकर्ता भाषा सेटिंग जापानी पर सेट होने पर **Microsoft Dynamics 365 Project Service Automation ऐड-इन डाउनलोड** पृष्ठ अंग्रेजी डाउनलोड पृष्ठ पर रीडायरेक्ट कर देता है.
 - जब सर्वर त्रुटि होती है, तो **परियोजना** प्रपत्र के **शेड्यूल** टैब पर सिंक्रनाइज़ेशन लेबल कभी-कभी रहता है.
 - किसी कार्य के संशोधित होने पर सर्वर पर अनावश्यक कार्य अपडेट भेजे जा रहे हैं.
 

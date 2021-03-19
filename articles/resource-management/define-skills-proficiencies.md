@@ -17,18 +17,18 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8738a4743554704ef76807c81fdefcd74e668e1b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: d1ef50a3aa297ef439b54d37de629414ca66c820
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124775"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279680"
 ---
 # <a name="define-skills-and-proficiencies"></a>कौशल और दक्षता को परिभाषित करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-कौशल संसाधनों की वे विशेषताएँ हैं जो Dynamics 365 Project Operations और Dynamics 365 Field Service के बीच (यदि मौजूद हो तो) साझा की जाती हैं. 
+कौशल संसाधनों की वे विशेषताएँ हैं जो Dynamics 365 Project Operations और Dynamics 365 Field Service के बीच (यदि मौजूद हो तो) साझा की जाती हैं। 
 
 - परियोजना संचालन में कौशलों की रिपॉज़िटरी बनाए रखने के लिए **संसाधन** \> **संसाधनों के कौशल** पर जाएं. 
 

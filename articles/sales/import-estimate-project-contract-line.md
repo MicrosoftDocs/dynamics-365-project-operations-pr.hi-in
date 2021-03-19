@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 6dde924c24dcffe2a8fb690e6eb429e4c3d9fb28
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: d51eb890a4744051ddd7268e1f1f11b15a23b609
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4126395"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5278375"
 ---
 # <a name="import-an-estimate-to-a-project-based-contract-line"></a>परियोजना-आधारित अनुबंध लाइन पर एक अनुमान आयात करें
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 
-Dynamics 365 Project Operations में, आप किसी परियोजना से परियोजना-आधारित अनुबंध लाइन में अनुमान आयात कर सकते हैं.
+Dynamics 365 Project Operations में, आप परियोजना-आधारित अनुबंध पंक्ति पर परियोजना से अनुमान आयात कर सकते हैं.
 
 1. सत्यापित करें कि परियोजना-आधारित अनुबंध लाइन पर **परियोजना** फ़ील्ड भरा हुआ है.
 2. **अनुबंध लाइन विवरण** टैब पर, सबग्रिड पर, **परियोजना अनुमान से आयात करें** का चयन करें. संक्षेपण विकल्पों वाला एक संवाद पृष्ठ खुलता है. उपलब्ध संक्षेपण विकल्प **लेनदेन वर्ग**, **श्रेणी**, **भूमिका**, और **परियोजना टास्क** हैं. संक्षेपण के लिए चयन के आधार पर, इस अनुबंध लाइन पर शामिल सभी लेनदेन वर्गों के लिए परियोजना से अनुमान की कॉपी की जाती है. 

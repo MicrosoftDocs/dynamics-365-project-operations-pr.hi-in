@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 18f43acc64ed72b1543a2d7d91a2648e7e185fc4
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: bc97af1ec90e60417c502eb329a85004e769e05b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4128825"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279140"
 ---
 # <a name="submit-a-resource-request"></a>कोई संसाधन अनुरोध सबमिट करें
 
@@ -21,7 +21,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 आप किसी संसाधन के लिए उत्पन्न आवश्यकता को संसाधन हेतु अनुरोध के रूप में सब्मिट कर सकते हैं। इसके बाद इस अनुरोध को पूर्ति के लिए किसी संसाधन प्रबंधक को भेजा जाता है।
 
-1. Dynamics 365 Project Operations में, **प्रोजेक्ट** पृष्ठ पर, बुक करने-योग्य संसाधन सूची देखने के लिए **टीम** टैब पर क्लिक करें. 
+1. Dynamics 365 Project Operations में **परियोजना** पृष्ठ पर बुक करने-योग्य संसाधन देखने के लिए **टीम** टैब चुनें. 
 2. इस सूची से संसाधन की आवश्यकता वाले जेनेरिक संसाधन का चयन करें, और फिर **अनुरोध सब्मिट करें** पर क्लिक करें.
 
 जेनेरिक टीम के सदस्य के अनुरोध की स्थिति परिवर्तित होकर **सब्मिटेड** हो जाएगी।

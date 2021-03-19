@@ -17,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 54a0924da17eac86e2fa400540e629f6d803aa35
-ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
+ms.openlocfilehash: fa0515b9d6a0023c05c37d2bcfa6a403f48927cb
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "4401175"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279275"
 ---
 # <a name="review-proposed-resources"></a>प्रस्तावित संसाधनों की समीक्षा करें
 
@@ -58,7 +58,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 यदि शेड्यूल बोर्ड पर किसी व्यक्तिगत बुक करने-योग्य संसाधन के बगल में दाईं तरफ वाला तीर दिखाई देता है तो उस संसाधन को एक्सपैंड कर देखा जा सकता है कि संसाधन को किस कार्य के लिए बुक किया गया है।
 
-चूंकि Dynamics 365 Project Operations में Universal Resource Scheduling इंजन का उपयोग किया जाता है, आपके पास Dynamics 365 Field Service इंस्टाल होने के मामले में आप प्रोजेक्टओं और शेड्यूलिंग में शामिल अन्य इकाइयों से जुड़ी संसाधन बुकिंग और कार्य आदेश के विवरण देख सकते हैं.
+चूंकि Dynamics 365 Project Operations में Universal Resource Scheduling इंजन का उपयोग किया जाता है, आपके पास Dynamics 365 Field Service इंस्टाल होने के मामले में आप प्रोजेक्टओं और शेड्यूलिंग में शामिल अन्य इकाइयों से जुड़ी संसाधन बुकिंग और कार्य आदेश के विवरण देख सकते हैं।
 
 किसी व्यक्तिगत संसाधन के बारे में अधिक जानकारी पाने के लिए उस पर राइट-क्लिक कर संसाधन कार्ड खोलें।
 
