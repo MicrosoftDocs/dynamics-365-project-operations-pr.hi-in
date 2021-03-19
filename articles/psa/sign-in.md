@@ -18,41 +18,44 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 30af778c31dc7dfc1f80f8f8295f8791873a05dd
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 92c4cb3e1661f0415d49b84c9a59aba4bda38f20
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150265"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5282290"
 ---
-# <a name="sign-in-to-project-service-automation"></a><span data-ttu-id="b2bba-103">Project Service Automation में साइन इन करें</span><span class="sxs-lookup"><span data-stu-id="b2bba-103">Sign in to Project Service Automation</span></span>
+# <a name="sign-in-to-project-service-automation"></a><span data-ttu-id="68592-103">Project Service Automation में साइन इन करें</span><span class="sxs-lookup"><span data-stu-id="68592-103">Sign in to Project Service Automation</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-<span data-ttu-id="b2bba-104">जब आप Dynamics 365 ऐप्स में साइन इन करते हैं, तो आपको अपने व्यवस्थापक से निम्न जानकारी लेनी होगी:</span><span class="sxs-lookup"><span data-stu-id="b2bba-104">When you sign in to Dynamics 365 apps, you need to have the following information from your administrator:</span></span>  
+<span data-ttu-id="68592-104">जब आप Dynamics 365 ऐप्स में साइन इन करते हैं, तो आपको अपने व्यवस्थापक से निम्न जानकारी लेनी होगी:</span><span class="sxs-lookup"><span data-stu-id="68592-104">When you sign in to Dynamics 365 apps, you need to have the following information from your administrator:</span></span>  
   
-- <span data-ttu-id="b2bba-105">आपके संगठन के सिस्टम का URL</span><span class="sxs-lookup"><span data-stu-id="b2bba-105">URL for your organization’s system</span></span>  
+- <span data-ttu-id="68592-105">आपके संगठन के सिस्टम का URL</span><span class="sxs-lookup"><span data-stu-id="68592-105">URL for your organization’s system</span></span>  
   
-- <span data-ttu-id="b2bba-106">आपका उपयोगकर्ता नाम</span><span class="sxs-lookup"><span data-stu-id="b2bba-106">Your user name</span></span>  
+- <span data-ttu-id="68592-106">आपका उपयोगकर्ता नाम</span><span class="sxs-lookup"><span data-stu-id="68592-106">Your user name</span></span>  
   
-- <span data-ttu-id="b2bba-107">आपका पासवर्ड</span><span class="sxs-lookup"><span data-stu-id="b2bba-107">Your password</span></span>  
+- <span data-ttu-id="68592-107">आपका पासवर्ड</span><span class="sxs-lookup"><span data-stu-id="68592-107">Your password</span></span>  
   
-  <span data-ttu-id="b2bba-108">आपको शायद अपने व्यवस्थापक द्वारा भेजे गए ईमेल के माध्यम से यह जानकारी मिली होगी। यदि आपके पास यह सभी जानकारी नहीं है या आपको साइन इन करने में समस्या हो रही है, तो [अपने व्यवस्थापक या सहायता व्यक्ति से संपर्क करें](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support)।</span><span class="sxs-lookup"><span data-stu-id="b2bba-108">You probably received this information in an email from your admin. If you don’t have all this info, or if you have issues signing in, [Find your administrator or support person](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support).</span></span>  
+  <span data-ttu-id="68592-108">आपको शायद अपने व्यवस्थापक द्वारा भेजे गए ईमेल के माध्यम से यह जानकारी मिली होगी। यदि आपके पास यह सभी जानकारी नहीं है या आपको साइन इन करने में समस्या हो रही है, तो [अपने व्यवस्थापक या सहायता व्यक्ति से संपर्क करें](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support)।</span><span class="sxs-lookup"><span data-stu-id="68592-108">You probably received this information in an email from your admin. If you don’t have all this info, or if you have issues signing in, [Find your administrator or support person](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support).</span></span>  
   
-## <a name="set-your-personal-options-to-allow-email"></a><span data-ttu-id="b2bba-109">ईमेल की अनुमति देने के लिए अपने व्यक्तिगत विकल्प सेट करें</span><span class="sxs-lookup"><span data-stu-id="b2bba-109">Set your personal options to allow email</span></span>  
- <span data-ttu-id="b2bba-110">अन्य लोगों को आपकी ओर से ईमेल भेजने की अनुमति देने के लिए आपको अपनी ईमेल सेटिंग कॉन्फ़िगर करने की आवश्यकता है ताकि परियोजनाओं को अनुमोदित करने या उनके लिए साइन अप करने हेतु आपके पास समय और व्यय होने पर [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] आपके लिए ईमेल सूचनाएँ भेज सके.</span><span class="sxs-lookup"><span data-stu-id="b2bba-110">You need to configure your email settings to allow others to send email on your behalf, so [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] can send email notifications for you when you have time and expenses to approve or sign up for projects.</span></span>  
+## <a name="set-your-personal-options-to-allow-email"></a><span data-ttu-id="68592-109">ईमेल की अनुमति देने के लिए अपने व्यक्तिगत विकल्प सेट करें</span><span class="sxs-lookup"><span data-stu-id="68592-109">Set your personal options to allow email</span></span>  
+ <span data-ttu-id="68592-110">अन्य लोगों को आपकी ओर से ईमेल भेजने की अनुमति देने के लिए आपको अपनी ईमेल सेटिंग कॉन्फ़िगर करने की आवश्यकता है ताकि परियोजनाओं को अनुमोदित करने या उनके लिए साइन अप करने हेतु आपके पास समय और व्यय होने पर [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] आपके लिए ईमेल सूचनाएँ भेज सके.</span><span class="sxs-lookup"><span data-stu-id="68592-110">You need to configure your email settings to allow others to send email on your behalf, so [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] can send email notifications for you when you have time and expenses to approve or sign up for projects.</span></span>  
   
-1.  <span data-ttu-id="b2bba-111">स्क्रीन के शीर्ष दाएँ कोने में गियर बटन पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="b2bba-111">Click the gear button in the top right corner of the screen.</span></span>  
+1.  <span data-ttu-id="68592-111">स्क्रीन के शीर्ष दाएँ कोने में गियर बटन पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="68592-111">Click the gear button in the top right corner of the screen.</span></span>  
   
-2.  <span data-ttu-id="b2bba-112">**विकल्प** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="b2bba-112">Click the **Options**.</span></span>  
+2.  <span data-ttu-id="68592-112">**विकल्प** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="68592-112">Click the **Options**.</span></span>  
   
-3.  <span data-ttu-id="b2bba-113">**ईमेल** टैब पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="b2bba-113">Click the **Email** tab.</span></span>  
+3.  <span data-ttu-id="68592-113">**ईमेल** टैब पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="68592-113">Click the **Email** tab.</span></span>  
   
-4.  <span data-ttu-id="b2bba-114">**अन्य Microsoft Dynamics 365 उपयोगकर्ताओं को आपकी ओर से ईमेल भेजने की अनुमति दें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="b2bba-114">Select **Allow other Microsoft Dynamics 365 users to send email on your behalf**.</span></span>  
+4.  <span data-ttu-id="68592-114">**अन्य Microsoft Dynamics 365 उपयोगकर्ताओं को आपकी ओर से ईमेल भेजने की अनुमति दें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="68592-114">Select **Allow other Microsoft Dynamics 365 users to send email on your behalf**.</span></span>  
   
-5.  <span data-ttu-id="b2bba-115">**ठीक** क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="b2bba-115">Click **OK**.</span></span>  
+5.  <span data-ttu-id="68592-115">**ठीक** क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="68592-115">Click **OK**.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="b2bba-116">यह भी देखें</span><span class="sxs-lookup"><span data-stu-id="b2bba-116">See Also</span></span>  
- [<span data-ttu-id="b2bba-117">समय, व्यय और सहयोग मार्गदर्शिका</span><span class="sxs-lookup"><span data-stu-id="b2bba-117">Time, Expense, and Collaboration Guide</span></span>](../psa/time-expense-collaboration-guide.md)
+### <a name="see-also"></a><span data-ttu-id="68592-116">यह भी देखें</span><span class="sxs-lookup"><span data-stu-id="68592-116">See Also</span></span>  
+ [<span data-ttu-id="68592-117">समय, व्यय और सहयोग मार्गदर्शिका</span><span class="sxs-lookup"><span data-stu-id="68592-117">Time, Expense, and Collaboration Guide</span></span>](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
