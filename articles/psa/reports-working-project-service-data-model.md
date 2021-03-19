@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d8c212ef2c9fd9dcd6be0b8f0a31aa5a948176bc
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 25f1af15c03001a92f96689ff36a3159a5352a46
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147655"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5283235"
 ---
 # <a name="working-with-the-project-service-automation-data-model"></a>Project Service Automation डेटा मॉडल के साथ काम करना
 
@@ -87,7 +87,7 @@ PSA ऐसे नए एंटिटी को भी जोड़ता है 
 
 ## <a name="reporting-on-resources"></a>रिसोर्स की रिपोर्टिंग
 
-प्रोजेक्ट संसाधन Universal Resource Scheduling (URS) से **बुक करने योग्य** संसाधन संस्थाओं का उपयोग करते हैं जो अन्य एप्लिकेशन, जैसे कि Microsoft Dynamics 365 Field Service के साथ साझा किए जाते हैं। यहाँ ऐसे एंटिटी की सूची दी गई है जिनका इस्तेमाल आप प्रोजेक्ट रिसोर्स की रिपोर्ट करते समय कर सकते हैं:
+परियोजना के संसाधन Universal Resource Scheduling (URS) से उन **बुक करने योग्य संसाधन** निकायों का उपयोग करते हैं, जो अन्य Microsoft Dynamics 365 Field Service जैसे अन्य ऐप्स के साथ साझा किए जाते हैं. यहाँ ऐसे एंटिटी की सूची दी गई है जिनका इस्तेमाल आप प्रोजेक्ट रिसोर्स की रिपोर्ट करते समय कर सकते हैं:
 
 - **बुक करने योग्य रिसोर्स** – यह एंटिटी प्रोजेक्ट टीम में इस्तेमाल होने वाले यूज़र, संपर्क, सामान्य रिसोर्स, एकाउंट, ग्रुप या उपकरण को बताता है।
 - **बुक करने योग्य रिसोर्स कैरेक्टरिस्टिक्स** – इस एंटिटी में रिसोर्स का कौशल, प्रमाण-पत्र या शिक्षा शामिल होते हैं। विशेषताओं के रेटिंग वैल्यू हो सकते हैं जिन्हें रेटिंग मॉडल द्वारा निर्धारित किया जाता है।
