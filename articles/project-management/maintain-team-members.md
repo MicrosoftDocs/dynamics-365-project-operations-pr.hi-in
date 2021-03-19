@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: abab21ff98481166517be0c74a2c14c36d5e9d1d
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 60b6788d881518502d314e9ee5daf6bbc0ae8764
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131525"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5286835"
 ---
 # <a name="maintain-team-members"></a>टीम के सदस्यों का रखरखाव करें
 
@@ -21,7 +21,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 आप उन्हें टीम में सीधे बुक करके अपने प्रोजेक्ट टीम में एक नामित संसाधन जोड़ सकते हैं.
 
-1. Dynamics 365 Project Operations में, **परियोजना**, पर जाएं, और उस परियोजना को खोलने का चयन करें जिसके लिए आप बुकिंग कर रहे हैं.
+1. Dynamics 365 Project Operations में, **परियोजना** पर जाएँ, और उस परियोजना को खोलें, जिसके लिए आप बुकिंग कर रहे हैं.
 2. **प्रोजेक्ट** पेज पर, **टीम** टैब पर, **नया** पर चयन करें. 
 3. **क्विक क्रिएट प्रोजेक्ट टीम मेंबर** डायलॉग बॉक्स में, बुक करने योग्य संसाधन का चयन करें। **रोल** फ़ील्ड संसाधन की डिफ़ॉल्ट भूमिका के साथ पॉपुलेट होगी यदि उन्हें एक असाइन किया गया है। आप भूमिका बदल सकते हैं. 
 4. से और तक उन तारीखों का चयन करें जिनके लिए संसाधन की आवश्यकता होगी और संसाधन की क्षमता के आवंटन तरीके का चयन करें. 

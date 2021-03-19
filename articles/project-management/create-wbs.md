@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: d7fa645e78d2206e333d9f85fcec0f7a9c213c23
-ms.sourcegitcommit: 260ce052fed760bb44c514517806049ca13a5459
+ms.openlocfilehash: 695bbc2ae1ba1e762472b5f5fa853c89017d2f52
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "4841349"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5287015"
 ---
 # <a name="create-a-work-breakdown-structure-wbs"></a>एक कार्य विश्लेषण संरचना बनाएँ (WBS)
 
@@ -92,6 +92,8 @@ ms.locfileid: "4841349"
 | शुरू करें | प्रारंभ दिनांक और समय. |
 | नाम | कार्य का नाम. |
 | आईडी | कार्य विश्लेषण संरचना (WBS) में कार्य का ID. |
+
+एक व्यवस्थापक के रूप में, आप कार्य निकाय पर कस्टम फ़ील्ड परिभाषित कर सकते हैं. हालाँकि फ़ील्ड शेड्यूल ग्रिड पर नहीं दिखाए जा सकते. अपने कस्टम फ़ील्ड देखने के लिए, उन्हें **परियोजना कार्य** विवरण पृष्ठ पर जोड़ें.
 
 ## <a name="staffing-attributes"></a>स्‍टाफ़िंग एट्रिब्‍यूट
 

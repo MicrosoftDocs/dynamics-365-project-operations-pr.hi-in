@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: f159ecac53b824ef208221bb14958923fb5da63b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 14094d603be2834dc66abff2ff1faf5e940b1ffa
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4127353"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5286610"
 ---
 # <a name="project-tracking-overview"></a>परियोजना ट्रैकिंग अवलोकन
 
@@ -23,7 +23,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="effort-tracking-view"></a>प्रयास ट्रैकिंग दृश्य
 
-**प्रयास की ट्रैकिंग** दृश्य कार्य के नियोजित प्रयास घंटों के लिए किसी कार्य पर बिताए गए वास्तविक प्रयास घंटों की तुलना करके शेड्यूल में कार्यों की प्रगति को ट्रैक करता है. Dynamics 365 Project Operations ट्रैकिंग मेट्रिक्स की गणना करने के लिए निम्नलिखित सूत्रों का उपयोग करता है:
+**प्रयास की ट्रैकिंग** दृश्य कार्य के नियोजित प्रयास घंटों के लिए किसी कार्य पर बिताए गए वास्तविक प्रयास घंटों की तुलना करके शेड्यूल में कार्यों की प्रगति को ट्रैक करता है. Dynamics 365 Project Operations ट्रैकिंग मैट्रिक्स का परिकलन करने के लिए इन फार्मूलों प्रयोग करता है:
 
 - **प्रगति प्रतिशत**: आज तक किया गया वास्तविक प्रयास ÷ परियोजना की पूर्वानुमानित लागत (EAC) 
 - **पूरा करने की अनुमानित लागत (ETC)**: नियोजित प्रयास - आज तक किया गया वास्तविक प्रयास 

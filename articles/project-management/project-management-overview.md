@@ -1,6 +1,6 @@
 ---
 title: परियोजना प्रबंधन अवलोकन
-description: इस विषय में Dynamics 365 Project operations में प्रोजेक्ट प्रबंधन की जानकारी दी गई है.
+description: यह विषय Dynamics 365 Project Operations में परियोजना प्रबंधन के बारे में जानकारी प्रदान करता है.
 author: ruhercul
 manager: AnnBe
 ms.date: 10/06/2020
@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: c2bca0c7dfc957753f0d05f9a3b5cc45bc13b920
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 4e23b5cd4b625736e02e62624ee838926e4dd325
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4127565"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5286700"
 ---
-# <a name="project-management-overview"></a>परियोजना प्रबंधन अवलोकन
+# <a name="project-management-overview"></a>परियोजना प्रबंधन ओवरव्यू
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-Dynamics 365 Project Operations में प्रोजेक्ट प्रबंधन के साधन आपको आसानी से प्रोजेक्ट चलाने में मदद करते हैं। शेड्यूलिंग साधन से प्रोजेक्ट मैनेजरों और टीमों को पहले से सक्रिय बने रहने में मदद करते हैं. कुछ कार्य जिनमें उपकरण मदद करते हैं उनमें शामिल हैं:
+Dynamics 365 Project Operations में परियोजना प्रबंधन के साधन आपको आसानी से परियोजना चलाने में मदद करते हैं. शेड्यूलिंग साधन से प्रोजेक्ट मैनेजरों और टीमों को पहले से सक्रिय बने रहने में मदद करते हैं. कुछ कार्य जिनमें उपकरण मदद करते हैं उनमें शामिल हैं:
 
 - कार्य के शेड्यूल और आकलनों का इस्तेमाल करते हुए प्रोजेक्ट की योजना बनाना।
 - प्रोजेक्ट की लागत और राजस्व का आकलन करना और उनका पता लगाना।
