@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: bec6afe04a705d4f55ac3a7de93a64b47021fbb4
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: c3752abd26e760d27320d2b86079d84a967d53cf
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122345"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5287735"
 ---
 # <a name="manage-the-billing-backlog"></a>बिलिंग बैकलॉग प्रबंधित करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-Dynamics 365 Project Operation में बिलिंग बैकलॉग के साथ काम करने और प्रबंधन करने में आपकी मदद करने के लिए दो समर्पित दृश्य हैं. वे एक दृश्य का चयन करने के लिए **तय कीमत उपलब्धि** और **समय और सामग्री बिलिंग बैकलॉग** हैं, Project Operations के **बिक्री** क्षेत्र में, बाएं नेविगेशन पृष्ठ पर, **बिलिंग** का चयन करें. वहां बिलिंग बैकलॉग लिंक संग्रहित किए जाते हैं.
+Dynamics 365 Project Operations में बिलिंग बैकलॉग को प्रबंधित करने में मदद करने और काम करने के लिए दो समर्पित दृश्य हैं. वे एक दृश्य का चयन करने के लिए **तय कीमत उपलब्धि** और **समय और सामग्री बिलिंग बैकलॉग** हैं, Project Operations के **बिक्री** क्षेत्र में, बाएं नेविगेशन पृष्ठ पर, **बिलिंग** का चयन करें. वहां बिलिंग बैकलॉग लिंक संग्रहित किए जाते हैं.
 
 ## <a name="fixed-price-milestones"></a>निश्चित मूल्य माइलस्टोन
 
