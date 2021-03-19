@@ -17,16 +17,16 @@ ms.search.industry: ''
 ms.author: kfend
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 7fce84c9cc1f9c1beda73f403c052f779d10559f
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 2b6a34e6c744e4b8ad9400f05844fefa005536a1
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4120815"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5275900"
 ---
 # <a name="dynamics-365-project-operations"></a>Dynamics 365 Project Operations
 
-Microsoft Dynamics 365 Project Operations अधिक समझौतों को जीतने, परियोजना वितरण में तेजी लाने और लाभ क्षमता को अधिकतम करने के लिए एक ही आवेदन में बिक्री, रिसोर्सिंग, परियोजना प्रबंधन और वित्त टीमों को जोड़ता है.
+Microsoft Dynamics 365 Project Operations अधिक डील्स जीतने, परियोजना डिलीवरी में तेज़ी लाने और अधिक से अधिक लाभ प्राप्त करने के लिए एकल अनुप्रयोग में विक्रय, संसाधन, परियोजना प्रबंधन और वित्त टीमों को जोड़ता है.
 
 -   **नेतृत्व को व्यावसायिक अंतर्दृष्टि मिलती है** भी टीमों, डेटा और प्रक्रियाओं में, साथ ही बेहतर और तेज व्यावसायिक निर्णयों के लिए कृत्रिम बुद्धि क्षमताओं में दृश्यता बढ़ाने के लिए.
 -   **बिक्री सक्षम है** अधिक समझौतों को जीतने के लिए और तेज और सटीक कोट के साथ बिक्री चक्र में तेजी लाने के लिए, लचीला मूल्य निर्धारण, और अनुमान से निष्पादन के निर्बाध पारगमन के लिए.
@@ -40,7 +40,7 @@ Project Operations अपने आप में शक्तिशाली ह
 अधिक जानकारी के लिए, देखें:
 
 - [परियोजना संचालन अवलोकन](https://dynamics.microsoft.com/en-us/project-operations/overview/)
-- [Dynamics 365 Project Operations 2020 रिलीज वेव 1 का अवलोकन](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/dynamics365-project-operations/)
+- [Dynamics 365 Project Operations 2020 रिलीज़ वेव 1 का अवलोकन](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/dynamics365-project-operations/)
 
 
 

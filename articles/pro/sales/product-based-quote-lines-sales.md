@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f6aa428c486f149308ad078f9d7a80a0be0f0f04
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 29d82637c6c8bb5b5cde7707d181d5b3d3b235c4
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4178190"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272570"
 ---
 # <a name="product-based-quote-lines-overview---lite"></a>उत्पाद-आधारित कोट पंक्तियाँ ओवरव्यू - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-आप Dynamics 365 Project Operations में उत्पाद-आधारित कोट पंक्तियाँ बना सकते हैं. उत्पाद-आधारित कोट पंक्तियों को मैनुअल रूप से जोड़ा जा सकता है या वे उत्पाद कैटलॉग का आइटम हो सकती हैं.
+आप Dynamics 365 Project Operations में उत्पाद-आधारित उद्धरण लाइनें बना सकते हैं। उत्पाद-आधारित कोट पंक्तियों को मैनुअल रूप से जोड़ा जा सकता है या वे उत्पाद कैटलॉग का आइटम हो सकती हैं.
 
 ## <a name="product-catalog"></a>उत्पाद कैटलॉग
 

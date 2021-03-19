@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f16634a87780c23d699d9ad535dd5e6d4ecb895d
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 967e2170aac72de629ebb930e485b8cd6560b6ca
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180957"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272435"
 ---
 # <a name="summary-information-on-a-project-quote---lite"></a>एक परियोजना कोट पर सारांश जानकारी - लाइट
 
@@ -21,7 +21,7 @@ _**लागू होता है:** लाइट नियोजन-प्र
 
 यह लेख उस जानकारी को बताता है जो किसी परियोजना कोटेशन पर लागू होती है. इसमें वो सेटिंग्स शामिल हैं जो सभी कोटेशन लाइनों को प्रभावित करती हैं, और परियोजना कोटेशन के KPIs को चलाने के लिए सभी लाइन आइटमों में संक्षेप में उद्धृत कोटेशन के बारे में जानकारी शामिल हैं.
 
-निम्नलिखित तालिका में एक परियोजना कोटेशन पर सारांश जानकारी फ़ील्ड सूचीबद्ध की गई है जो Dynamics 365 Project Operations के लिए अद्वितीय हैं या जिसमें Dynamics 365 Sales कोटेशन से व्यवहार में कुछ महत्वपूर्ण बदलाव हैं.
+निम्न तालिका उस परियोजना कोट के सारांश जानकारी फ़ील्ड को सूचीबद्ध करती है, जो Dynamics 365 Project Operations के लिए अद्वितीय हैं या Dynamics 365 Sales के कोट से व्यवहार में कुछ महत्वपूर्ण परिवर्तन हुए हैं.
 
 | **फ़ील्ड** | **स्थान** | **वर्णन** | **डाउनस्ट्रीम प्रभाव** |
 | --- | --- | --- | --- |

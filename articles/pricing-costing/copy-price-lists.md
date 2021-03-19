@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 67a69d521ac0a5632371138bd4fbb9dd00fe34ee
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: e49a95a04e9506e983d920c49d4c504d9f944c88
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181499"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5275720"
 ---
 # <a name="copy-price-lists"></a>मूल्य सूचियाँ कॉपी करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-Dynamics 365 Project Operations में आप मूल्य सूचियों की कॉपी बना/तैयार कर सकते हैं. उदाहरण के लिए, वर्तमान वर्ष से मूल्य सूची का उपयोग करते हुए आप आगामी वर्ष के लिए मूल्य सूची तैयार कर सकते हैं.  या, लागत के लिए आप मूल्य सूचियों में से बिल दरों और बिक्री मूल्यों के लिए मूल्य सूची को कॉपी कर सकते हैं. 
+आप Dynamics 365 Project Operations में मूल्य सूचियों की प्रतियाँ बना सकते हैं. उदाहरण के लिए, वर्तमान वर्ष से मूल्य सूची का उपयोग करते हुए आप आगामी वर्ष के लिए मूल्य सूची तैयार कर सकते हैं.  या, लागत के लिए आप मूल्य सूचियों में से बिल दरों और बिक्री मूल्यों के लिए मूल्य सूची को कॉपी कर सकते हैं. 
 
 मूल्य सूची की कॉपी बनाने/को कॉपी करने के लिए निम्नलिखित चरणों को पूरा करें.
 

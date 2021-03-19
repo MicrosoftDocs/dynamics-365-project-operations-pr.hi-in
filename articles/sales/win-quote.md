@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 47804db0144c2b0f9dee2c60518e8aba6fb27473
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: a2c752ba6395ed4bf025092219350dc245f7428f
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124685"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277250"
 ---
 # <a name="close-a-quote"></a>कोट बंद करें
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 
-एक परियोजना कोट को जीता या गंवाया के रूप में बंद किया जा सकता. Microsoft Dynamics 365 परियोजना संचालन में कोट पर सक्रिय और संशोधित कार्य समर्थित नहीं होने के कारण, आप एक ड्राफ्ट कोट बंद कर सकते हैं।
+एक परियोजना कोट को जीता या गंवाया के रूप में बंद किया जा सकता. क्योंकि Microsoft Dynamics 365 Project Operations में कोट पर सक्रिय करे और संशोधन करें कार्य समर्थित नहीं है, इसलिए आप ड्राफ़्ट कोट को बंद कर सकते हैं.
 
 ## <a name="close-a-quote-as-won"></a>कोट को जीत लिया के रूप में बंद करें
 

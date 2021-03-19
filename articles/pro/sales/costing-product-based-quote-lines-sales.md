@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: d21ab159294cac66ffeb8abcf0943b4babd7b360
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: c08ac3b0f24dda19489bad6e667a50b67b8ce3ec
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4118925"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273650"
 ---
 # <a name="costing-product-based-quote-lines"></a>उत्पाद-आधारित कोट लागत
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 
-Dynamics 365 Project Operations में उत्पाद-आधारित कोट लाइन में **लागत मूल्य** फ़ील्ड भी है. इस फ़ील्ड का इस्तेमाल उत्पाद की कोट लाइन पर और डाउनस्ट्रीम लाभ क्षमता की गणना के लिए लागत मूल्य पर नज़र रखने के लिए किया जाता है.
+Dynamics 365 Project Operations में उत्पाद-आधारित कोट लाइनों की भी एक **लागत मूल्य** फ़ील्ड होती है. इस फ़ील्ड का इस्तेमाल उत्पाद की कोट लाइन पर और डाउनस्ट्रीम लाभ क्षमता की गणना के लिए लागत मूल्य पर नज़र रखने के लिए किया जाता है.
 
 जब कैटलॉग उत्पाद के लिए उत्पाद-आधारित कोट लाइन बनाई जाती है, उत्पाद-आधारित कोट लाइन की लागत उत्पाद सूची में **मानक लागत** फ़ील्ड से डिफ़ॉल्ट होती है. उत्पाद कैटलॉग में मानक लागत फ़ील्ड संगठन की आधार मुद्रा में सेट किया गया है. उत्पाद-आधारित कोट लाइन पर डिफ़ॉल्ट इकाई लागत कोट पर बिक्री मुद्रा में परिवर्तित हो जाती है.
 

@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 92cebbe851c3cface86d0580e7e060134295e8c2
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 25620704570fa702e1e5e09c83005be50f98f20a
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4176748"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5274505"
 ---
 # <a name="resolve-sales-prices-for-estimates-and-actuals---lite"></a>अनुमानों और वास्तविक के लिए विक्रय मूल्यों का समाधान करें - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-जब अनुमानित और वास्तविक विक्रय मूल्यों को Dynamics 365 प्रकल्प परिचालन के द्वारा हल किया जाता है, तब सिस्टम द्वारा पहले तारीख और मुद्रा को लिया जाता है जो संबद्ध प्रकल्प की हो अथवा विक्रय मूल्य सूची के अनुबंध को आधार माना जाता है. विक्रय मूल्य सूची संबंधी स्थिति हल होने पर, सिस्टम द्वारा विक्रय या बिल की दर को हल किया जाता है.
+जब अनुमान और वास्तविक पर विक्रय मूल्य का समाधान Dynamics 365 Project Operations में होता है, तो सिस्टम पहले विक्रय मूल्य सूची को हल करने के लिए संबंधित परियोजना कोट या अनुबंध की दिनांक और मुद्रा का उपयोग करता है. विक्रय मूल्य सूची संबंधी स्थिति हल होने पर, सिस्टम द्वारा विक्रय या बिल की दर को हल किया जाता है.
 
 ## <a name="resolve-sales-rates-on-actual-and-estimate-lines-for-time"></a>विक्रय दरों को वास्तविक और अनुमानित समय रेखा के अनुसार हल किया जाता है
 

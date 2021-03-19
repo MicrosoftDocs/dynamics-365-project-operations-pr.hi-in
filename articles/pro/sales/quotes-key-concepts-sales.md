@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: e86f1a5a7b2859df5bf9569ee9ca306c6dcc6293
-ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
+ms.openlocfilehash: 63d9fc56f47c3bb7c5477af8f3bfa1be11a09a45
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "4178008"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272390"
 ---
 # <a name="quotes---key-concepts---lite"></a>कोट - मुख्य अवधारणाएँ - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
 
-Dynamics 365 Project Operations में परियोजना कोटेशन का उपयोग शुरू करने से पहले निम्नलिखित प्रमुख अवधारणाओं के बारे में पता होना चाहिए:
+Dynamics 365 Project Operations में परियोजना कोट का उपयोग करना शुरू करने से पहले निम्नलिखित मुख्य अवधारणाओं से अवगत रहना होता है:
 
 ## <a name="contracting-unit"></a>अनुबंध इकाई
 

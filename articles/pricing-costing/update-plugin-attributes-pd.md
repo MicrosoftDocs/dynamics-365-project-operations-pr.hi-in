@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 9b0cf48318d0b9e94c4be0d3775b54e83832c1b7
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: 7999c003a0cf670d586ebf4445901e106fbee39f
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4643220"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5274685"
 ---
 # <a name="update-plug-in-attributes-with-new-pricing-dimensions"></a>नए मूल्य निर्धारण आयामों के साथ प्लग-इन एट्रिब्यूट अद्यतन करें
 

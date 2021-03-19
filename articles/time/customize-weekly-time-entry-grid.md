@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: d9c14f0550d4429ac794607a3fb61717566207e4
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: f446e24f3a61914a46a552fdc38b986d8b924747
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124640"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277160"
 ---
 # <a name="extending-time-entries"></a>समय प्रविष्टियाँ विस्तारित करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-Dynamics 365 Project Operations में विस्तार योग्य समय प्रविष्टि कस्टम नियंत्रण शामिल है. इस नियंत्रण में निम्न सुविधाएँ शामिल हैं:
+Dynamics 365 Project Operations में एक विस्तार योग्य समय प्रविष्टि कस्टम नियंत्रण है. इस नियंत्रण में निम्न सुविधाएँ शामिल हैं:
 
 - सप्ताह बाद क्षैतिज रूप से समय दर्ज करें
 - दिन, पंक्ति, या सप्ताह के आधार पर

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 28dfb256eb75ca9484161f053969c205fcd60965
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 870a583a4f7c9ed461207f65f267b529580cf02b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180914"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272480"
 ---
 # <a name="project-contract-settings---lite"></a>परियोजना अनुबंध सेटिंग - लाइट
 
@@ -21,7 +21,7 @@ _**लागू होता है:** लाइट नियोजन-प्र
 
 यह विषय उन फ़ील्ड्स के बारे में जानकारी देती है, जो पूरे परियोजना अनुबंध पर लागू होती हैं, इसमें सेटिंग शामिल हैं जो सभी अनुबंध पंक्तियों को प्रभावित करती हैं. प्रोजेक्ट अनुबंध के KPI को चलाने के लिए सभी पंक्ति वस्तुओं में संक्षेपित अनुबंध के बारे में जानकारी भी शामिल है.
 
-निम्न तालिका परियोजना अनुबंध पर फ़ील्ड को सूचीबद्ध करती है जो Dynamics 365 Project Operations के लिए अद्वितीय हैं या Dynamics 365 Sales में बिक्री के आदेश से व्यवहार में कुछ महत्वपूर्ण परिवर्तन हैं.
+निम्न तालिका उस परियोजना अनुबंध के फ़ील्ड को सूचीबद्ध करती है, जो Dynamics 365 Project Operations के लिए अद्वितीय हैं या Dynamics 365 Sales में बिक्री ऑर्डर से व्यवहार में कुछ महत्वपूर्ण परिवर्तन हुए हैं.
 
 | क्षेत्र | स्थान | विवरण | डाउनस्ट्रीम प्रभाव |
 | --- | --- | --- | --- |

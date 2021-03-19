@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 5d2bb415362a088e01253fbe54f9f06569b4a921
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: ccdbdce6b7d006adc9be2b5f3573dd8e79dd2b8d
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122885"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5276980"
 ---
 # <a name="configure-project-operations-integration-per-legal-entity"></a>प्रति कानूनी निकाय, प्रकल्प के परिचालन का एकीकरण कॉन्फिगर करें 
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 
-इस अध्याय में आपको वह सारी जानकारी मिलती है जिसकी जरुरत Dynamics 365 प्रकल्प परिचालन के लिये कानूनी निकाय के रुप में आवश्यक होती है.
+यह विषय आपको प्रति कानूनी निकाय Dynamics 365 Project Operationsको कॉन्फ़िगर करने के लिए आवश्यक चरणों से ले जाता है.
 
 ## <a name="enable-feature-keys-in-dynamics-365-finance"></a>Dynamics 365 Finance सुविधा कुंजियाँ सक्षम करें
 

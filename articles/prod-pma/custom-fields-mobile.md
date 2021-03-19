@@ -18,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.3
 ms.search.validFrom: 2019-05-29
-ms.openlocfilehash: 1ea1ca002a8f68f86808831b398e452244471322
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: 5dae571fce746b49281587f5349774a7f2c4111b
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077754"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270995"
 ---
 # <a name="implement-custom-fields-for-the-microsoft-dynamics-365-project-timesheet-mobile-app-on-ios-and-android"></a>iOS और Android पर Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग के लिए कस्टम फ़ील्ड लागू करें
 
@@ -179,9 +179,9 @@ ms.locfileid: "4077754"
 
 यह कोड ऐप में फील्ड के लिए डिस्प्ले सेटिंग को नियंत्रित करता है. उदाहरण के लिए, यह फील्ड, लेबल के प्रकार को नियंत्रित करता है, कि फील्ड अनिवार्य है या नहीं, किस सेक्शन में फील्ड नजर आता है.
 
-उदाहरण के लिए समय प्रविष्टि पर स्ट्रिंग फील्ड दिखाता है. फील्ड के दो विकल्प होते हैं, **पहला विकल्प** और **दूसरा विकल्प** , ये विकल्प बटन (रेडियो बटन) के माध्यम से उपलब्ध होते हैं. अनुप्रयोग में फील्ड **TestLineString** फील्ड से संबंधित होते हैं, जो कि TSTimesheetLine तालिका से जोड़े जाते हैं.
+उदाहरण के लिए समय प्रविष्टि पर स्ट्रिंग फील्ड दिखाता है. फील्ड के दो विकल्प होते हैं, **पहला विकल्प** और **दूसरा विकल्प**, ये विकल्प बटन (रेडियो बटन) के माध्यम से उपलब्ध होते हैं. अनुप्रयोग में फील्ड **TestLineString** फील्ड से संबंधित होते हैं, जो कि TSTimesheetLine तालिका से जोड़े जाते हैं.
 
-कस्टम फ़ील्ड गुणों के प्रारंभ को सरल बनाने के लिए **TSTimesheetCustomField::newFromMetatdata()** विधि के उपयोग पर ध्यान दें: **fieldBaseType** , **tableName** , **fieldname** , **लेबल** , **isEditable** , **isMandatory** , **stringLength** , and **numberOfDecimals**. आपको जैसा ठीक लगे, उस अनुसार आप इन मानकों को मैनुअली निर्धारित कर सकते हैं.
+कस्टम फ़ील्ड गुणों के प्रारंभ को सरल बनाने के लिए **TSTimesheetCustomField::newFromMetatdata()** विधि के उपयोग पर ध्यान दें: **fieldBaseType**, **tableName**, **fieldname**, **लेबल**, **isEditable**, **isMandatory**, **stringLength**, and **numberOfDecimals**. आपको जैसा ठीक लगे, उस अनुसार आप इन मानकों को मैनुअली निर्धारित कर सकते हैं.
 
 ```xpp
 ...
@@ -410,7 +410,7 @@ final class TSTimesheetDetails_Extension
 
 - TSTimesheetLine तालिका में **validateWrite** टाइमशीट पंक्ति में संचालन को सहेजने के लिए दौरान **गलत** हो जाता है, मोबाइल ऐप में त्रुटि का संदेश दिखता है.
 - किसी अनुप्रयोग में टाइमशीट दाखिल करने के दौरान TSTimesheetTable तालिका में **validateSubmit** अगर **गलत** हो जाता है, उपयोगकर्ता को त्रुटि का एक संदेश दिखता है.
-- TSTimesheetLine तालिका में **सम्मिलित** पद्धति के दौरान फील्ड में दर्ज किए गए तर्क (उदाहरण के लिए, **पंक्ति प्रॉपर्टी** ), अभी भी चलेगी.
+- TSTimesheetLine तालिका में **सम्मिलित** पद्धति के दौरान फील्ड में दर्ज किए गए तर्क (उदाहरण के लिए, **पंक्ति प्रॉपर्टी**), अभी भी चलेगी.
 
 ### <a name="hiding-and-marking-out-of-box-fields-as-read-only-via-configuration"></a>आउट-ऑफ-बॉक्स फ़ील्ड को केवल कॉन्फ़िगरेशन के माध्यम से पढ़ने के रूप में छुपाना और चिह्नित करना
 

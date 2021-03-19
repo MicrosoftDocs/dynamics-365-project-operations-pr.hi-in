@@ -1,6 +1,6 @@
 ---
 title: पुनः डिज़ाइन की गई ख़र्च रिपोर्ट
-description: यह विषय Microsoft Dynamics 365 Finance में ख़र्च रिपोर्ट प्रविष्टि के लिए फिर से डिज़ाइन किए गए और पुनर्कल्पित अनुभव के बारे में जानकारी प्रदान करता है. नया अनुभव ख़र्च रिपोर्ट को पूरा करने की प्रक्रिया को सरल बनाता है और आवश्यक समय को कम कर देता है.
+description: यह विषय ख़र्च रिपोर्ट प्रविष्टि के लिए फिर से डिजाइन किए गए और पुनर्कल्पित अनुभव के बारे में जानकारी प्रदान करता है.
 author: ryansandness
 manager: AnnBe
 ms.date: 06/14/2019
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2019-6-30
 ms.dyn365.ops.version: 10.0.3
-ms.openlocfilehash: d076c0a596940cb08433f7ee57dea54903f6078f
-ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
+ms.openlocfilehash: 7533f8aca317bd8d72e437592b5251fd3a866ba6
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "4960249"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271985"
 ---
 # <a name="redesigned-expense-reports"></a>पुनः डिज़ाइन की गई ख़र्च रिपोर्ट
 
@@ -40,12 +40,6 @@ ms.locfileid: "4960249"
 - व्यय फ़ील्ड दृश्यता के लिए नया मेनू आइटम जोड़ा गया है.
 - ख़र्च रिपोर्ट (मौजूदा पृष्ठ) के लिए कोई मौजूदा मेनू आइटम नहीं है या ख़र्च रिपोर्ट फ़ील्ड को हटा दिया गया है.
 - कार्यप्रवाह और स्वीकृतियां अब भी आपको मौजूदा व्यय रिपोर्ट पृष्ठ पर ले जाती हैं.
-
-## <a name="getting-started-video-for-new-users"></a>नए उपयोगकर्ताओं के लिए वीडियो शुरू करना
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Y7gO]
-
-[Dynamics 365 for Finance and Operations में ख़र्च अनुभव](https://youtu.be/Ocy-MsTvEE0) [वीडियो (ऊपर दिखाया गया)](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) प्लेलिस्ट Finance and Operationsमें शामिल है और YouTube पर उपलब्ध है.
 
 ## <a name="new-features"></a>नई सुविधाएँ
 

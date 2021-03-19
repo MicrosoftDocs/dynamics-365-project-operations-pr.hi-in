@@ -17,18 +17,18 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8d113111f5fbf6f5d23ef02cae36d85a27beed93
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 899279b33f4fe8780d110d7c18a097407bd8d839
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4121310"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5277520"
 ---
 # <a name="quotes---key-concepts"></a>कोट - मुख्य अवधारणाएँ
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-Dynamics 365 Project Operations में परियोजना और बिक्री दो प्रकार के कोटेशन हैं. दो प्रकार के कोटेशन निम्नांकित तरीकों से अलग होते हैं:
+Dynamics 365 Project Operations में, कोट, परियोजना और विक्रय के दो प्रकार होते हैं. दो प्रकार के कोटेशन निम्नांकित तरीकों से अलग होते हैं:
 
 - **लाइन आइटम के लिए ग्रिड**: बिक्री कोटेशन पर, लाइन आइटम के लिए केवल एक ग्रिड है. परियोजना कोटेशन पर, लाइन आइटम के लिए दो ग्रिड हैं. एक ग्रिड परियोजना लाइनों के लिए होती है जबकि दूसरी उत्पाद लाइनों के लिए होती है.
 - **सक्रियण और संशोधन**: बिक्री कोटेशन सक्रियण और संशोधन का समर्थन करते हैं. ये प्रक्रियाएं किसी परियोजना कोटेशन पर समर्थित नहीं हैं.
