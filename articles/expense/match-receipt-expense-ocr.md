@@ -1,5 +1,5 @@
 ---
-title: OCR को इस्तेमाल करके व्यय से रसीद का मिलान करें
+title: OCR का उपयोग करके रसीद कैप्चर करें
 description: यह विषय रसीदों के लिए ऑप्टिकल कैरेक्टर रिकॉग्निशन (OCR) प्रक्रिया के बारे में जानकारी देता है.
 author: suvaidya
 manager: AnnBe
@@ -15,14 +15,14 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 55f63c8c092942b73a55c9d86d867bca600f42e5
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: fd0cb0fb094260fa3e82d7a2f200f328a39dd7a1
+ms.sourcegitcommit: f78087174a8512199a1bcbd7e8610bbc80e64801
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124325"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5499853"
 ---
-# <a name="match-a-receipt-to-an-expense-using-ocr"></a>OCR को इस्तेमाल करके व्यय से रसीद का मिलान करें
+# <a name="capture-a-receipt-using-ocr"></a>OCR का उपयोग करके रसीद कैप्चर करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 

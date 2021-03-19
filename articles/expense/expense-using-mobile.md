@@ -1,5 +1,5 @@
 ---
-title: मोबाइल का उपयोग करके व्यय करना
+title: मोबाइल व्यय अनुप्रयोग
 description: यह विषय व्यय प्रबंधन मोबाइल कार्यक्षेत्र के बारे में जानकारी देता है.
 author: suvaidya
 manager: AnnBe
@@ -15,14 +15,14 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 51da574143b91df636d99f91d37470905a9b0529
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 01df30bf48fa9118771b87363d0418eb6b49ecea
+ms.sourcegitcommit: f78087174a8512199a1bcbd7e8610bbc80e64801
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4120905"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5499898"
 ---
-# <a name="expense-using-mobile"></a>मोबाइल का उपयोग करके व्यय करना
+# <a name="mobile-expense-app"></a>मोबाइल व्यय अनुप्रयोग
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 

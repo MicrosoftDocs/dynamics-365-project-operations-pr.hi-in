@@ -3,17 +3,17 @@ title: समय प्रवेश UI व्यवहार
 description: यह विषय समय प्रविष्टि के लिए UI के व्यवहार के बारे में जानकारी प्रदान करता है।
 author: stsporen
 manager: AnnBe
-ms.date: 10/05/2020
+ms.date: 03/03/2021
 ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 8719e2f9ee4867f17ed75142eca2115f61e37999
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: b552266eddc4efc1b41fc500d157239388ad219b
+ms.sourcegitcommit: f78087174a8512199a1bcbd7e8610bbc80e64801
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4124505"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5499616"
 ---
 # <a name="time-entry-ui-behavior"></a>समय प्रवेश UI व्यवहार
 
@@ -21,6 +21,19 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 
 **साप्ताहिक समय प्रविष्टि** ग्रिड एक कस्टम नियंत्रण है, जिसमें, **आयाम** और **अवधि** दो मुख्य अनुभाग हैं।
+
+## <a name="keyboard-shortcuts"></a>कीबोर्ड शॉर्टकट
+| कार्यवाही        | शॉर्टकट                  |
+|------------   |------------------------   |
+| नया           | Alt + Shift + n           |
+| पंक्ति को प्रतिलिपि करें      | Alt + Shift + c           |
+| प्रविष्टि संपादित करें    | Alt + Shift + e           |
+| पंक्ति संपादित करें      | Alt + Shift + Ctrl + e    |
+| प्रविष्टि खोलें    | Alt + Shift + o           |
+| सबमिट करें        | Alt + Shift + s           |
+| रीकॉल        | Alt + Shift + r           |
+| हटाएं        | Alt + Shift + d           |
+| सप्ताह की प्रतिलिपि बनाएँ     | Alt + Shift + w           |
 
 ## <a name="dimensions"></a>आयाम
 **आयाम** अनुभाग इनलाइन संपादन की अनुमति नहीं देता है। निम्न आयामों को आउट-ऑफ़-द-बॉक्स समर्थित किया जाता है:

@@ -1,27 +1,27 @@
 ---
 title: परियोजना की प्रतिलिपि बनाएँ
-description: इस विषय में Dynamics 365 Project Operations में परियोजना की प्रतिलिपि बनाने की जानकारी दी गई है.
+description: यह विषय Dynamics 365 Project Operations में परियोजनाओं की प्रतिलिपि बनाने के बारे में जानकारी प्रदान करता है.
 author: ruhercul
 manager: AnnBe
-ms.date: 10/07/2020
+ms.date: 02/22/2021
 ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 53c72e5fd680eb28128644788752368705440445
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: af1942e81691d9e13fdcbbf68599c1a8a4004582
+ms.sourcegitcommit: 24528bb9c0ef8898077cb3bc672daa211c0e73aa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131795"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "5479521"
 ---
 # <a name="copy-a-project"></a>परियोजना की प्रतिलिपि बनाएँ
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-Dynamics 365 Project Operations के साथ आप **परियोजना** प्रपत्र पर **परियोजना कॉपी करें** का चयन करके नई परियोजनाओं को जल्दी बना सकते हैं. किसी/एक परियोजना को कॉपी करने के लिए उस परियोजना को खोलें जिसे आप कॉपी करना चाहते हैं और फिर **परियोजना कॉपी करें** चुनें. कार्रवाई कॉपी करेगी:
+Dynamics 365 Project Operations के साथ, आप **परियोजना** प्रपत्र पर **परियोजना की प्रतिलिपि बनाएँ** चुनकर तेज़ी से नई परियोजनाएँ बना सकते हैं. किसी/एक परियोजना को कॉपी करने के लिए उस परियोजना को खोलें जिसे आप कॉपी करना चाहते हैं और फिर **परियोजना कॉपी करें** चुनें. कार्रवाई कॉपी करेगी:
 
-- परियोजना के गुण
+- परियोजना के गुण (अनुमानित प्रारंभ दिनांक स्रोत परियोजना से कॉपी की गई है)
 - कार्य विश्लेषण संरचना
 - परियोजना टीम के सदस्य
 - परियोजना अनुमान
