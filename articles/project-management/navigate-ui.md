@@ -8,97 +8,100 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: deedfe0c6601fd09e09460034c9a0db936b6566e
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 02dda534dcab4e8fee0a96a7e09759c32a669be5
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4127520"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5286745"
 ---
-# <a name="navigating-the-user-interface"></a><span data-ttu-id="e449a-103">उपयोगकर्ता इंटरफ़ेस नेविगेट करें</span><span class="sxs-lookup"><span data-stu-id="e449a-103">Navigating the user interface</span></span>
+# <a name="navigating-the-user-interface"></a><span data-ttu-id="51f3a-103">उपयोगकर्ता इंटरफ़ेस नेविगेट करें</span><span class="sxs-lookup"><span data-stu-id="51f3a-103">Navigating the user interface</span></span>
 
-<span data-ttu-id="e449a-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="e449a-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
+<span data-ttu-id="51f3a-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="51f3a-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-## <a name="overview"></a><span data-ttu-id="e449a-105">अवलोकन</span><span class="sxs-lookup"><span data-stu-id="e449a-105">Overview</span></span>
+## <a name="overview"></a><span data-ttu-id="51f3a-105">अवलोकन</span><span class="sxs-lookup"><span data-stu-id="51f3a-105">Overview</span></span>
 
-<span data-ttu-id="e449a-106">मुख्य परियोजना प्रपत्र कई टैबों में बटी हुई है.</span><span class="sxs-lookup"><span data-stu-id="e449a-106">The main project form is separated into several tabs.</span></span> <span data-ttu-id="e449a-107">प्रत्येक टैब परियोजना के भीतर विवरण के एक अलग स्तर का प्रतिनिधित्व करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-107">Each tab represents a different level of detail within the project.</span></span>
+<span data-ttu-id="51f3a-106">मुख्य परियोजना प्रपत्र कई टैबों में बटी हुई है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-106">The main project form is separated into several tabs.</span></span> <span data-ttu-id="51f3a-107">प्रत्येक टैब परियोजना के भीतर विवरण के एक अलग स्तर का प्रतिनिधित्व करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-107">Each tab represents a different level of detail within the project.</span></span>
 
-- <span data-ttu-id="e449a-108">**सारांश**: परियोजना का विवरण प्रदान करता है और नियोजित और वास्तविक परियोजना प्रदर्शन दोनों को एकत्रित करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-108">**Summary**: Provides a description of the project and aggregates both the planned and actual project performance.</span></span>
+- <span data-ttu-id="51f3a-108">**सारांश**: परियोजना का विवरण प्रदान करता है और नियोजित और वास्तविक परियोजना प्रदर्शन दोनों को एकत्रित करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-108">**Summary**: Provides a description of the project and aggregates both the planned and actual project performance.</span></span>
 
     ![सारांश टैब और फ़ील्ड](media/navigation7.png)
 
-- <span data-ttu-id="e449a-110">**कार्य**: ग्रिड व्यू, बोर्ड व्यू और गैंट द्वारा दर्शाए गए कार्य विभाजन संरचना के बारे में विवरण प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-110">**Tasks**: Provides the details regarding the work breakdown structure represented by a grid view, board view, and a gantt.</span></span>
+- <span data-ttu-id="51f3a-110">**कार्य**: ग्रिड व्यू, बोर्ड व्यू और गैंट द्वारा दर्शाए गए कार्य विभाजन संरचना के बारे में विवरण प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-110">**Tasks**: Provides the details regarding the work breakdown structure represented by a grid view, board view, and a gantt.</span></span>
 
     ![कार्य टैब और फ़ील्ड](media/navigation8.png)
 
-- <span data-ttu-id="e449a-112">**टीम**: परियोजना प्रतिभागियों के बारे में विवरण प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-112">**Team**: Provides details regarding the project participants.</span></span> <span data-ttu-id="e449a-113">इस दृश्य में टीम के प्रत्येक सदस्य के सौंपे गए प्रयास को भी संक्षेप में प्रस्तुत किया गया है.</span><span class="sxs-lookup"><span data-stu-id="e449a-113">The assigned effort of each team member is also summarized in this view.</span></span>
+- <span data-ttu-id="51f3a-112">**टीम**: परियोजना प्रतिभागियों के बारे में विवरण प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-112">**Team**: Provides details regarding the project participants.</span></span> <span data-ttu-id="51f3a-113">इस दृश्य में टीम के प्रत्येक सदस्य के सौंपे गए प्रयास को भी संक्षेप में प्रस्तुत किया गया है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-113">The assigned effort of each team member is also summarized in this view.</span></span>
 
     ![टीम टैब और फ़ील्ड](media/navigation9.png)
 
-- <span data-ttu-id="e449a-115">**संसाधन निर्धारण**: किसी परियोजना पर प्रत्येक संसाधन के लिए प्रयास का एक समय-चरणबद्ध दृश्य प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-115">**Resource assignments**: Provides a time-phased view of the effort for each resource on a project.</span></span>
+- <span data-ttu-id="51f3a-115">**संसाधन निर्धारण**: किसी परियोजना पर प्रत्येक संसाधन के लिए प्रयास का एक समय-चरणबद्ध दृश्य प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-115">**Resource assignments**: Provides a time-phased view of the effort for each resource on a project.</span></span>
 
     ![संसाधन असाइनमेंट टैब और फ़ील्ड](media/navigation10.png)
 
-- <span data-ttu-id="e449a-117">**संसाधन मेल**: प्रत्येक नामित संसाधन और उनकी बुकिंग के निर्धारण के बीच के अंतरों का एक समय-चरणबद्ध दृश्य प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-117">**Resource reconciliation**: Provides a time-phased view of the differences between the assignments of each named resource and their bookings.</span></span>
+- <span data-ttu-id="51f3a-117">**संसाधन मेल**: प्रत्येक नामित संसाधन और उनकी बुकिंग के निर्धारण के बीच के अंतरों का एक समय-चरणबद्ध दृश्य प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-117">**Resource reconciliation**: Provides a time-phased view of the differences between the assignments of each named resource and their bookings.</span></span>
 
     ![संसाधन समन्वय टैब और फ़ील्ड](media/navigation11.png)
 
-- <span data-ttu-id="e449a-119">**अनुमान**: किसी परियोजना की लागत और Sales अनुमानों का एक समय-चरणबद्ध दृश्य प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-119">**Estimates**: Provides a time-phased view of the cost and sales estimates of a project.</span></span>
+- <span data-ttu-id="51f3a-119">**अनुमान**: किसी परियोजना की लागत और Sales अनुमानों का एक समय-चरणबद्ध दृश्य प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-119">**Estimates**: Provides a time-phased view of the cost and sales estimates of a project.</span></span>
 
     ![अनुमान टैब और फ़ील्ड](media/navigation12.png)
 
-- <span data-ttu-id="e449a-121">**ट्रैकिंग**: एक दृश्य प्रदान करता है जो प्रयास, लागत और Sales के लिए कार्य विभाजन संरचना में कार्यों की प्रगति को दर्शाता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-121">**Tracking**: Provides a view that shows the progress of tasks in the work breakdown structure for effort, cost, and sales.</span></span>
+- <span data-ttu-id="51f3a-121">**ट्रैकिंग**: एक दृश्य प्रदान करता है जो प्रयास, लागत और Sales के लिए कार्य विभाजन संरचना में कार्यों की प्रगति को दर्शाता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-121">**Tracking**: Provides a view that shows the progress of tasks in the work breakdown structure for effort, cost, and sales.</span></span>
 
     ![ट्रैकिंग टैब और फ़ील्ड](media/navigation13.png)
 
-- <span data-ttu-id="e449a-123">**विक्रय**: परियोजना से संबध्द कोटेशन और अनुबंधों के लिए मजबूत लिंक प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-123">**Sales**: Provides deep links to quotes and contracts associated with the project.</span></span>
+- <span data-ttu-id="51f3a-123">**विक्रय**: परियोजना से संबध्द कोटेशन और अनुबंधों के लिए मजबूत लिंक प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-123">**Sales**: Provides deep links to quotes and contracts associated with the project.</span></span>
 
-- <span data-ttu-id="e449a-124">**ख़र्च अनुमान**: एक ग्रिड प्रदान करता है जो संगठनात्मक ख़र्च की श्रेणियों के आधार पर परियोजना ख़र्च को परिभाषित करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-124">**Expense Estimates**: Provides a grid that defines project expenses based upon organizational expense categories.</span></span>
+- <span data-ttu-id="51f3a-124">**ख़र्च अनुमान**: एक ग्रिड प्रदान करता है जो संगठनात्मक ख़र्च की श्रेणियों के आधार पर परियोजना ख़र्च को परिभाषित करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-124">**Expense Estimates**: Provides a grid that defines project expenses based upon organizational expense categories.</span></span>
 
     ![व्यय अनुमान टैब और फ़ील्ड](media/navigation14.png)
 
-## <a name="grid-controls"></a><span data-ttu-id="e449a-126">ग्रिड नियंत्रण</span><span class="sxs-lookup"><span data-stu-id="e449a-126">Grid controls</span></span>
+## <a name="grid-controls"></a><span data-ttu-id="51f3a-126">ग्रिड नियंत्रण</span><span class="sxs-lookup"><span data-stu-id="51f3a-126">Grid controls</span></span>
 
-<span data-ttu-id="e449a-127">नीचे विभिन्न परियोजना नियोजन टैब पर पाए जाने वाले विशिष्ट नियंत्रणों का संक्षिप्त अवलोकन है.</span><span class="sxs-lookup"><span data-stu-id="e449a-127">The follow is a brief overview of the typical controls found on the various project planning tabs.</span></span>
+<span data-ttu-id="51f3a-127">नीचे विभिन्न परियोजना नियोजन टैब पर पाए जाने वाले विशिष्ट नियंत्रणों का संक्षिप्त अवलोकन है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-127">The follow is a brief overview of the typical controls found on the various project planning tabs.</span></span>
 
-### <a name="refresh"></a><span data-ttu-id="e449a-128">रिफ्रेश करें</span><span class="sxs-lookup"><span data-stu-id="e449a-128">Refresh</span></span>
+### <a name="refresh"></a><span data-ttu-id="51f3a-128">रिफ्रेश करें</span><span class="sxs-lookup"><span data-stu-id="51f3a-128">Refresh</span></span>
 
-<span data-ttu-id="e449a-129">**रिफ़्रेश**: ग्रिड लोड होने के बाद कोई परिवर्तन होने पर सर्वर से नवीनतम डेटा को पुनः प्राप्त करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-129">**Refresh**: Retrieves the latest data from the server if any changes occurred after the grid was loaded.</span></span>
+<span data-ttu-id="51f3a-129">**रिफ़्रेश**: ग्रिड लोड होने के बाद कोई परिवर्तन होने पर सर्वर से नवीनतम डेटा को पुनः प्राप्त करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-129">**Refresh**: Retrieves the latest data from the server if any changes occurred after the grid was loaded.</span></span>
 
 ![बटन रिफ्रेश करें](media/navigation7.png)
 
-### <a name="group-by"></a><span data-ttu-id="e449a-131">इनके द्वारा समूहन</span><span class="sxs-lookup"><span data-stu-id="e449a-131">Group by</span></span>
+### <a name="group-by"></a><span data-ttu-id="51f3a-131">इनके द्वारा समूहन</span><span class="sxs-lookup"><span data-stu-id="51f3a-131">Group by</span></span>
 
-<span data-ttu-id="e449a-132">**समूह द्वारा**: उपयोगकर्ता की आवश्यकताओं के आधार पर या तो संसाधनों, भूमिकाओं या श्रेणियों को प्रतिबिंबित करने के लिए ग्रिड में पंक्तियों के समूहीकरण को अपडेट करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-132">**Group by**: Updates the grouping of the rows in the grid to reflect either resources, roles, or categories based on the user's needs.</span></span>
+<span data-ttu-id="51f3a-132">**समूह द्वारा**: उपयोगकर्ता की आवश्यकताओं के आधार पर या तो संसाधनों, भूमिकाओं या श्रेणियों को प्रतिबिंबित करने के लिए ग्रिड में पंक्तियों के समूहीकरण को अपडेट करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-132">**Group by**: Updates the grouping of the rows in the grid to reflect either resources, roles, or categories based on the user's needs.</span></span>
 
 ![बटन द्वारा समूह](media/navigation6.png)
 
-### <a name="previousnext"></a><span data-ttu-id="e449a-134">पिछला/अगला</span><span class="sxs-lookup"><span data-stu-id="e449a-134">Previous/Next</span></span>
+### <a name="previousnext"></a><span data-ttu-id="51f3a-134">पिछला/अगला</span><span class="sxs-lookup"><span data-stu-id="51f3a-134">Previous/Next</span></span>
 
-<span data-ttu-id="e449a-135">**पिछला**/**अगला**: समय-चरणबद्ध ग्रिड पर दृश्यमान समय अवधि अपडेट करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-135">**Previous**/**Next**: Update the visible time periods on the time-phased grids.</span></span>
+<span data-ttu-id="51f3a-135">**पिछला**/**अगला**: समय-चरणबद्ध ग्रिड पर दृश्यमान समय अवधि अपडेट करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-135">**Previous**/**Next**: Update the visible time periods on the time-phased grids.</span></span>
 
 ![पिछले और अगले बटन](media/navigation2.png)
 
-### <a name="timescale"></a><span data-ttu-id="e449a-137">टाइमस्केल</span><span class="sxs-lookup"><span data-stu-id="e449a-137">Timescale</span></span>
+### <a name="timescale"></a><span data-ttu-id="51f3a-137">टाइमस्केल</span><span class="sxs-lookup"><span data-stu-id="51f3a-137">Timescale</span></span>
 
-<span data-ttu-id="e449a-138">**समयमापक**: दिन, सप्ताह, महीनों और वर्षों के बीच समय-चरणबद्ध डेटा के एकत्रीकरण को बदलता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-138">**Timescale**: Change the aggregation of the time-phased data between days, weeks, months, and years.</span></span>
+<span data-ttu-id="51f3a-138">**समयमापक**: दिन, सप्ताह, महीनों और वर्षों के बीच समय-चरणबद्ध डेटा के एकत्रीकरण को बदलता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-138">**Timescale**: Change the aggregation of the time-phased data between days, weeks, months, and years.</span></span>
 
 ![टाइमस्केल बटन](media/navigation3.png)
 
-### <a name="expand"></a><span data-ttu-id="e449a-140">विस्तृत करें</span><span class="sxs-lookup"><span data-stu-id="e449a-140">Expand</span></span>
+### <a name="expand"></a><span data-ttu-id="51f3a-140">विस्तृत करें</span><span class="sxs-lookup"><span data-stu-id="51f3a-140">Expand</span></span>
 
-<span data-ttu-id="e449a-141">**विस्तार**: अतिरिक्त भूमिकाओं को देखने की अधिक क्षमता प्रदान करने वाली पूर्ण स्क्रीन पर दृश्यमान ग्रिड प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-141">**Expand**: Render the visible grid to full screen providing more ability to see additional roles.</span></span>
+<span data-ttu-id="51f3a-141">**विस्तार**: अतिरिक्त भूमिकाओं को देखने की अधिक क्षमता प्रदान करने वाली पूर्ण स्क्रीन पर दृश्यमान ग्रिड प्रदान करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-141">**Expand**: Render the visible grid to full screen providing more ability to see additional roles.</span></span>
 
 ![विस्तृत करें बटन](media/navigation4.png)
 
-### <a name="time-phase-by"></a><span data-ttu-id="e449a-143">इनके द्वारा समय-चरणबद्ध</span><span class="sxs-lookup"><span data-stu-id="e449a-143">Time-phase by</span></span>
+### <a name="time-phase-by"></a><span data-ttu-id="51f3a-143">इनके द्वारा समय-चरणबद्ध</span><span class="sxs-lookup"><span data-stu-id="51f3a-143">Time-phase by</span></span>
 
-<span data-ttu-id="e449a-144">**समय-चरण द्वारा**: Sales अनुमानों के लिए लागत अनुमानों को प्रतिबिंबित करने के लिए ग्रिड में पंक्तियों के समूहीकरण को अपडेट करता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-144">**Time-phase by**: Update the grouping of the rows in the grid to reflect cost estimates for sales estimates.</span></span> <span data-ttu-id="e449a-145">यह नियंत्रण अनुमान आलेख और ट्रैकिंग ग्रिड पर भी लागू होता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-145">This control also applies to the estimate script and the tracking grid.</span></span>
+<span data-ttu-id="51f3a-144">**समय-चरण द्वारा**: Sales अनुमानों के लिए लागत अनुमानों को प्रतिबिंबित करने के लिए ग्रिड में पंक्तियों के समूहीकरण को अपडेट करता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-144">**Time-phase by**: Update the grouping of the rows in the grid to reflect cost estimates for sales estimates.</span></span> <span data-ttu-id="51f3a-145">यह नियंत्रण अनुमान आलेख और ट्रैकिंग ग्रिड पर भी लागू होता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-145">This control also applies to the estimate script and the tracking grid.</span></span>
 
 ![इनके द्वारा समय-चरणबद्ध बटन](media/navigation0.png)
 
-### <a name="add-column"></a><span data-ttu-id="e449a-147">कॉलम जोड़ें</span><span class="sxs-lookup"><span data-stu-id="e449a-147">Add column</span></span>
+### <a name="add-column"></a><span data-ttu-id="51f3a-147">कॉलम जोड़ें</span><span class="sxs-lookup"><span data-stu-id="51f3a-147">Add column</span></span>
 
-<span data-ttu-id="e449a-148">**कॉलम जोड़ें**: उपयोगकर्ता को ग्रिड में दृश्यमान स्तंभों को परिभाषित करने की अनुमति देता है.</span><span class="sxs-lookup"><span data-stu-id="e449a-148">**Add column**: Allows the user to define the visible columns in the grid.</span></span> <span data-ttu-id="e449a-149">**परियोजना नियोजन** प्रपत्र में ग्रिड से केवल आउट-ऑफ-द-बॉक्स कॉलम जोड़े जा सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="e449a-149">Only out-of-the-box columns can be added to the grids in the **Project Planning** form.</span></span>
+<span data-ttu-id="51f3a-148">**कॉलम जोड़ें**: उपयोगकर्ता को ग्रिड में दृश्यमान स्तंभों को परिभाषित करने की अनुमति देता है.</span><span class="sxs-lookup"><span data-stu-id="51f3a-148">**Add column**: Allows the user to define the visible columns in the grid.</span></span> <span data-ttu-id="51f3a-149">**परियोजना नियोजन** प्रपत्र में ग्रिड से केवल आउट-ऑफ-द-बॉक्स कॉलम जोड़े जा सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="51f3a-149">Only out-of-the-box columns can be added to the grids in the **Project Planning** form.</span></span>
 
 ![स्तंभ जोड़ें बटन](media/navigation5.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
