@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: c5c29872ef3d62780eea3c0eda48c8fd2a9af4b1
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 4737f9870904bfc7adac11b8e2aa13bb8c610ca3
+ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5272795"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "5858091"
 ---
-# <a name="map-projects-and-tasks-to-a-project-based-contract-line---lite"></a>परियोजना-आधारित अनुबंध पंक्ति में परियोजनाओं और कार्यों को मैप करें - लाइट
+# <a name="map-projects-and-tasks-to-a-project-based-contract-line"></a>किसी परियोजना-आधारित अनुबंध पंक्ति में परियोजनाओं और कार्यों को मानचित्र करें 
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+लाइट तैनाती _**पर लागू होता है:** प्रोफार्मा इनवॉइस करने के लिए - डील, संसाधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
 
 परियोजना-आधारित अनुबंध पंक्तियों पर, आप परियोजना के विशिष्ट कार्यों को अनुबंध पंक्ति पर मैप कर सकते हैं.
 

@@ -3,7 +3,7 @@ title: व्यय रिपोर्ट पुनर्कल्पित
 description: 'यह विषय व्यय रिपोर्ट प्रविष्टि के लिए पुन: डिज़ाइन किए गए और पुन: प्रकाशित अनुभव के बारे में समझता है.'
 author: suvaidya
 manager: AnnBe
-ms.date: 03/01/2021
+ms.date: 03/26/2021
 ms.topic: article
 ms.prod: ''
 ms.service: project-operations
@@ -15,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: aaa7dd24915982cf137b5959f2f4c244b9c1e012
-ms.sourcegitcommit: f78087174a8512199a1bcbd7e8610bbc80e64801
+ms.openlocfilehash: 79e6a407689813f8c87fdffba0cda84df10d3b83
+ms.sourcegitcommit: 46726e5c8c994735c1e570e08d6ed8f9c9341319
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "5499718"
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "5717697"
 ---
 # <a name="expense-reports-reimagined"></a>व्यय रिपोर्ट पुनर्कल्पित
 
@@ -41,11 +41,7 @@ ms.locfileid: "5499718"
 - ख़र्च रिपोर्ट (मौजूदा पृष्ठ) के लिए कोई मौजूदा मेनू आइटम नहीं है या ख़र्च रिपोर्ट फ़ील्ड को हटा दिया गया है.
 - कार्यप्रवाह और स्वीकृतियां अब भी आपको मौजूदा व्यय रिपोर्ट पृष्ठ पर ले जाती हैं.
 
-## <a name="getting-started-video-for-new-users"></a>नए उपयोगकर्ताओं के लिए वीडियो शुरू करना
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2Y7gO]
-
-[Dynamics 365 for Finance and Operations में ख़र्च अनुभव](https://youtu.be/Ocy-MsTvEE0) [वीडियो (ऊपर दिखाया गया)](https://www.youtube.com/playlist?list=PLcakwueIHoT_SYfIaPGoOhloFoCXiUSyW) प्लेलिस्ट Finance and Operationsमें शामिल है और YouTube पर उपलब्ध है.
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4IQFM]
 
 ## <a name="new-features"></a>नई सुविधाएँ
 
