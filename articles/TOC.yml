@@ -34,6 +34,22 @@
               href: environment/security-model.md
             - name: प्रति कानूनी निकाय Project Operations एकीकरण को कॉन्फ़िगर करें
               href: environment/resource-configure-integration-per-legal-entity.md
+        - name: डुअल-लेखन एकीकरण को कॉन्फ़िगर करें
+          items:
+            - name: डुअल-लेखन एकीकरण ओवरव्यू
+              href: environment/resource-dual-write-overview.md
+            - name: Project Operations डुअल-लेखन मैप संस्करण
+              href: environment/resource-dual-write-maps.md
+            - name: Project Operations सेटअप और कॉन्फ़िगरेशन डेटा एकीकरण
+              href: environment/resource-dual-write-setup-integration.md
+            - name: परियोजना का अनुमान और अंक विवरण का एकीकरण
+              href: environment/resource-dual-write-estimates-actuals.md
+            - name: परियोजना इनवॉयस एकीकरण
+              href: environment/resource-dual-write-project-invoice.md
+            - name: व्यय प्रबंधन एकीकरण
+              href: environment/resource-dual-write-expense.md
+            - name: विक्रेता इनवॉयस एकीकरण
+              href: environment/resource-dual-write-vendor-invoice.md
     - name: नया क्या है
       items:
         - name: अप्रैल 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
@@ -210,13 +226,15 @@
           href: project-management/project-management-overview.md
         - name: परियोजना अवस्थाएँ
           href: project-management/project-stages.md
-        - name: उपयोगकर्ता इंटरफ़ेस नेविगेट करें
+        - name: उपयोगकर्ता इंटरफ़ेस में नेविगेट करें
           href: project-management/navigate-ui.md
         - name: परियोजना की स्थिति को समझें
           href: project-management/understand-project-status.md
         - name: परियोजना कैलेंडर परिभाषित करें
           href: project-management/define-project-calendars.md
-        - name: कोई परियोजना अपडेट करें
+        - name: शेड्यूलिंग मोड
+          href: project-management/scheduling-modes.md
+        - name: परियोजना अपडेट करें
           href: project-management/update-project.md
         - name: परियोजना की प्रतिलिपि बनाएँ
           href: project-management/copy-project.md
@@ -404,9 +422,15 @@
           items:
             - name: सुधार जर्नल बनाएँ और पुष्टि करें
               href: actuals/create-confirm-correction-journals.md
+    - name: खरीद
+      items:
+        - name: स्टॉक न की गई सामग्री और लंबित विक्रेता इनवॉयस कॉन्फ़िगर करें
+          href: procurement/configure-materials-nonstocked.md
+        - name: लंबित विक्रेता इनवॉयस का उपयोग कर परियोजनाओं के लिए स्टॉक न की गई सामग्री खरीदें
+          href: procurement/pending-vendor-invoices.md
     - name: इनवॉइस प्रक्रिया
       items:
-        - name: इनवॉइस प्रक्रिया का अवलोकन
+        - name: इनवॉइस प्रक्रिया का ओवरव्यू
           href: invoicing/post-project-invoices.md
         - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
           href: invoicing/format-update-project-invoice-proposals.md
@@ -428,6 +452,8 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: परियोजना-आधारित इनवॉइस स्वचालन कॉन्फ़िगर करें
               href: proforma-invoicing/configure-automated-invoice-creation.md
+        - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
+          href: invoicing/format-update-project-invoice-proposals.md
     - name: परियोजना लेखांकन
       items:
         - name: वित्तीय आयाम डिफ़ॉल्ट
@@ -676,13 +702,15 @@
           href: project-management/project-management-overview.md
         - name: परियोजना अवस्थाएँ
           href: project-management/project-stages.md
-        - name: उपयोगकर्ता इंटरफ़ेस नेविगेट करना
+        - name: उपयोगकर्ता इंटरफ़ेस में नेविगेट करना
           href: project-management/navigate-ui.md
         - name: परियोजना की स्थिति को समझें
           href: project-management/understand-project-status.md
         - name: परियोजना कैलेंडर परिभाषित करें
           href: project-management/define-project-calendars.md
-        - name: कोई परियोजना अपडेट करें
+        - name: शेड्यूलिंग मोड
+          hreF: project-management/scheduling-modes.md
+        - name: परियोजना अपडेट करें
           href: project-management/update-project.md
         - name: परियोजना की प्रतिलिपि बनाएँ
           href: project-management/copy-project.md
@@ -848,6 +876,8 @@
   items:
     - name: नया क्या है
       items:
+        - name: नया क्या है अप्रैल 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: नया क्या है मार्च 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
           href: prod-pma/whats-new/whats-new-mar-2021-stocked.md
         - name: नया क्या है जनवरी 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
@@ -871,9 +901,9 @@
     - name: भुगतान होने पर भुगतान करें विक्रेता भुगतान को सेटअप करें और उपयोग करें
       href: prod-pma/setup-manage-vendor-payments.md
     - name: खरीद की रसीदों पर परियोजना की लागत
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts'
+      href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
     - name: परियोजना इनवॉइसिंग
-      href: 'https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-invoicing'
+      href: /dynamics365/finance/accounts-payable/project-invoicing
     - name: परियोजना इनवॉइस प्रस्ताव प्रदर्शन
       href: prod-pma/project-invoice-proposal-performance.md
     - name: परियोजना अनुबंध
@@ -998,6 +1028,8 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 31, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-31.md
         - name: 'अद्यतन रिलीज़ 30, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-30.md
         - name: 'अद्यतन रिलीज़ 29.5 हॉटफ़िक्स, V3 में नया क्या है या क्या बदल गया है'
@@ -1327,7 +1359,7 @@
             - name: संसाधन उपयोग देखें
               href: psa/view-resource-utilization.md
             - name: Universal Resource Scheduling (URS)
-              href: 'https://docs.microsoft.com/dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling'
+              href: /dynamics365/common-scheduler/schedule-anything-with-universal-resource-scheduling
         - name: परियोजना प्रबंधक मार्गदर्शिका
           items:
             - name: परियोजना प्रबंधक मार्गदर्शिका (Project Service)
