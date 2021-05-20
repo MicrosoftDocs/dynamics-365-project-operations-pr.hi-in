@@ -17,56 +17,56 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 379379ff643baa10417333b4be5e56d56eb5bc26
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: f90c0d2168b261cf1b6ef10374f282274ea61af5
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5280535"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948961"
 ---
-# <a name="project-service-automation-update-release-23-v3"></a><span data-ttu-id="41bf0-103">Project Service Automation V3 अद्यतन रिलीज़ 23, V3</span><span class="sxs-lookup"><span data-stu-id="41bf0-103">Project Service Automation Update Release 23, V3</span></span>
+# <a name="project-service-automation-update-release-23-v3"></a><span data-ttu-id="a5012-103">Project Service Automation V3 अद्यतन रिलीज़ 23, V3</span><span class="sxs-lookup"><span data-stu-id="a5012-103">Project Service Automation Update Release 23, V3</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-<span data-ttu-id="41bf0-104">हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="41bf0-105">इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं.</span><span class="sxs-lookup"><span data-stu-id="41bf0-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="41bf0-106">यह रिलीज़ Dynamics 365 9.x के साथ संगत में है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="41bf0-107">इस रिलीज़ का अद्यतन करने के लिए, अपडेट को स्थापित करने हेतु Dynamics 365 online समाधन पृष्ठ के लिए व्यवस्थापन केंद्र पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="41bf0-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="41bf0-108">अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="41bf0-108">For more information, see [Install, update, or remove a preferred solution](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).</span></span>
+<span data-ttu-id="a5012-104">हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है.</span><span class="sxs-lookup"><span data-stu-id="a5012-104">We’re pleased to announce the latest update for the Project Service Automation application for Dynamics 365.</span></span> <span data-ttu-id="a5012-105">इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं.</span><span class="sxs-lookup"><span data-stu-id="a5012-105">This release includes some important improvements to quality, performance, and usability.</span></span> <span data-ttu-id="a5012-106">यह रिलीज़ Dynamics 365 9.x के साथ संगत में है.</span><span class="sxs-lookup"><span data-stu-id="a5012-106">This release is compatible with Dynamics 365 9.x.</span></span> <span data-ttu-id="a5012-107">इस रिलीज़ का अद्यतन करने के लिए, अपडेट को स्थापित करने हेतु Dynamics 365 online समाधन पृष्ठ के लिए व्यवस्थापन केंद्र पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="a5012-107">To update to this release, visit the Admin Center for Dynamics 365 online solutions page to install the update.</span></span> <span data-ttu-id="a5012-108">अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).</span><span class="sxs-lookup"><span data-stu-id="a5012-108">For more information, see [Install, update, or remove a preferred solution](/power-platform/admin/install-remove-preferred-solution).</span></span>
 
-<span data-ttu-id="41bf0-109">यह टॉपिक Project Service Automation V3, अपडेट रिलीज़ 23 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 23.</span></span> <span data-ttu-id="41bf0-110">इस वर्ज़न की बिल्ड संख्या V3.10.34.30 है और यह आमतौर पर अगस्त 2020 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-110">This version has a build number of V 3.10.34.30 and is generally available through a self-update in August 2020.</span></span>
+<span data-ttu-id="a5012-109">यह टॉपिक Project Service Automation V3, अपडेट रिलीज़ 23 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है.</span><span class="sxs-lookup"><span data-stu-id="a5012-109">This topic lists the features and fixes that are new or changed for Project Service Automation V3, Update Release 23.</span></span> <span data-ttu-id="a5012-110">इस वर्ज़न की बिल्ड संख्या V3.10.34.30 है और यह आमतौर पर अगस्त 2020 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.</span><span class="sxs-lookup"><span data-stu-id="a5012-110">This version has a build number of V 3.10.34.30 and is generally available through a self-update in August 2020.</span></span>
 
-## <a name="update-release-23"></a><span data-ttu-id="41bf0-111">अपडेट रिलीज़ 23</span><span class="sxs-lookup"><span data-stu-id="41bf0-111">Update Release 23</span></span>
+## <a name="update-release-23"></a><span data-ttu-id="a5012-111">अपडेट रिलीज़ 23</span><span class="sxs-lookup"><span data-stu-id="a5012-111">Update Release 23</span></span>
 
-### <a name="bug-fixes"></a><span data-ttu-id="41bf0-112">बग समाधान</span><span class="sxs-lookup"><span data-stu-id="41bf0-112">Bug fixes</span></span>
+### <a name="bug-fixes"></a><span data-ttu-id="a5012-112">बग समाधान</span><span class="sxs-lookup"><span data-stu-id="a5012-112">Bug fixes</span></span>
 
-<span data-ttu-id="41bf0-113">**समय और व्यय**</span><span class="sxs-lookup"><span data-stu-id="41bf0-113">**Time and Expense**</span></span>
+<span data-ttu-id="a5012-113">**समय और व्यय**</span><span class="sxs-lookup"><span data-stu-id="a5012-113">**Time and Expense**</span></span>
 
-<span data-ttu-id="41bf0-114">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="41bf0-114">The following issues have been fixed:</span></span>
-- <span data-ttu-id="41bf0-115">एक सार्थक अपवाद प्रदान करने के लिए **परियोजना टीम सदस्य हटाएँ** में बढ़त मामले को संभालें.</span><span class="sxs-lookup"><span data-stu-id="41bf0-115">Handle edge case in **Project Team Member Delete** to provide a meaningful exception.</span></span>
-- <span data-ttu-id="41bf0-116">रिक्त हटाएँ स्क्रीन में असाइनमेंट आयात के परिणाम.</span><span class="sxs-lookup"><span data-stu-id="41bf0-116">Assignment import results in a blank remove screen.</span></span>
+<span data-ttu-id="a5012-114">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="a5012-114">The following issues have been fixed:</span></span>
+- <span data-ttu-id="a5012-115">एक सार्थक अपवाद प्रदान करने के लिए **परियोजना टीम सदस्य हटाएँ** में बढ़त मामले को संभालें.</span><span class="sxs-lookup"><span data-stu-id="a5012-115">Handle edge case in **Project Team Member Delete** to provide a meaningful exception.</span></span>
+- <span data-ttu-id="a5012-116">रिक्त हटाएँ स्क्रीन में असाइनमेंट आयात के परिणाम.</span><span class="sxs-lookup"><span data-stu-id="a5012-116">Assignment import results in a blank remove screen.</span></span>
 
-<span data-ttu-id="41bf0-117">**संसाधन प्रबंधन**</span><span class="sxs-lookup"><span data-stu-id="41bf0-117">**Resource Management**</span></span>
+<span data-ttu-id="a5012-117">**संसाधन प्रबंधन**</span><span class="sxs-lookup"><span data-stu-id="a5012-117">**Resource Management**</span></span>
 
-<span data-ttu-id="41bf0-118">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="41bf0-118">The following issues have been fixed:</span></span>
+<span data-ttu-id="a5012-118">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="a5012-118">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="41bf0-119">**संसाधन उपयोग ग्रिड संसाधन कार्ड** समय का पैमाना पाँच दिनों से अधिक होने पर गलत डेटा दिखाता है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-119">The **Resource utilization grid resource card** shows incorrect data when the time scale is more than five days.</span></span>
-- <span data-ttu-id="41bf0-120">जब ग्राहक बुक करने योग्य संसाधन बनाते हैं, तो प्लग-इन आंतरायिक रूप से संसाधन को स्वचालित रूप से Microsoft Office 365 समूह में जोड़ने में विफल रहता है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-120">When customers create a bookable resource, the plug-in intermittently fails to automatically add the resource to a Microsoft Office 365 group.</span></span>
-- <span data-ttu-id="41bf0-121">**मिलान** दृशय **सप्ताह** या **महीना** दृश्य में मैनुअल कंटूर गलत तरीके से दिखाता है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-121">**Reconciliation** view displays manual contours incorrectly in the **Week** or **Month** view.</span></span>
+- <span data-ttu-id="a5012-119">**संसाधन उपयोग ग्रिड संसाधन कार्ड** समय का पैमाना पाँच दिनों से अधिक होने पर गलत डेटा दिखाता है.</span><span class="sxs-lookup"><span data-stu-id="a5012-119">The **Resource utilization grid resource card** shows incorrect data when the time scale is more than five days.</span></span>
+- <span data-ttu-id="a5012-120">जब ग्राहक बुक करने योग्य संसाधन बनाते हैं, तो प्लग-इन आंतरायिक रूप से संसाधन को स्वचालित रूप से Microsoft Office 365 समूह में जोड़ने में विफल रहता है.</span><span class="sxs-lookup"><span data-stu-id="a5012-120">When customers create a bookable resource, the plug-in intermittently fails to automatically add the resource to a Microsoft Office 365 group.</span></span>
+- <span data-ttu-id="a5012-121">**मिलान** दृशय **सप्ताह** या **महीना** दृश्य में मैनुअल कंटूर गलत तरीके से दिखाता है.</span><span class="sxs-lookup"><span data-stu-id="a5012-121">**Reconciliation** view displays manual contours incorrectly in the **Week** or **Month** view.</span></span>
 
-<span data-ttu-id="41bf0-122">**परियोजना प्रबंधन**</span><span class="sxs-lookup"><span data-stu-id="41bf0-122">**Project Management**</span></span>
+<span data-ttu-id="a5012-122">**परियोजना प्रबंधन**</span><span class="sxs-lookup"><span data-stu-id="a5012-122">**Project Management**</span></span>
 
-<span data-ttu-id="41bf0-123">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="41bf0-123">The following issues have been fixed:</span></span>
+<span data-ttu-id="a5012-123">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="a5012-123">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="41bf0-124">**उपयोगकर्ता सेटिंग के लिए एकाधिक पुंरप्राप्त करें** निकाय की अत्यधिक संख्या परियोजना अनुमोदन और अन्य कार्यों के लिए कम प्रदर्शन का कारण बन रही हैं.</span><span class="sxs-lookup"><span data-stu-id="41bf0-124">An excessive number of **RetrieveMultiple for usersettings** entities are causing degraded performance for project approvals and other operations.</span></span>
-- <span data-ttu-id="41bf0-125">**कार्य योजना** ग्रिड संसाधन लुकअप केवल परियोजना टीम के पाँच टीम सदस्यों को दिखाने तक सीमित है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-125">The **Task Planning** grid resource lookup is limited to only show up to five team members from the project team.</span></span> 
-- <span data-ttu-id="41bf0-126">**कार्य योजना** ग्रिड संसाधन लुकअप निष्क्रिय संसाधनों को फ़िल्टर नहीं करता है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-126">The **Task Planning** grid resource lookup does not filter inactive resources.</span></span>
-- <span data-ttu-id="41bf0-127">मैनुअल मोड परियोजना नियोजन कार्य वितरण सरंचना में उम्मीद के मुताबिक काम नहीं कर रहा है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-127">Manual mode is not working as expected in the project planning work breakdown structure.</span></span>
-- <span data-ttu-id="41bf0-128">**कार्य योजना** ग्रिड **निष्क्रिय लेनदेन श्रेणियाँ** दिखाता है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-128">The **Task Planning** grid shows **Inactive Transaction Categories**.</span></span>
-- <span data-ttu-id="41bf0-129">किसी कार्य में कई असाइनमेंट होने पर **संसाधन असाइनमेंट** ग्रिड गलत तरीके से ग्रिड राउंड करता है.</span><span class="sxs-lookup"><span data-stu-id="41bf0-129">The **Resource Assignment** grid rounds incorrectly when a task has multiple assignments.</span></span>
-- <span data-ttu-id="41bf0-130">एक कार्य के लिए नियोजित लागत और वास्तविक लागत के बीच राउंडिंग मान भिन्न होते हैं.</span><span class="sxs-lookup"><span data-stu-id="41bf0-130">Rounding values are different between planned cost and actual cost for a single task.</span></span>
+- <span data-ttu-id="a5012-124">**उपयोगकर्ता सेटिंग के लिए एकाधिक पुंरप्राप्त करें** निकाय की अत्यधिक संख्या परियोजना अनुमोदन और अन्य कार्यों के लिए कम प्रदर्शन का कारण बन रही हैं.</span><span class="sxs-lookup"><span data-stu-id="a5012-124">An excessive number of **RetrieveMultiple for usersettings** entities are causing degraded performance for project approvals and other operations.</span></span>
+- <span data-ttu-id="a5012-125">**कार्य योजना** ग्रिड संसाधन लुकअप केवल परियोजना टीम के पाँच टीम सदस्यों को दिखाने तक सीमित है.</span><span class="sxs-lookup"><span data-stu-id="a5012-125">The **Task Planning** grid resource lookup is limited to only show up to five team members from the project team.</span></span> 
+- <span data-ttu-id="a5012-126">**कार्य योजना** ग्रिड संसाधन लुकअप निष्क्रिय संसाधनों को फ़िल्टर नहीं करता है.</span><span class="sxs-lookup"><span data-stu-id="a5012-126">The **Task Planning** grid resource lookup does not filter inactive resources.</span></span>
+- <span data-ttu-id="a5012-127">मैनुअल मोड परियोजना नियोजन कार्य वितरण सरंचना में उम्मीद के मुताबिक काम नहीं कर रहा है.</span><span class="sxs-lookup"><span data-stu-id="a5012-127">Manual mode is not working as expected in the project planning work breakdown structure.</span></span>
+- <span data-ttu-id="a5012-128">**कार्य योजना** ग्रिड **निष्क्रिय लेनदेन श्रेणियाँ** दिखाता है.</span><span class="sxs-lookup"><span data-stu-id="a5012-128">The **Task Planning** grid shows **Inactive Transaction Categories**.</span></span>
+- <span data-ttu-id="a5012-129">किसी कार्य में कई असाइनमेंट होने पर **संसाधन असाइनमेंट** ग्रिड गलत तरीके से ग्रिड राउंड करता है.</span><span class="sxs-lookup"><span data-stu-id="a5012-129">The **Resource Assignment** grid rounds incorrectly when a task has multiple assignments.</span></span>
+- <span data-ttu-id="a5012-130">एक कार्य के लिए नियोजित लागत और वास्तविक लागत के बीच राउंडिंग मान भिन्न होते हैं.</span><span class="sxs-lookup"><span data-stu-id="a5012-130">Rounding values are different between planned cost and actual cost for a single task.</span></span>
 
-<span data-ttu-id="41bf0-131">**Sales**</span><span class="sxs-lookup"><span data-stu-id="41bf0-131">**Sales**</span></span>
+<span data-ttu-id="a5012-131">**Sales**</span><span class="sxs-lookup"><span data-stu-id="a5012-131">**Sales**</span></span>
 
-<span data-ttu-id="41bf0-132">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="41bf0-132">The following issues have been fixed:</span></span>
+<span data-ttu-id="a5012-132">निम्नलिखित मुद्दों को ठीक किया गया है:</span><span class="sxs-lookup"><span data-stu-id="a5012-132">The following issues have been fixed:</span></span>
 
-- <span data-ttu-id="41bf0-133">**सभी लेनदेन श्रेणियाँ फ़ेच करें** डबल-क्लिक करने से कई लाइनें बनती हैं.</span><span class="sxs-lookup"><span data-stu-id="41bf0-133">**Fetch All Transaction Categories** double-click creates multiple lines.</span></span>
+- <span data-ttu-id="a5012-133">**सभी लेनदेन श्रेणियाँ फ़ेच करें** डबल-क्लिक करने से कई लाइनें बनती हैं.</span><span class="sxs-lookup"><span data-stu-id="a5012-133">**Fetch All Transaction Categories** double-click creates multiple lines.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
