@@ -18,18 +18,18 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: df5c6bce8a534f4f8b1872e2bd5cc8a58ef11189
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: c434356c08e8490931bd60ea5b10fe2706cb0f51
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271580"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951076"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>क्रेडिट कार्ड लेनदेन आयात करें और कायम करें
 
 व्यय से संबंधित क्रेडिट कार्ड लेनदेन को सेट किया जा सकता है ताकि वे आवर्ती शेड्यूल पर अपने आप आयात किये जा सकें. विकल्प रूप से, लेनदेन को मैन्युअल रूप से आयात किया जा सकता है क्योंकि उनकी ज़रूरत है. क्रेडिट कार्ड लेनदेन को क्रेडिट कार्ड लेनदेन डेटा निकाय के माध्यम से आयात किया जाता है.
 
-डेटा निकायों के बारे में अधिक जानकारी के लिए, [डेटा निकाय](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities) देखें.
+डेटा निकायों के बारे में अधिक जानकारी के लिए, [डेटा निकाय](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities) देखें.
 
 ## <a name="import-credit-card-transactions"></a>क्रेडिट कार्ड लेनदेन आयात करें
 

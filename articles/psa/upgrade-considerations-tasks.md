@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a067521410f0fe0d8f5d4c510a35f2a3b018dce3
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d31ca60b267063e9cadf544468ece501353950fa
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5281750"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951346"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>कार्य की विवरण संरचना के लिए अपग्रेड संबंधी विचार
 
@@ -34,20 +34,20 @@ ms.locfileid: "5281750"
 ## <a name="key-entities"></a>प्रमुख इकाइयां
 पहले से ही संसाधनों से लैस किसी सटीक कार्य विवरण संरचना को परिभाषित करने हेतु आपको निम्न इकाइयों की आवश्यकता होगी:
 
-- [परियोजना](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project)
-- [परियोजना टीम](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam)
-- [परियोजना कार्य](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask)
-- [संसाधन असाइनमेंट](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment)
-- [परियोजना कार्य निर्भरता](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency)
-- [बुक करने योग्य संसाधन](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/bookableresource)
+- [परियोजना](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project)
+- [परियोजना टीम](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam)
+- [परियोजना कार्य](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask)
+- [संसाधन असाइनमेंट](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment)
+- [परियोजना कार्य निर्भरता](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency)
+- [बुक करने योग्य संसाधन](/dynamics365/customerengagement/on-premises/developer/entities/bookableresource)
 
 संसाधनों से लैस किसी कार्य विवरण संरचना को परिभाषित करने हेतु आपको निम्न चरण पूरे करने होंगे:
 
-1. कोई नई परियोजना बनाएं। नई परियोजना बनाने के बारे में अधिक जानकारी के लिए [msdyn_project](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project) देखें।
-2. एक या एक से अधिक टास्क बनाएं। टास्क बनाने के तरीके के बारे में अधिक जानकारी के लिए [msdyn_projecttask](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask).
-3. टास्क की डिपेंडेंसी को परिभाषित करें। अधिक जानकारी के लिए, देखें [परियोजना कार्य निर्भरता](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency) ।
-4. परियोजना टीम के सदस्यों को परियोजना एसाइन करें। अधिक जानकारी के लिए [msdyn_projectteam](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam) देखें।
-5. परियोजना टीम के सदस्यों को कार्य एसाइन करें। अधिक जानकारी के लिए [msdyn_resourceassignment](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment) देखें।
+1. कोई नई परियोजना बनाएं। नई परियोजना बनाने के बारे में अधिक जानकारी के लिए [msdyn_project](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_project) देखें।
+2. एक या एक से अधिक टास्क बनाएं। टास्क बनाने के तरीके के बारे में अधिक जानकारी के लिए [msdyn_projecttask](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttask).
+3. टास्क की डिपेंडेंसी को परिभाषित करें। अधिक जानकारी के लिए, देखें [परियोजना कार्य निर्भरता](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projecttaskdependency) ।
+4. परियोजना टीम के सदस्यों को परियोजना एसाइन करें। अधिक जानकारी के लिए [msdyn_projectteam](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_projectteam) देखें।
+5. परियोजना टीम के सदस्यों को कार्य एसाइन करें। अधिक जानकारी के लिए [msdyn_resourceassignment](/dynamics365/customerengagement/on-premises/developer/entities/msdyn_resourceassignment) देखें।
 
 ## <a name="project-team-relationships"></a>परियोजना टीम के संबंध
 

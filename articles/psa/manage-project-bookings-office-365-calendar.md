@@ -17,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1df4864ca8dbf6948ca88a7c82a6c0a676e3bd53
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: f9ebfadf8a331fd6a8a86a9cc040dc8957db3b82
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5275045"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950311"
 ---
 # <a name="manage-projects-and-bookings-in-your-calendar-project-service"></a>अपने कैलेंडर में प्रोजेक्ट और बुकिंग को व्यवस्थित करना (Project Service)
 
@@ -52,7 +52,7 @@ ms.locfileid: "5275045"
   
 - आपको [!INCLUDE[pn_office_365](../includes/pn-office-365.md)] ग्‍लोबल व्यवस्थापक या सिस्टम व्यवस्थापक क्रेडेंशियल्स की आवश्यकता होगी.  
   
-- आपके व्यवस्थापक को ईमेल सर्वर प्रोफ़ाइल कॉन्फ़िगर करना होगा और प्रत्येक उपयोगकर्ता को उसके मेलबॉक्स को कॉन्फ़िगर करने की आवश्यकता होगी. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [सर्वर-साइड सिंक्रनाइज़ेशन का उपयोग करके ईमेल संसाधन सेट अप करें](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
+- आपके व्यवस्थापक को ईमेल सर्वर प्रोफ़ाइल कॉन्फ़िगर करना होगा और प्रत्येक उपयोगकर्ता को उसके मेलबॉक्स को कॉन्फ़िगर करने की आवश्यकता होगी. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [सर्वर-साइड सिंक्रनाइज़ेशन का उपयोग करके ईमेल संसाधन सेट अप करें](/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
   
 ## <a name="turn-on-synchronization-for-your-organization-admin-task"></a>अपने संगठन के लिए सिंक्रनाइज़ेशन चालू करें (व्यवस्थापन कार्य)  
   

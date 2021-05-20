@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 92c4cb3e1661f0415d49b84c9a59aba4bda38f20
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d52caf0739ee55c25598318608f0c235107c85f3
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282290"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5951391"
 ---
 # <a name="sign-in-to-project-service-automation"></a>Project Service Automation में साइन इन करें
 
@@ -39,7 +39,7 @@ ms.locfileid: "5282290"
   
 - आपका पासवर्ड  
   
-  आपको शायद अपने व्यवस्थापक द्वारा भेजे गए ईमेल के माध्यम से यह जानकारी मिली होगी। यदि आपके पास यह सभी जानकारी नहीं है या आपको साइन इन करने में समस्या हो रही है, तो [अपने व्यवस्थापक या सहायता व्यक्ति से संपर्क करें](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/basics/find-administrator-support)।  
+  आपको शायद अपने व्यवस्थापक द्वारा भेजे गए ईमेल के माध्यम से यह जानकारी मिली होगी। यदि आपके पास यह सभी जानकारी नहीं है या आपको साइन इन करने में समस्या हो रही है, तो [अपने व्यवस्थापक या सहायता व्यक्ति से संपर्क करें](/dynamics365/customerengagement/on-premises/basics/find-administrator-support)।  
   
 ## <a name="set-your-personal-options-to-allow-email"></a>ईमेल की अनुमति देने के लिए अपने व्यक्तिगत विकल्प सेट करें  
  अन्य लोगों को आपकी ओर से ईमेल भेजने की अनुमति देने के लिए आपको अपनी ईमेल सेटिंग कॉन्फ़िगर करने की आवश्यकता है ताकि परियोजनाओं को अनुमोदित करने या उनके लिए साइन अप करने हेतु आपके पास समय और व्यय होने पर [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] आपके लिए ईमेल सूचनाएँ भेज सके.  

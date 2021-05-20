@@ -18,12 +18,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: ff423e2ae2d6a2ac48196ce2784baf3606f6575b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2f6ceabe1809cc94357a31f1d57c445593f0f788
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289776"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950446"
 ---
 # <a name="project-management-and-accounting-overview"></a>परियोजना प्रबंधन और लेखांकन विवरण
 
@@ -227,7 +227,7 @@ WBS उस कार्य का उल्लेख है, जो परिय
 परियोजना के लिए ग्राहक इनवॉइस बनाने के पहले, आप प्राथमिक इनवॉइस या इनवॉइस प्रस्ताव बना सकते हैं. इनवॉइस प्रस्ताव में, आप परियोजना इनवॉइस में परियोजना लेन-देन शामिल करना चुन सकते हैं. परियोजना इनवॉइस दर्ज करने से पहले आप ग्राहक को या अन्य निधियन स्रोत को भेजने से पहले इनवॉइस विवरण की जांच कर सकते हैं. 
 
 
-परियोजना इनवॉइस कैसे संसाधित की जाए, इस बारे में और जानकारी के लिए [परियोजना इनवॉइसिंग](https://docs.microsoft.com/dynamics365/finance/accounts-payable/project-invoicing) देखें.
+परियोजना इनवॉइस कैसे संसाधित की जाए, इस बारे में और जानकारी के लिए [परियोजना इनवॉइसिंग](/dynamics365/finance/accounts-payable/project-invoicing) देखें.
 
 
 ### <a name="calculate-the-cost-to-complete-a-project"></a>परियोजना पूरी करने के लिए लागत की गणना करें

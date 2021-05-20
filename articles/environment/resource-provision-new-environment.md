@@ -9,12 +9,12 @@ ms.prod: ''
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 50e623d3716c9dd03ce34ec293ba57b5d966d39e
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 9ee9e4c31d1972e3a75ad214071b31527f0ca826
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276890"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5950536"
 ---
 # <a name="provision-a-new-environment"></a>नए परिवेश का प्रावधान
 
@@ -36,7 +36,7 @@ _**इस पर लागू होता है:** संसाधन/गै�
 
 ## <a name="provision-a-project-operations-environment"></a>परियोजना संचालन परिवेश का प्रावधान
 
-1. नया Dynamics 365 Finance [डेमो परिवेश](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) या [sandbox/ production environment](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) परिनियोजन खोलें। 
+1. नया Dynamics 365 Finance [डेमो परिवेश](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) या [sandbox/ production environment](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) परिनियोजन खोलें। 
 2. **परिवेश प्रोविजनिंग** विज़ार्ड में से निकलें। 
 
 > [!IMPORTANT]

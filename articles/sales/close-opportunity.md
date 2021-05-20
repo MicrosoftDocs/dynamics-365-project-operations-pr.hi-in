@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 8698663fc35c9ae0eb54c2f1cf1fbbaaf29230d7
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 01c2452003d9ac5fbf85704ead67f7ee8011ed1c
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5278780"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5949906"
 ---
 # <a name="close-an-opportunity"></a>कोई अवसर बंद करें
 
@@ -23,7 +23,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 यदि कोई सक्रिय कोटेशन हैं, तो आपको अवसर को बंद करने की अनुमति मिलेगी. आप उसी समय अवसर से जुड़े सभी सक्रिय और ड्राफ्ट कोटेशन को बंद कर सकते/सकती हैं. फिर आपको अवसर बंद करने की स्वीकृति मिलेगी.
 
-समापन अवसरों पर और सामान्य जानकारी के लिए, [सफल या विफल के रूप में अवसरों को बंद करें](https://docs.microsoft.com/dynamics365/sales-enterprise/close-opportunity-won-lost-sales) देखें.
+समापन अवसरों पर और सामान्य जानकारी के लिए, [सफल या विफल के रूप में अवसरों को बंद करें](/dynamics365/sales-enterprise/close-opportunity-won-lost-sales) देखें.
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

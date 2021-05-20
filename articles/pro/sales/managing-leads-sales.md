@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 1d3a54a9fcb0b0cef9461219e22305afbf5266e5
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 5e51920e3a95e89fe923d59ecd2498ba243f895f
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5272840"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5949726"
 ---
 # <a name="manage-leads---lite"></a>लीड प्रबंधित करें - लाइट
 
@@ -55,7 +55,7 @@ _**लागू होता है:** लाइट नियोजन-प्र
 - खाते से जुड़ा एक संपर्क रिकॉर्ड, लीड पर **पहला नाम** और **अंतिम नाम** फ़ील्ड में मानों पर आधारित होता है.
 - एक परियोजना-आधारित अवसर, जिसकी **प्रकार** फ़ील्ड **कार्य-आधारित** पर सेट है.
 
-लीड को पात्र बनाए जाने के बारे में विस्तृत जानकारी के लिए, [लीड को पात्र बनाएँ या रूपांतरित करें](https://docs.microsoft.com/dynamics365/sales-enterprise/qualify-lead-convert-opportunity-sales) देखें.
+लीड को पात्र बनाए जाने के बारे में विस्तृत जानकारी के लिए, [लीड को पात्र बनाएँ या रूपांतरित करें](/dynamics365/sales-enterprise/qualify-lead-convert-opportunity-sales) देखें.
 
 ## <a name="business-process-flow-for-project-based-deals"></a>परियोजना-आधारित समझौतों के लिए व्यापार प्रक्रिया प्रवाह
 
