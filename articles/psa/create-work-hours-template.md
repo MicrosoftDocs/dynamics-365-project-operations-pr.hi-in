@@ -1,6 +1,6 @@
 ---
 title: कार्य घंटों का एक टेम्पलेट बनाएँ
-description: Project Service में कार्य घंटों का टेम्पलेट बनाने का तरीका
+description: यह विषय बताता है कि Project Service में कार्य के घंटों का टेम्प्लेट कैसे बनाया जाए.
 author: ruhercul
 manager: kfend
 ms.service: project-operations
@@ -18,53 +18,53 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5e859a58f86d8cd98fa429beeeb99cf397a207cf
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 525f601ad6fee902cb6d5c128b596cc2d33f30c4
+ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285035"
+ms.lasthandoff: 05/04/2021
+ms.locfileid: "5981257"
 ---
-# <a name="create-a-work-hours-template-project-service"></a><span data-ttu-id="616cb-103">कार्य घंटों का टेम्पलेट बनाना (Project Service)</span><span class="sxs-lookup"><span data-stu-id="616cb-103">Create a work hours template (Project Service)</span></span>
+# <a name="create-a-work-hours-template-project-service"></a><span data-ttu-id="a02d4-103">कार्य घंटों का टेम्पलेट बनाना (Project Service)</span><span class="sxs-lookup"><span data-stu-id="a02d4-103">Create a work hours template (Project Service)</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-[!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
+[!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-3x.md)]
 
-<span data-ttu-id="616cb-104">परियोजना शेड्यूल बनाने से पहले, आपको एक ऐसा परियोजना कैलेंडर सेट अप करना होगा, जो शेड्यूल और किसी भी व्यवसाय बंदी के दौरान प्रति दिन समायोजित किए जाने वाले कार्य के घंटों की संख्या निर्धारित करें.</span><span class="sxs-lookup"><span data-stu-id="616cb-104">Before you can create project schedules, you need to set up a project calendar that defines the number of working hours to accommodate per day in the schedule and any business closures.</span></span> <span data-ttu-id="616cb-105">आप ऐसा कार्य घंटे टेम्पलेट के साथ कर सकते हैं, जिसमें प्रति दिन के कार्य घंटे, कार्य बंदी वाले दिन और अन्य व्यवसाय बंदी का विवरण शामिल होता है.</span><span class="sxs-lookup"><span data-stu-id="616cb-105">You do this with a work hours template, which contains details about work hours per day, days off, and any other business closures.</span></span>  
-  
- <span data-ttu-id="616cb-106">जब आप कोई परियोजना बनाते हैं, तो आप परियोजना के लिए शेड्यूल लागू करने हेतु परियोजना कैलेंडर के साथ एक कार्य टेम्पलेट संबद्ध करते हैं.</span><span class="sxs-lookup"><span data-stu-id="616cb-106">When you’re creating a project, you associate a work template to the project calendar to apply the schedule for the project.</span></span>  
-  
- <span data-ttu-id="616cb-107">आप कार्य घंटे टेम्पलेट को दो तरीकों से बना सकते हैं:</span><span class="sxs-lookup"><span data-stu-id="616cb-107">There are two ways you can create a work hours template:</span></span>  
-  
--   <span data-ttu-id="616cb-108">संसाधन के कैलेंडर के आधार पर कार्य घंटों का एक टेम्पलेट बनाएँ.</span><span class="sxs-lookup"><span data-stu-id="616cb-108">Create a work hours template based on a resource’s calendar.</span></span>  
-  
--   <span data-ttu-id="616cb-109">कार्य घंटों का एक नया टेम्पलेट बनाएँ.</span><span class="sxs-lookup"><span data-stu-id="616cb-109">Create a new work hours template.</span></span>  
-  
-#### <a name="to-create-a-work-hours-template-based-on-a-resources-calendar"></a><span data-ttu-id="616cb-110">संसाधन के कैलेंडर पर आधारित कार्य घंटे टेम्पलेट बनाने के लिए</span><span class="sxs-lookup"><span data-stu-id="616cb-110">To create a work hours template based on a resource’s calendar</span></span>  
-  
-1.  <span data-ttu-id="616cb-111">**Project Service > संसाधन** पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="616cb-111">Go to **Project Service > Resources**.</span></span>  
-  
-2.  <span data-ttu-id="616cb-112">वह संसाधन चुनें, जिस पर आप अपने कार्य घंटों को आधारित करना चाहते हैं.</span><span class="sxs-lookup"><span data-stu-id="616cb-112">Select the resource you want to base your work hours on.</span></span>  
-  
-3.  <span data-ttu-id="616cb-113">**कैलेंडर को इस रूप में सहेजें** पर क्लिक करें, कार्य घंटों के टेम्पलेट के लिए कोई नाम दर्ज करें और उसके बाद **सहेजें** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="616cb-113">Click **Save Calendar As**, enter a name for the work hours template, and then click **Save**.</span></span>  
-  
-4.  <span data-ttu-id="616cb-114">विकल्पों को बदलना पूर्ण करने के बाद, **सहेजें और बंद करें** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="616cb-114">When you’re done changing options, click **Save and Close**.</span></span>  
-  
-5.  <span data-ttu-id="616cb-115">स्‍क्रीन के निचले दाएँ कोने में स्थित **सहेजें** बटन पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="616cb-115">Click the **Save** button at the bottom right corner of the screen.</span></span>  
-  
-#### <a name="to-create-a-new-work-hours-template"></a><span data-ttu-id="616cb-116">नया कार्य घंटे टेम्पलेट बनाने के लिए</span><span class="sxs-lookup"><span data-stu-id="616cb-116">To create a new work hours template</span></span>  
-  
-1.  <span data-ttu-id="616cb-117">**Project Service > कार्य घंटों का टेम्पलेट** पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="616cb-117">Go to **Project Service > Work Hours Templates**.</span></span>  
-  
-2.  <span data-ttu-id="616cb-118">**नया** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="616cb-118">Click **New**.</span></span>  
-  
-3.  <span data-ttu-id="616cb-119">कार्य घंटों के टेम्पलेट के लिए कोई नाम दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="616cb-119">Enter a name for the work hours template.</span></span>  
-  
-4.  <span data-ttu-id="616cb-120">कार्य घंटों को संसांधन पर आधारित करने के लिए कोई संसाधन चुनें और उसके बाद **सहेजें** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="616cb-120">Select a resource to base the work hours on, and then click **Save**.</span></span>  
-  
-### <a name="see-also"></a><span data-ttu-id="616cb-121">यह भी देखें</span><span class="sxs-lookup"><span data-stu-id="616cb-121">See Also</span></span>  
- [<span data-ttu-id="616cb-122">संसाधन सेट अप करें</span><span class="sxs-lookup"><span data-stu-id="616cb-122">Set up resources</span></span>](../psa/set-up-resources.md)
+<span data-ttu-id="a02d4-104">परियोजना बनाने और प्रबंधित करने के लिए, आपको परियोजना के लिए कैलेंडर टेम्प्लेट लागू करना होगा.</span><span class="sxs-lookup"><span data-stu-id="a02d4-104">To create and manage a project, you must apply a calendar template to the project.</span></span> <span data-ttu-id="a02d4-105">कैलेंडर टेम्पलेट निम्नलिखित परियोजना विशेषताओं को परिभाषित करता है:</span><span class="sxs-lookup"><span data-stu-id="a02d4-105">The calendar template defines the following project attributes:</span></span>
+
+- <span data-ttu-id="a02d4-106">काम के घंटे, शुरूआत और समाप्ति समय सहित</span><span class="sxs-lookup"><span data-stu-id="a02d4-106">Working hours, including start and end time</span></span>
+- <span data-ttu-id="a02d4-107">काम के दिन</span><span class="sxs-lookup"><span data-stu-id="a02d4-107">Working days</span></span>
+- <span data-ttu-id="a02d4-108">कैलेंडर अपवाद जैसे कि गैर-कार्य दिवस</span><span class="sxs-lookup"><span data-stu-id="a02d4-108">Calendar exceptions such as non-working days</span></span>
+
+<span data-ttu-id="a02d4-109">कैलेंडर टेम्पलेट जो किसी परियोजना पर लागू होता है, आपके संगठन की सेटिंग में परिभाषित कैलेंडर टेम्पलेट की एक प्रति है.</span><span class="sxs-lookup"><span data-stu-id="a02d4-109">The calendar template that's applied to a project is a copy of the calendar template defined in your organization’s settings.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="a02d4-110">यदि आप कैलेंडर टेम्प्लेट बदलते हैं, तो वे परिवर्तन परियोजना के काम के घंटों के लिए प्रचारित नहीं होते हैं.</span><span class="sxs-lookup"><span data-stu-id="a02d4-110">If you change the calendar template, those changes don't propagate to the working hours of the project.</span></span> <span data-ttu-id="a02d4-111">परियोजना के काम के घंटे बदलने के लिए, एक नया टेम्पलेट लागू किया जाना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="a02d4-111">To change the working hours of the project, a new template must be applied.</span></span>
+
+<span data-ttu-id="a02d4-112">अपने संगठन के लिए एक कैलेंडर टेम्प्लेट बनाने के लिए, दो मुख्य आवश्यकताएं हैं:</span><span class="sxs-lookup"><span data-stu-id="a02d4-112">To create a calendar template for your organization, there are two key requirements:</span></span>
+
+- <span data-ttu-id="a02d4-113">एक नए या मौजूदा बुक करने योग्य संसाधन का उपयोग करके टेम्पलेट के वांछित कार्य घंटों को परिभाषित करें.</span><span class="sxs-lookup"><span data-stu-id="a02d4-113">Define the desired working hours of the template using a new or existing bookable resource.</span></span>
+- <span data-ttu-id="a02d4-114">एक नया कैलेंडर टेम्प्लेट बनाएं और टेम्पलेट को बुक करने योग्य संसाधन के साथ जोड़ें.</span><span class="sxs-lookup"><span data-stu-id="a02d4-114">Create a new calendar template and associate the template with the bookable resource.</span></span>
+
+<span data-ttu-id="a02d4-115">**टेम्पलेट के काम के घंटे निर्धारित करें**</span><span class="sxs-lookup"><span data-stu-id="a02d4-115">**Define the working hours of the template**</span></span>
+
+1. <span data-ttu-id="a02d4-116">**संसाधन** \> **संसाधन** पर जाएं।</span><span class="sxs-lookup"><span data-stu-id="a02d4-116">Go to **Resources** \> **Resources**.</span></span>
+2. <span data-ttu-id="a02d4-117">कैलेंडर टेम्पलेट में संदर्भ के लिए एक नया संसाधन बनाएं, या किसी मौजूदा संसाधन का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="a02d4-117">Create a new resource to reference in the calendar template, or select an existing resource.</span></span>
+3. <span data-ttu-id="a02d4-118">संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) में दिए गए निर्देशों को पूरा करें.</span><span class="sxs-lookup"><span data-stu-id="a02d4-118">Select the **Work Hours** tab of the resource and complete the instructions in [Set work hours for a resource](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) to configure the calendar rules.</span></span>
+
+<span data-ttu-id="a02d4-119">**नया कैलेंडर टेम्पलेट बनाये**</span><span class="sxs-lookup"><span data-stu-id="a02d4-119">**Create a new calendar template**</span></span>
+
+1. <span data-ttu-id="a02d4-120">**सेटिंग्स** \> **कैलेंडर टेम्पलेट** पर जाएं.</span><span class="sxs-lookup"><span data-stu-id="a02d4-120">Go to **Settings** \> **Calendar Template**.</span></span>
+2. <span data-ttu-id="a02d4-121">**नया** चुनें, और एक नाम, विवरण और टेम्पलेट संसाधन दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="a02d4-121">Select **New**, and enter a name, description, and template resource.</span></span>
+
+
+> [!NOTE]
+> <span data-ttu-id="a02d4-122">जब किसी संसाधन को कैलेंडर टेम्पलेट में संदर्भित किया जाता है, तो संसाधन के कैलेंडर की एक कॉपी कैलेंडर टेम्पलेट से संबद्ध हो जाती है.</span><span class="sxs-lookup"><span data-stu-id="a02d4-122">When a resource is referenced in a calendar template, a copy of the resource’s calendar is associated with the calendar template.</span></span> <span data-ttu-id="a02d4-123">यदि कॉपी किए गए टेम्प्लेट के काम के घंटे बदल जाते हैं, तो वे परिवर्तन कैलेंडर टेम्प्लेट में प्रचारित नहीं होंगे.</span><span class="sxs-lookup"><span data-stu-id="a02d4-123">If the working hours of the copied template change, those changes will not propagate to the calendar template.</span></span>
+
+
+### <a name="see-also"></a><span data-ttu-id="a02d4-124">यह भी देखें</span><span class="sxs-lookup"><span data-stu-id="a02d4-124">See Also</span></span>  
+ [<span data-ttu-id="a02d4-125">संसाधन सेट अप करें</span><span class="sxs-lookup"><span data-stu-id="a02d4-125">Set up resources</span></span>](../psa/set-up-resources.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
