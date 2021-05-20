@@ -1,9 +1,9 @@
 ---
 title: परियोजना कैलेंडर परिभाषित करें
-description: यह विषय परियोजना शेड्यूल को ट्रैक करने के लिए परियोजना कैलेंडर इस्तेमाल करने के बारे में जानकारी देता है.
+description: यह विषय परियोजना शेड्यूल को ट्रैक करने के लिए किसी परियोजना के लिए कैलेंडर टेम्पलेट को कैसे लागू करें, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
 manager: AnnBe
-ms.date: 09/18/2020
+ms.date: 02/05/2021
 ms.topic: article
 ms.prod: ''
 ms.service: project-operations
@@ -17,38 +17,49 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: e25b11b6b947627ca2ac88952e74aecccc346c89
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 1d5642d7a2246dc878b2bc4f504f138b71d29a69
+ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5286970"
+ms.lasthandoff: 05/04/2021
+ms.locfileid: "5981302"
 ---
-# <a name="define-project-calendars"></a><span data-ttu-id="a6c4e-103">परियोजना कैलेंडर परिभाषित करें</span><span class="sxs-lookup"><span data-stu-id="a6c4e-103">Define project calendars</span></span>
+# <a name="define-project-calendars"></a><span data-ttu-id="dcadc-103">परियोजना कैलेंडर परिभाषित करें</span><span class="sxs-lookup"><span data-stu-id="dcadc-103">Define project calendars</span></span>
 
-<span data-ttu-id="a6c4e-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="a6c4e-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
+<span data-ttu-id="dcadc-104">_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_</span><span class="sxs-lookup"><span data-stu-id="dcadc-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios, Lite deployment - deal to proforma invoicing_</span></span>
 
-<span data-ttu-id="a6c4e-105">प्रोजेक्ट शेड्यूल बनाने के लिए, आपको प्रोजेक्ट कैलेंडर टैम्पलेट बनाना होगा जिसमें प्रति दिन के कार्य घंटे और किसी कारोबार के बंद होने की संख्या परिभाषित की जाती है।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-105">To create a project schedule, you create a project calendar template that defines the number of working hours per day and any business closures.</span></span> <span data-ttu-id="a6c4e-106">प्रोजेक्ट कैलेंडर टैम्पलेट बनाने के लिए, आपको प्रोजेक्ट के **कैलेंडर टैम्पलेट** फील्ड के साथ कार्य टैम्पलेट से जुड़ना होगा.</span><span class="sxs-lookup"><span data-stu-id="a6c4e-106">To create a project calendar template, you associate a work template with the **Calendar template** field for the project.</span></span> <span data-ttu-id="a6c4e-107">कार्य टैम्पलेट बनाने के लिए निम्नलिखित चरणों को पूरा करें।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-107">Follow these steps to create a work template.</span></span>
+<span data-ttu-id="dcadc-105">परियोजना बनाने और प्रबंधित करने के लिए, आपको परियोजना के लिए कैलेंडर टेम्प्लेट लागू करना होगा.</span><span class="sxs-lookup"><span data-stu-id="dcadc-105">To create and manage a project, you must apply a calendar template to the project.</span></span> <span data-ttu-id="dcadc-106">कैलेंडर टेम्पलेट निम्नलिखित परियोजना विशेषताओं को परिभाषित करता है:</span><span class="sxs-lookup"><span data-stu-id="dcadc-106">The calendar template defines the following project attributes:</span></span>
 
-1. <span data-ttu-id="a6c4e-108">बाएँ नेविगेशन फलक में, **संसाधन** चुनें.</span><span class="sxs-lookup"><span data-stu-id="a6c4e-108">In the left navigation pane, select **Resources**.</span></span> 
-2. <span data-ttu-id="a6c4e-109">**संसाधन** लिस्ट पेज में, यूज़र रिकार्ड खालें और उसके बाद **काम के घंटे दिखाएं** चुनें।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-109">On the **Resources** list page, open a user record, and then select **Show Work Hours**.</span></span>
+- <span data-ttu-id="dcadc-107">काम के घंटे, शुरूआत और समाप्ति समय सहित</span><span class="sxs-lookup"><span data-stu-id="dcadc-107">Working hours, including start and end time</span></span>
+- <span data-ttu-id="dcadc-108">काम के दिन</span><span class="sxs-lookup"><span data-stu-id="dcadc-108">Working days</span></span>
+- <span data-ttu-id="dcadc-109">कैलेंडर अपवाद जैसे कि गैर-कार्य दिवस</span><span class="sxs-lookup"><span data-stu-id="dcadc-109">Calendar exceptions such as non-working days</span></span>
 
-  > [!NOTE]
-  > <span data-ttu-id="a6c4e-110">सुनिश्चित करें कि आप ब्राउज़र पेज में पॉप-अप को अनुमत करते हैं।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-110">Make sure that you allow pop-ups on the browser page.</span></span> <span data-ttu-id="a6c4e-111">इससे आप संसाधन के कार्य के घंटे देख सकेंगे।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-111">This lets you see the work hours set for the resource.</span></span>
-  
-3. <span data-ttu-id="a6c4e-112">**मासिक दृश्य** टैब पर, **सेट अप** चुनें.</span><span class="sxs-lookup"><span data-stu-id="a6c4e-112">On the **Monthly View** tab, select **Set Up**.</span></span> <span data-ttu-id="a6c4e-113">तीन विकल्पों की सूची दिखेगा:</span><span class="sxs-lookup"><span data-stu-id="a6c4e-113">A list of three options appears:</span></span> 
+<span data-ttu-id="dcadc-110">कैलेंडर टेम्पलेट जो किसी परियोजना पर लागू होता है, आपके संगठन की सेटिंग में परिभाषित कैलेंडर टेम्पलेट की एक प्रति है.</span><span class="sxs-lookup"><span data-stu-id="dcadc-110">The calendar template that's applied to a project is a copy of the calendar template defined in your organization’s settings.</span></span>
 
-  - <span data-ttu-id="a6c4e-114">नया साप्ताहिक शेड्यूल</span><span class="sxs-lookup"><span data-stu-id="a6c4e-114">New Weekly Schedule</span></span>
-  - <span data-ttu-id="a6c4e-115">एक दिन के लिए कार्य शेड्यूल</span><span class="sxs-lookup"><span data-stu-id="a6c4e-115">Work Schedule for One Day</span></span>
-  - <span data-ttu-id="a6c4e-116">टाइम ऑफ़</span><span class="sxs-lookup"><span data-stu-id="a6c4e-116">Time Off</span></span>
+> [!NOTE]
+> <span data-ttu-id="dcadc-111">यदि आप कैलेंडर टेम्प्लेट बदलते हैं, तो वे परिवर्तन परियोजना के काम के घंटों के लिए प्रचारित नहीं होते हैं.</span><span class="sxs-lookup"><span data-stu-id="dcadc-111">If you change the calendar template, those changes don't propagate to the working hours of the project.</span></span> <span data-ttu-id="dcadc-112">परियोजना के काम के घंटे बदलने के लिए, एक नया टेम्पलेट लागू किया जाना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="dcadc-112">To change the working hours of the project, a new template must be applied.</span></span>
 
-4. <span data-ttu-id="a6c4e-117">**नया साप्ताहिक शेड्यूल** चुनें और उसके बाद इस रिसोर्स के शेड्यूल के लिए ऑप्शन सेट करें।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-117">Select **New Weekly Schedule**, and then set the options for this resource schedule.</span></span> <span data-ttu-id="a6c4e-118">इसमें आप आवर्ती साप्ताहिक शेड्यूल, दैनिक घंटा पैरामीटर, कारोबार समाप्ति जैसी कई सुविधाएँ सेट कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="a6c4e-118">You can set a recurring weekly schedule, daily hour parameters, business closures, and more.</span></span>
-5. <span data-ttu-id="a6c4e-119">डेट रेंज सेट करें, **सहेजें** चुनें और उसके बाद **बंद करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="a6c4e-119">Set the date range, select **Save**, and then select **Close**.</span></span> 
-6. <span data-ttu-id="a6c4e-120">**संसाधन** लिस्ट पेज पर वापस जाएँ और उस संसाधन को चुनें जिसे आपने कार्य घंटों के लिए सेट किया था।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-120">Go back to the **Resources** list page, and select the resource that you set the work hours for.</span></span> 
-7. <span data-ttu-id="a6c4e-121">कार्य टैम्पलेट सेट करने के लिए **कैलेंडर को इस रूप में सेट करें** चुनें।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-121">Select **Set Calendar As** to set the work template.</span></span> 
-8. <span data-ttu-id="a6c4e-122">**कार्य टेम्‍पलेट** डॉयलॉग बॉक्स में कार्य टैम्पलेट का नाम दर्ज करें और उसके बाद **लागू करें** चुनें।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-122">In the **Work Template** dialog box, enter a name for the work template, and then select **Apply**.</span></span> 
+<span data-ttu-id="dcadc-113">अपने संगठन के लिए एक कैलेंडर टेम्प्लेट बनाने के लिए, दो मुख्य आवश्यकताएं हैं:</span><span class="sxs-lookup"><span data-stu-id="dcadc-113">To create a calendar template for your organization, there are two key requirements:</span></span>
 
-<span data-ttu-id="a6c4e-123">अब आप वर्क टैम्पलेट को प्रोजेक्ट कैलेंडर के टैम्पलेट से जोड़ सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="a6c4e-123">You can now associate the work template with a project calendar template.</span></span>
+- <span data-ttu-id="dcadc-114">एक नए या मौजूदा बुक करने योग्य संसाधन का उपयोग करके टेम्पलेट के वांछित कार्य घंटों को परिभाषित करें.</span><span class="sxs-lookup"><span data-stu-id="dcadc-114">Define the desired working hours of the template using a new or existing bookable resource.</span></span>
+- <span data-ttu-id="dcadc-115">एक नया कैलेंडर टेम्प्लेट बनाएं और टेम्पलेट को बुक करने योग्य संसाधन के साथ जोड़ें.</span><span class="sxs-lookup"><span data-stu-id="dcadc-115">Create a new calendar template and associate the template with the bookable resource.</span></span>
+
+<span data-ttu-id="dcadc-116">**टेम्पलेट के काम के घंटे निर्धारित करें**</span><span class="sxs-lookup"><span data-stu-id="dcadc-116">**Define the working hours of the template**</span></span>
+
+1. <span data-ttu-id="dcadc-117">**संसाधन** \> **संसाधन** पर जाएं।</span><span class="sxs-lookup"><span data-stu-id="dcadc-117">Go to **Resources** \> **Resources**.</span></span>
+2. <span data-ttu-id="dcadc-118">कैलेंडर टेम्पलेट में संदर्भ के लिए एक नया संसाधन बनाएं, या किसी मौजूदा संसाधन का चयन करें.</span><span class="sxs-lookup"><span data-stu-id="dcadc-118">Create a new resource to reference in the calendar template, or select an existing resource.</span></span>
+3. <span data-ttu-id="dcadc-119">संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) में दिए गए निर्देशों को पूरा करें.</span><span class="sxs-lookup"><span data-stu-id="dcadc-119">Select the **Work Hours** tab of the resource and complete the instructions in [Set work hours for a resource](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) to configure the calendar rules.</span></span>
+
+<span data-ttu-id="dcadc-120">**नया कैलेंडर टेम्पलेट बनाये**</span><span class="sxs-lookup"><span data-stu-id="dcadc-120">**Create a new calendar template**</span></span>
+
+1. <span data-ttu-id="dcadc-121">**सेटिंग्स** \> **कैलेंडर टेम्पलेट** पर जाएं.</span><span class="sxs-lookup"><span data-stu-id="dcadc-121">Go to **Settings** \> **Calendar Template**.</span></span>
+2. <span data-ttu-id="dcadc-122">**नया** चुनें, और एक नाम, विवरण और टेम्पलेट संसाधन दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="dcadc-122">Select **New**, and enter a name, description, and template resource.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="dcadc-123">जब किसी संसाधन को कैलेंडर टेम्पलेट में संदर्भित किया जाता है, तो संसाधन के कैलेंडर की एक कॉपी कैलेंडर टेम्पलेट से संबद्ध हो जाती है.</span><span class="sxs-lookup"><span data-stu-id="dcadc-123">When a resource is referenced in a calendar template, a copy of the resource’s calendar is associated with the calendar template.</span></span> <span data-ttu-id="dcadc-124">यदि कॉपी किए गए टेम्प्लेट के काम के घंटे बदल जाते हैं, तो वे परिवर्तन कैलेंडर टेम्प्लेट में प्रचारित नहीं होंगे.</span><span class="sxs-lookup"><span data-stu-id="dcadc-124">If the working hours of the copied template change, those changes will not propagate to the calendar template.</span></span>
+
+<span data-ttu-id="dcadc-125">अब आप वर्क टैम्पलेट को प्रोजेक्ट कैलेंडर के टैम्पलेट से जोड़ सकते हैं।</span><span class="sxs-lookup"><span data-stu-id="dcadc-125">You can now associate the work template with a project calendar template.</span></span>
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
+
