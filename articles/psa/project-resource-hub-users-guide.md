@@ -18,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e27cc0919272784a030374f457d1ab1dccc1f9f1
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2450c00bae9eeb31d3b4bb14e6255e0681997672
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283775"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5948146"
 ---
 # <a name="user-guide-for-project-resource-hub"></a>परियोजना संसाधन हब के लिए एंड-यूज़र मार्गदर्शिका
 
@@ -48,7 +48,7 @@ ms.locfileid: "5283775"
 ## <a name="install-the-mobile-app"></a>मोबाइल अनुप्रयोग स्थापित करें
 प्रोजेक्ट संसाधन हब ऐप का इस्तेमाल शुरु करने से पहले, आपको अपने डिवाइस में मोबाइल ऐप इंस्टाल करना होगा। 
 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [फ़ोन और टेबलेट के लिए Dynamics 365 स्‍थापित करें](https://docs.microsoft.com/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [फ़ोन और टेबलेट के लिए Dynamics 365 स्‍थापित करें](/dynamics365/mobile-app/install-dynamics-365-for-phones-and-tablets).
 
 ## <a name="basic-navigation"></a>मूलभूत नेविगेशन
 1.  जब आप मोबाइल ऐप पर साइन-इन करते हैं तो आपको एक्सेस किए जाने वाले ऐप की सूची के साथ MyApps पेज दिखेगा। 
@@ -99,7 +99,7 @@ ms.locfileid: "5283775"
 5. सप्ताह के लिए व्यय दर्ज करना जारी रखें. पूर्ण करने और सभी चीज़ें सही दिखाई देने के बाद, **सबमिट करें** टैप करें. प्रबंधक आपके व्ययों की समीक्षा करेगा और उन्हें अनुमोदित करेगा.
 
 ## <a name="general-information-on-how-to-use-the-mobile-app"></a>मोबाइल अनुप्रयोग का उपयोग करने के तरीके के बारे में सामान्य जानकारी 
-[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [मोबाइल मूलभूत मार्गदर्शिका](https://docs.microsoft.com/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
+[!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [मोबाइल मूलभूत मार्गदर्शिका](/dynamics365/mobile-app/dynamics-365-phones-tablets-users-guide).
 
 ### <a name="see-also"></a>यह भी देखें  
  [Project Service का ओवरव्यू](../psa/overview.md)   
