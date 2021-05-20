@@ -24,12 +24,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: bae7acf2abf174b6e59d159521ffd1f465e311a0
-ms.sourcegitcommit: 3c60ac7543cc05d93a5d4ce87a3c7854fb9a203b
+ms.openlocfilehash: 05111b51d482493a8c8a1d9c9da44d6cd95fc8d2
+ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "5854387"
+ms.lasthandoff: 05/04/2021
+ms.locfileid: "5981382"
 ---
 # <a name="update-release-schedule-for-project-service-3x"></a>Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
 
@@ -39,36 +39,36 @@ ms.locfileid: "5854387"
 
 | समाधान  | नवीनतम संस्करण |
 |-------|----|
-| Project Service Automation    | 3.10.51.61 |
+| Project Service Automation    | 3.10.52.77 |
 | Project Service Automation डेस्कटॉप ऐड-इन                | 3.15          |
 
-Project Service के अद्यतन के बारे में जानकारी के लिए, [Dynamics 365 रिलीज़ योजनाएँ](https://docs.microsoft.com/dynamics365/release-plans/) देखें. 
+Project Service के अद्यतन के बारे में जानकारी के लिए, [Dynamics 365 रिलीज़ योजनाएँ](/dynamics365/release-plans/) देखें. 
 
 | स्टेशन  | क्षेत्र | वर्तमान संस्करण | अगला संस्करण |  निर्धारित तिथि
 | :---   | :---   | :---   | :---   |:---   |         
 |<strong>स्टेशन 1</strong> | |  |  | |
-| | <i>पहला प्रकाशन</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 23 अप्रेल, 2021
+| | <i>पहला प्रकाशन</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 28 मई, 2021
 |<strong>स्टेशन 2</strong> | |  |  | |
-| | <i>दक्षिण अमेरिका</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
-| | <i>कनाडा</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
-| | <i>भारत</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
-| | <i>फ़्रांस</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
-| | <i>संयुक्त अरब अमीरात</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
-| | <i>दक्षिण अफ़्रीका</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
-| | <i>जर्मनी</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
-| | <i>स्विट्ज़रलैंड</i> | [3.10.51.61](whats-new-ur-30.md) | TBD | 30 अप्रेल, 2021
+| | <i>दक्षिण अमेरिका</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
+| | <i>कनाडा</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
+| | <i>भारत</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
+| | <i>फ़्रांस</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
+| | <i>संयुक्त अरब अमीरात</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
+| | <i>दक्षिण अफ़्रीका</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
+| | <i>जर्मनी</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
+| | <i>स्विट्ज़रलैंड</i> | [3.10.52.77](whats-new-ur-31.md) | TBD | 4 जून, 2021
 |<strong>स्टेशन 3</strong> | |  |  | |
-| | <i>जापान</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 9 अप्रेल, 2021
-| | <i>एशिया प्रशांत</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 9 अप्रेल, 2021
-| | <i>ग्रेट ब्रिटेन</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 9 अप्रेल, 2021
-| | <i>ओसिनिया</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 9 अप्रेल, 2021
+| | <i>जापान</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 मई, 2021
+| | <i>एशिया प्रशांत</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 मई, 2021
+| | <i>ग्रेट ब्रिटेन</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 मई, 2021
+| | <i>ओसिनिया</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 07 मई, 2021
 |<strong>स्टेशन 4</strong> | |  |  | |
-| | <i>यूरोप</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 16 अप्रेल, 2021
+| | <i>यूरोप</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 14 मई, 2021
 |<strong>स्टेशन 5</strong> | |  |  | |
-| | <i>उत्तरी अमेरिका</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 23 अप्रेल, 2021
+| | <i>उत्तरी अमेरिका</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 21 मई, 2021
 |<strong>स्टेशन 6</strong> | |  |  | |
-| | <i>सरकारी सामुदायिक क्लाउड</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 30 अप्रेल, 2021
-| | <i>समर्पित स्केल समूह</i> | [3.10.47.150](whats-new-ur-29-5.md) | [3.10.51.61](whats-new-ur-30.md) | 30 अप्रेल, 2021
+| | <i>सरकारी सामुदायिक क्लाउड</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 21 मई, 2021
+| | <i>समर्पित स्केल समूह</i> | [3.10.51.61](whats-new-ur-30.md) | [3.10.52.77](whats-new-ur-31.md) | 28 मई, 2021
 
 >[!Note]
 > - गवर्नमेंट कम्युनिटी क्लाउड (GCC) को छोड़कर सभी क्षेत्रों में दिनांक अगले स्वचालित अद्यतन के समय को दर्शाती हैं. GCC में दिनांक संस्करण की उपलब्धता को दर्शाती हैं; इस समय, इन क्षेत्रों के लिए कोई स्वचालित अद्यतन नहीं है.
