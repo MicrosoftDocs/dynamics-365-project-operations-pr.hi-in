@@ -52,6 +52,8 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: नया क्या है
       items:
+        - name: मई 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-may-2021-resource-based.md
         - name: अप्रैल 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-apr-2021-resource-based.md
         - name: मार्च 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
@@ -374,6 +376,8 @@
               href: expense/set-up-credit-card-integration.md
             - name: व्यय श्रेणियाँ सेटअप करें
               href: expense/set-up-expense-categories.md
+            - name: माइलेज दर स्तरों का उपयोग करके माइलेज सेट करें
+              href: expense/set-up-mileage.md
         - name: व्यक्तिगत व्यय
           href: expense/personal-expenses-expense-report.md
         - name: इंटरकंपनी व्यय
@@ -508,6 +512,8 @@
           href: environment/security-model.md
     - name: नया क्या है
       items:
+        - name: नया क्या है मई 2021 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-may-2021-lite.md
         - name: नया क्या है अप्रैल 2021 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-apr-2021-lite.md
         - name: नया क्या है मार्च 2021 - लाइट परिनियोजन
@@ -1028,6 +1034,8 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 32, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-32.md
         - name: 'अद्यतन रिलीज़ 31, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-31.md
         - name: 'अद्यतन रिलीज़ 30, V3 में नया क्या है या क्या बदल गया है'
@@ -1266,6 +1274,8 @@
               href: psa/time-entry-calendar.md
             - name: साप्ताहिक समय प्रविष्टि अनुकूलित करें
               href: psa/time-entry-extensibility-v3.md
+            - name: अनुमोदन सेट
+              href: psa/approval-set.md
     - name: सामान्य प्रश्न और समस्या निवारण (3.x)
       items:
         - name: व्यय लागत वास्तविक पर मूल्य को शून्य पर डिफ़ॉल्ट क्यों बनाया गया है?
