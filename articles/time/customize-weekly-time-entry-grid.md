@@ -2,18 +2,16 @@
 title: समय प्रविष्टियाँ विस्तारित करें
 description: यह विषय इस बारे में जानकारी देता है कि डेवलपर्स कैसे समय प्रवेश नियंत्रण का विस्तार करने में सक्षम हैं.
 author: stsporen
-manager: Annbe
 ms.date: 10/08/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: f446e24f3a61914a46a552fdc38b986d8b924747
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 02ed62c9ea27429b4b1d95d67d1607a090ab1dd2
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5277160"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5995983"
 ---
 # <a name="extending-time-entries"></a>समय प्रविष्टियाँ विस्तारित करें
 

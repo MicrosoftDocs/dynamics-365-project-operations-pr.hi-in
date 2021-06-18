@@ -2,11 +2,9 @@
 title: वास्तविक
 description: यह विषय Microsoft Dynamics 365 Project Operations में वास्तविक के साथ काम करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: AnnBe
 ms.date: 04/01/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -16,12 +14,12 @@ ms.search.region: ''
 ms.search.industry: ''
 ms.author: rumant
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 304c51a4e502ad6ecec1fd821e98d6604ddd59ba
-ms.sourcegitcommit: b4a05c7d5512d60abdb0d05bedd390e288e8adc9
+ms.openlocfilehash: 78c7a9486d0338adfd7770447f21d17509e654f7
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "5852546"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5996613"
 ---
 # <a name="actuals"></a>वास्तविक 
 

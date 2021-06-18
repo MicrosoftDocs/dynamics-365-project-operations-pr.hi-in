@@ -2,8 +2,6 @@
 title: प्रोजेक्ट सेटिंग्‍स
 description: इस विषय में प्रोजेक्ट प्रबंधन सेटिंग की जानकारी दी गई है।
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c55d0f4c8f8db231a995d91a46a582bca2e1e6e3
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 24032a77834005c444972f8d234d3acb33d19135
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283730"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998323"
 ---
 # <a name="project-settings"></a>प्रोजेक्ट सेटिंग्‍स
 

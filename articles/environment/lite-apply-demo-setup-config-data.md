@@ -2,18 +2,16 @@
 title: डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट
 description: यह विषय Project Operations के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: sigitac
-manager: Annbe
 ms.date: 01/27/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 694dbc74591de74895095a9da6e590069711fc83
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 7729b4a9ef5f498b78af298f7233d7dd45434bb3
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290136"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997153"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Project Operations के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट 
 
@@ -28,8 +26,8 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
 
 ## <a name="instructions"></a>निर्देश
 
-1. [मास्टर डेटा पैकेज](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData%20-%20CE%20only%20CMT.zip) डाउनलोड करें. 
-2. फ़ोल्डर *ProjOpsDemoDataSetupAndMaster - Integrated CMT* पर नेविगेट करें और निष्पादित फ़ाइल, *DataMigrationUtility* को चलाएं.
+1. [मास्टर डेटा पैकेज](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData-%20CE%20only.zip) डाउनलोड करें. 
+2. *ProjOpsSampleSetupData - CE केवल CMT* फ़ोल्डर में नेविगेट करें और निष्पादन योग्य फ़ाइल, *DataMigrationUtility* चलाएं.
 3. Common Data Service कॉन्फ़िगरेशन माइग्रेशन (CMT) विज़ार्ड के पेज 1 पर, **डेटा आयात करें** चुनें और फिर **जारी रखें** चुनें.
 
     ![कॉन्फ़िगरेशन माइग्रेशन](./media/1ConfigurationMigration.png)
@@ -41,18 +39,18 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
    ![साइन इन का कॉन्फ़िगरेशन करें](./media/2ConfigurationSignin.png)
 
 7. पृष्ठ 3 पर, किरायेदार पर संगठनों की सूची से, चुनें कि आप किस संगठन में डेमो डेटा आयात करना चाहते/चाहती हैं और फिर **लॉग-इन** का चयन करें.
-8. पृष्ठ 4 पर, जिप फाइल का चयन करें, अनपैक्ड फोल्डर से *MasterAndSetupData*, *ProjOpsDemoDataSetupAndMaster - Integrated CMT*.
+8. पृष्ठ 4 पर, ज़िप फ़ाइल, *SampleSetupAndConfigData* को अनपैक किए गए फ़ोल्डर, *ProjOpsSampleSetupData - CE केवल CMT* से चुनें.
 
    ![ज़िप फ़ाइल](./media/3ZipFile.png)
 
-   ![किसी फ़ाइल का चयन करें](./media/4SelectAFile.png)
+   ![एक फ़ाइल चुनें](./media/4SelectAFile.png)
 
 9. ज़िप फ़ाइल चुनने के बाद **डेटा आयात करें** चुनें।
 
    ![डेटा आयात करें](./media/5ImportData.png)
 
 10. आपके नेटवर्क की स्पीड के आधार पर आयात लगभग दो-दस मिनट तक चलेगा। इसके पूरा होने के बाद, CMT विजार्ड से बाहर निकलें. 
-11. डेटा के लिए अपने संगठन की निम्नलिखित 20 निकायों में जांच करें:
+11. डेटा के लिए अपने संगठन की निम्नलिखित 18 निकायों में जांच करें:
 
     -   मुद्रा
     -   खाता

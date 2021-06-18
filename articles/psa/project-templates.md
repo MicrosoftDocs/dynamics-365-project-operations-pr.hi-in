@@ -2,8 +2,6 @@
 title: प्रोजेक्ट टेम्पलेट
 description: यह विषय प्रोजेक्ट सेटअप तुरंत बनाने के लिए प्रोजेक्ट टैम्पलेट का इस्तेमाल करने की जानकारी देता है।
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d9d208ebcef127062428afdadde2c54eb07ea505
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: bedcbc76d932a81e0c78bb58ce6a161446a26dde
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283595"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998278"
 ---
 # <a name="project-templates"></a>प्रोजेक्ट टेम्पलेट 
 
