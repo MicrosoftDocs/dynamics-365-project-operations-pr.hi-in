@@ -2,11 +2,9 @@
 title: संसाधन दक्षताओं को प्रबंधित करें
 description: यह विषय परियोजना संसाधनों के लिए दक्षताओं को सेट करने के बारे में जानकारी प्रदान करता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: db96ffc5fdd6bc759cd35fff0a39a64d9854a4f0
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 21721a9b0af820df10c4fa965d000e85098e0dea
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270635"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999043"
 ---
 # <a name="manage-resource-competencies"></a>संसाधन दक्षताओं को प्रबंधित करें
 

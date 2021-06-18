@@ -2,11 +2,9 @@
 title: व्यय प्रबंधन के लिए कार्यप्रवाह सेट करना
 description: आप कार्यप्रवाह प्रक्रिया सेट कर सकते हैं जिसका इस्तेमाल यात्रा और व्यय दस्तावेजों की समीक्षा और स्वीकृत करने के लिए किया जाता है.
 author: suvaidya
-manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: e54fca67427e8f3d0e7050563a751b5be354356c
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: aab6e18d1ddcffa57cf7cd4cb09eec5a4b89c0fd
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276035"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001023"
 ---
 # <a name="set-up-workflows-for-expense-management"></a>व्यय प्रबंधन के लिए कार्यप्रवाह सेट करना
 

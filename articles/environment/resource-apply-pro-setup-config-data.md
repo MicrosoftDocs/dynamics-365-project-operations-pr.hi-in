@@ -2,28 +2,26 @@
 title: Common Data Service में कॉन्फ़िगरेशन डेटा सेट अप करें और लागू करें
 description: यह विषय परियोजना संचालन में कॉन्फ़िगरेशन डेटा सेट अप करने और लागू करने के बारे में जानकारी प्रदान करता है।
 author: sigitac
-manager: Annbe
-ms.date: 11/04/2020
+ms.date: 05/10/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 1651d3b3b85d3dc581bf61976fada249bafd6b7b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 2ea00df6112fb69b61f1889463424fdfee79aec9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289821"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6001293"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Common Data Service में कॉन्फ़िगरेशन डेटा सेट अप करें और लागू करें 
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 ## <a name="prerequisites"></a>पूर्वावश्यकताएँ
 
-Common Data Service (CDS) में डेटा को कॉन्फ़िगर करना शुरू करने से पहले, निम्नलिखित आवश्यकताएं पूरी की जानी चाहिए:
+इससे पहले कि आप Common Data Service (CDS) में डेटा कॉन्फ़िगर करना शुरू करें, निम्नलिखित शर्तें पूरी होनी चाहिए:
 
 1.  Project Operations के लिए एक CDS परिवेश और एक Dynamics 365 Finance परिवेश प्रोविज़न करें.
 2.  Dynamics 365 Finance से कानूनी निकाय की जानकारी CDS परिवेश के साथ साझा की जाती है. इसका मतलब है कि CDS में **कंपनी** निकाय के पास कंपनी के निम्नलिखित रिकॉर्ड हैं:
@@ -33,7 +31,7 @@ Common Data Service (CDS) में डेटा को कॉन्फ़िग
 
 ## <a name="install-setup-and-configuration-data"></a>सेटअप और कॉन्फ़िगरेशन डेटा स्थापित करें
 
-1. [सेटअप और कॉन्फ़िगरेशन डेटा पैकेज](https://download.microsoft.com/download/1/3/4/1349369c-6209-42b7-b3b4-5be0e67cacd8/ProjOpsSampleSetupData-%20Integrated%20UR1.zip)को डाउनलोड करें, अनब्लॉक करें और अनज़िप करें।
+1. [सेटअप और कॉन्फ़िगरेशन डेटा पैकेज](https://download.microsoft.com/download/e/2/d/e2da6c98-d5dd-450c-aabe-fd6bf2ba374b/ProjOpsSampleSetupData-%20Integrated%20Latest.zip)को डाउनलोड करें, अनब्लॉक करें और अनज़िप करें।
 2. अनज़िप किए गए फ़ोल्डर में जाएं और एक्सीक्यूट योग्य फ़ाइल, *DataMigrationUtility* चलाएं।
 3. Common Data Service कॉन्फ़िगरेशन माइग्रेशन (CMT) विज़ार्ड के पेज 1 पर, **डेटा आयात करें** चुनें और फिर **जारी रखें** चुनें.
 
@@ -57,13 +55,20 @@ Common Data Service (CDS) में डेटा को कॉन्फ़िग
 ![डेटा आयात करें](./media/5ImportData.png)
 
 10. आपके नेटवर्क की स्पीड के आधार पर आयात लगभग दो-दस मिनट तक चलेगा। आयात पूर्ण होने के बाद, CMT विज़ार्ड से बाहर निकलें। 
-11. डेटा के लिए अपने संगठन की निम्नलिखित 19 निकायों में जांच करें:
+11. डेटा के लिए अपने संगठन की निम्नलिखित 26 निकायों में जांच करें:
 
   - मुद्रा
+  - खातों का चार्ट
+  - वित्त कैलेंडर
+  - मुद्रा विनिमय दर प्रकार
+  - भुगतान दिन
+  - भुगतान शेड्यूल
+  - भुगतान अवधि
   - संगठनात्मक इकाई
   - संपर्क
   - कर समूह
   - ग्राहक समूह
+  - विक्रेता समूह
   - इकाई
   - इकाई समूह
   - मूल्य सूची

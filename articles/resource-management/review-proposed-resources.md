@@ -2,11 +2,9 @@
 title: प्रस्तावित संसाधनों की समीक्षा करें
 description: इस टॉपिक में प्रोजेक्ट के संसाधनों का प्रस्ताव देने के बारे में जानकारी प्रदान की गई है।
 author: ruhercul
-manager: AnnBe
 ms.date: 11/05/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: fa0515b9d6a0023c05c37d2bcfa6a403f48927cb
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 987ea08c77c1824182856c0d52ee0cd15e7029b9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5279275"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6000753"
 ---
 # <a name="review-proposed-resources"></a>प्रस्तावित संसाधनों की समीक्षा करें
 

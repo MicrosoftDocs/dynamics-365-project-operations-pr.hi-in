@@ -2,8 +2,6 @@
 title: Project Service Automation के अपडेट रिलीज़ 27, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: यह विषय Project Service Automation अपडेट रिलीज़ 27, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/12/2021
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7f05b082e7c67937c78c82dcd9e094ee3b989e94
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: e6dd514e573d2ee977010311cd7f7fcb201abc27
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948511"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999223"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-27-v3"></a>Project Service Automation के अपडेट रिलीज़ 27, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 

@@ -2,18 +2,16 @@
 title: टीम सदस्य ग्रिड से टीम सदस्यों को जोड़ें
 description: यह विषय टीम सदस्य के संसाधनों को व्यवस्थित करने की जानकारी देता है।
 author: ruhercul
-manager: AnnBe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: cacf3913c3893dd09509cd02361c4a21bed59825
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 95f9e1d836e49672cfb51ace59aa77ea9da65b35
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5280085"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998863"
 ---
 # <a name="add-team-members-from-the-team-member-grid"></a>टीम सदस्य ग्रिड से टीम सदस्यों को जोड़ें
 

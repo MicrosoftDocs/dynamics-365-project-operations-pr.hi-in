@@ -2,11 +2,9 @@
 title: परियोजना कैलेंडर परिभाषित करें
 description: यह विषय परियोजना शेड्यूल को ट्रैक करने के लिए किसी परियोजना के लिए कैलेंडर टेम्पलेट को कैसे लागू करें, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
-manager: AnnBe
 ms.date: 02/05/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 1d5642d7a2246dc878b2bc4f504f138b71d29a69
-ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
+ms.openlocfilehash: 0d1a2c4bd2d4022bbf79afcef79170eb482e6418
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2021
-ms.locfileid: "5981302"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5998998"
 ---
 # <a name="define-project-calendars"></a>परियोजना कैलेंडर परिभाषित करें
 
@@ -48,7 +46,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 1. **संसाधन** \> **संसाधन** पर जाएं।
 2. कैलेंडर टेम्पलेट में संदर्भ के लिए एक नया संसाधन बनाएं, या किसी मौजूदा संसाधन का चयन करें.
-3. संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) में दिए गए निर्देशों को पूरा करें.
+3. संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](/dynamics365/field-service/set-work-hours-resource.md) में दिए गए निर्देशों को पूरा करें.
 
 **नया कैलेंडर टेम्पलेट बनाये**
 

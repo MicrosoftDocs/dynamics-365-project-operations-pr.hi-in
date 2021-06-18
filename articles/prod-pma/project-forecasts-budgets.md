@@ -2,11 +2,9 @@
 title: परियोजना के पूर्वानुमान और बजट
 description: Microsoft Dynamics 365 Finance, आपके प्रोजेक्ट को प्रबंधित और नियंत्रित करने के लिए प्रोजेक्ट पूर्वानुमान और प्रोजेक्ट बजट प्रदान करता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 10/25/2017
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ForecastModel, ProjYearEndProcess
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 2685e99800ef6fd0b613377271259da0da805aad
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: c1c1cde984334af8cc30e7899e3cf0b38467666f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289416"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5999628"
 ---
 # <a name="project-forecasts-and-budgets"></a>परियोजना के पूर्वानुमान और बजट
 
