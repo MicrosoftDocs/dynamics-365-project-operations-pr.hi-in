@@ -2,19 +2,17 @@
 title: स्टॉक-नहीं की गयी सामग्री और लंबित विक्रेता चालान कॉन्फ़िगर करें
 description: यह विषय बताता है कि स्टॉक-नहीं की गयी सामग्री और लंबित विक्रेता चालान को कैसे सक्षम किया जाए.
 author: sigitac
-manager: tfehr
 ms.date: 04/12/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: a84245a246f49ab69466aba0fec332f0489eec6c
-ms.sourcegitcommit: 7468d668c48c1d87934aab9a034decd51e56dec6
+ms.openlocfilehash: 24418f3aad8356bd209eef7487a47a3870bce10f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "5880651"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5993913"
 ---
 # <a name="configure-non-stocked-materials-and-pending-vendor-invoices"></a>स्टॉक-नहीं की गयी सामग्री और लंबित विक्रेता चालान कॉन्फ़िगर करें
 
@@ -61,11 +59,11 @@ Dynamics 365 Finance:
 
 ### <a name="activate-workflow-to-create-accounts-based-on-vendor-entity"></a>विक्रेता इकाई के आधार पर खाते बनाने के लिए वर्कफ़्लो सक्रिय करें
 
-Dual Write Orchestration समाधान [विक्रेता मास्टर एकीकरण](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-mapping) प्रदान करता है. इस सुविधा के लिए एक पूर्व शर्त के रूप में, विक्रेता डेटा को **खाते** इकाई में बनाया जाना चाहिए. [विक्रेता डिजाइनों के बीच स्विच करें](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-switch#use-the-extended-vendor-design-for-vendors-of-the-organization-type) में दिए गए विवरण के अनुसार **खाता** तालिका में विक्रेता बनाने के लिए एक टेम्पलेट वर्कफ़्लो प्रक्रिया को सक्रिय करें.
+Dual Write Orchestration समाधान [विक्रेता मास्टर एकीकरण](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-mapping.md) प्रदान करता है. इस सुविधा के लिए एक पूर्व शर्त के रूप में, विक्रेता डेटा को **खाते** इकाई में बनाया जाना चाहिए. [विक्रेता डिजाइनों के बीच स्विच करें](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/vendor-switch.md#use-the-extended-vendor-design-for-vendors-of-the-organization-type) में दिए गए विवरण के अनुसार **खाता** तालिका में विक्रेता बनाने के लिए एक टेम्पलेट वर्कफ़्लो प्रक्रिया को सक्रिय करें.
 
 ### <a name="set-products-to-be-created-as-active"></a>उत्पादों को सक्रिय के रूप में बनाए जाने के लिए सेट करें
 
-स्टॉक-नहीं की गयी सामग्री को वित्त में **जारी किए गए उत्पाद** के रूप में कॉन्फ़िगर किया जाना चाहिए. Dual Write Orchestration सॉल्यूशन एक आउट-ऑफ-द-बॉक्स प्रदान करता है [Dataverse उत्पाद कैटलॉग के लिए उत्पादों का एकीकरण](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/product-mapping). डिफ़ॉल्ट रूप से, वित्त से उत्पादों को एक ड्राफ्ट स्थिति में Dataverse से सिंक्रनाइज़ किया जाता है. उत्पाद को एक सक्रिय स्थिति से सिंक्रनाइज़ करने के लिए, ताकि इसका उपयोग सीधे सामग्री उपयोगिता दस्तावेजों या लंबित विक्रेता चालानों में किया जा सके,**System**  > **Administration** >  **System administration** >  **System settings**, and on the **Sales** tab, set **Create products in active state** to **Yes** पर जाएं.
+स्टॉक-नहीं की गयी सामग्री को वित्त में **जारी किए गए उत्पाद** के रूप में कॉन्फ़िगर किया जाना चाहिए. Dual Write Orchestration सॉल्यूशन एक आउट-ऑफ-द-बॉक्स प्रदान करता है [Dataverse उत्पाद कैटलॉग के लिए उत्पादों का एकीकरण](/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/product-mapping.md). डिफ़ॉल्ट रूप से, वित्त से उत्पादों को एक ड्राफ्ट स्थिति में Dataverse से सिंक्रनाइज़ किया जाता है. उत्पाद को एक सक्रिय स्थिति से सिंक्रनाइज़ करने के लिए, ताकि इसका उपयोग सीधे सामग्री उपयोगिता दस्तावेजों या लंबित विक्रेता चालानों में किया जा सके,**System**  > **Administration** >  **System administration** >  **System settings**, and on the **Sales** tab, set **Create products in active state** to **Yes** पर जाएं.
 
 ## <a name="configure-prerequisites-in-finance"></a>वित्त में पूर्व आवश्यक शर्तें कॉन्फ़िगर करें
 

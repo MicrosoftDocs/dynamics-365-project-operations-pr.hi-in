@@ -2,11 +2,9 @@
 title: ख़र्च रसीद संसाधित करना
 description: यह विषय रसीदों के लिए ऑप्टिकल कैरेक्टर रिकॉग्निशन (OCR) प्रक्रिया के बारे में जानकारी देता है. जब Microsoft Dynamics 365 Finance में ख़र्च रिपोर्ट बनाई जाती है तो यह सुविधा उपयोगकर्ता के अनुभव को बेहतर बनाने के लिए डिज़ाइन की गई है.
 author: stsporen
-manager: AnnBe
 ms.date: 05/14/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: roschlom
@@ -15,12 +13,12 @@ ms.search.region: Global
 ms.author: stsporen
 ms.search.validFrom: 2019-11-20
 ms.dyn365.ops.version: 10.0.8
-ms.openlocfilehash: 57ef67412eb3c5795559e4f6d011e97c4d7a1338
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: ed9c97ba9cc505106599c2896dc2112358d0c408
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271805"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5993508"
 ---
 # <a name="expense-receipt-processing"></a>ख़र्च रसीद संसाधित करना
 

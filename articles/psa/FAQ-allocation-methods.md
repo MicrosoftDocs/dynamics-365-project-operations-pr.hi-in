@@ -2,8 +2,6 @@
 title: Project Service Automation में बुकिंग आवंटन के तरीके
 description: यह विषय उन विभिन्न तरीकों के बारे में जानकारी प्रदान करता है जिन्हें आप आवंटन बुक कर सकते हैं।
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 9/26/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6fefaf0677ec1b3b84b202824ba16a87fa1b8d5c
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 89c455b45829a4e28dc8bb71cf34e52375ed6efd
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5286340"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5993306"
 ---
 # <a name="booking-allocation-methods-in-project-service-automation"></a>Project Service Automation में बुकिंग आवंटन के तरीके
 

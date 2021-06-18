@@ -2,18 +2,16 @@
 title: परियोजना अनुबंध सेटिंग - लाइट
 description: यह विषय उन फ़ील्ड के बारे में जानकारी देता है जो अनुबंध पंक्ति और अनुबंध के बारे में जानकारी को प्रभावित करती हैं, जो सभी लाइन आइटम भर में सारांशित है.
 author: rumant
-manager: Annbe
 ms.date: 10/20/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 1eedd912bedc43b1d5e847c574b5f1d5233cd038
-ms.sourcegitcommit: df30839484ef278675c5c712af0f7ba66ed9cdd3
+ms.openlocfilehash: 1dd3be176bc8f87054c6cad3a958de233c874840
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "5663911"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5994363"
 ---
 # <a name="header-details-for-project-contracts"></a>परियोजना अनुबंधों के लिए हेडर विवरण
 

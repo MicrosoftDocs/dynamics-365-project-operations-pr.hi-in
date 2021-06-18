@@ -2,19 +2,17 @@
 title: नए परिवेश का प्रावधान
 description: यह विषय एक नए परियोजना संचालन परिवेश का प्रावधान करने के बारे में जानकारी देता है।
 author: sigitac
-manager: Annbe
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 9ee9e4c31d1972e3a75ad214071b31527f0ca826
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: d0712d9d5dfc6c35ccd07142ff5948f50e6a254c
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5950536"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5995488"
 ---
 # <a name="provision-a-new-environment"></a>नए परिवेश का प्रावधान
 

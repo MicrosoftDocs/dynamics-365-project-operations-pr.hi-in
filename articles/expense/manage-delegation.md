@@ -2,11 +2,9 @@
 title: प्रत्यायोजन का प्रबंधन करें
 description: यह विषय इस बारे में जानकारी प्रदान करता है कि एक ख़र्च प्रतिनिधि कैसे किसी अन्य कर्मचारी के लिए ख़र्च रिपोर्ट बना सकता है और प्रबंधित कर सकता है.
 author: suvaidya
-manager: AnnBe
 ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: ee00b3c6a683aa8daf2823331a1a9638828dad03
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 34b190f9a458c9e2706c5b8c9fdbceea1fbe2621
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5276395"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5995308"
 ---
 # <a name="manage-delegation"></a>प्रत्यायोजन का प्रबंधन करें
 एक ख़र्च प्रतिनिधि किसी अन्य कर्मचारी के लिए ख़र्च रिपोर्ट बना और प्रबंधित कर सकता है.
