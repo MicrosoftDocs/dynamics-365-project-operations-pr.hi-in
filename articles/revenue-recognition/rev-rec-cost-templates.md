@@ -2,18 +2,16 @@
 title: लागत टेम्पलेट सेट अप करें
 description: यह विषय Project Operations में लागत टेम्पलेट बनाने और उनका उपयोग करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: sigitac
-manager: tfehr
 ms.date: 11/18/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 4d9dcc54e62682a02ea6cf8caca90586b4217908
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: f4a515db31a31028af4a60927ab360be6c261a3f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5278960"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6013893"
 ---
 # <a name="set-up-cost-templates"></a>लागत टेम्पलेट सेट अप करें
 

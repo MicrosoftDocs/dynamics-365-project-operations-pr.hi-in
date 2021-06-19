@@ -2,18 +2,16 @@
 title: जब कोई बुक करने योग्य संसाधन किसी परियोजना पर कई भूमिकाएँ भरता है, तो परियोजना विक्रय और लागत का अनुमान लगाएं
 description: यह विषय किसी परियोजना पर कई भूमिकाओं को भरने वाले संसाधन के लिए मूल्य निर्धारण और लागत अनुमानों का समर्थन करने के लिए मूल्य निर्धारण आयामों का उपयोग करने का तरीका बताता है.
 author: rumant
-manager: tfehr
 ms.date: 11/16/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f01c9c6adfeedc11fcb04a7e8b8f5a55e5f8dc79
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 7ef9765b7db1c6650fb0599bf5fb4b4b6304be69
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5278825"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6013668"
 ---
 # <a name="estimate-project-sales-and-costs-when-a-bookable-resource-fills-multiple-roles-on-a-project"></a>जब कोई बुक करने योग्य संसाधन किसी परियोजना पर कई भूमिकाएँ भरता है, तो परियोजना विक्रय और लागत का अनुमान लगाएं 
 
