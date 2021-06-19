@@ -2,18 +2,16 @@
 title: परियोजना-आधारित अनुबंध पंक्ति पर इनवॉइस शेड्यूल बनाएँ - लाइट
 description: यह विषय इनवॉइस शेड्यूल और माइलस्टोन बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4706a2a711efa7d176030deaa33b65bca28d8498
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 548858f6d2257343a632657ca386da03f1f330a9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5273380"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003233"
 ---
 # <a name="create-invoice-schedules-on-a-project-based-contract-line---lite"></a>परियोजना-आधारित अनुबंध पंक्ति पर इनवॉइस शेड्यूल बनाएँ - लाइट
 

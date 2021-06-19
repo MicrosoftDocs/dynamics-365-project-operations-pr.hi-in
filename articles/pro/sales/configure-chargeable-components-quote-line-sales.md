@@ -2,18 +2,16 @@
 title: एक उद्धरण पंक्ति के प्रभार्य घटकों को कॉन्फ़िगर करें
 description: यह विषय किसी परियोजना-आधारित उद्धरण पंक्ति पर प्रभार्य और गैर-प्रभार्य घटकों को सेट/स्थापित करने के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 03/30/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 1a9e1851bd8c5a4070df2774c945d1f3eabaaa8a
-ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
+ms.openlocfilehash: c933a3800aae72624dbcbe3f06df20e5981d74d4
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "5858295"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003768"
 ---
 # <a name="configure-the-chargeable-components-of-a-quote-line"></a>एक कोट पंक्ति के सशुल्क घटकों को कॉन्फ़िगर करें 
 

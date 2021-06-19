@@ -2,18 +2,16 @@
 title: स्वचालित इनवॉइस निर्माण सेट करें
 description: यह विषय प्रोफ़ॉर्मा इनवॉइस के स्वचालित निर्माण को सेट अप और कॉन्फ़िगर करने के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 04/05/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 359c5902e0b6a08ab7fc982095062e4d1816db6c
-ms.sourcegitcommit: ca0fc078d1a12484eca193fe051b8442c0559db8
+ms.openlocfilehash: 2d212f2279b28d900e75d45386e343f95b8e825e
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "5866819"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6004173"
 ---
 # <a name="set-up-automatic-invoice-creation"></a>स्वचालित इनवॉइस निर्माण सेट अप करें 
  

@@ -2,11 +2,9 @@
 title: iOS और Android पर Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग के लिए कस्टम फ़ील्ड लागू करें
 description: यह विषय कस्टम फील्ड के क्रियान्वयन के लिए विस्तार के इस्तेमाल का आम पैटर्न उपलब्ध कराता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 05/29/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.3
 ms.search.validFrom: 2019-05-29
-ms.openlocfilehash: 5dae571fce746b49281587f5349774a7f2c4111b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 23b002559dcbb9118ccb2b36d70707ccb37b19ad
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270995"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6003036"
 ---
 # <a name="implement-custom-fields-for-the-microsoft-dynamics-365-project-timesheet-mobile-app-on-ios-and-android"></a>iOS और Android पर Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग के लिए कस्टम फ़ील्ड लागू करें
 
@@ -53,7 +51,7 @@ ms.locfileid: "5270995"
 
 | प्रकार मान | प्रकार              | नोट्स |
 |-------------|-------------------|-------|
-| 12           | स्ट्रिंग (और Enum) | फ़ील्ड टेक्स्ट फ़ील्ड के रूप में प्रकट होती है. |
+| 0           | स्ट्रिंग (और Enum) | फ़ील्ड टेक्स्ट फ़ील्ड के रूप में प्रकट होती है. |
 | 1           | Integer           | मूल्य को बिना दशमलव स्थान के एक संख्या के रूप में दिखाया गया है. |
 | 2           | वास्तविक              | मान को संख्या के रूप में दिखाया जाता है जिसमें दशमलव स्थान होता है.<p>अनुप्रयोग में वास्तविक मूल्य को एक मुद्रा के रूप में दिखाने के लिए **fieldExtenededType** प्रॉपर्टी का इस्तेमाल किया जाता है. आप **दशमलों की संख्या** प्रॉपर्टी का इस्तेमाल कर दिखाए जाने वाले दशमलव स्थान की संख्या तय कर सकते हैं.</p> |
 | 3           | दिनांक              | तारीख का फ़ॉर्मेट उपयोगकर्ता के **तारीख, समय और संख्या फ़ॉर्मेट** सेटिंग द्वारा निर्धारित किया जाता है, जिसका वर्णन **उपयोगकर्ता विकल्पों** में **भाषा व देश/क्षेत्र वरीयता** के अंदर किया जाता है. |
