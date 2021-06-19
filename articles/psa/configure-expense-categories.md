@@ -2,8 +2,6 @@
 title: व्यय श्रेणियाँ कॉन्फ़िगर करें
 description: Project Service में व्यय श्रेणियों को कॉन्फ़िगर करने का तरीका
 author: revathiMuthiah
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: b2b711977baaae9dabbdf49a3b4a6f3bad9dec18
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: ba34905b68b7de1d1fc33eae46759d2d9623e3fd
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290721"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6012498"
 ---
 # <a name="configure-expense-categories-project-service"></a>व्यय श्रेणियाँ कॉन्फ़िगर करना (Project Service)
 

@@ -2,8 +2,6 @@
 title: समय विक्रय वास्तविक पर मूल्य को शून्य पर डिफ़ॉल्ट क्यों बनाया गया है?
 description: इस समस्या का निवारण कि समय विक्रय वास्तविक पर मूल्य को 0 पर डिफ़ॉल्ट क्यों बनाया गया है.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/21/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: cfb359b4ebd7c1a7a70ffdc2c47cf6291c797566
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: e32b4c8113afdc18d9b220b1a8daf5007be93ac8
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285755"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6011643"
 ---
 # <a name="why-is-price-defaulting-to-zero-on-time-sales-actuals"></a>समय विक्रय वास्तविक पर मूल्य को शून्य पर डिफ़ॉल्ट क्यों बनाया गया है?
 

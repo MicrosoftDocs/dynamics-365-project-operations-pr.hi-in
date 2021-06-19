@@ -2,18 +2,16 @@
 title: संसाधन कैलेंडरों को परिभाषित करें
 description: यह विषय Project Operations में साधनों के लिए काम के घंटे को स्पष्ट करने के तरीके के बारे में जानकारी देता है.
 author: ruhercul
-manager: Annbe
 ms.date: 10/05/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: a7b7c45ad2116519b0369bfd3d7cf6743704f4e1
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 5ac834e16afc2f559bee6e10434f7015e8a8e51f
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5279815"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6012183"
 ---
 # <a name="define-resource-calendars"></a>संसाधन कैलेंडरों को परिभाषित करें
 
