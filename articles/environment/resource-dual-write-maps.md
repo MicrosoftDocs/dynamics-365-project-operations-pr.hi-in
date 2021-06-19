@@ -2,18 +2,16 @@
 title: Project Operations ड्यूल-राइट नक्शा संस्करण
 description: यह विषय Dynamics 365 Project Operations के लिए आवश्यक ड्यूल-राइट मानचित्रों की सूची प्रदान करता है.
 author: sigitac
-manager: Annbe
 ms.date: 04/22/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: fa0342985f2c860cd3cb3f686f0dcaa59d8cfd41
-ms.sourcegitcommit: bc51629df94c164325cf2afee387d0e7cda66da7
+ms.openlocfilehash: b24a20d47eefa43b2e4e184a377decdb280d436d
+ms.sourcegitcommit: fd6e9ff78392c7bac35591d9130c00d2750438ae
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "5938992"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "6025776"
 ---
 # <a name="project-operations-dual-write-map-versions"></a>Project Operations ड्यूल-राइट नक्शा संस्करण
 
@@ -36,32 +34,32 @@ Project Operations समाधान के लिए निम्न मान
 
 ![लेजर मैप सिंक्रोनाइज़ेशन](media/DW6.png)
 
-1. उपरोक्त तालिका में सूचीबद्ध सभी शेष तालिका मानचित्रों के लिए समान चरणों का पालन करें. उन मानचित्रों को चलाते समय **प्रारंभिक सिंक** चेक बॉक्स को न चुनें.
+2. उपरोक्त तालिका में सूचीबद्ध सभी शेष तालिका मानचित्रों के लिए समान चरणों का पालन करें. उन मानचित्रों को चलाते समय **प्रारंभिक सिंक** चेक बॉक्स को न चुनें.
 
 ## <a name="project-operations-dual-write-maps"></a>Project Operations ड्यूल-राइट मानचित्र
 
-Project Operations समाधान के लिए निम्नलिखित मानचित्र आवश्यक हैं.
+Project Operations समाधान के लिए निम्नलिखित मानचित्र आवश्यक हैं. Project Operations मई 2021 अपडेट, संस्करण 4.10.0.186 के साथ शुरू होने वाले डुअल-लेखन मैप संस्करण सूचीबद्ध हैं.
 
 | **निकाय मैप** | **नवीनतम संस्करण** | **प्रारंभिक सिंक** |
 | --- | --- | --- |
 | परियोजना लेनदेन संबंधों के लिए एकीकरण निकाय (msdyn\_transactionconnections) | 1.0.0.0 | प्रावधान के लिए आवश्यक नहीं. |
 | परियोजना अनुबंध हेडर (बिक्री आदेश) | 1.0.0.1 | प्रावधान के लिए आवश्यक नहीं. |
 | परियोजना अनुबंध लाइन (salesorderdetails) | 1.0.0.0 | प्रावधान के लिए आवश्यक नहीं. |
-| प्रोजेक्ट फंडिंग स्रोत (msdyn_projectcontractsplitbillingrules) | 1.0.0.1 | प्रावधान के लिए आवश्यक नहीं. |
+| प्रोजेक्ट फंडिंग स्रोत (msdyn_projectcontractsplitbillingrules) | 1.0.0.2 | प्रावधान के लिए आवश्यक नहीं. |
 | सामग्री अनुमानों के लिए Project Operations एकीकरण तालिका (msdyn\_estimatelines) | 1.0.0.0 | प्रावधान के लिए आवश्यक नहीं. |
-| प्रोजेक्ट चालान प्रस्ताव V2 (चालान) | 1.0.0.2 | प्रावधान के लिए आवश्यक नहीं. |
+| प्रोजेक्ट चालान प्रस्ताव V2 (चालान) | 1.0.0.3 | प्रावधान के लिए आवश्यक नहीं. |
 | Project Operations एकीकरण वास्तविक (msdyn_actuals) | 1.0.0.14 | प्रावधान के लिए आवश्यक नहीं. |
 | Project Operations एकीकरण अनुबंध लाइन माइलस्टोन (msdyn_contractlinesscheduleofvalues) | 1.0.0.4 | प्रावधान के लिए आवश्यक नहीं. |
 | व्यय अनुमानों के लिए Project Operations एकीकरण इकाई (msdyn_estimateslines) | 1.0.0.2 | प्रावधान के लिए आवश्यक नहीं. |
 | घंटे के अनुमानों के लिए Project Operations एकीकरण निकाय (msdyn_resourceassignments) | 1.0.0.5 | प्रावधान के लिए आवश्यक नहीं. |
-| प्रकल्प Project Operations प्रकल्प खर्च श्रेणी निर्यात निकाय (msdyn_expensecategories) | 1.0.0.2 | प्रावधान के लिए आवश्यक नहीं. |
+| प्रकल्प Project Operations प्रकल्प खर्च श्रेणी निर्यात निकाय (msdyn_expensecategories) | 1.0.0.1 | प्रावधान के लिए आवश्यक नहीं. |
 | Project Operations एकीकरण परियोजना व्यय निर्यात निकाय (msdyn_expenses) | 1.0.0.2 | प्रावधान के लिए आवश्यक नहीं. |
 | Project Operations एकीकरण परियोजना विक्रेता चालान निर्यात इकाई (msdyn_projectvendorinvoices) | 1.0.0.0 | प्रावधान के लिए आवश्यक नहीं. |
-| Project Operations एकीकरण परियोजना विक्रेता चालान लाइन निर्यात इकाई (msdyn_projectvendorinvoicelines) | 1.0.0.0 | प्रावधान के लिए आवश्यक नहीं. |
+| Project Operations एकीकरण परियोजना विक्रेता चालान लाइन निर्यात इकाई (msdyn_projectvendorinvoicelines) | 1.0.0.1 | प्रावधान के लिए आवश्यक नहीं. |
 | सभी कंपनियों के लिए परियोजना संसाधन भूमिकाएं (bookableresourcecategories) | 1.0.0.1 | प्रोजेक्ट मैनेजर और Team के सदस्य संसाधन भूमिकाओं को सिंक्रनाइज़ करने के लिए तालिका मानचित्र के लिए प्रारंभिक सिंक की आवश्यकता होती है, जो प्रोविज़निंग के दौरान Dynamics 365 Dataverse परिवेश में पॉप्युलेट होते हैं. प्रारंभिक सिंक्रनाइज़ेशन के लिए Dataverse मुख्य स्रोत है. |
 | परियोजना कार्य (msdyn_projecttasks) | 1.0.0.4 | प्रावधान के लिए आवश्यक नहीं. |
 | परियोजना लेनदेन श्रेणियां (msdyn_transactioncategories) | 1.0.0.0 | प्रावधान के लिए आवश्यक नहीं. |
-| प्रोजेक्ट्स V2 (msdyn_projects) | 1.0.0.1 | प्रावधान के लिए आवश्यक नहीं. |
+| प्रोजेक्ट्स V2 (msdyn_projects) | 1.0.0.2 | प्रावधान के लिए आवश्यक नहीं. |
 
 सूचीबद्ध मानचित्रों को चलाने के लिए निम्नलिखित चरणों को पूरा करें.
 
