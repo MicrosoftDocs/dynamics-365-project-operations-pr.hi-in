@@ -2,11 +2,9 @@
 title: इंटरकंपनी व्यय
 description: इस विषय में जानकारी प्रदान की गई है कि उस कानूनी निकाय के लिए, जिसके लिए कार्य निष्पादित किया गया था, कर्मचारी के व्यय असाइन करने के लिए अंतरकंपनी व्ययों का कैसे उपयोग करें.
 author: ShylaThompson
-manager: AnnBe
 ms.date: 05/20/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvParameters
 audience: Application User
@@ -16,12 +14,12 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: d908a1c062f5b7f01cf340dcd6f7f24714a992bf
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d2cdba8d5368a8b26bf4d98226bda76a58261cf0
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271535"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6005073"
 ---
 # <a name="intercompany-expenses"></a>इंटरकंपनी व्यय
 

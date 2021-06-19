@@ -2,19 +2,17 @@
 title: नया क्या है दिसंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
 description: इस विषय में स्टॉक/उत्पादन आधारित परिदृश्यों के लिए Project Operations के दिसंबर 2020 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
 author: Yowelle
-manager: Annbe
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: 4a208ed98a5549030bd663e18b1b490d1a42ee33
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 6194dfc9f8983b048f69605ee12036904c3c5e69
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5950221"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6007233"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations दिसंबर 2020 में नया क्या है या क्या बदल गया है
 

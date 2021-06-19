@@ -2,11 +2,9 @@
 title: यात्रा आवश्यकताएं अवलोकन
 description: यह विषय यात्रा मांग-पत्र के बारे में जानकारी प्रदान करता है. यात्रा की आवश्यकता, नियोजित यात्रा व्यय को दस्तावेज़ीकृत करती है.
 author: saraschi2
-manager: AnnBe
 ms.date: 02/23/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvRequisitionList
 audience: Application User
@@ -16,12 +14,12 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 3441a386c142d8c73066c6eb1e0371678c44d94c
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 5fbd2afc7d32e1824925af6dc4c6d088d4f6ccf9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271220"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6006018"
 ---
 # <a name="travel-requisitions-overview"></a>यात्रा आवश्यकताएं अवलोकन
 

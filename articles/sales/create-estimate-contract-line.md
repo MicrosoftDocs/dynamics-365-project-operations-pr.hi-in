@@ -2,18 +2,16 @@
 title: परियोजना अनुबंध पंक्ति का अनुमान लगाएँ
 description: यह विषय एक परियोजना के कॉन्ट्रैक्ट लाइन पर अनुमानों के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/27/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 7cb7d7eccf62837ee5abf4cbe29a21dc728eb7ef
-ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
+ms.openlocfilehash: 3aa46b017fa27572de807d5cf15ea93158177609
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "5858520"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6007188"
 ---
 # <a name="estimate-a-project-contract-line"></a>परियोजना अनुबंध पंक्ति का अनुमान लगाएँ
 

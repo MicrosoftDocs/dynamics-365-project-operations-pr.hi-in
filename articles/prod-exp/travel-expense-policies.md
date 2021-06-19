@@ -2,11 +2,9 @@
 title: व्यय नीतियों सेट अप करें
 description: आप व्यय नीतियां निर्धारित कर सकते हैं जिनका आपके कर्मचारियों को व्यय रिपोर्ट दर्ज करने और Microsoft Dynamics 365 Finance में यात्रा आवश्यकताएं दर्ज करने और सबमिट करने के दौरान पालन करना चाहिए.
 author: suvaidya
-manager: AnnBe
 ms.date: 05/20/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: SysPolicyListPage, TrvPolicyRule
 audience: Application User
@@ -16,12 +14,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 9c014b0593a87ce50f09175b77d9cf498a65391e
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: fa4f628a918e6e099a723ed05994f63d6ad847f5
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271265"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6005748"
 ---
 # <a name="set-up-expense-policies"></a>व्यय नीतियों सेट अप करें
 
