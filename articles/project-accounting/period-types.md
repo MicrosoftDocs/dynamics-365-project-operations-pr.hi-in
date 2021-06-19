@@ -2,37 +2,35 @@
 title: अवधि प्रकार
 description: इस विषय में आय अनुमान के लिए अवधि प्रकार को सेट अप करने के तरीके के बारे में बताया गया है.
 author: sigitac
-manager: Annbe
 ms.date: 11/16/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 107cecbc1dabdf13147d847bf1816f44cc2703c5
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 07cc9cde5fab10accb1fd6efede58926918f614c
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5287285"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6013488"
 ---
-# <a name="period-types"></a><span data-ttu-id="6b988-103">अवधि प्रकार</span><span class="sxs-lookup"><span data-stu-id="6b988-103">Period types</span></span>
+# <a name="period-types"></a><span data-ttu-id="b18a7-103">अवधि प्रकार</span><span class="sxs-lookup"><span data-stu-id="b18a7-103">Period types</span></span>
 
-<span data-ttu-id="6b988-104">_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_</span><span class="sxs-lookup"><span data-stu-id="6b988-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
+<span data-ttu-id="b18a7-104">_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_</span><span class="sxs-lookup"><span data-stu-id="b18a7-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
 
-<span data-ttu-id="6b988-105">अवधि प्रकार परिभाषित करता है कि किसी परियोजना पर कितनी बार आय का अनुमान लगाया जाता है.</span><span class="sxs-lookup"><span data-stu-id="6b988-105">A period type defines how frequently revenue on a project is estimated.</span></span> <span data-ttu-id="6b988-106">इस विषय में आय अनुमान के लिए अवधि प्रकार को सेट अप करने के तरीके के बारे में बताया गया है.</span><span class="sxs-lookup"><span data-stu-id="6b988-106">This topic provides information about how to set up period types for revenue estimation.</span></span> 
+<span data-ttu-id="b18a7-105">अवधि प्रकार परिभाषित करता है कि किसी परियोजना पर कितनी बार आय का अनुमान लगाया जाता है.</span><span class="sxs-lookup"><span data-stu-id="b18a7-105">A period type defines how frequently revenue on a project is estimated.</span></span> <span data-ttu-id="b18a7-106">इस विषय में आय अनुमान के लिए अवधि प्रकार को सेट अप करने के तरीके के बारे में बताया गया है.</span><span class="sxs-lookup"><span data-stu-id="b18a7-106">This topic provides information about how to set up period types for revenue estimation.</span></span> 
 
-## <a name="create-and-work-with-period-types"></a><span data-ttu-id="6b988-107">अवधि प्रकार बनाएँ और उसके साथ कार्य करें</span><span class="sxs-lookup"><span data-stu-id="6b988-107">Create and work with period types</span></span>
-<span data-ttu-id="6b988-108">अवधि प्रकार बनाने और उनके साथ कार्य करने के लिए, निम्नलिखित चरणों को पूरा करें:</span><span class="sxs-lookup"><span data-stu-id="6b988-108">To create and work with period types, complete the following steps:</span></span>
+## <a name="create-and-work-with-period-types"></a><span data-ttu-id="b18a7-107">अवधि प्रकार बनाएँ और उसके साथ कार्य करें</span><span class="sxs-lookup"><span data-stu-id="b18a7-107">Create and work with period types</span></span>
+<span data-ttu-id="b18a7-108">अवधि प्रकार बनाने और उनके साथ कार्य करने के लिए, निम्नलिखित चरणों को पूरा करें:</span><span class="sxs-lookup"><span data-stu-id="b18a7-108">To create and work with period types, complete the following steps:</span></span>
 
-1. <span data-ttu-id="6b988-109">अपने Dynamics 365 Finance परिवेश में, **परियोजना प्रबंधन और लेखांकन** > **सेटअप** > **अनुमान** > **अवधि प्रकार** पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="6b988-109">In your Dynamics 365 Finance environment, go to **Project management and accounting** > **Setup** > **Estimates** > **Period types**.</span></span>
-2. <span data-ttu-id="6b988-110">नया अवधि प्रकार बनाने के लिए, **नया** चुनें.</span><span class="sxs-lookup"><span data-stu-id="6b988-110">Select **New** to create new period type.</span></span> <span data-ttu-id="6b988-111">एक नाम और एक विवरण दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="6b988-111">Enter a name and description.</span></span>
-3. <span data-ttu-id="6b988-112">**आवृत्ति** फ़ील्ड में, एक मान चुनें:</span><span class="sxs-lookup"><span data-stu-id="6b988-112">In the **Frequency** field, select a value:</span></span>
+1. <span data-ttu-id="b18a7-109">अपने Dynamics 365 Finance परिवेश में, **परियोजना प्रबंधन और लेखांकन** > **सेटअप** > **अनुमान** > **अवधि प्रकार** पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="b18a7-109">In your Dynamics 365 Finance environment, go to **Project management and accounting** > **Setup** > **Estimates** > **Period types**.</span></span>
+2. <span data-ttu-id="b18a7-110">नया अवधि प्रकार बनाने के लिए, **नया** चुनें.</span><span class="sxs-lookup"><span data-stu-id="b18a7-110">Select **New** to create new period type.</span></span> <span data-ttu-id="b18a7-111">एक नाम और एक विवरण दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="b18a7-111">Enter a name and description.</span></span>
+3. <span data-ttu-id="b18a7-112">**आवृत्ति** फ़ील्ड में, एक मान चुनें:</span><span class="sxs-lookup"><span data-stu-id="b18a7-112">In the **Frequency** field, select a value:</span></span>
 
-    - <span data-ttu-id="6b988-113">यदि आप **सप्ताह**, **द्वि-साप्ताहिक**, **अर्ध मासिक**, **महीना**, **दिन**, **तिमाही** या **साल** चुनते हैं, तो अवधियाँ जनरेट करने के लिए कैलेंडर का उपयोग किया जाएगा.</span><span class="sxs-lookup"><span data-stu-id="6b988-113">If you select **Week**, **Bi-weekly**, **Semi-monthly**, **Month**, **Day**, **Quarter**, or **Year**, the calendar will be used to generate the periods.</span></span> 
-    - <span data-ttu-id="6b988-114">यदि आप **लेज़र अवधि** चुनते हैं, तो अवधियाँ जनरेट करने के लिए सामान्य लेज़र कॉन्फ़िगरेशन से लेज़र अवधियों का उपयोग किया जाएगा.</span><span class="sxs-lookup"><span data-stu-id="6b988-114">If you select **Ledger period**, ledger periods from the General ledger configuration will be used to generate periods.</span></span>
-    - <span data-ttu-id="6b988-115">यदि आप **असीमित** चुनते हैं, तो आप कस्टम अवधियाँ निर्दिष्ट कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="6b988-115">If you select **Unlimited**, you can specify custom periods.</span></span>
-4. <span data-ttu-id="6b988-116">अवधि प्रकार के लिए अवधियाँ बनाने हेतु, अवधि प्रकार रिकॉर्ड को चुनें और उसके बाद **अवधियाँ जनरेट करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="6b988-116">Select the period type record and then select **Generate periods** to create periods for the period type.</span></span> <span data-ttu-id="6b988-117">आपके द्वारा चुनी गई अवधि आवृत्ति के आधार पर, आपके पास प्रारंभ दिनांक या जनरेट की जाने वाली अवधियों की संख्या निर्दिष्ट करने का विकल्प हो सकता है.</span><span class="sxs-lookup"><span data-stu-id="6b988-117">Based on the period frequency that you selected, you might have the option to specify a start date or the number of periods to generate.</span></span>
-5. <span data-ttu-id="6b988-118">जनरेट की गई अवधियों की समीक्षा करने के लिए, **अवधियाँ** चुनें.</span><span class="sxs-lookup"><span data-stu-id="6b988-118">Select **Periods** to review generated periods.</span></span>
+    - <span data-ttu-id="b18a7-113">यदि आप **सप्ताह**, **द्वि-साप्ताहिक**, **अर्ध मासिक**, **महीना**, **दिन**, **तिमाही** या **साल** चुनते हैं, तो अवधियाँ जनरेट करने के लिए कैलेंडर का उपयोग किया जाएगा.</span><span class="sxs-lookup"><span data-stu-id="b18a7-113">If you select **Week**, **Bi-weekly**, **Semi-monthly**, **Month**, **Day**, **Quarter**, or **Year**, the calendar will be used to generate the periods.</span></span> 
+    - <span data-ttu-id="b18a7-114">यदि आप **लेज़र अवधि** चुनते हैं, तो अवधियाँ जनरेट करने के लिए सामान्य लेज़र कॉन्फ़िगरेशन से लेज़र अवधियों का उपयोग किया जाएगा.</span><span class="sxs-lookup"><span data-stu-id="b18a7-114">If you select **Ledger period**, ledger periods from the General ledger configuration will be used to generate periods.</span></span>
+    - <span data-ttu-id="b18a7-115">यदि आप **असीमित** चुनते हैं, तो आप कस्टम अवधियाँ निर्दिष्ट कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="b18a7-115">If you select **Unlimited**, you can specify custom periods.</span></span>
+4. <span data-ttu-id="b18a7-116">अवधि प्रकार के लिए अवधियाँ बनाने हेतु, अवधि प्रकार रिकॉर्ड को चुनें और उसके बाद **अवधियाँ जनरेट करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="b18a7-116">Select the period type record and then select **Generate periods** to create periods for the period type.</span></span> <span data-ttu-id="b18a7-117">आपके द्वारा चुनी गई अवधि आवृत्ति के आधार पर, आपके पास प्रारंभ दिनांक या जनरेट की जाने वाली अवधियों की संख्या निर्दिष्ट करने का विकल्प हो सकता है.</span><span class="sxs-lookup"><span data-stu-id="b18a7-117">Based on the period frequency that you selected, you might have the option to specify a start date or the number of periods to generate.</span></span>
+5. <span data-ttu-id="b18a7-118">जनरेट की गई अवधियों की समीक्षा करने के लिए, **अवधियाँ** चुनें.</span><span class="sxs-lookup"><span data-stu-id="b18a7-118">Select **Periods** to review generated periods.</span></span>
 
 
 
