@@ -2,8 +2,6 @@
 title: संसाधन प्रबंधन मुख पृष्ठ
 description: इस टॉपिक में संसाधनों के प्रबंधन के बारे में जानकारी प्रदान की गई है.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 016c1691c9005953cc24de7630436923931097e6
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 778002ea07a7be3cade988f515a6d890427e6613
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5283055"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008718"
 ---
 # <a name="resource-management-home-page"></a>संसाधन प्रबंधन मुख पृष्ठ
 

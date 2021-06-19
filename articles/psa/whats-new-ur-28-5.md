@@ -2,8 +2,6 @@
 title: Project Service Automation के अद्यतन रिलीज़ 28.5, हॉटफ़िक्स, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: इस विषय में Project Service Automation अद्यतन रिलीज़ 28.5 हॉटफ़िक्स, V3 में उपलब्ध सुविधाएँ और सुधार सूचीबद्ध किए गए हैं.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2021
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 49693becc1b18d6e966d6c5b94397d82587aeb0d
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
+ms.openlocfilehash: 2e97ce97cd9d8178c293089bd131683278bee4a9
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5948565"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6010608"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-285-v3"></a>Project Service Automation के अपडेट रिलीज़ 28.5, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 
