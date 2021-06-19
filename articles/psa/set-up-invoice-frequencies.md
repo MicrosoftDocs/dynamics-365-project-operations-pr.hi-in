@@ -2,8 +2,6 @@
 title: इनवॉइस आवृत्तियाँ सेट अप करें
 description: Project Service में इनवॉइस आवृत्तियाँ को सेट अप करने का तरीका
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,39 +16,39 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 21baa270c307aaee584d6ea1c6d133a48dcbe485
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 9c1b6de7ff15a0902db90cfa80aff87141c65637
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5282515"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008358"
 ---
-# <a name="set-up-invoice-frequencies-project-service"></a><span data-ttu-id="ea305-103">इनवॉइस आवृत्तियाँ सेट अप करना (Project Service)</span><span class="sxs-lookup"><span data-stu-id="ea305-103">Set up invoice frequencies (Project Service)</span></span>
+# <a name="set-up-invoice-frequencies-project-service"></a><span data-ttu-id="348c2-103">इनवॉइस आवृत्तियाँ सेट अप करना (Project Service)</span><span class="sxs-lookup"><span data-stu-id="348c2-103">Set up invoice frequencies (Project Service)</span></span>
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-[!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] <span data-ttu-id="ea305-104">इनवॉइस आवृत्तियाँ निर्धारित करती हैं कि आप कितनी बार अपने क्लायंट को बिल करते हैं और समय अवधि का कौन सा दिन आप निर्दिष्ट करते हैं.</span><span class="sxs-lookup"><span data-stu-id="ea305-104">invoice frequencies determine how often you bill your clients, and on which day of the time period you specify.</span></span> <span data-ttu-id="ea305-105">प्रत्येक समय अवधि जिसमें आपने अपने क्लायंट को बिल करने की योजना बनाई है, जैसे मासिक, द्विसाप्ताहिक या साप्ताहिक, के लिए इनवॉइस आवृत्ति सेट करें.</span><span class="sxs-lookup"><span data-stu-id="ea305-105">Set up an invoice frequency for each time period you plan to use for billing your clients, such as monthly, biweekly, or weekly.</span></span>  
+[!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] <span data-ttu-id="348c2-104">इनवॉइस आवृत्तियाँ निर्धारित करती हैं कि आप कितनी बार अपने क्लायंट को बिल करते हैं और समय अवधि का कौन सा दिन आप निर्दिष्ट करते हैं.</span><span class="sxs-lookup"><span data-stu-id="348c2-104">invoice frequencies determine how often you bill your clients, and on which day of the time period you specify.</span></span> <span data-ttu-id="348c2-105">प्रत्येक समय अवधि जिसमें आपने अपने क्लायंट को बिल करने की योजना बनाई है, जैसे मासिक, द्विसाप्ताहिक या साप्ताहिक, के लिए इनवॉइस आवृत्ति सेट करें.</span><span class="sxs-lookup"><span data-stu-id="348c2-105">Set up an invoice frequency for each time period you plan to use for billing your clients, such as monthly, biweekly, or weekly.</span></span>  
   
-1.  <span data-ttu-id="ea305-106">**Project Service > इनवॉइस आवृत्तियाँ** पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="ea305-106">Go to **Project Service > Invoice Frequencies**.</span></span>  
+1.  <span data-ttu-id="348c2-106">**Project Service > इनवॉइस आवृत्तियाँ** पर जाएँ.</span><span class="sxs-lookup"><span data-stu-id="348c2-106">Go to **Project Service > Invoice Frequencies**.</span></span>  
   
-2.  <span data-ttu-id="ea305-107">**नया** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="ea305-107">Click **New**.</span></span>  
+2.  <span data-ttu-id="348c2-107">**नया** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="348c2-107">Click **New**.</span></span>  
   
-3.  <span data-ttu-id="ea305-108">**सामान्य** क्षेत्र में, **नाम** में इनवॉइस आवृत्ति के लिए कोई नाम दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="ea305-108">In the **General** area, enter a name for the invoice frequency in **Name**.</span></span>  
+3.  <span data-ttu-id="348c2-108">**सामान्य** क्षेत्र में, **नाम** में इनवॉइस आवृत्ति के लिए कोई नाम दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="348c2-108">In the **General** area, enter a name for the invoice frequency in **Name**.</span></span>  
   
-4.  <span data-ttu-id="ea305-109">**अवधि** में, **मासिक**, **द्विसाप्ताहिक** या **साप्ताहिक** चुनें.</span><span class="sxs-lookup"><span data-stu-id="ea305-109">In **Period**, select **Monthly**, **Biweekly**, or **Weekly**.</span></span>  
+4.  <span data-ttu-id="348c2-109">**अवधि** में, **मासिक**, **द्विसाप्ताहिक** या **साप्ताहिक** चुनें.</span><span class="sxs-lookup"><span data-stu-id="348c2-109">In **Period**, select **Monthly**, **Biweekly**, or **Weekly**.</span></span>  
   
-5.  <span data-ttu-id="ea305-110">यदि आप मासिक या द्विसाप्ताहिक अवधि निर्दिष्ट करते हैं, तो अवधि में किसी विशेष दिन (कार्य दिवस या सप्ताहांत) को इनवॉइस करने के लिए **चलाने के लिए दिन** में, **अवधि में दिन** चुनें या अवधि के किसी विशेष कार्य दिवस को इनवॉइस करने के लिए **अवधि में कार्य दिवस** चुनें.</span><span class="sxs-lookup"><span data-stu-id="ea305-110">If you specified a period of monthly or biweekly, in **Days of run**, select **Day of period** to invoice on the specified day of the period (whether weekday or weekend), or select **Weekday of period** to invoice on the specified weekday of the period.</span></span>  
+5.  <span data-ttu-id="348c2-110">यदि आप मासिक या द्विसाप्ताहिक अवधि निर्दिष्ट करते हैं, तो अवधि में किसी विशेष दिन (कार्य दिवस या सप्ताहांत) को इनवॉइस करने के लिए **चलाने के लिए दिन** में, **अवधि में दिन** चुनें या अवधि के किसी विशेष कार्य दिवस को इनवॉइस करने के लिए **अवधि में कार्य दिवस** चुनें.</span><span class="sxs-lookup"><span data-stu-id="348c2-110">If you specified a period of monthly or biweekly, in **Days of run**, select **Day of period** to invoice on the specified day of the period (whether weekday or weekend), or select **Weekday of period** to invoice on the specified weekday of the period.</span></span>  
   
-6.  <span data-ttu-id="ea305-111">यदि आप मासिक अवधि चुनते हैं, तो **प्रति माह चलता है** में, प्रति माह इनवॉइस चलाए जाने की संख्या चुनें.</span><span class="sxs-lookup"><span data-stu-id="ea305-111">If you specified a period of monthly, in **Runs per month**, select the number of times per month you want to run the invoice.</span></span>  
+6.  <span data-ttu-id="348c2-111">यदि आप मासिक अवधि चुनते हैं, तो **प्रति माह चलता है** में, प्रति माह इनवॉइस चलाए जाने की संख्या चुनें.</span><span class="sxs-lookup"><span data-stu-id="348c2-111">If you specified a period of monthly, in **Runs per month**, select the number of times per month you want to run the invoice.</span></span>  
   
-7.  <span data-ttu-id="ea305-112">**इनवॉइस आवृत्ति विवरण** क्षेत्र में, यह सुनिश्चित करने के लिए कि आपके द्वारा निर्दिष्ट अवधि में इनवॉइस सही दिन या कार्य दिवस को चले, आवश्यकतानुसार दिन या कार्य दिवस विवरण परिवर्तित करें.</span><span class="sxs-lookup"><span data-stu-id="ea305-112">In the **Invoice Frequency Details** area, change the day or weekday details as necessary to make sure the invoice runs on the correct day or weekday of the period you specified.</span></span>  
+7.  <span data-ttu-id="348c2-112">**इनवॉइस आवृत्ति विवरण** क्षेत्र में, यह सुनिश्चित करने के लिए कि आपके द्वारा निर्दिष्ट अवधि में इनवॉइस सही दिन या कार्य दिवस को चले, आवश्यकतानुसार दिन या कार्य दिवस विवरण परिवर्तित करें.</span><span class="sxs-lookup"><span data-stu-id="348c2-112">In the **Invoice Frequency Details** area, change the day or weekday details as necessary to make sure the invoice runs on the correct day or weekday of the period you specified.</span></span>  
   
-8.  <span data-ttu-id="ea305-113">काम पूरा होने पर, स्‍क्रीन के निचले दाएँ कोने में स्थित **सहेजें** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="ea305-113">When you’re done, click **Save** at the bottom right corner of the screen.</span></span>  
+8.  <span data-ttu-id="348c2-113">काम पूरा होने पर, स्‍क्रीन के निचले दाएँ कोने में स्थित **सहेजें** पर क्लिक करें.</span><span class="sxs-lookup"><span data-stu-id="348c2-113">When you’re done, click **Save** at the bottom right corner of the screen.</span></span>  
   
-### <a name="see-also"></a><span data-ttu-id="ea305-114">यह भी देखें</span><span class="sxs-lookup"><span data-stu-id="ea305-114">See Also</span></span>  
- [<span data-ttu-id="ea305-115">Project Service कॉन्फ़िगर करें</span><span class="sxs-lookup"><span data-stu-id="ea305-115">Configure Project Service</span></span>](../psa/configure.md)
+### <a name="see-also"></a><span data-ttu-id="348c2-114">यह भी देखें</span><span class="sxs-lookup"><span data-stu-id="348c2-114">See Also</span></span>  
+ [<span data-ttu-id="348c2-115">Project Service कॉन्फ़िगर करें</span><span class="sxs-lookup"><span data-stu-id="348c2-115">Configure Project Service</span></span>](../psa/configure.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

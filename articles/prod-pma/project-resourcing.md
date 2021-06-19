@@ -2,11 +2,9 @@
 title: प्रोजेक्ट रिसोर्सिंग होम पृष्ठ
 description: यह विषय प्रोजेक्ट रिसोर्सिंग की जानकारी देता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,43 +16,43 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: f2bab78628333f2d8a6996277ca3a9e63052e939
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 00632be050b2ac98aaa6b98c3b09ff324c606e72
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289101"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6009708"
 ---
-# <a name="project-resourcing-home-page"></a><span data-ttu-id="21b1f-103">प्रोजेक्ट रिसोर्सिंग होम पृष्ठ</span><span class="sxs-lookup"><span data-stu-id="21b1f-103">Project resourcing home page</span></span>
+# <a name="project-resourcing-home-page"></a><span data-ttu-id="ff02a-103">प्रोजेक्ट रिसोर्सिंग होम पृष्ठ</span><span class="sxs-lookup"><span data-stu-id="ff02a-103">Project resourcing home page</span></span>
 
 [!include [banner](../includes/banner.md)]
 
-<span data-ttu-id="21b1f-104">यह विषय प्रोजेक्ट रिसोर्सिंग की जानकारी देता है.</span><span class="sxs-lookup"><span data-stu-id="21b1f-104">This topic provides information about project resourcing.</span></span>
+<span data-ttu-id="ff02a-104">यह विषय प्रोजेक्ट रिसोर्सिंग की जानकारी देता है.</span><span class="sxs-lookup"><span data-stu-id="ff02a-104">This topic provides information about project resourcing.</span></span>
 
-<span data-ttu-id="21b1f-105">परियोजना नियोजन चरण के दौरान परियोजना प्रबन्धकों और संसाधन प्रबन्धकों के लिए संसाधन आवंटन एक चुनौती होती है, जहां उन्हें परियोजना पर काम करने के लिए सही संसाधन निर्धारित और आरक्षित करना होता है.</span><span class="sxs-lookup"><span data-stu-id="21b1f-105">One challenge for project managers and resource managers during the project planning stage is resource allocation, where they must determine and reserve the correct resource to work on a project.</span></span> <span data-ttu-id="21b1f-106">Dynamics 365 Finance में, परियोजनाओं के लिए क्षमताओं का संसाधनीकरण आपको ऐसी भूमिकाओं को परिभाषित करने देता है, जिन्हें ऐसे अस्थायी संसाधन माना जाता है, जो एक विशिष्ट जुड़ाव या जुड़ाव के भाग के लिए आरक्षित हो सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="21b1f-106">In Dynamics 365 Finance, resourcing capabilities for projects let you define roles that are treated as temporary resources that can be reserved for a specific engagement or part of an engagement.</span></span> <span data-ttu-id="21b1f-107">इस प्रकार के संसाधनीकरण से परियोजना प्रबन्धक और संसाधन प्रबन्धक निम्नलिखित कार्यों को पूरा कर सकते हैं:</span><span class="sxs-lookup"><span data-stu-id="21b1f-107">This type of resourcing lets project managers and resource managers complete the following tasks:</span></span>
+<span data-ttu-id="ff02a-105">परियोजना नियोजन चरण के दौरान परियोजना प्रबन्धकों और संसाधन प्रबन्धकों के लिए संसाधन आवंटन एक चुनौती होती है, जहां उन्हें परियोजना पर काम करने के लिए सही संसाधन निर्धारित और आरक्षित करना होता है.</span><span class="sxs-lookup"><span data-stu-id="ff02a-105">One challenge for project managers and resource managers during the project planning stage is resource allocation, where they must determine and reserve the correct resource to work on a project.</span></span> <span data-ttu-id="ff02a-106">Dynamics 365 Finance में, परियोजनाओं के लिए क्षमताओं का संसाधनीकरण आपको ऐसी भूमिकाओं को परिभाषित करने देता है, जिन्हें ऐसे अस्थायी संसाधन माना जाता है, जो एक विशिष्ट जुड़ाव या जुड़ाव के भाग के लिए आरक्षित हो सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="ff02a-106">In Dynamics 365 Finance, resourcing capabilities for projects let you define roles that are treated as temporary resources that can be reserved for a specific engagement or part of an engagement.</span></span> <span data-ttu-id="ff02a-107">इस प्रकार के संसाधनीकरण से परियोजना प्रबन्धक और संसाधन प्रबन्धक निम्नलिखित कार्यों को पूरा कर सकते हैं:</span><span class="sxs-lookup"><span data-stu-id="ff02a-107">This type of resourcing lets project managers and resource managers complete the following tasks:</span></span>
 
-- <span data-ttu-id="21b1f-108">एक ऐसी भूमिका को परिभाषित करना जिसमें आवश्यक योग्यताएं हों, ताकि संसाधनों का मिलान करना आसान हो.</span><span class="sxs-lookup"><span data-stu-id="21b1f-108">Define a role that has the required competencies, so that it's easy to match resources.</span></span>
-- <span data-ttu-id="21b1f-109">एक प्रारंभिक जुड़ाव शेड्यूल को परिभाषित करने के लिए भूमिकाओं का उपयोग करना जो आरक्षित संसाधनों पर आधारित है.</span><span class="sxs-lookup"><span data-stu-id="21b1f-109">Use roles to define an initial engagement schedule that is based on reserved resources.</span></span>
-- <span data-ttu-id="21b1f-110">लागतों का अनुमान लगाना और एक परियोजना के लिए निर्धारित भूमिकाओं और संसाधनों के आधार पर एक प्रारंभिक बजट निर्धारित करना.</span><span class="sxs-lookup"><span data-stu-id="21b1f-110">Estimate costs and determine an initial budget, based on assigned roles and resources for a project.</span></span>
-- <span data-ttu-id="21b1f-111">प्रत्येक जुड़ाव के लिए आवश्यक संसाधन आरक्षणों की संख्या का अनुमान लगाने के लिए भूमिकाओं का उपयोग करना.</span><span class="sxs-lookup"><span data-stu-id="21b1f-111">Use roles to estimate the number of resource reservations that are required for each engagement.</span></span>
-- <span data-ttu-id="21b1f-112">किसी परियोजना के संपूर्ण जीवन चक्र के लिए आवश्यक संसाधनों की संख्या का अनुमान लगाना.</span><span class="sxs-lookup"><span data-stu-id="21b1f-112">Estimate the number of resources that are required for the whole life cycle of a project.</span></span>
-- <span data-ttu-id="21b1f-113">प्रारंभिक संसाधन नियतन का उपयोग करके एक कार्य-विश्लेषण संरचना (WBS) का मसौदा बनाना.</span><span class="sxs-lookup"><span data-stu-id="21b1f-113">Draft a work breakdown structure (WBS) by using the initial resource assignments.</span></span>
+- <span data-ttu-id="ff02a-108">एक ऐसी भूमिका को परिभाषित करना जिसमें आवश्यक योग्यताएं हों, ताकि संसाधनों का मिलान करना आसान हो.</span><span class="sxs-lookup"><span data-stu-id="ff02a-108">Define a role that has the required competencies, so that it's easy to match resources.</span></span>
+- <span data-ttu-id="ff02a-109">एक प्रारंभिक जुड़ाव शेड्यूल को परिभाषित करने के लिए भूमिकाओं का उपयोग करना जो आरक्षित संसाधनों पर आधारित है.</span><span class="sxs-lookup"><span data-stu-id="ff02a-109">Use roles to define an initial engagement schedule that is based on reserved resources.</span></span>
+- <span data-ttu-id="ff02a-110">लागतों का अनुमान लगाना और एक परियोजना के लिए निर्धारित भूमिकाओं और संसाधनों के आधार पर एक प्रारंभिक बजट निर्धारित करना.</span><span class="sxs-lookup"><span data-stu-id="ff02a-110">Estimate costs and determine an initial budget, based on assigned roles and resources for a project.</span></span>
+- <span data-ttu-id="ff02a-111">प्रत्येक जुड़ाव के लिए आवश्यक संसाधन आरक्षणों की संख्या का अनुमान लगाने के लिए भूमिकाओं का उपयोग करना.</span><span class="sxs-lookup"><span data-stu-id="ff02a-111">Use roles to estimate the number of resource reservations that are required for each engagement.</span></span>
+- <span data-ttu-id="ff02a-112">किसी परियोजना के संपूर्ण जीवन चक्र के लिए आवश्यक संसाधनों की संख्या का अनुमान लगाना.</span><span class="sxs-lookup"><span data-stu-id="ff02a-112">Estimate the number of resources that are required for the whole life cycle of a project.</span></span>
+- <span data-ttu-id="ff02a-113">प्रारंभिक संसाधन नियतन का उपयोग करके एक कार्य-विश्लेषण संरचना (WBS) का मसौदा बनाना.</span><span class="sxs-lookup"><span data-stu-id="ff02a-113">Draft a work breakdown structure (WBS) by using the initial resource assignments.</span></span>
 
-<span data-ttu-id="21b1f-114">[![प्रोजेक्ट जीवन चक्र](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)</span><span class="sxs-lookup"><span data-stu-id="21b1f-114">[![Project life cycle](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)</span></span>
+<span data-ttu-id="ff02a-114">[![प्रोजेक्ट जीवन चक्र](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)</span><span class="sxs-lookup"><span data-stu-id="ff02a-114">[![Project life cycle](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)</span></span>
 
-<span data-ttu-id="21b1f-115">जैसे-जैसे परियोजना नियोजन आगे बढ़ता है, नियोजित संसाधनों को कर्मचारियों के संसाधनों से प्रतिस्थापित किया जा सकता है.</span><span class="sxs-lookup"><span data-stu-id="21b1f-115">As project planning proceeds, planned resources can be replaced with staffed resources.</span></span> <span data-ttu-id="21b1f-116">परियोजना प्रबंधक वापस जाकर किसी भी परियोजना के चरण के दौरान संसाधनीकरण आरक्षण को अपडेट कर सकता है.</span><span class="sxs-lookup"><span data-stu-id="21b1f-116">The project manager can also go back and update the resourcing reservations during any project stage.</span></span>
+<span data-ttu-id="ff02a-115">जैसे-जैसे परियोजना नियोजन आगे बढ़ता है, नियोजित संसाधनों को कर्मचारियों के संसाधनों से प्रतिस्थापित किया जा सकता है.</span><span class="sxs-lookup"><span data-stu-id="ff02a-115">As project planning proceeds, planned resources can be replaced with staffed resources.</span></span> <span data-ttu-id="ff02a-116">परियोजना प्रबंधक वापस जाकर किसी भी परियोजना के चरण के दौरान संसाधनीकरण आरक्षण को अपडेट कर सकता है.</span><span class="sxs-lookup"><span data-stu-id="ff02a-116">The project manager can also go back and update the resourcing reservations during any project stage.</span></span>
 
-<span data-ttu-id="21b1f-117">निम्नलिखित विषय उन कार्यों के बारे में जानकारी देते हैं, जिन्हें पूरा करने की ज़रूरत होती है जब आप रिसोर्सिंग परियोजनाओं पर काम रहे होते हैं.</span><span class="sxs-lookup"><span data-stu-id="21b1f-117">The following topics provide information about the tasks that need to be completed when you are working on resourcing projects.</span></span>
+<span data-ttu-id="ff02a-117">निम्नलिखित विषय उन कार्यों के बारे में जानकारी देते हैं, जिन्हें पूरा करने की ज़रूरत होती है जब आप रिसोर्सिंग परियोजनाओं पर काम रहे होते हैं.</span><span class="sxs-lookup"><span data-stu-id="ff02a-117">The following topics provide information about the tasks that need to be completed when you are working on resourcing projects.</span></span>
 
-- [<span data-ttu-id="21b1f-118">प्रोजेक्ट संसाधन सेट अप करना</span><span class="sxs-lookup"><span data-stu-id="21b1f-118">Set up project resources</span></span>](set-up-project-resources.md)
-- [<span data-ttu-id="21b1f-119">संसाधन दक्षताओं को प्रबंधित करें</span><span class="sxs-lookup"><span data-stu-id="21b1f-119">Manage resource competencies</span></span>](manage-resource-competencies.md)
-- [<span data-ttu-id="21b1f-120">नई परियोजना बनाएँ</span><span class="sxs-lookup"><span data-stu-id="21b1f-120">Create a new project</span></span>](create-new-project.md)
-- [<span data-ttu-id="21b1f-121">भूमिका-आधारित मूल्य निर्धारण सेट अप करें</span><span class="sxs-lookup"><span data-stu-id="21b1f-121">Set up role-based pricing</span></span>](set-up-role-based-pricing.md)
-- [<span data-ttu-id="21b1f-122">एक परियोजना टीम बनाएँ</span><span class="sxs-lookup"><span data-stu-id="21b1f-122">Create a project team</span></span>](create-project-team.md)
-- [<span data-ttu-id="21b1f-123">संसाधन क्षमता सिंक्रनाइज़ करें</span><span class="sxs-lookup"><span data-stu-id="21b1f-123">Synchronize resource capacity</span></span>](synchronize-resource-capacity.md)
-- [<span data-ttu-id="21b1f-124">परियोजना संसाधन शेड्यूलिंग प्रदर्शन</span><span class="sxs-lookup"><span data-stu-id="21b1f-124">Project resource scheduling performance</span></span>](project-scheduling-performance.md)
-- [<span data-ttu-id="21b1f-125">कार्य विभाजन संरचना टेम्पलेट पर भूमिकाएं सेट करें</span><span class="sxs-lookup"><span data-stu-id="21b1f-125">Set up roles on Work breakdown structure templates</span></span>](set-up-roles-wbs-template.md)
-- [<span data-ttu-id="21b1f-126">योजनाबद्ध संसाधनों के लिए संसाधन की पूर्ति</span><span class="sxs-lookup"><span data-stu-id="21b1f-126">Resource fulfillment for planned resources</span></span>](resource-fulfillment-planned-resources.md)
+- [<span data-ttu-id="ff02a-118">प्रोजेक्ट संसाधन सेट अप करना</span><span class="sxs-lookup"><span data-stu-id="ff02a-118">Set up project resources</span></span>](set-up-project-resources.md)
+- [<span data-ttu-id="ff02a-119">संसाधन दक्षताओं को प्रबंधित करें</span><span class="sxs-lookup"><span data-stu-id="ff02a-119">Manage resource competencies</span></span>](manage-resource-competencies.md)
+- [<span data-ttu-id="ff02a-120">नई परियोजना बनाएँ</span><span class="sxs-lookup"><span data-stu-id="ff02a-120">Create a new project</span></span>](create-new-project.md)
+- [<span data-ttu-id="ff02a-121">भूमिका-आधारित मूल्य निर्धारण सेट अप करें</span><span class="sxs-lookup"><span data-stu-id="ff02a-121">Set up role-based pricing</span></span>](set-up-role-based-pricing.md)
+- [<span data-ttu-id="ff02a-122">एक परियोजना टीम बनाएँ</span><span class="sxs-lookup"><span data-stu-id="ff02a-122">Create a project team</span></span>](create-project-team.md)
+- [<span data-ttu-id="ff02a-123">संसाधन क्षमता सिंक्रनाइज़ करें</span><span class="sxs-lookup"><span data-stu-id="ff02a-123">Synchronize resource capacity</span></span>](synchronize-resource-capacity.md)
+- [<span data-ttu-id="ff02a-124">परियोजना संसाधन शेड्यूलिंग प्रदर्शन</span><span class="sxs-lookup"><span data-stu-id="ff02a-124">Project resource scheduling performance</span></span>](project-scheduling-performance.md)
+- [<span data-ttu-id="ff02a-125">कार्य विभाजन संरचना टेम्पलेट पर भूमिकाएं सेट करें</span><span class="sxs-lookup"><span data-stu-id="ff02a-125">Set up roles on Work breakdown structure templates</span></span>](set-up-roles-wbs-template.md)
+- [<span data-ttu-id="ff02a-126">योजनाबद्ध संसाधनों के लिए संसाधन की पूर्ति</span><span class="sxs-lookup"><span data-stu-id="ff02a-126">Resource fulfillment for planned resources</span></span>](resource-fulfillment-planned-resources.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
