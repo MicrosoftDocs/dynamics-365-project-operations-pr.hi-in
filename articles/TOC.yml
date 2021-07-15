@@ -28,6 +28,8 @@
               href: environment/resource-apply-pro-setup-config-data.md
         - name: परिवेश परिनियोजित करें
           items:
+            - name: ड्यूअल-राइट सपोर्ट के साथ Project Operations Dataverse ऐप को मैन्युअल रूप से परिनियोजित करें
+              href: environment/resource-manual-deploy-dataverse-dualwrite.md
             - name: एक नया परिवेश प्रोविज़न करें
               href: environment/resource-provision-new-environment.md
             - name: सुरक्षा मॉडल
@@ -52,6 +54,10 @@
               href: environment/resource-dual-write-vendor-invoice.md
     - name: नया क्या है
       items:
+        - name: जुलाई 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-july-2021-resource-based.md
+        - name: जून 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-june-2021-resource-based.md
         - name: मई 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-may-2021-resource-based.md
         - name: अप्रैल 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
@@ -282,7 +288,7 @@
           items:
             - name: कॉपी परियोजना के साथ परियोजना टेम्पलेट विकसित करें
               href: project-management/dev-copy-project.md
-            - name: शेड्यूल API (सार्वजनिक पूर्वावलोकन) का उपयोग करें
+            - name: परियोजना शेड्यूल API (सार्वजनिक पूर्वावलोकन) का उपयोग करें
               href: project-management/schedule-api-preview.md
     - name: संसाधन प्रबंधन
       items:
@@ -434,10 +440,8 @@
           href: procurement/pending-vendor-invoices.md
     - name: इनवॉइस प्रक्रिया
       items:
-        - name: इनवॉइस प्रक्रिया का ओवरव्यू
+        - name: इनवॉइसिंग प्रक्रिया का अवलोकन
           href: invoicing/post-project-invoices.md
-        - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
-          href: invoicing/format-update-project-invoice-proposals.md
         - name: प्रोफ़ॉर्मा इनवॉइसिंग
           items:
             - name: परियोजना-आधारित बिलिंग बैकलॉग प्रबंधित करें
@@ -456,8 +460,22 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: परियोजना-आधारित इनवॉइस स्वचालन कॉन्फ़िगर करें
               href: proforma-invoicing/configure-automated-invoice-creation.md
-        - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
-          href: invoicing/format-update-project-invoice-proposals.md
+        - name: ग्राहक इनवॉइसिंग
+          items:
+            - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
+              href: invoicing/format-update-project-invoice-proposals.md
+            - name: ड्राफ़्ट परियोजना इनवॉइस प्रस्तावों पर सही लेखांकन
+              href: invoicing/correct-project-invoice-proposals.md
+        - name: इंटरकंपनी इनवॉइसिंग
+          items:
+            - name: इंटरकंपनी इनवॉइसिंग का अवलोकन
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: इंटरकंपनी इनवॉइस को कॉन्फ़िगर करें
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: इंटरकंपनी लेन-देन बनाएँ
+              href: project-accounting/create-intercompany-transactions.md
+            - name: इंटरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: परियोजना लेखांकन
       items:
         - name: वित्तीय आयाम डिफ़ॉल्ट
@@ -470,16 +488,6 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Project Operations में एकीकरण जर्नल
           href: project-accounting/project-operations-integration-journal.md
-        - name: इंटरकंपनी इनवॉइसिंग
-          items:
-            - name: इंटरकंपनी इनवॉइसिंग का अवलोकन
-              href: project-accounting/intercompany-invoicing-overview.md
-            - name: इंटरकंपनी इनवॉइस को कॉन्फ़िगर करें
-              href: project-accounting/configure-intercompany-invoicing.md
-            - name: इंटरकंपनी लेन-देन बनाएँ
-              href: project-accounting/create-intercompany-transactions.md
-            - name: इंटरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ
-              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: राजस्व मान्यता
       items:
         - name: राजस्व मान्यता का अवलोकन
@@ -512,6 +520,10 @@
           href: environment/security-model.md
     - name: नया क्या है
       items:
+        - name: नया क्या है जुलाई 2021 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-july-2021-lite.md
+        - name: नया क्या है जून 2021 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-june-2021-lite.md
         - name: नया क्या है मई 2021 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-may-2021-lite.md
         - name: नया क्या है अप्रैल 2021 - लाइट परिनियोजन
@@ -762,7 +774,7 @@
           items:
             - name: कॉपी परियोजना के साथ परियोजना टेम्पलेट विकसित करें
               href: project-management/dev-copy-project.md
-            - name: शेड्यूल API (सार्वजनिक पूर्वावलोकन) का उपयोग करें
+            - name: परियोजना शेड्यूल API (सार्वजनिक पूर्वावलोकन) का उपयोग करें
               href: project-management/schedule-api-preview.md
     - name: संसाधन प्रबंधन
       items:
@@ -882,6 +894,10 @@
   items:
     - name: नया क्या है
       items:
+        - name: नया क्या है जुलाई 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
+        - name: नया क्या है मई 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-may-2021-stocked.md
         - name: नया क्या है अप्रैल 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
           href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: नया क्या है मार्च 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
@@ -1034,6 +1050,10 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 33, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-33.md
+        - name: 'अद्यतन रिलीज़ 32.5, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-32-5.md
         - name: 'अद्यतन रिलीज़ 32, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-32.md
         - name: 'अद्यतन रिलीज़ 31, V3 में नया क्या है या क्या बदल गया है'
