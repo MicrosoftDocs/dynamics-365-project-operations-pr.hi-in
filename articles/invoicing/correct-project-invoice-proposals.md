@@ -1,0 +1,42 @@
+---
+title: ड्राफ्ट प्रोजेक्ट इनवॉइस प्रस्तावों पर लेखांकन को ठीक करें
+description: यह विषय बताता है कि ड्राफ्ट इनवॉइस प्रस्ताव पर लेखांकन से संबंधित जानकारी को कैसे समायोजित किया जाए.
+author: sigitac
+ms.date: 06/07/2021
+ms.topic: article
+ms.reviewer: kfend
+ms.author: sigitac
+ms.openlocfilehash: 387dc9a81db9c22f170b664152cbafeddf72d149
+ms.sourcegitcommit: e93f436afbb92a312fc71b6371866f01927e49d5
+ms.translationtype: HT
+ms.contentlocale: hi-IN
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "6251222"
+---
+# <a name="correct-the-accounting-on-draft-project-invoice-proposals"></a><span data-ttu-id="6ab79-103">ड्राफ्ट प्रोजेक्ट इनवॉइस प्रस्तावों पर लेखांकन को ठीक करें</span><span class="sxs-lookup"><span data-stu-id="6ab79-103">Correct the accounting on draft project invoice proposals</span></span>
+
+<span data-ttu-id="6ab79-104">_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_</span><span class="sxs-lookup"><span data-stu-id="6ab79-104">_**Applies To:** Project Operations for resource/non-stocked based scenarios_</span></span>
+
+<span data-ttu-id="6ab79-105">*परिचालन विवरण* प्रोजेक्ट इनवॉइस के लिए प्रोजेक्ट प्रबंधक द्वारा प्रो फॉर्मा इनवॉइस पर बनाए रखा जाता है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-105">*Operational details* for project invoices are maintained by the project manager on a pro forma invoice.</span></span> <span data-ttu-id="6ab79-106">इन विवरणों में घंटे, व्यय, सामग्री, या माइलस्टोन के बारे में निर्णय, मूल्य और अग्रिम तथा संग्रण राशि के आवेदन शामिल हैं, जिन्हें इनवॉइस किया जाना चाहिए.</span><span class="sxs-lookup"><span data-stu-id="6ab79-106">These details include the decision about the hours, expenses, materials, or milestones that must be invoiced, the rates, and the application of advance and retainer amounts.</span></span> <span data-ttu-id="6ab79-107">मूल प्रो फ़ॉर्मा इनवॉइस की पुष्टि करने के बाद, आप [सुधारात्मक प्रो फॉर्मा इनवॉइस](../proforma-invoicing/corrective-invoices.md) बनाकर और पुष्टि करके परिचालन विवरण समायोजित कर सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="6ab79-107">After you confirm the original pro forma invoice, you can adjust the operational details by creating and confirming a [corrective pro forma invoice](../proforma-invoicing/corrective-invoices.md).</span></span>
+
+<span data-ttu-id="6ab79-108">*लेखांकन विवरण* प्रोजेक्ट इनवॉइस के लिए ग्राहक-समक्ष इनवॉइस दस्तावेज़ में बनाए रखा जाता है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-108">*Accounting details* for project invoices are maintained in a customer-facing invoice document.</span></span> <span data-ttu-id="6ab79-109">इन विवरणों में बिक्री कर परिकलन और इनवॉइस पर लागू होने वाले वित्तीय आयाम शामिल हैं.</span><span class="sxs-lookup"><span data-stu-id="6ab79-109">These details include the sales tax calculation and the financial dimensions that are applied to the invoice.</span></span> <span data-ttu-id="6ab79-110">यह विषय इस बारे में विवरण प्रदान करता है कि इन लेखांकन विवरणों को ड्राफ्ट प्रोजेक्ट इनवॉइस प्रस्ताव पर कैसे समायोजित किया जा सकता है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-110">This topic provides details about how these accounting details can be adjusted on a draft project invoice proposal.</span></span>
+
+## <a name="adjust-sales-tax"></a><span data-ttu-id="6ab79-111">विक्रय कर समायोजित करना</span><span class="sxs-lookup"><span data-stu-id="6ab79-111">Adjust sales tax</span></span>
+
+<span data-ttu-id="6ab79-112">डिफ़ॉल्ट बिलिंग बिक्री कर समूह और आइटम बिक्री कर समूह सीधे इनवॉइस प्रस्ताव दस्तावेज़ पर समायोजित किए जा सकते हैं.</span><span class="sxs-lookup"><span data-stu-id="6ab79-112">Default billing sales tax groups and item sales tax groups can be adjusted directly on the invoice proposal document.</span></span> <span data-ttu-id="6ab79-113">इन समूहों को समायोजित करने के लिए, **संपादित करें** चुनें और फिर, प्रत्येक प्रोजेक्ट इनवॉइस प्रस्ताव लाइन पर, **विक्रय कर समूह** या **आइटम विक्रय कर समूह** फ़ील्ड में नया मान दर्ज करें.</span><span class="sxs-lookup"><span data-stu-id="6ab79-113">To adjust these groups, select **Edit**, and then, on each project invoice proposal line, enter a new value in the **Sales tax group** or **Item sales tax group** field.</span></span>
+
+## <a name="adjust-financial-dimensions"></a><span data-ttu-id="6ab79-114">वित्तीय आयाम समायोजित करना</span><span class="sxs-lookup"><span data-stu-id="6ab79-114">Adjust financial dimensions</span></span>
+
+<span data-ttu-id="6ab79-115">वित्तीय आयामों को सीधे प्रोजेक्ट इनवॉइस प्रस्ताव लाइन पर संपादित नहीं किया जा सकता है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-115">Financial dimensions can't be edited directly on a project invoice proposal line.</span></span> <span data-ttu-id="6ab79-116">इसके बजाय, प्रोजेक्ट इनवॉइस प्रस्ताव पर वित्तीय आयामों को समायोजित करने के लिए इन चरणों का पालन करें.</span><span class="sxs-lookup"><span data-stu-id="6ab79-116">Instead, follow these steps to adjust financial dimensions on a project invoice proposal.</span></span>
+
+1. <span data-ttu-id="6ab79-117">प्रोजेक्ट इनवॉइस प्रस्ताव पर, प्रोजेक्ट इनवॉइस प्रस्ताव लाइनों को हटाने के लिए **सभी हटाएँ** चुनें.</span><span class="sxs-lookup"><span data-stu-id="6ab79-117">On the project invoice proposal, select **Delete all** to remove the project invoice proposal lines.</span></span>
+
+    > [!NOTE]
+    > <span data-ttu-id="6ab79-118">**सभी हटाएँ** बटन तभी उपलब्ध होता है, जब सिस्टम व्यवस्थापक **फ़ीचर प्रबंधन** कार्यस्थान में, **संसाधन आधारित/गैर-स्टॉक किए गए परिदृश्यों के लिए Project Operations का उपयोग करते समय इनवॉइस प्रस्ताव लाइनों को हटा दें** सुविधा सक्षम करता है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-118">The **Delete all** button is available only after the system administrator enables the **Delete invoice proposal lines when using Project Operations for resource based/ non-stocked scenarios** feature in the **Feature management** workspace.</span></span>
+
+2. <span data-ttu-id="6ab79-119">वित्तीय आयाम समायोजित करें:</span><span class="sxs-lookup"><span data-stu-id="6ab79-119">Adjust the financial dimensions:</span></span>
+
+    - <span data-ttu-id="6ab79-120">**ऑन-अकाउंट लेनदेन (बिलिंग माइलस्टोन):** **सभी प्रोजेक्ट** \> **प्रबंधित करें** \> **ऑन-अकाउंट लेनदेन** पर जाएँ और वह माइलस्टोन चुनें जिसमें समायोजन की आवश्यकता है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-120">**On-account transactions (billing milestones):** Go to **All projects** \> **Manage** \> **On-account transactions**, and select the milestone that requires adjustment.</span></span> <span data-ttu-id="6ab79-121">फिर **वित्तीय आयाम** टैब पर, आवश्यकतानुसार मानों को अद्यतित करें.</span><span class="sxs-lookup"><span data-stu-id="6ab79-121">Then, on the **Financial dimensions** tab, update the values as required.</span></span>
+    - <span data-ttu-id="6ab79-122">**समय, व्यय और भौतिक लेनदेन:** वित्तीय आयामों को अद्यतन करने के लिए **पोस्ट किए गए प्रोजेक्ट लेनदेन** पेज पर, **लेखांकन समायोजित करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="6ab79-122">**Time, expense, and material transactions:** On the **Posted project transactions** page, select **Adjust accounting** to update the financial dimensions.</span></span>
+
+3. <span data-ttu-id="6ab79-123">वित्तीय आयाम मानों को समायोजित करने के बाद, **परियोजना प्रबंधन और लेखांकन** \> **सामयिक** \> **Project Operations एकीकरण** पर जाएं और आवधिक प्रक्रिया चलाने के लिए **स्टेजिंग तालिका से आयात करें** चुनें.</span><span class="sxs-lookup"><span data-stu-id="6ab79-123">After you've finished adjusting the financial dimension values, go to **Project management and accounting** \> **Periodic** \> **Project Operations integration**, and select **Import from staging table** to run the periodic process.</span></span> <span data-ttu-id="6ab79-124">यह प्रक्रिया प्रोजेक्ट इनवॉइस प्रस्ताव पंक्तियों को फिर से बनाने के लिए अद्यतित वित्तीय आयाम मानों का उपयोग करती है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-124">That process uses the updated financial dimension values to re-create the project invoice proposal lines.</span></span> <span data-ttu-id="6ab79-125">प्रोजेक्ट इनवॉइस पोस्ट किए जाने पर अद्यतित किए गए मानों का उपयोग प्रोजेक्ट सबलेजर और सामान्य लेजर में किया जाता है.</span><span class="sxs-lookup"><span data-stu-id="6ab79-125">The updated values are then used in the project subledger and general ledger when the project invoice is posted.</span></span>
