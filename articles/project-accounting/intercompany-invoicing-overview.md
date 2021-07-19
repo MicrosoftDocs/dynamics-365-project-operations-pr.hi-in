@@ -6,16 +6,17 @@ ms.date: 11/19/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 42af89105f8325f1c94df6d2133d2c329facf2b3
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.custom: intro-internal
+ms.openlocfilehash: c1dcf642f79ce64cb83285ac6dc6d7eaf815145c
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002643"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6369378"
 ---
 # <a name="intercompany-invoicing-overview"></a>अंतरकंपनी इनवॉइसिंग ओवरव्यू
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 आपके संगठन में कई विभाग, सहायक और अन्य कानूनी संस्थाएं हो सकती हैं जो उत्पादों और सेवाओं को परियोजनाओं के लिए एक दूसरे को हस्तांतरित करती हैं. सेवा या उत्पाद प्रदान करने वाले कानूनी निकाय को *लेंडिंग कानूनी निकाय* कहा जाता है. सेवा या उत्पाद प्राप्त करने वाले कानूनी निकाय को *बॉरोइंग कानूनी निकाय* कहा जाता है.
 

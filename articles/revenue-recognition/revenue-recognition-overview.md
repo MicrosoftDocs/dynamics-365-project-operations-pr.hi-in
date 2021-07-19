@@ -6,16 +6,17 @@ ms.date: 11/16/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: f5f962572c6ec0298d2d91d33f83e4120a498a6f
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.custom: intro-internal
+ms.openlocfilehash: ab9b36b71223b1bcfe48de5f9b68b6fb6a98f388
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6013758"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6368028"
 ---
 # <a name="revenue-recognition-overview"></a>आय पहचान ओवरव्यू
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 Dynamics 365 Project Operations में, आय पहचान सिद्धांत परियोजना या परियोजना के हिस्से के लिए चयनित बिलिंग विधि के आधार पर भिन्न होते हैं. इस विषय में Project Operations में आय पहचान के बारे में जानकारी दी गई है.
 

@@ -6,16 +6,17 @@ ms.date: 01/29/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 13f16d42ffdc0a9a6f369c311dfd9e15ad3f7aff
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.custom: intro-internal
+ms.openlocfilehash: 0eab33c8640f665555cf5ec5b0f188e5af65a493
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6001518"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6369018"
 ---
 # <a name="invoicing-process-overview"></a>इनवॉइस करने की प्रक्रिया का अवलोकन
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, परियोजना प्रबंधक और लेनदारी लेखे क्लर्क/ परियोजना लेखापाल, दोनों की आवश्यकताओं के अनुरूप व्यापक क्षमताएं प्रदान करता है. इनवॉइस की प्रक्रिया के लिए, परियोजना प्रबंधक परियोजना बिलिंग बैकलॉग का प्रबंधन करता है और लेनदारी लेखे क्लर्क/ परियोजना लेखापाल एक अनुपालक और सटीक ग्राहक-संबंधी इनवॉइस दस्तावेज़ बनाता है.
 
