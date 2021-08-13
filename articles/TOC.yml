@@ -832,6 +832,16 @@
           items:
             - name: संसाधन उपयोग ओवरव्यू
               href: resource-management/resource-utilization-overview.md
+    - name: Project Operations में उपअनुबंध प्रबंधन
+      items:
+        - name: उपअनुबंध ओवरव्यू प्रबंधन
+          href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: उपअनुबंध में प्रमुख अवधारणाएँ
+          href: pro/subcontracting/key-concepts-subcontracting.md
+        - name: विक्रेताओं और परियोजना मूल्य सूचियों का प्रबंधन
+          href: pro/subcontracting/vendors-purchase-price-lists.md
+        - name: बुक करने योग्य संसाधनों के रूप में उपअनुबंध
+          href: pro/subcontracting/subcontractors-as-bookable-resources.md
     - name: समय
       items:
         - name: समय ओवरव्यू
@@ -1050,6 +1060,8 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 34, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-34.md
         - name: 'अद्यतन रिलीज़ 33, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-33.md
         - name: 'अद्यतन रिलीज़ 32.5, V3 में नया क्या है या क्या बदल गया है'
