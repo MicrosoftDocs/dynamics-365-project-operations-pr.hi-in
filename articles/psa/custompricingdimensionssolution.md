@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ae7f22b9cb092e956d0f1eaf1f1997c8e97392f4
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 4dea80d8e4645675d3e89e846532ca7c0f292faa328c45938941c50dc15486fc
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6012318"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995268"
 ---
 # <a name="create-custom-solutions-for-pricing-dimensions"></a>मूल्य निर्धारण आयामों के लिए एक कस्टम समाधान बनाएँ
 
@@ -32,7 +32,7 @@ ms.locfileid: "6012318"
 1. **सेटिंग** > **समाधान** चुने और फिर उसके बाद **नया** चुनें. 
 2. समाधान का नाम दें, **\<your organization name> मूल्य निर्धारण के आयामों**, शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
 
-> ![मूल्य निर्धारण आयामों के लिए एक कस्टम समाधान बनाना](media/Creation-of-custom-pricing-dimension-solution.PNG)
+> ![मूल्य निर्धारण आयामों के लिए एक कस्टम समाधान बनाना.](media/Creation-of-custom-pricing-dimension-solution.PNG)
   
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>मूल्य निर्धारण आयाम समाधान के लिए सभी आवश्यक निकायों और संबंधित हिस्सों को जोड़ें
 आपको अपने मूल्य निर्धारण समाधान में निम्नलिखित Project Service इकाइयों को जोड़ना होगा। मूल्य निर्धारण समाधान में कुछ महत्वपूर्ण स्कीमा परिवर्तन करने के लिए इस प्रक्रिया में चरणों को पूरा करें, ताकि निकाय नए मूल्य निर्धारण आयामों से अवगत हो सकें.
@@ -54,16 +54,16 @@ ms.locfileid: "6012318"
 - भूमिका मू्ल्य 
 - समय प्रविष्टि 
 
-> ![मूल्य निर्धारण आयाम समाधान में मौजूदा इकाइयां जोड़ें](media/Existing-entities-to-PD-solution.png)
+> ![मूल्य निर्धारण आयाम समाधान में मौजूदा इकाइयां जोड़ें.](media/Existing-entities-to-PD-solution.png)
 
-> ![समाधान घटक चुनें](media/Dimension-Components.png)
+> ![समाधान घटक चुनें.](media/Dimension-Components.png)
 
 > [!NOTE]
 > चयनित सभी संस्थाओं के लिए सभी फॉर्मों और दृश्य को शामिल करना सुनिश्चित करें।
 
 4. जब चयनित निकायों के लिए किसी भी निर्भर संस्थाओं को शामिल करने के लिए कहा जाए, तो **नहीं** चुनें.
 
-> ![सभी संबंधित हिस्सों को शामिल न करें](media/Do-not-include-required.png)
+> ![सभी संबंधित हिस्सों को शामिल न करें.](media/Do-not-include-required.png)
 
 
 

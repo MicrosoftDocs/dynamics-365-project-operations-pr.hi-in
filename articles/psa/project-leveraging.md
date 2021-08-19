@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 49d109be3d55e7f208edb2698e420f40bb7843df
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 1dac342ead487c50d14f3b2fa39e60314d13b0047b77fe6df8f32dee29b09422
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998413"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995178"
 ---
 # <a name="sales-estimates-and-projects"></a>विक्रय अनुमान और प्रोजेक्ट
 
@@ -35,11 +35,11 @@ ms.locfileid: "5998413"
 
 जब आप प्रोजेक्ट-आधारित कोट लाइन बनाते हैं, आप **कोट लाइन** पेज पर नया प्रोजेक्ट बना सकते हैं या मौजूदा प्रोजेक्ट का एसोसिएट बना सकते हैं। 
 
-> ![कोट लाइन फार्म](media/project-8.png)
+> ![कोट लाइन प्रपत्र.](media/project-8.png)
  
 जब आप कोट लाइन विवरण से नया प्रोजेक्ट बनाते हैं तो आप प्रोजेक्ट के टैम्पलेट का लाभ ले सकते हैं। प्रोजेक्ट टैम्पलेट मॉडल प्रोजेक्ट होते हैं जो किसी संगठन में सामान्य मानक प्रोजेक्ट योजनाओं और वितीय आकलनों को दर्शाते हैं। वे पिछले प्रोजेक्ट की योजनाओं और आकलनों की कॉपी भी हो सकते हैं।
 
-> ![कोटेशन लाइन का विवरण](media/project-9.png)
+> ![कोटेशन पंक्ति का विवरण.](media/project-9.png)
   
 जब आप किसी कोट से प्रोजेक्ट तैयार करते हैं तो यह प्रोजेक्ट अपने आप कोट लाइन से जुड़ जाता है।
 
