@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: d4f1b0ad94b71dc4adc5b2b3423340c5fdb171eb
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 538a2694591f1d0d368ee0ffeed9bdf12cb47420c3d0571f75185fe433f23436
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002269"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986493"
 ---
 # <a name="vendor-invoice-integration"></a>विक्रेता चालान एकीकरण
 
@@ -36,7 +36,7 @@ Project Operations में, प्रोजेक्ट से संबंध
 
 जब विक्रेता चालान पोस्ट किया जाता है तो टैक्स सबलेजर, वेंडर सबलेजर, और अन्य वित्तीय पोस्टिंग को Dynamics 365 Finance में लागू किया जाता है.
 
-![विक्रेता चालान एकीकरण](media/DW7VendorInvoice.png)
+![विक्रेता चालान एकीकरण.](media/DW7VendorInvoice.png)
 
 जब रिकॉर्ड्स को **वेंडर इनवॉइस** निकाय Dataverse में लिखा जाता है, तो रिकॉर्ड्स की एक स्वचालित अनुमोदन प्रक्रिया शुरू होती है. यदि आवश्यकता हो, तो **उन्नत सेटिंग्स** > **प्रणाली** > **प्रणाली कार्य** में जाकर Dataverse में इस स्वचालित अनुमोदन प्रक्रिया की स्थिति की समीक्षा की जा सकती है. अनुमोदन पूर्ण होने के बाद, सिस्टम **एक्चुअल्स** निकाय में सामग्री लेनदेन वर्ग रिकॉर्ड बनाता है.
 

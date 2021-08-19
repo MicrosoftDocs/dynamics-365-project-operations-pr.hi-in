@@ -15,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0ffbb1f7aa25e723c7842259f1c0127b3d2e26d6
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: c551673708ae2d965979136e92326be98252304a601964c1fbc52a329c592712
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6012093"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988968"
 ---
 # <a name="use-bookable-resource-as-a-pricing-dimension"></a>मूल्य निर्धारण आयाम के रूप में बुक करने योग्य संसाधन का उपयोग करें
 
@@ -62,18 +62,18 @@ ms.locfileid: "6012093"
 1. ऐसा करने के लिए, **msdyn_bookableresource** के आयाम पृष्ठ को खोलने के लिए **Pricing Dimensions** ग्रिड में पंक्ति पर डबल-क्लिक करें।
 2. आयाम पृष्ठ पर, **संबंधित** टैब पर, **मूल्य निर्धारण फ़ील्ड नाम** पर क्लिक करें।
 
- ![मूल्य निर्धारण आयाम फ़ील्ड नाम टैब](media/PD-fieldname.png)
+ ![मूल्य निर्धारण आयाम फ़ील्ड नाम टैब.](media/PD-fieldname.png)
 
 4. खुलने वाले संबद्ध दृश्य पर, **नया मूल्य निर्धारण आयाम फ़ील्ड नाम जोड़ें** क्लिक करें।
 
- ![नए मूल्य निर्धारण आयाम फ़ील्ड नाम जोड़ें](media/Add-NewPD-fieldname.png)
+ ![नए मूल्य निर्धारण आयाम फ़ील्ड नाम जोड़ें.](media/Add-NewPD-fieldname.png)
 
 
 यह **msdyn_bookableresource** के लिए **नया मूल्य निर्धारण आयाम फ़ील्ड नाम** पृष्ठ खोलता है। 
 
 5. **msdyn_projectteam** को **इकाई लॉजिकल नाम** फ़ील्ड और **msdyn_bookableresourceid** से **फ़ील्ड नाम** फ़ील्ड जोड़ें। रिकॉर्ड सहेजें.
 
- ![नए मूल्य निर्धारण आयाम क्षेत्र का नाम रूप](media/PD-fieldname-Added.png)
+ ![नए मूल्य निर्धारण आयाम क्षेत्र का नाम प्रपत्र.](media/PD-fieldname-Added.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

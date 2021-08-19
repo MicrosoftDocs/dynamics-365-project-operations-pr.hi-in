@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: a6955dcd1ebe494e0171c30ac4384089da6a8745
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 6696449d80e0915a0c878dbe75cfdf6e268b98ad9f6453bcfc4b424db68021e4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999718"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988203"
 ---
 # <a name="synchronize-project-estimates-directly-from-project-service-automation-to-finance-and-operations"></a>Project Service Automation से Finance and Operations तक सीधे परियोजना आकलनों को सिन्क्रोनाइज करें
 
@@ -38,7 +38,7 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित दृष्टांत दर्शाता है कि Project Service Automation और Finance के बीच डेटा को सिन्क्रोनाइज कैसे किया जाता है.
 
-[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह](./media/ProjectEstimatesFlow.png)](./media/ProjectEstimatesFlow.png)
+[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह.](./media/ProjectEstimatesFlow.png)](./media/ProjectEstimatesFlow.png)
 
 ## <a name="project-hour-estimates"></a>प्रोजेक्ट घंटे का अनुमान
 
@@ -95,7 +95,7 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित चित्रण डेटा इंटीग्रेशन में टेम्पलेट टास्क मैपिंग का उदाहरण दिखाता है. मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Project Service Automation से Finance तक सिन्क्रोनाइज्ड किया जाएगा.
 
-[![डेटा एकीकरण में टेम्पलेट मैपिंग](./media/ProjectHourEstimatesMapping.jpg)](./media/ProjectHourEstimatesMapping.jpg)
+[![डेटा एकीकरण में टेम्पलेट मैपिंग.](./media/ProjectHourEstimatesMapping.jpg)](./media/ProjectHourEstimatesMapping.jpg)
 
 ## <a name="project-expense-estimates"></a>परियोजना व्यय का अनुमान
 
@@ -165,9 +165,9 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित चित्र डेटा एकीकरण में टेम्पलेट कार्य मानचित्रण का उदाहरण प्रदर्शित करते हैं. मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Project Service Automation से Finance तक सिन्क्रोनाइज्ड किया जाएगा.
 
-[![व्यय अनुमान लेन-देन की टेम्पलेट मैपिंग](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
+[![व्यय अनुमान लेन-देन की टेम्पलेट मैपिंग.](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)](./media/ExpenseEstimateTransactionRelationshipsMapping.jpg)
 
-[![व्यय अनुमानों की टेम्पलेट मैपिंग](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
+[![व्यय अनुमानों की टेम्पलेट मैपिंग.](./media/ExpenseEstimatesMapping.jpg)](./media/ExpenseEstimatesMapping.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

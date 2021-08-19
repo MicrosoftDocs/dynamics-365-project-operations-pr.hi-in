@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: db63413456e4b91d308af9c1103000d5cdc693f7
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 85b6c07464e919e363f28d8bc62115e8fb4c72ea6631269b98fd00f324a01cba
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999898"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988113"
 ---
 # <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>Finance and Operations में प्रविष्टि के लिए Project Service Automation से परियोजना एकीकरण जरनल से सीधे परियोजना के वास्तविक आंकड़े सिंक्रनाइज़ करें
 
@@ -42,7 +42,7 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित दृष्टांत दर्शाता है कि Project Service Automation और Finance के बीच डेटा को सिन्क्रोनाइज कैसे किया जाता है.
 
-[![Finance और Operations के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह Finance and Operations](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
+[![Finance और Operations के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह Finance and Operations.](./media/ProjectActualsFlow.jpg)](./media/ProjectActualsFlow.jpg)
 
 ## <a name="project-actuals-from-project-service-automation"></a>Project Service Automation से परियोजना एक्च्यूअल्स
 
@@ -93,9 +93,9 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित चित्र डेटा एकीकरण में टेम्पलेट कार्य मानचित्रण का एक उदाहरण प्रदर्शित करते हैं. मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Project Service Automation से Finance तक सिन्क्रोनाइज्ड किया जाएगा.
 
-[![टेम्पलेट मैपिंग - वास्तविक आंकड़े](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
+[![टेम्पलेट मैपिंग - वास्तविक आंकड़े.](./media/ActualsMapping.jpg)](./media/ActualsMapping.jpg)
 
-[![टेम्पलेट मैपिंग - लेन-देन संबंध](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
+[![टेम्पलेट मैपिंग - लेन-देन संबंध.](./media/TransactionConnections.jpg)](./media/TransactionConnections.jpg)
 
 ## <a name="import-from-staging-table-after-integration-from-project-service-automation"></a>Project Service Automation से एकीकरण के बाद चरण तालिका से आयात
 
@@ -135,9 +135,9 @@ Project Service Automation से Finance तक एक्च्यूअल्�
 
 निम्नलिखित चित्र डेटा एकीकरण में टेम्पलेट कार्य मानचित्रण का उदाहरण प्रदर्शित करते हैं. मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Finance से Project Service Automation तक सिन्क्रोनाइज्ड किया जाएगा.
 
-[![टेम्पलेट मैपिंग - वास्तविक आंकड़े अद्यतन](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
+[![टेम्पलेट मैपिंग - वास्तविक आंकड़े अद्यतन.](./media/ActualsUpdateMapping.jpg)](./media/ActualsUpdateMapping.jpg)
 
-[![टेम्पलेट मैपिंग - लेन-देन अद्यतन](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
+[![टेम्पलेट मैपिंग - लेन-देन अद्यतन.](./media/TransactionConnectionsUpdate.jpg)](./media/TransactionConnectionsUpdate.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

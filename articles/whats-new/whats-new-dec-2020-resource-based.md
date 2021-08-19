@@ -7,16 +7,16 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: e6ff32fff4cce0e848ad6edae827a62e6f33a5aa
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: dd4047c2f1ed89d668882e4a1e162f3df8e452cf1ed6b85e34e6290b33e53814
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5995803"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6984873"
 ---
 # <a name="whats-new-december-2020---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है दिसंबर 2020 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 

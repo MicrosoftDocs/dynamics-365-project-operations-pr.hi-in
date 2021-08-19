@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: acdd228a9eb9d6c6c56f126ccca416613332a838
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: da3e2798079816409ffbcfed911c05f3d51307fef22c48d112802927828faeb2
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6013173"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985008"
 ---
 # <a name="submitting-a-resource-request"></a>संसाधन हेतु अनुरोध सबमिट करना
 
@@ -34,7 +34,7 @@ ms.locfileid: "6013173"
 1. Project Service Automation (PSA) में **प्रोजेक्ट** पृष्ठ पर बुक करने-योग्य संसाधन देखने के लिए **टीम** टैब पर क्लिक करें। 
 2. इस सूची से संसाधन की आवश्यकता वाले जेनेरिक संसाधन का चयन करें और फिर **अनुरोध सब्मिट करें** पर क्लिक करें।
 
-![संसाधन हेतु अनुरोध सबमिट करना](media/RM-how-to-18.png)
+![संसाधन हेतु अनुरोध सबमिट करना.](media/RM-how-to-18.png)
 
 जेनेरिक टीम के सदस्य के अनुरोध की स्थिति परिवर्तित होकर **सब्मिटेड** हो जाएगी।
 

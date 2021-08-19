@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 7c7ca0dbaeb8938fc2254da782b359a5dd29e6da
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 518edcb210e33a7922e8920f896479a79d264ab62742641cc66b7c3a33b6c6e8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6015018"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985143"
 ---
 # <a name="manage-resource-requests-project-service"></a>संसाधन अनुरोध प्रबंधित करना (Project Service)
 
@@ -43,7 +43,7 @@ ms.locfileid: "6015018"
   
    -   **फ़िल्टर** फलक प्रदर्शित करने के लिए **फ़िल्टर** पर क्लिक करें, जो संगठनात्मक इकाई, भूमिका, कौशल या अन्य एट्रिब्यूट के अनुसार आपको अपने परिणामों को फ़िल्टर करने देता है.  
   
-       ![Project Service संसाधन अनुरोध स्क्रीन](../psa/media/project-service-resource-request-screen.png "Project Service संसाधन अनुरोध स्क्रीन")  
+       ![Project Service संसाधन अनुरोध स्क्रीन.](../psa/media/project-service-resource-request-screen.png "परियोजना सेवा संसाधन अनुरोध स्क्रीन")  
   
 3. जिस संसाधन को आप बुक करना चाहते हैं उसके लिए कैलेंडर में, बुक करने की समय अवधि चुनें और उसके बाद या तो संसाधन बुक करने के लिए **बुक करें** पर क्लिक करें या बुकिंग का प्रस्ताव देने के लिए **बुकिंग का प्रस्ताव दें** पर क्लिक करें और अनुरोधकर्ता को अनुमोदन करने दें. जब आप किसी संसाधन को बुक करते हैं, तो आप उसे सॉफ़्ट बुक या हार्ड बुक कर सकते हैं.  
   
