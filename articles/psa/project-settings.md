@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 24032a77834005c444972f8d234d3acb33d19135
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 5f6fec091c50f35589e333fce4b3a296dd736d10dd2f56b6c11209a55b493836
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998323"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996933"
 ---
 # <a name="project-settings"></a>प्रोजेक्ट सेटिंग्‍स
 
@@ -45,9 +45,9 @@ ms.locfileid: "5998323"
 
   - नया साप्ताहिक शेड्यूल
   - एक दिन के लिए कार्य शेड्यूल
-  - समय समाप्त
+  - टाइम ऑफ़
 
-> ![सेट अप विकल्प](media/project-13.png)
+> ![सेट अप विकल्प.](media/project-13.png)
 
 4. **नया साप्ताहिक शेड्यूल** चुनें और उसके बाद इस रिसोर्स के शेड्यूल के लिए ऑप्शन सेट करें। इसमें आप आवर्ती साप्ताहिक शेड्यूल, दैनिक घंटा पैरामीटर, कारोबार समाप्ति जैसी कई सुविधाएँ सेट कर सकते हैं.
 5. डेट रेंज सेट करें, **सहेजें** चुनें और उसके बाद **बंद करें** क्लिक करें। 

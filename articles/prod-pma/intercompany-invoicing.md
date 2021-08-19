@@ -1,5 +1,5 @@
 ---
-title: इंटरकंपनी चालान
+title: इंटरकंपनी इनवॉइसिंग
 description: यह लेख परियोजनाओं के लिए इंटरकंपनी इनवॉइसिंग के बारे में सूचना और उदाहरण उपलब्ध कराता है.
 author: Yowelle
 ms.date: 09/14/2017
@@ -16,14 +16,14 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 9d1debf8f67b7dbe7752075c6f8e5f2cdd37a3ae
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 7c201ccec2069869707409ff6a9236e81e125f06b391c67202927f5c038787d8
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002778"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995808"
 ---
-# <a name="intercompany-invoicing"></a>इंटरकंपनी चालान
+# <a name="intercompany-invoicing"></a>इंटरकंपनी इनवॉइसिंग
 
 [!include [banner](../includes/banner.md)]
 
@@ -33,7 +33,7 @@ ms.locfileid: "6002778"
 
 निम्न चित्रण एक विशिष्ट परिदृश्य को दर्शाता है जहां दो कानूनी इकाई, SI FR(उधार लेने वाली कानूनी इकाई) और SI USA (उधार लेने वाली कानूनी इकाई) ग्राहक A के लिए एक परियोजना प्रदान करने वाले संसाधनों को साझा करते हैं. इस परिदृश्य के लिए, SI FR को ग्राहक A का काम पूरा करने के लिए अनुबंधित किया जाता है. 
 
-[![इंटरकंपनी चालान का उदाहरण](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
+[![इंटरकंपनी चालान का उदाहरण.](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
 
 लक्ष्य इंटरकंपनी परियोजना का लागत नियंत्रण, राजस्व मान्यता, कर और लेनदेन के लिए हस्तांतरण मूल्य को अधिक लचीला और शक्तिशाली बनाना है. इसके अतिरिक्त, निम्न क्षमताएं प्रदान की जाती हैं:
 

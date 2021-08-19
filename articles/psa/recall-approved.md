@@ -15,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 71f75c1c516ca6e652baf311aa14e0c3fd4ba81e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: e90b84bbfcd007e97e96b294144f058ac73746e3d358437692f0a8e6e92b8de3
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998188"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998328"
 ---
 # <a name="recall-approved-time-or-expense-entries"></a>स्वीकृत समय या खर्चों की प्रविष्टियाँ रीकॉल करना
 
@@ -98,13 +98,13 @@ ms.locfileid: "5998188"
 
 निम्नलिखित उदाहरण में ऐसे परिवर्तनों को बताया गया है जो रीकॉल करने पर स्वीकृत समय प्रविष्टियों के कारण होते हैं।
 
-![समय प्रविष्टि अवस्था के लेनदेन](media/TimeEntryStateTransitions.png)
+![समय प्रविष्टि स्थिति के लेनदेन.](media/TimeEntryStateTransitions.png)
 
 ## <a name="changes-to-expense-entry-records"></a>व्यय प्रविष्टि के रिकार्ड में परिवर्तन
 
 निम्नलिखित उदाहरण में ऐसे परिवर्तनों को बताया गया है जो रीकॉल करने पर स्वीकृत खर्च की प्रविष्टियों के कारण होते हैं।
 
-![व्यय प्रविष्टि अवस्था के लेनदेन](media/ExpenseEntryStateTransitions.png)
+![व्यय प्रविष्टि स्थिति के लेनदेन.](media/ExpenseEntryStateTransitions.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

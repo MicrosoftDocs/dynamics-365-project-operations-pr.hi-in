@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1814d3a48611a76ee957967fc6da0b66e821ce5d
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 1b9c19438effff5901426c904fa905afb3e2c09c35aff8559f491c06401806e0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5998008"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996843"
 ---
 # <a name="fulfilling-resource-requests"></a>पूर्णता संसाधन अनुरोध
 
@@ -33,15 +33,15 @@ ms.locfileid: "5998008"
 
 संसाधन अनुरोध **सक्रिय संसाधन अनुरोध** व्यू में एक सूची के रूप में दिखाए जाते हैं।
 
-> ![संसाधन अनुरोधों की सूची](media/Resource-Management-image59.png)
+> ![संसाधन अनुरोधों की सूची.](media/Resource-Management-image59.png)
 
 किसी अनुरोध को पूरा करने के लिए, इसे सूची में चुनें, और फिर **संसाधन खोजें** चुनें। वैकल्पिक रूप से, अनुरोध को खोलने के लिए एक पंक्ति पर डबल-क्लिक करें। फिर, आप उस अनुरोध की आवश्यकताओं को देखने के लिए **संसाधन आवश्यकता** टैब का चयन कर सकते हैं। अनुरोध को पूरा करने के लिए शुरू करने के लिए, **संसाधन ढूंढें** चुनें।
 
-> ![संसाधन अनुरोध विवरण](media/Resource-Management-image60.png)
+> ![संसाधन अनुरोध विवरण.](media/Resource-Management-image60.png)
 
 अनुसूची सहायक प्रकट होता है और यह आवश्यकताओं द्वारा फ़िल्टर किया जाता है। संसाधन का चयन करें, और फिर **बुक** चुनें।
 
-> ![संसाधन चयनित](media/Resource-Management-image61.png)
+> ![संसाधन चयनित.](media/Resource-Management-image61.png)
 
 जेनेरिक टीम के सदस्य को प्रोजेक्ट टीम में हार्ड-बुक नामित संसाधन और प्रोजेक्ट शेड्यूल में टास्क असाइनमेंट्स से बदल दिया जाता है।
 

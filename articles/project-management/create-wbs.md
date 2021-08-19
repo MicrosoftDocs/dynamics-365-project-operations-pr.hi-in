@@ -6,12 +6,12 @@ ms.date: 01/07/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: ac3facacd95e5e677635cb037d0d3458da612410
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 701c386af8a227308d6868deda27a63e6101e85f667b0392501bb0490329f484
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6005703"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998733"
 ---
 # <a name="create-a-work-breakdown-structure-wbs"></a>एक कार्य विश्लेषण संरचना बनाएँ (WBS)
 
@@ -84,7 +84,7 @@ ms.locfileid: "6005703"
 | अवधि | कार्य के लिए अवधि को दिनों में दिखाता है. |
 | कुल प्रयास | कार्य के लिए कुल काम घंटों में. |
 | समाप्त करें | समाप्ति दिनांक और समय. |
-| % पूर्ण | पूर्ण कार्य का प्रतिशत. |
+| % पूरा | पूर्ण कार्य का प्रतिशत. |
 | परियोजना बकेट | कार्य बोर्ड को बकेट द्वारा समूहीकृत किया जा सकता है ताकि प्रत्येक बकेट का अपना स्तंभ हो. |
 | शेष प्रयास (घंटे) | कार्य के लिए बचा हुआ काम घंटों में. |
 | शुरू करें | प्रारंभ दिनांक और समय. |
