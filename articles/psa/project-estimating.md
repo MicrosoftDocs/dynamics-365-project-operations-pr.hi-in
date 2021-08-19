@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 48f313b15f788645b88a4d878e3bece419d63126
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: fe51af8adb7c3831a57494b8359def2a0176b552efe16feb53a2a265f5ffcb0c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6009168"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7002558"
 ---
 # <a name="project-costs-and-revenue"></a>प्रोजेक्ट लागत और राजस्व
 
@@ -31,7 +31,7 @@ ms.locfileid: "6009168"
 
 प्रोजेक्ट के आकलन में प्रोजेक्ट शेड्यूल में आकलित और अनुसूचित कार्य की वित्तीय स्थिति बताई जाती है। **प्रोजेक्ट** पेज पर **अनुमान** टैब आपके द्वारा योजना बनाए जा रहे कार्य की लागत और राजस्व का प्रभाव दर्शाया जाता है। इसमें अनेक पूर्वनिर्धारित डायमेंशन के बारे में भी जानकारी दी गई है। 
 
-> ![अनुमान टैब](media/project-5.png)
+> ![अनुमान टैब.](media/project-5.png)
 
 ## <a name="cost-and-sales-values-of-the-project"></a>प्रोजेक्ट के लागत और विक्रय मूल्य
 
@@ -66,13 +66,13 @@ ms.locfileid: "6009168"
 
 **अनुमान** टैब में एक ग्रिड व्यू होता है जो आकलन लाइनें दिखाता है। इस ग्रिड में यूनिट, कुल लागत कीमत और कुल बिक्री कीमत के कॉलम होते हैं जैसा कि नीचे दिए गए उदाहरण में बताया गया है। 
 
-> ![अनुमान टैब में ग्रिड दृश्य](media/project-6.png)
+> ![अनुमान टैब में ग्रिड दृश्य.](media/project-6.png)
 
 ## <a name="time-phased-view-of-project-estimates"></a>परियोजना अनुमानों का समय-चरणबद्ध दृश्य
 
 प्रोजेक्ट आकलन का टाइम-फेज़्ड व्यू आपके द्वारा चयनित टाइम स्केल में, समय-सीमा पर ग्रिड व्यू से आकलन डेटा दिखाता है। डिफाल्ट द्वारा, आकलन डेटा को **भूमिका** डायमेंशन में पाइवोट किया जाता है।
 
-> ![प्रोजेक्ट आकलन के लिए समय-चरणबद्ध दृश्य](media/project-7.png)
+> ![प्रोजेक्ट आकलन के लिए समय-चरणबद्ध दृश्य.](media/project-7.png)
 
 ## <a name="allocating-estimated-effort-based-on-the-task-mode"></a>टास्क मोड के आधार पर आकलित प्रयास आवंटित करना
 

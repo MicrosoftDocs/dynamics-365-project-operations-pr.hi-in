@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-13
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 2f5fa0143c903f08b3937426805cb43d5d6109e3
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: acb87be977cc009f89ceac5b01c9028d6741b552a441ef49e024b6b078a188d4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999808"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001073"
 ---
 # <a name="synchronize-project-contracts-and-projects-directly-from-project-service-automation-to-finance"></a>परियोजना अनुबंधों और परियोजनाओं को सीधे Project Service Automation से Finance तक सिंक्रनाइज़ करें 
 
@@ -42,7 +42,7 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित दृष्टांत दर्शाता है कि Project Service Automation और Finance के बीच डेटा को सिन्क्रोनाइज कैसे किया जाता है.
 
-[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
+[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह.](./media/ProjectsAndContractsFlow_upd.JPG)](./media/ProjectsAndContractsFlow.JPG)
 
 ## <a name="templates-and-tasks"></a>टेम्पलेट और कार्य
 
@@ -140,17 +140,17 @@ Project Service Automation में एक रूपरेखा परिव�
 
 निम्नलिखित चित्र डेटा एकीकरण में टेम्पलेट कार्य मानचित्रण का उदाहरण प्रदर्शित करते हैं. मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Project Service Automation से Finance तक सिन्क्रोनाइज्ड किया जाएगा.
 
-[![परियोजना अनुबंध टेम्पलेट मैपिंग](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
+[![परियोजना अनुबंध टेम्पलेट मैपिंग.](./media/ProjectContractTemplateMapping.JPG)](./media/ProjectContractTemplateMapping.JPG)
 
-[![परियोजना टेम्पलेट मैपिंग](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
+[![परियोजना टेम्पलेट मैपिंग.](./media/ProjectTemplateMapping.JPG)](./media/ProjectTemplateMapping.JPG)
 
-[![परियोजना अनुबंध पंक्ति टेम्पलेट मैपिंग](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
+[![परियोजना अनुबंध पंक्ति टेम्पलेट मैपिंग.](./media/ProjectContractLinesMapping.JPG)](./media/ProjectContractLinesMapping.JPG)
 
-[![परियोजना अनुबंध पंक्ति माइलस्टोन टेम्पलेट मैपिंग](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
+[![परियोजना अनुबंध पंक्ति माइलस्टोन टेम्पलेट मैपिंग.](./media/ProjectContractLineMilestonesMapping.JPG)](./media/ProjectContractLineMilestonesMapping.JPG)
 
 #### <a name="project-contract-line-milestone-mapping-in-the-projects-and-contracts-psa-3x-to-dynamics---v2-template"></a>परियोजनाओं और अनुबंधों में परियोजना अनुबंध लाइन उपलब्धि मानचित्रण (PSA 3.x से Dynamics) - v2 टेम्पलेट:
 
-[![परियोजना अनुबंध लाइन माइलस्टोन मैपिंग संस्करण दो टेम्पलेट के साथ](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
+[![परियोजना अनुबंध पंक्ति माइलस्टोन मैपिंग संस्करण दो टेम्पलेट के साथ.](./media/ProjectContractLineMilestoneMapping_v2.jpg)](./media/ProjectContractLineMilestoneMapping_v2.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 41c57690fecbc3bee2a1eb5d26f8a6aa56d8bea9
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 40a6a4173cb0e4d7ea5bcf24c8954fe9d7e079d1e9ecf4aac252b5133f12d3ff
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6000528"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003638"
 ---
 # <a name="create-custom-fields-and-entities-as-pricing-dimensions"></a>मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड और निकाय बनाएँ
 
@@ -44,7 +44,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 3. मानक लीड सत्व **मानक शीर्षक** नामक एक नई निकाय बनाने के लिए **नया** चुनें. 
 4. शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
 
-> ![मानक शीर्षक इकाई परिभाषा](media/Standard-Title-entity-definition.png)
+> ![मानक शीर्षक निकाय परिभाषा.](media/Standard-Title-entity-definition.png)
 
 ### <a name="option-set-based-dimensions"></a>विकल्प सेट-आधारित आयाम 
 आप दो विकल्प सेट-आधारित आयाम बना सकते हैं। 
@@ -54,11 +54,11 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 निम्नलिखित ग्राफ़िक **संसाधन कार्य स्थान** आयाम का एक दृश्य प्रदान करता है. 
 
-> ![विकल्प सेट आधारित मूल्य निर्धारण आयाम जिसे संसाधन कार्य स्थान कहा जाता है](media/Option-set-PD-called-Resource-Work-Location.png)
+> ![विकल्प सेट आधारित मूल्य निर्धारण आयाम जिसे संसाधन कार्य स्थान कहा जाता है.](media/Option-set-PD-called-Resource-Work-Location.png)
 
 निम्नलिखित ग्राफ़िक **संसाधन कार्य घंटे** आयाम का एक दृश्य प्रदान करता है. 
 
-> ![विकल्प सेट आधारित मूल्य निर्धारण आयाम जिसे संसाधन कार्य घंटे कहा जाता है](media/Option-set-PD-called-Resource-Work-Hours.png)
+> ![विकल्प सेट आधारित मूल्य निर्धारण आयाम जिसे संसाधन कार्य घंटे कहा जाता है.](media/Option-set-PD-called-Resource-Work-Hours.png)
 
 1. **समायोजन** > **समाधान** पर जाएँ, और डबल-क्लिक करें  **\<your organization name> मूल्य निर्धारण के आयाम**. 
 2. समाधान एक्स्प्लोरर में, बाएं नेविगेशन फलक में, **विकल्प सेट** का चयन करें. 
@@ -74,7 +74,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 4. पृष्ठ बंद करें. 
 5. "सीनियर सिस्टम्स इंजीनियर" के लिए एक और मानक शीर्षक बनाने के लिए चरण 1 - 3 को दोहराएं।
 
-> ![मानक शीर्षक निकाय के लिए नमूना डेटा](media/ST-data.png)
+> ![मानक शीर्षक निकाय के लिए नमूना डेटा.](media/ST-data.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

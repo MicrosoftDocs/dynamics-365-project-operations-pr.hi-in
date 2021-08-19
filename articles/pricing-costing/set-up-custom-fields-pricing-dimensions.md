@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: d40a80f80bd766bfc19e831ea805a4043baf0030
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: e40f0336d98cd8452642eb582c4d9daf2304ceb2532ef75ce9d03a0fa4bd8e8b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6004713"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003593"
 ---
 # <a name="set-up-custom-fields-as-pricing-dimensions"></a>मूल्य निर्धारण आयामों के रूप में कस्टम फ़ील्ड सेटअप
 
@@ -42,11 +42,11 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 - **प्राइस निर्धारण आयाम** टेबल में पंक्ति के रूप में बनाया गया। उदाहरण के लिए निम्न ग्राफिक में दर्शाये गए अनुसार प्राइस निर्धारण आयाम पंक्तियाँ शामिल करें। 
 
-![धनराशि - प्राइस निर्धारण आयाम पंक्तियाँ](media/Amt-based-PD.png)
+![धनराशि - प्राइस निर्धारण आयाम पंक्तियाँ.](media/Amt-based-PD.png)
 
 साधन कार्य घंटे (**msdyn_resourceworkhours**) को मार्कअप-आधारित पैमाने के रूप में जोड़ा जाता है और **मार्कअप आधारित मूल्य निर्धारण पैमाने** टैब पर ग्रिड में जोड़ा गया है.
 
-![मार्कअप - प्राइस निर्धारण आयाम पंक्तियाँ](media/Markup-based-PD.png)
+![मार्कअप - प्राइस निर्धारण आयाम पंक्तियाँ.](media/Markup-based-PD.png)
 
 
 > [!IMPORTANT]

@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 8bde3c434680f0651293cbce13ecdce945c3a743
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 5f2e9b8e189be0594569e14ebc41c6ed452afd10aba34ea1397b3e3f66cd2e96
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5997513"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005618"
 ---
 # <a name="synchronize-resource-capacity"></a>संसाधन क्षमता सिंक्रनाइज़ करें
 
@@ -29,7 +29,7 @@ ms.locfileid: "5997513"
 
 संसाधन सिंक्रनाइज़ेशन की प्रक्रियाएं कैलेंडर और बेस कैलेंडर के लिए जानकारी परियोजना संसाधन शेड्यूलिंग में नीचे भेजने में मदद करने की गारंटी देती हैं. यदि कैलेंडर को बदला जाता है, तो प्रक्रियाएं परियोजना संसाधनों को शेड्यूल करने के लिए ज़रूरी अद्यतन करती हैं. प्रक्रियाएं प्रदर्शन बेहतर बनाने में भी सहायता करती हैं, क्योंकि कैलेंडर की संसाधन जानकारी पहले में सिंक्रनाइज़ की जाती है. इसलिए, संसाधन शेड्यूलिंग जानकारी के अद्यतन ज़्यादा तेज़ी से होते हैं. हम सुझाव देते हैं कि आप एक बार में एक की बजाय बैच के रूप में प्रक्रियाओं को शेड्यूल करें. अन्यथा, यहां जोखिम होता है कि कोई व्यक्ति समावेशी तिथियों को भूल जाएगा, जब जानकारी अंतिम बार सिंक्रनाइज़ की गई थी. यदि संयुक्त तिथियों का इस्तेमाल नहीं किया जाता है तो तिथि सिंक्रनाइज़ेशन के दौरान अंतराल हो सकते हैं.
 
-![कैलेंडर सिंक्रनाइज़ेशन](./media/projectresourcing04-1024x471.jpg)
+![कैलेंडर सिंक्रनाइज़ेशन.](./media/projectresourcing04-1024x471.jpg)
 
 ## <a name="synchronize-resource-capacity-roll-ups"></a>एकत्र संसाधन क्षमता को सिंक्रनाइज़ करें
 
@@ -46,7 +46,7 @@ ms.locfileid: "5997513"
     | प्रारंभ तिथि  | संसाधन क्षमता एकत्र करने के लिए सिंक्रनाइज़ेशन प्रक्रिया की आरंभ तिथि दर्ज करें. |
     | समाप्ति दिनांक    | संसाधन क्षमता एकत्र करने के लिए सिंक्रनाइज़ेशन प्रक्रिया की समाप्ति तिथि दर्ज करें. |
 
-[![सिंक्रनाइज़ेशन प्रक्रिया](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
+[![सिंक्रनाइज़ेशन प्रक्रिया.](./media/projectresourcing09.jpg)](./media/projectresourcing09.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

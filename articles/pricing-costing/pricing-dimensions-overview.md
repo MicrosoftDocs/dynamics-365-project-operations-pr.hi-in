@@ -8,12 +8,12 @@ ms.prod: ''
 ms.reviewer: kfend
 ms.author: rumant
 ms.custom: intro-internal
-ms.openlocfilehash: e8d62dcf9975e5427926210a881dec2c256f1b8b
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
+ms.openlocfilehash: 4b3b71c0b64a24f6914c70c4383eee654e7d4947ececaf9b4e6394f45a081a4c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6368478"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001973"
 ---
 # <a name="pricing-dimensions-overview"></a>मूल्य निर्धारण आयाम ओवरव्यू
 
@@ -33,7 +33,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 Dynamics 365 Project Operations मूल्य निर्धारण आयामों के डिफ़ॉल्ट सेट के साथ भेजा जाता है. आप इन मूल्य निर्धारण आयामों को **Project Operations** > **मापदंड**. पैरामीटर रिकार्ड में, **राशि आधारित मूल्य निर्धारण आयाम** टैब पर, इसका सत्यापन करें कि भूमिका, **msdyn_resourcecategory** और रिसोर्सिंग ऑर्गेनाइज़ेशन यूनिट, **msdyn_organizationalunit** में **विक्रय पर लागू** और **लागत पर लागू** फील्ड **हाँ** पर सेट हैं। इन फ़ील्ड को सक्षम करने के साथ, आप प्रत्येक भूमिका और संगठनात्मक इकाई संयोजन के लिए मूल्य और लागत सेट कर सकते हैं.
 
-!["विक्रय पर लागू" के साथ Project Service पैरामीटर का स्क्रीनशॉट](media/PS-OOB-parameters.png)
+!["विक्रय पर लागू" के साथ Project Service पैरामीटर का स्क्रीनशॉट.](media/PS-OOB-parameters.png)
 
 यदि आपको अतिरिक्त गुणों का इस्तेमाल करते हुए अपने संसाधनों की कीमत और लागत निर्धारण करना हो तो आप अपनी ज़रूरत के अनुसार फील्ड, एंटिटी और डायमेंशन बना सकते हैं। अधिक जानकारी के लिए, निम्न विषय देखें. 
   
