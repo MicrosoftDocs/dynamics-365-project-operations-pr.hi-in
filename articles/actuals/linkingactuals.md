@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 9fc49211f3c2c79e18f6dd18e9a687091793cad0
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: b5a70d2c2b3f98028b4e4998ed25ab73a275c66e4b8137eb573b943658a1a41e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5996748"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991758"
 ---
 # <a name="link-actuals-to-original-records"></a>वास्तविक को मूल रिकॉर्ड से लिंक करें
 
@@ -77,7 +77,7 @@ Project Operations इन पांच निकायों में रिक
 
 निम्न उदाहरण एक Project Operations परियोजना जीवनचक्र में समय प्रविष्टियों के विशिष्ट प्रसंस्करण को दर्शाता है.
 
-> ![प्रसंस्करण समय एक Project Service जीवन चक्र में प्रवेश करती है](media/basic-guide-17.png)
+> ![प्रसंस्करण समय एक Project Service जीवन चक्र में प्रवेश करती है.](media/basic-guide-17.png)
  
 1. एक समय प्रविष्टि का सबमिशन दो जर्नल लाइनें बनाता है: लागत के लिए एक लाइन और बिना बिल बिक्री के लिए एक लाइन.
 2. समय प्रविष्टि का अंतिम अनुमोदन दो एक्चुअल्स बनाता है: लागत के लिए एक एक्चुअल और बिना बिल की बिक्री के लिए एक एक्चुअल.

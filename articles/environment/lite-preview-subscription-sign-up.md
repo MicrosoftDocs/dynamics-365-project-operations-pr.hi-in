@@ -6,12 +6,12 @@ ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 2b5a65f5e29915c349d40400ebbf3e4923b36a67
-ms.sourcegitcommit: 52b26950bb3b1596ad81aa4ff91745ee9615d1b0
+ms.openlocfilehash: 5ba43ba9f917da068415fb62067ab73433b701139ee07014b6bd8c02612008ce
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "6334784"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991533"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट 
 
@@ -52,16 +52,16 @@ ms.locfileid: "6334784"
 
 1. [Dataverse परिनियोजन मॉडल](lite-deployment.md) विषय में निर्देशों का पालन करके नया Project Operations Dataverse परिनियोजन परिवेश का प्रावधान. जब आप परिवेश के प्रकार का चयन करते हैं, तो **परीक्षण (सदस्यता आधारित)** का उपयोग करना सुनिश्चित करें.
 
-  ![नया परिवेश](./media/19CreateEnvironment.png)
+  ![नया परिवेश.](./media/19CreateEnvironment.png)
 
 2. **Dynamics 365 अनुप्रयोगों को सक्षम करें** सेटिंग का चयन करें, और **इन अनुप्रयोगों को स्वचालित रूप से नियोजित करें** को खाली छोड़ दें.  
 3. परिवेश बनाने के लिए **सहेजें** चुनें.
 
-  ![डेटाबेस जोड़ें](./media/20CreateEnvironment1.png)
+  ![डेटाबेस जोड़ें.](./media/20CreateEnvironment1.png)
 
 4. परिवेश बन जाने के बाद, **Microsoft Dynamics 365 Project Operations** समाधान को स्थापित करें. 
 
-![समाधान इस्टॉल करें](./media/21InstallSolution.png)
+![समाधान इस्टॉल करें.](./media/21InstallSolution.png)
 
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>एक CDS कॉन्फ़िगरेशन इंस्टॉल करें और डेमो डेटा सेट करें
 

@@ -6,12 +6,12 @@ ms.date: 11/09/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 86f4cd2c26ebfca621d1b226b571d220d3b2441e
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 753f0c4496bafd43d7e4a399cedeb355c2163c7ce56d932b2c786d5f2e672b6b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6010338"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992208"
 ---
 # <a name="create-a-solution-for-custom-pricing-dimensions"></a>कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ
 
@@ -26,7 +26,7 @@ ms.locfileid: "6010338"
 2.  समाधान को नाम दें, *<your organization name> मूल्य निर्धारण आयाम*.
 3. शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
 
-  ![कस्टम मूल्य निर्धारण आयाम समाधान का निर्माण](./media/Creation-of-custom-pricing-dimension-solution.png)
+  ![कस्टम मूल्य निर्धारण आयाम समाधान का निर्माण.](./media/Creation-of-custom-pricing-dimension-solution.png)
  
 ## <a name="add-all-required-entities-and-related-components-to-the-pricing-dimension-solution"></a>मूल्य निर्धारण आयाम समाधान के लिए सभी आवश्यक निकायों और संबंधित हिस्सों को जोड़ें
 
@@ -49,19 +49,19 @@ ms.locfileid: "6010338"
    - **भूमिका मू्ल्य**
    - **समय प्रविष्टि**
  
-   ![मौजूदा निकाय कस्टम मूल्य निर्धारण आयाम समाधान जोड़ें](./media/Existing-entities-to-PD-solution.png)
+   ![मौजूदा निकाय कस्टम मूल्य निर्धारण आयाम समाधान जोड़ें.](./media/Existing-entities-to-PD-solution.png)
  
  4. प्रत्येक निकाय के लिए, जोड़े जा रहे घटकों और प्रत्येक निकाय के लिए निकाय परिसंपत्तियों की अंतिम सूची की समीक्षा करें. 
 
    >[!NOTE]
    > चयनित सभी निकायों के लिए सभी प्रपत्रों और दृश्यों को शामिल करें.
 
-  ![निकाय जोड़े गए](./media/solution-component-selection.png)
+  ![निकाय जोड़े गए.](./media/solution-component-selection.png)
 
 
 5.  जब चयनित निकायों के लिए किसी भी निर्भर निकाय को शामिल करने के लिए कहा जाए, तो **नहीं, आवश्यक घटक शामिल न करें** चुनें.
 
-    ![निर्भर निकायों को शामिल करना](./media/Do-not-include-required.png)
+    ![निर्भर निकायों को शामिल करना.](./media/Do-not-include-required.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

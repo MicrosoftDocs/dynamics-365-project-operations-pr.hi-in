@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 7407c98aad79806dcbaf25e81ff3e08397b41ffe
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 37549080d76e3bffd7cb002aee8e3c46b9eeb18e3cec915cd971881b69747534
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5996568"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6993243"
 ---
 # <a name="project-invoice-integration"></a>प्रोजेक्ट चालान एकीकरण
 
@@ -20,7 +20,7 @@ ms.locfileid: "5996568"
 
 Project Operations में, प्रोजेक्ट मैनेजर प्रोजेक्ट बिलिंग बैकलॉग का प्रबंधन करता है और Microsoft Dataverse में ग्राहक के लिए प्रोफार्मा चालान बनाता है. इस प्रोफार्मा चालान के आधार पर, लेखा प्राप्त करने वाला क्लर्क या प्रोजेक्ट अकाउंटेंट एक कस्टमर फेसिंग चालान बनाता है. ड्यूल-राइट एकीकरण यह सुनिश्चित करता है कि प्रोफार्मा चालान विवरण Finance and Operations अनुप्रयोगों के लिए सिंक्रनाइज़ हैं. कस्टमर फेसिंग इनवॉइस पोस्ट किए जाने के बाद, सिस्टम Dataverse में संबंधित प्रोजेक्ट एक्चुअल्स को लेखांकन विवरण के साथ अद्यतन करता है. निम्नलिखित ग्राफिक इस एकीकरण का एक उच्च-स्तरीय वैचारिक अवलोकन प्रदान करता है.
 
-   ![प्रोजेक्ट चालान एकीकरण](./media/DW5Invoicing.png)
+   ![प्रोजेक्ट चालान एकीकरण.](./media/DW5Invoicing.png)
 
 प्रोजेक्ट मैनेजर द्वारा Dataverse में प्रोफार्मा चालान की पुष्टि करने के बाद, प्रोफार्मा चालान हेडर जानकारी ड्यूल-राइट तालिका मानचित्र, **प्रोजेक्ट चालान प्रस्ताव V2 (चालान)** का उपयोग करके Finance and Operations अनुप्रयोग के लिए सिंक्रनाइज़ होती है. यह Dataverse फाइनेंस और Finance and Operations तक एकतरफा एकीकरण है. सीधे Finance and Operations अनुप्रयोग में प्रोजेक्ट चालान प्रस्तावों को बनाना या हटाना समर्थित नहीं है.
 

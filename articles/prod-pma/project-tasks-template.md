@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 16cd38f2f190414d7be9c93e8ab90d55006f47e1
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 45846d7a6dd7b84fe28f0a78ccc103679236917ea506180c5b383fd2828624eb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6009978"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992793"
 ---
 # <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>Project Service Automation से सीधे Finance and Operations में परियोजना कार्यों को सिंक्रनाइज़ करें
 
@@ -39,7 +39,7 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित दृष्टांत दर्शाता है कि Project Service Automation और Finance के बीच डेटा को सिन्क्रोनाइज कैसे किया जाता है.
 
-[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह](./media/ProjectTasksFlow.png)](./media/ProjectTasksFlow.png)
+[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह.](./media/ProjectTasksFlow.png)](./media/ProjectTasksFlow.png)
 
 ## <a name="template-and-task"></a>टेम्पलेट और कार्य
 
@@ -80,7 +80,7 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 निम्नलिखित चित्रण डेटा इंटीग्रेशन में टेम्पलेट टास्क मैपिंग का उदाहरण दिखाता है. मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Project Service Automation से Finance तक सिन्क्रोनाइज्ड किया जाएगा.
 
--[![टेम्पलेट मैपिंग](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
+-[![टेम्पलेट मैपिंग.](./media/ProjectTasksMapping.png)](./media/ProjectTasksMapping.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

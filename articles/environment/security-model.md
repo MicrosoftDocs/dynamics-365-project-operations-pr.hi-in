@@ -6,12 +6,12 @@ ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: ccca2f387ce3abef3b24cb96fdbcc69f3c0c075b
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 2f283771921504dc29ddcc26ca659d4e151598840339bd8c1a857e8bf5dde9ed
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6002244"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991488"
 ---
 # <a name="security-model"></a>सुरक्षा मॉडल
 
@@ -58,7 +58,7 @@ Microsoft Dynamics 365 Project Operations में एक अद्विती
 
 **समूह प्रबंधन** संवाद में समूह सदस्य खोज, उन लोगों तक सीमित है जो परिवेश के सुरक्षा समूह के हिस्से के रूप में सेट हैं। अधिक जानकारी के लिए, [परिवेशों तक उपयोगकर्ताओं की पहुँच नियंत्रित करें: सुरक्षा समूह और लाइसेंस](/power-platform/admin/control-user-access) देखें.
 
-![समूह मोड](./media/groupsmode.png)
+![समूह मोड.](./media/groupsmode.png)
 
 1. परियोजना को बनाया गया है और बनाने वाले उपयोगकर्ता के स्वामित्व में है।
 2. परियोजना के मालिक को टीम में अपडेट किया जाता है।

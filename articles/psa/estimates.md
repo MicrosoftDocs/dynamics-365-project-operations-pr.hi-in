@@ -16,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: fcb3c85af092667cc5a473ab4674c3be47e33327
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: ebb59d2b38bf99aed15206646e77c74003aba2a92a6d8d262e6e7b2017285ed3
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "6007593"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992388"
 ---
 # <a name="estimates"></a>अनुमान
 
@@ -83,24 +83,24 @@ PSA अनुबंध या प्रोजेक्ट पर बदलाव
 1. PluginRegistrationTool खोलें, और अपने ऑनलाइन उदाहरण से कनेक्ट करें।
 2. **खोज** का चयन करें और अपडेट करने के लिए प्लग-इन को खोजें।
 
-    ![सर्च ट्री संवाद बॉक्स](media/basic-guide-19.png)
+    ![सर्च ट्री संवाद बॉक्स.](media/basic-guide-19.png)
 
 3. प्लग-इन का चयन करें और फिर, मुख्य पृष्ठ पर, **चुनें** का चयन करें।
 4. अपडेट करने के लिए प्लग-इन का चरण चुनें, राइट-क्लिक करें और फिर **अपडेट** चुनें।
 
-    ![प्लग-इन में एक चरण का चयन करना](media/basic-guide-20.png)
+    ![प्लग-इन में एक चरण का चयन करना.](media/basic-guide-20.png)
 
 5. **मौजूदा चरण अपडेट** संवाद बॉक्स में, **फ़िल्टरिंग विशेषताएं** फ़ील्ड में, दीर्घवृत्त बटन (**।।।**) का चयन करें:
  
-    ![मौजूदा चरण संवाद बॉक्स को अपडेट करें](media/basic-guide-21.png)
+    ![मौजूदा चरण संवाद बॉक्स को अपडेट करें.](media/basic-guide-21.png)
 
 6. **चयन विशेषताएं** संवाद बॉक्स में, कस्टम विशेषताओं के लिए चेक बॉक्स का चयन करें।
 
-    ![विशेषताएं संवाद बॉक्स का चयन करें](media/basic-guide-22.png)
+    ![एट्रिब्यूट संवाद बॉक्स का चयन करें.](media/basic-guide-22.png)
 
 7. संवाद बॉक्स बंद करने के लिए **ठीक** चुनें और फिर **चरण अपडेट** चुनें।
  
-    ![चरण बटन को अपडेट करें](media/basic-guide-23.png)
+    ![चरण बटन को अपडेट करें.](media/basic-guide-23.png)
 
 8. दूसरे प्लग-इन के लिए चरण 1 को 7 से दोहराएं।
 9. PluginRegistrationTool को बंद करें।
