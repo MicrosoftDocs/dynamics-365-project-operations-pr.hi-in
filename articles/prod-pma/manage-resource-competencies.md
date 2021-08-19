@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 21721a9b0af820df10c4fa965d000e85098e0dea
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: f93fbda0ad6435c627eb7e580f92fd90481034cae2236b9a636195883470ca5c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5999043"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007418"
 ---
 # <a name="manage-resource-competencies"></a>संसाधन दक्षताओं को प्रबंधित करें
 
@@ -29,7 +29,7 @@ ms.locfileid: "5999043"
 
 संसाधन योग्यताएं संसाधन प्रबंधन का एक अनिवार्य हिस्सा हैं. योग्यताओं का उपयोग उन संसाधनों को निर्धारित करने के लिए एक आधार रेखा के रूप में किया जा सकता है जिनके पास कौशल, शिक्षा, प्रमाणन और परियोजना अनुभव का सही संतुलन है. आपको प्रत्येक संसाधन के लिए यह जानकारी सेट करनी चाहिए और इसे नियमित आधार पर अपडेट करना चाहिए. इस तरह, जब परियोजना संसाधन कार्यभार के दौरान विशिष्ट संसाधन योग्यताओं का मिलान किया जाता है, तो आप क्षमताओं को अधिकतम कर सकते हैं.
 
-[![कौशल, प्रमाणन, शिक्षा और परियोजना अनुभव के उदाहरण](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
+[![कौशल, प्रमाणन, शिक्षा और परियोजना अनुभव के उदाहरण.](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
 
 निम्नलिखित प्रक्रियाएं यह समझाती हैं कि एक संसाधन के लिए कुछ योग्यताओं को कैसे सेट किया जाए.
 

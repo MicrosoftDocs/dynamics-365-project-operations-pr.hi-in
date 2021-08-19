@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 6992498df5beb97d4e7197e301f093320dc28a23
-ms.sourcegitcommit: 3abf1e67938d91bd826b025ae3187cd313f556b9
+ms.openlocfilehash: 8cff4c37e1c2df29041ef86cdcf05afa6093f890565a855024202e87fd533ea5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6433655"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7009218"
 ---
 # <a name="whats-new-july-2021---project-operations-lite-deployment"></a>जुलाई 2021 - Project Operations लाइट परिनियोजन में नया क्या है
 
@@ -20,7 +20,7 @@ _इस पर लागू होता है: लाइट परिनिय
 
 यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 
-  - Dataverse पर Project Operations परिवेश संस्करण 4.12.0.148.
+  - Dataverse परिवेश संस्करण 4.12.0.148 या 4.12.0.152 पर Project Operations.
 
 ## <a name="quality-updates"></a>गुणवत्ता अद्यतन
 | **सुविधा क्षेत्र**              | **संदर्भ संख्या** | **गुणवत्ता अद्यतन**                                                                                                                                                                                             |
@@ -59,3 +59,4 @@ _इस पर लागू होता है: लाइट परिनिय
 | सामान्य                       | 2296857              | लंबे समय तक चलने वाले कार्यों के लिए प्रगति ट्रैकिंग.                                                                                                                                                                        |
 | सामान्य                       | 2253682              | जब ड्यूल-राइट ऑर्केस्ट्रेशन समाधान के बिना किसी परिवेश में ड्यूल-राइट कोर इंस्टॉल किया जाता है, तो Project Operations ड्यूल-राइट समादान इंस्टॉल नहीं किया जाना चाहिए.                                                |
 | सामान्य                       | 2316420              | Project service कोर प्रावधान विफल हो जाते हैं, यदि अनुप्रयोग उपयोगकर्ता की व्यावसायिक इकाई बदल दी जाती है.                                                                                                                     |
+| सामान्य                       | 2376405              | निश्चित प्रकाशक द्वारा संचालित अपडेट समस्या (गुणवत्ता अपडेट संस्करण 4.12.0.152 में उपलब्ध है)                                                                                                                     |

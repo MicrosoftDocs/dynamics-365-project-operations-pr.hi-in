@@ -8,12 +8,12 @@ ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
 ms.custom: intro-internal
-ms.openlocfilehash: 540b6f74d8e79116e5fdb2ceffaa4bbb487ff08f
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
+ms.openlocfilehash: b65c40e8aaa9524c1c634738dadd23f21e86e2ec095c47bc849467c8806addbc
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6368433"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007913"
 ---
 # <a name="project-operations-dual-write-integration-overview"></a>Project Operations ड्यूल-राइट एकीकरण अवलोकन
 
@@ -23,7 +23,7 @@ Project Operations Microsoft Dataverse और Dynamics 365 Finance में ड
 
 निम्नलिखित चित्रण बताता है कि डेटा को Dataverse और फाइनेंस के बीच इस एकीकरण के हिस्से के रूप में कैसे सिंक्रनाइज़ किया गया है.
 
-![Project Operations डेटा प्रवाह अवलोकन](./media/ProjectOperationsFlows.jpg)
+![Project Operations डेटा प्रवाह अवलोकन.](./media/ProjectOperationsFlows.jpg)
 
 Dataverse पर Project Operations Power Platform क्षमताओं का उपयोग करके एक आधुनिक उपयोगकर्ता इंटरफ़ेस (UI) और आसान नो-कोड/कम-कोड विस्तारणीयता प्रदान करता है. प्रोजेक्ट मैनेजर, रिसोर्स मैनेजर, प्रोजेक्ट टीम के सदस्य और अन्य फ्रंट-ऑफिस व्यक्ति, Dataverse पर Project Operations में अपनी गतिविधियां प्रदर्शित करते हैं.
 

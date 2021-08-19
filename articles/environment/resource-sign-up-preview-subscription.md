@@ -6,12 +6,12 @@ ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: da93fcf23ee3f255812842e31cb22b5d39daa963
-ms.sourcegitcommit: 52b26950bb3b1596ad81aa4ff91745ee9615d1b0
+ms.openlocfilehash: 75ee31e67018fe2a7655d8a8f11e40b433a9a5db6f8f2addac27844f18fffe8d
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "6334829"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007868"
 ---
 # <a name="sign-up-for-project-operations-preview-subscriptions-for-resource-non-stocked-scenarios"></a>संसाधन/गैर-स्टॉक किए गए परिदृश्य के लिए परियोजना संचालन पूर्वावलोकन सदस्यता के लिए साइन अप करें
 
