@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: cd5a7e74fc90c6138cd672ff6109b59a8d2ae916
-ms.sourcegitcommit: 80aa1e8070f0cb4992ac408fc05bdffe47cee931
+ms.openlocfilehash: 26861472d3af20c58b3d01142b834d535cf99715
+ms.sourcegitcommit: 083e3d219cd5126eecb74debb1b70b361680b1f6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7323463"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "7501373"
 ---
 # <a name="whats-new-august-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है अगस्त 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
 
@@ -31,7 +31,7 @@ ms.locfileid: "7323463"
 
 ## <a name="project-operations-dual-write-maps-updates"></a>Project Operations ड्यूल-राइट मानचित्र अपडेट्स
 
-इस रिलीज़ में Project Operations ड्यूल राइट मैप्स के लिए कोई अपडेट नहीं हैं. 
+इस रिलीज़ में Project Operations ड्यूल-राइट मैप के लिए कोई अद्यतन नहीं हैं.
 
 वर्तमान सूची और Project Operations डुअल-राइट मानचित्र के संस्करणों के लिए, [Project Operations डुअल-राइट मैप संस्करण](../environment/resource-dual-write-maps.md) देखें.
 

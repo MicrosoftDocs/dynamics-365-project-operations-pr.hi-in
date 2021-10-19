@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 181032b27ee67591a3bb40ab080477c51c1e34a46e9aac20039e4e5df3a5ab1d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9c2ea49e008d6cde40f152320face073c7e5f548
+ms.sourcegitcommit: bbe484e58a77efe77d28b34709fb6661d5da00f9
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7000938"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "7487642"
 ---
 # <a name="define-project-calendars"></a>परियोजना कैलेंडर परिभाषित करें
 
@@ -46,7 +46,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 1. **संसाधन** \> **संसाधन** पर जाएं।
 2. कैलेंडर टेम्पलेट में संदर्भ के लिए एक नया संसाधन बनाएं, या किसी मौजूदा संसाधन का चयन करें.
-3. संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](/dynamics365/field-service/set-work-hours-resource.md) में दिए गए निर्देशों को पूरा करें.
+3. संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](/dynamics365/field-service/set-work-hours-resource) में दिए गए निर्देशों को पूरा करें.
 
 **नया कैलेंडर टेम्पलेट बनाये**
 
