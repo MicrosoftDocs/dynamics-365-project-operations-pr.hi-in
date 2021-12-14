@@ -52,12 +52,14 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: व्यय प्रबंधन एकीकरण
               href: environment/resource-dual-write-expense.md
-            - name: विक्रेता इनवॉइस एकीकरण
+            - name: विक्रेता इनवॉयस एकीकरण
               href: environment/resource-dual-write-vendor-invoice.md
         - name: अनइंस्टॉल करें Dynamics 365 Project Operations
           href: environment/uninstall-project-operations.md
     - name: नया क्या है
       items:
+        - name: नवंबर 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-nov-2021-resource-based.md
         - name: अक्टूबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-oct-2021-resource-based.md
         - name: सितंबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
@@ -302,6 +304,8 @@
               href: project-management/schedule-api-preview.md
             - name: परियोजना शेड्यूल API प्रदर्शन
               href: project-management/project-schedule-api-performance.md
+            - name: प्रोजेक्ट शेड्यूलिंग लॉग
+              href: project-management/schedule-api-logs.md
     - name: संसाधन प्रबंधन
       items:
         - name: मुख्य अवधारणाएँ
@@ -544,6 +548,8 @@
       items:
         - name: नया क्या है 2021 वेव 2 प्रारंभिक पहुँच - लाइट परिनियोजन
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: नया क्या है नवंबर 2021 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-nov-2021-lite.md
         - name: नया क्या है अक्टूबर 2021 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-oct-2021-lite.md
         - name: नया क्या है सितंबर 2021 - लाइट परिनियोजन
@@ -952,6 +958,10 @@
   items:
     - name: नया क्या है
       items:
+        - name: नया क्या है अक्टूबर 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-oct-2021-stocked.md
+        - name: नया क्या है सितंबर 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-sep-2021-stocked.md
         - name: नया क्या है जुलाई 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
           href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
         - name: नया क्या है मई 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
@@ -1108,6 +1118,8 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 37.5, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-37-5.md
         - name: 'अद्यतन रिलीज़ 37, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-37.md
         - name: 'अद्यतन रिलीज़ 36, V3 में नया क्या है या क्या बदल गया है'
