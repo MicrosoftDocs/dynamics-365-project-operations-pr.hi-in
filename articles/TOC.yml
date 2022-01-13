@@ -8,6 +8,10 @@
       href: environment/admin-trials.md
     - name: Project Operations अद्यतन
       href: whats-new/project-operations-updates.md
+    - name: निकाली गई या अप्रचलित सुविधाएँ
+      items:
+        - name: Project Operations में निकाली गई या अप्रचलित सुविधाएँ
+          href: whats-new/removed-depreciated-features-project.md
 - name: संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
   items:
     - name: शुरू करें
@@ -52,12 +56,14 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: व्यय प्रबंधन एकीकरण
               href: environment/resource-dual-write-expense.md
-            - name: विक्रेता इनवॉयस एकीकरण
+            - name: विक्रेता इनवॉइस एकीकरण
               href: environment/resource-dual-write-vendor-invoice.md
         - name: अनइंस्टॉल करें Dynamics 365 Project Operations
           href: environment/uninstall-project-operations.md
     - name: नया क्या है
       items:
+        - name: दिसंबर 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-dec-2021-resource-based.md
         - name: नवंबर 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-nov-2021-resource-based.md
         - name: अक्टूबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
@@ -400,6 +406,8 @@
               href: expense/set-up-expense-categories.md
             - name: माइलेज दर स्तरों का उपयोग करके माइलेज सेट करें
               href: expense/set-up-mileage.md
+        - name: व्यय सूचीकरण
+          href: prod-exp/expense-itemization.md
         - name: व्यक्तिगत व्यय
           href: expense/personal-expenses-expense-report.md
         - name: इंटरकंपनी व्यय
@@ -524,12 +532,18 @@
               href: project-accounting/period-types.md
             - name: लागत टेम्पलेट सेट अप करें
               href: revenue-recognition/rev-rec-cost-templates.md
-        - name: निश्चित मूल्य राजस्व अनुमान परियोजनाएँ
+        - name: निर्धारित मूल्य राजस्व अनुमान परियोजनाएँ
           href: revenue-recognition/rev-rec-percentage-completion-method.md
         - name: पूर्ण विधियों की लागत
           href: revenue-recognition/cost-complete-methods.md
         - name: राजस्व अनुमान प्रबंधित करें
           href: revenue-recognition/rev-rec-completed-contract-method.md
+    - name: समस्या निवारण
+      items:
+        - name: परियोजना विक्रय प्रक्रिया
+          items:
+            - name: 'परियोजना, अनुबंध, कोट या बुक करने योग्य संसाधन बनाते समय मुद्रा बेमेल त्रुटि'
+              href: troubleshooting/project-sales-process/currency-mismatch-error.md
 - name: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
   items:
     - name: शुरू करें
@@ -548,6 +562,8 @@
       items:
         - name: नया क्या है 2021 वेव 2 प्रारंभिक पहुँच - लाइट परिनियोजन
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: नया क्या है दिसंबर 2021 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-dec-2021-lite.md
         - name: नया क्या है नवंबर 2021 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-nov-2021-lite.md
         - name: नया क्या है अक्टूबर 2021 - लाइट परिनियोजन
@@ -894,6 +910,20 @@
           href: pro/subcontracting/subcontract-line-resources.md
         - name: उपअनुबंध पंक्ति माइलस्टोन
           href: pro/subcontracting/subcontract-line-milestones.md
+        - name: परियोजना टीम सदस्य उपअनुबंध करना
+          href: pro/subcontracting/subcontracting-project-team-members.md
+        - name: परियोजना टीम सदस्य के लिए उपअनुबंध करने के विकल्प
+          href: pro/subcontracting/subcon-options.md
+        - name: उप-अनुबंधित संसाधन असाइनमेंट की लागत का अनुमान
+          href: pro/subcontracting/costing-subcon-ra.md
+        - name: अनुबंध कर्मचारियों और उप-अनुबंधित की क्षमता दिखाने के लिए शेड्यूल बोर्ड को कॉन्फ़िगर करें
+          href: pro/subcontracting/configure-sb-subcon.md
+        - name: अनुबंध कर्मचारियों और उप-अनुबंधित की क्षमता के साथ एक परियोजना की स्टाफिंग
+          href: pro/subcontracting/staffing-cw.md
+        - name: 'उप-अनुबंधित घटकों के लिए रिकॉर्डिंग समय, व्यय और सामग्री उपयोग'
+          href: pro/subcontracting/recording-subcon-actuals.md
+        - name: उपअनुबंध पर राज्य संक्रमण
+          href: pro/subcontracting/subcon-states.md
     - name: समय
       items:
         - name: समय ओवरव्यू
@@ -1118,6 +1148,8 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
+        - name: 'अद्यतन रिलीज़ 38, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-38.md
         - name: 'अद्यतन रिलीज़ 37.5, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-37-5.md
         - name: 'अद्यतन रिलीज़ 37, V3 में नया क्या है या क्या बदल गया है'
@@ -1204,6 +1236,8 @@
           href: psa/implementation-guides/resource-management-guide.md
         - name: रिपोर्टिंग मार्गदर्शिका
           href: psa/implementation-guides/reporting-guide.md
+    - name: Project Service Automation से Project Operations में अपग्रेड करें - लाइट
+      href: psa/upgrade-project-operations-non-stocked.md
     - name: Project Service Automation नवीनीकरण (ऐप संस्करण 3.x)
       items:
         - name: Project Service Automation नवीनीकरण
