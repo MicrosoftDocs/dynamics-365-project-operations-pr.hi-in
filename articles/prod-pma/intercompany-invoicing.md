@@ -1,10 +1,12 @@
 ---
-title: इंटरकंपनी इनवॉइसिंग
+title: इंटरकंपनी चालान
 description: यह लेख परियोजनाओं के लिए इंटरकंपनी इनवॉइसिंग के बारे में सूचना और उदाहरण उपलब्ध कराता है.
 author: Yowelle
+manager: AnnBe
 ms.date: 09/14/2017
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: LedgerInterCompany
 audience: Application User
@@ -16,14 +18,14 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 7c201ccec2069869707409ff6a9236e81e125f06b391c67202927f5c038787d8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 76eba87e7cc78dcc14510a8fb53677d626bf204f
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995808"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270770"
 ---
-# <a name="intercompany-invoicing"></a>इंटरकंपनी इनवॉइसिंग
+# <a name="intercompany-invoicing"></a>इंटरकंपनी चालान
 
 [!include [banner](../includes/banner.md)]
 
@@ -33,7 +35,7 @@ ms.locfileid: "6995808"
 
 निम्न चित्रण एक विशिष्ट परिदृश्य को दर्शाता है जहां दो कानूनी इकाई, SI FR(उधार लेने वाली कानूनी इकाई) और SI USA (उधार लेने वाली कानूनी इकाई) ग्राहक A के लिए एक परियोजना प्रदान करने वाले संसाधनों को साझा करते हैं. इस परिदृश्य के लिए, SI FR को ग्राहक A का काम पूरा करने के लिए अनुबंधित किया जाता है. 
 
-[![इंटरकंपनी चालान का उदाहरण.](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
+[![इंटरकंपनी चालान का उदाहरण](./media/interco.invoicing-01.jpg)](./media/interco.invoicing-01.jpg) 
 
 लक्ष्य इंटरकंपनी परियोजना का लागत नियंत्रण, राजस्व मान्यता, कर और लेनदेन के लिए हस्तांतरण मूल्य को अधिक लचीला और शक्तिशाली बनाना है. इसके अतिरिक्त, निम्न क्षमताएं प्रदान की जाती हैं:
 

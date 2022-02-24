@@ -2,9 +2,11 @@
 title: मुद्रा
 description: यह विषय Project Operations में मुद्रा प्रकारों को जोड़ने और हटाने के बारे में जानकारी देता है.
 author: rumant
+manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -15,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 0a5ae29f1a11f62c6edfca64c4751338f42a26f24c4f8230018b0b45a4ee2ddb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 093eaa78b5f88aee364a753374a56c33e20a5ce3
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999588"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642275"
 ---
 # <a name="currency"></a>मुद्रा
 
@@ -69,6 +71,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 > [!IMPORTANT]
 >  आप ऐसी मुद्राएं नहीं हटा सकते, जिसका अन्य रिकॉर्ड द्वारा उपयोग किया जा रहा हो; आप उन्हें केवल निष्क्रिय कर सकते हैं. मुद्रा रिकॉर्ड निष्क्रिय करने से अवसर या ऑर्डर जैसे वर्तमान रिकॉर्ड में संग्रहित मुद्रा जानकारियाँ निकलती नहीं हैं. हालांकि, आप नए ट्रांज़ैक्शन के लिए निष्क्रिय की गई मुद्रा का चयन नहीं कर पाएंगे.  
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,16 +2,18 @@
 title: नए मूल्य निर्धारण आयामों के साथ प्लग-इन एट्रिब्यूट अद्यतन करना
 description: इस विषय में मूल्य निर्धारण आयामों के लिए प्लग-इन एट्रिब्यूट को अद्यतन करने के बारे में जानकारी प्रदान की गई है.
 author: rumant
+manager: Annbe
 ms.date: 11/18/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d57ec617d2c7b10a01a75e7eaa9ca2d646af3f6ee1d06d4e6fb228fc0533da27
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9b0cf48318d0b9e94c4be0d3775b54e83832c1b7
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6988338"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4643220"
 ---
 # <a name="update-plug-in-attributes-with-new-pricing-dimensions"></a>नए मूल्य निर्धारण आयामों के साथ प्लग-इन एट्रिब्यूट अद्यतन करें
 
@@ -50,6 +52,3 @@ ms.locfileid: "6988338"
 7. पृष्ठ को बंद करने के लिए **ठीक** चुनें और उसके बाद **अद्यतन चरण** चुनें.
 8. दूसरे प्लग-इन के लिए चरण 2-7 को दोहराएं, **PreOperationQuoteLineDetail**. इस प्लग-इन के लिए, आपको **msdyn_quotelinetransaction का अद्यतन** चरण अद्यतन करना होगा.
 9. **PluginRegistrationTool** बंद करें.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -1,10 +1,12 @@
 ---
 title: इकाईयाँ और इकाई समूह
-description: यह विषय Dynamics 365 Project Operations में इकाईयाँ एयर इकाई समूह बनाने के तरीके के बारे में जानकारी प्रदान करता है.
+description: Dynamics 365 Project Operations में इकाई और इकाई समूह बनाने के बारे में जानकारी देता है.
 author: rumant
+manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -15,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 6a0aec1cc32ebdea9d2dbc7cc891f82da07e044f5c5655e008068f72dd198587
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3f588e41d001befeac87bb6a4e28a83cf5cfa865
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999543"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4131030"
 ---
 # <a name="units-and-unit-groups"></a>इकाईयाँ और इकाई समूह
 
@@ -44,6 +46,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 3. **मात्रा** फ़ील्ड में, वह मात्रा दर्ज करें जो इकाई में होगी. उदाहरण के लिए, यदि किसी बॉक्स में दो सेट हैं, तो "2" दर्ज करें. 
 4. **आधार इकाई** फ़ील्ड में, इकाई के लिए माप की निम्नतम इकाई स्थापित करने के लिए आधार इकाई चुनें. उदाहरण के लिए, आप "सेट" चुन सकते हैं.
 5. **सहेजें** चुनें:
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,17 +2,19 @@
 title: नया क्या है दिसंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
 description: इस विषय में स्टॉक/उत्पादन आधारित परिदृश्यों के लिए Project Operations के दिसंबर 2020 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
 author: Yowelle
+manager: Annbe
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: andchoi
-ms.openlocfilehash: 14c31f27c0d8871063b3c6689a70f32201958002b50ac4c721c4e26c3359b631
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 5aac6b77b0d07a090a071b075711e3dd915e6be4
+ms.sourcegitcommit: 04c446746aad97fc3f4c3d441983c586b918a3a6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008813"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "4727969"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations दिसंबर 2020 में नया क्या है या क्या बदल गया है
 
@@ -139,7 +141,4 @@ _इस पर लागू होता है: स्टॉक/उत्पा
 
 ## <a name="regulatory-updates"></a>नियामक अद्यतन
 
-Dynamics 365 Finance के लिए विनियामक अद्यतनों के बारे में जानकारी के लिए, [विनियामक अद्यतन](/dynamics365/finance/localizations/regulatory-updates) देखें. विनियामक अद्यतनों के बारे में जानने का दूसरा तरीका Lifecycle Services (LCS) में साइन इन करना और समस्या खोज टूल का उपयोग करके नियोजित विनियामक अद्यतनों को देखना है. समस्या खोज के चलते आप देश, सुविधा के प्रकार और रिलीज़ के आधार पर खोज सकते हैं.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
+Dynamics 365 Finance के लिए विनियामक अद्यतनों के बारे में जानकारी के लिए, [विनियामक अद्यतन](https://docs.microsoft.com/dynamics365/finance/localizations/regulatory-updates) देखें. विनियामक अद्यतनों के बारे में जानने का दूसरा तरीका Lifecycle Services (LCS) में साइन इन करना और समस्या खोज टूल का उपयोग करके नियोजित विनियामक अद्यतनों को देखना है. समस्या खोज के चलते आप देश, सुविधा के प्रकार और रिलीज़ के आधार पर खोज सकते हैं.

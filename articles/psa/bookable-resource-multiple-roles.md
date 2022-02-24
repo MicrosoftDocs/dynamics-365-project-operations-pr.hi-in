@@ -2,10 +2,12 @@
 title: जब बुक करने योग्य संसाधन परियोजना के लिए एकाधिक भूमिकाएँ भरता है, तो परियोजना विक्रय और लागतों का अनुमान लगाएँ
 description: इस विषय में परियोजना के लिए एकाधिक भूमिकाएँ भरने वाले संसाधन के लिए मूल्य निर्धारण और लागत का समर्थन करने के लिए मूल्य निर्धारण आयामों का उपयोग करने के तरीके के बारे जानकारी दी गई है.
 author: rumant
+manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -15,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: be24bb3bdf2f3c8351fc396ae67457b5213e1cd800e9d2ad23d59d0d038f22b9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 67e24156e960b9b09cf92f7f0cd77f6c74a982b8
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6987483"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5145045"
 ---
 # <a name="estimate-project-sales-and-costs-when-a-bookable-resource-fills-multiple-roles-for-a-project"></a>जब बुक करने योग्य संसाधन परियोजना के लिए एकाधिक भूमिकाएँ भरता है, तो परियोजना विक्रय और लागतों का अनुमान लगाएँ 
 
@@ -72,6 +74,3 @@ ms.locfileid: "6987483"
 जब आप **अनुमान** ग्रिड पर नेविगेट करते हैं, आप देखेंगे कि एक ही संसाधन के लिए दोनों असाइनमेंट की कीमत अलग-अलग है.
 कार्य A पर संसाधन की असाइनमेंट की कीमत का निर्धारण करने के लिए **परामर्श लीड** के **भूमिका** एट्रिब्यूट मान का उपयोग किया गया है. कार्य B पर उसी संसाधन की असाइनमेंट की कीमत का निर्धारण करने के लिए **नत्व्र्क तकनीशियन** के **भूमिका** एट्रिब्यूट मान का उपयोग किया गया है.
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

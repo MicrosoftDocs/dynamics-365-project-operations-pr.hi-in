@@ -2,9 +2,11 @@
 title: प्रोजेक्ट बजट के लिए पूर्वानुमान मॉडल बनाएं
 description: यह विषय शेष बजट के लिए पूर्वानुमान मॉडल बनाने का तरीका बताता है.
 author: Yowelle
+manager: AnnBe
 ms.date: 04/24/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: c4467bc1c687b028f1cce8280c3cf0b5ef492b6fd1a024d49f001ce5ff8a34cb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 5a3b9d3c154a85b50536a67ae0eb45d9b4f25f15
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6985998"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5271040"
 ---
 # <a name="create-forecast-models-for-project-budgets"></a>प्रोजेक्ट बजट के लिए पूर्वानुमान मॉडल बनाएं 
 

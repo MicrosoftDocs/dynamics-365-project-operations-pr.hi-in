@@ -2,6 +2,8 @@
 title: विक्रय अनुमान और प्रोजेक्ट
 description: इस विषय में बिक्री की प्रक्रिया में शेड्यूल और आकलनों का लाभ लेने के बारे में जानकारी दी गई है।
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1dac342ead487c50d14f3b2fa39e60314d13b0047b77fe6df8f32dee29b09422
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 76e21f80e51e6f3092880dc629ba90b400805486
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6995178"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148375"
 ---
 # <a name="sales-estimates-and-projects"></a>विक्रय अनुमान और प्रोजेक्ट
 
@@ -35,11 +37,11 @@ ms.locfileid: "6995178"
 
 जब आप प्रोजेक्ट-आधारित कोट लाइन बनाते हैं, आप **कोट लाइन** पेज पर नया प्रोजेक्ट बना सकते हैं या मौजूदा प्रोजेक्ट का एसोसिएट बना सकते हैं। 
 
-> ![कोट लाइन प्रपत्र.](media/project-8.png)
+> ![कोट लाइन फार्म](media/project-8.png)
  
 जब आप कोट लाइन विवरण से नया प्रोजेक्ट बनाते हैं तो आप प्रोजेक्ट के टैम्पलेट का लाभ ले सकते हैं। प्रोजेक्ट टैम्पलेट मॉडल प्रोजेक्ट होते हैं जो किसी संगठन में सामान्य मानक प्रोजेक्ट योजनाओं और वितीय आकलनों को दर्शाते हैं। वे पिछले प्रोजेक्ट की योजनाओं और आकलनों की कॉपी भी हो सकते हैं।
 
-> ![कोटेशन पंक्ति का विवरण.](media/project-9.png)
+> ![कोटेशन लाइन का विवरण](media/project-9.png)
   
 जब आप किसी कोट से प्रोजेक्ट तैयार करते हैं तो यह प्रोजेक्ट अपने आप कोट लाइन से जुड़ जाता है।
 
@@ -52,6 +54,3 @@ ms.locfileid: "6995178"
 ## <a name="importing-estimates-from-a-project-into-a-quote"></a>आकलनों को प्रोजेक्ट से कोट में लाना
 
 प्रोजेक्ट के आकलनों को परिभाषित करने के बाद, आप उन्हें कोट लाइन में ला सकते हैं। **कोट लाइन डीटेल्स** पेज पर, प्रकार, भूमिका या टास्क स्तर द्वारा प्रोजेक्ट को आकलनों का विवरण बनाने के लिए रिब्बन पर **अनुमानों से आयात करें** चुनें।
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

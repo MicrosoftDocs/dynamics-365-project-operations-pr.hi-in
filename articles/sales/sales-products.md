@@ -2,9 +2,11 @@
 title: उत्पाद
 description: यह विषय उत्पाद नामसूची के बारे में जानकारी प्रदान करता है जिसका उपयोग आप ग्राहकों को अपने संगठन द्वारा प्रदान किए जाने वाले उत्पादों और मूल्य निर्धारण के बारे में जानकारी प्रदान करने के लिए कर सकते हैं.
 author: rumant
+manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -15,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 085b7e4d9274f8c8d94d7a84109cfa782acf3dbb9241bfd25ecb8c2f329e1bb8
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 30633a7445baaf99af5be5c88e35b24824022b93
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986853"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4121265"
 ---
 # <a name="products"></a>उत्पाद
 
@@ -122,6 +124,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 - **उत्पाद SKU** 
 
 उत्पाद पद्धति की विशेषताओं को संपादित करके **उपयोगकर्ताओं की संख्या** और **महीनों की संख्या** को मात्रा कारकों के रूप में चिह्नित किया जा सकता है. 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

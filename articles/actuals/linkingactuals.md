@@ -2,17 +2,19 @@
 title: वास्तविक को मूल रिकॉर्ड से लिंक करें
 description: यह विषय बताता है कि एक्चुअल्स को मूल रिकॉर्डों जैसे समय प्रविष्टि, व्यय प्रविष्टि या सामग्री के उपयोग के लॉग से कैसे लिंक किया जाए.
 author: rumant
+manager: tfehr
 ms.date: 03/25/2021
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b5a70d2c2b3f98028b4e4998ed25ab73a275c66e4b8137eb573b943658a1a41e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 545775c4eae6c3dc689f264e7f662471c17b2340
+ms.sourcegitcommit: b4a05c7d5512d60abdb0d05bedd390e288e8adc9
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991758"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "5852591"
 ---
 # <a name="link-actuals-to-original-records"></a>वास्तविक को मूल रिकॉर्ड से लिंक करें
 
@@ -77,7 +79,7 @@ Project Operations इन पांच निकायों में रिक
 
 निम्न उदाहरण एक Project Operations परियोजना जीवनचक्र में समय प्रविष्टियों के विशिष्ट प्रसंस्करण को दर्शाता है.
 
-> ![प्रसंस्करण समय एक Project Service जीवन चक्र में प्रवेश करती है.](media/basic-guide-17.png)
+> ![प्रसंस्करण समय एक Project Service जीवन चक्र में प्रवेश करती है](media/basic-guide-17.png)
  
 1. एक समय प्रविष्टि का सबमिशन दो जर्नल लाइनें बनाता है: लागत के लिए एक लाइन और बिना बिल बिक्री के लिए एक लाइन.
 2. समय प्रविष्टि का अंतिम अनुमोदन दो एक्चुअल्स बनाता है: लागत के लिए एक एक्चुअल और बिना बिल की बिक्री के लिए एक एक्चुअल.

@@ -2,16 +2,18 @@
 title: रिसोर्स की आवश्यकता के एडिट करना
 description: यह विषय संसाधन आवश्यकता की जानकारी को अपडेट करने के बारे में जानकारी प्रदान करता है।
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 8c80c7148df972e542ea1952ef333b3c7c2709b4409ffaf0508f8f617d5f9894
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 988d3338f19443f1d8bcb7cf77e69aa3c1cff155
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999768"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4128780"
 ---
 # <a name="edit-a-resource-requirement"></a>रिसोर्स की आवश्यकता के एडिट करना
 
@@ -35,5 +37,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 ## <a name="edit-resource-assignment-contours"></a>संसाधन असाइनमेंट कौन्टो संपादित करें
 
 संसाधन आवश्यकताओं के विवरण को संपादित करने के अलावा, परियोजना प्रबंधक **पैटर्न निर्दिष्ट करें** कार्यक्षमता का उपयोग करके संसाधन आवश्यकता के अलग-अलग कान्टुर को अपडेट कर सकता है। जब **पैटर्न निर्दिष्ट करें** को चुना जाता है, तो एक पृष्ठ खुलता है और आप दिन, सप्ताह या महीने के समय पैमाने पर कान्टुर देख सकते हैं। प्रत्येक कौन्टो को एक निश्चित अवधि में आरंभ समय, समाप्ति समय और कुल प्रयास के लिए समायोजित किया जा सकता है.
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

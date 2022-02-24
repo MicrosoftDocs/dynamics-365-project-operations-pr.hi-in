@@ -4,14 +4,8 @@
   items:
     - name: अपना परिनियोजन प्रकार निर्धारित करें
       href: environment/determine-deployment-type.md
-    - name: Project Operations परीक्षणों के लिए साइन अप करें
-      href: environment/admin-trials.md
     - name: Project Operations अद्यतन
       href: whats-new/project-operations-updates.md
-    - name: निकाली गई या अप्रचलित सुविधाएँ
-      items:
-        - name: Project Operations में निकाली गई या अप्रचलित सुविधाएँ
-          href: whats-new/removed-depreciated-features-project.md
 - name: संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
   items:
     - name: शुरू करें
@@ -34,8 +28,6 @@
               href: environment/resource-apply-pro-setup-config-data.md
         - name: परिवेश परिनियोजित करें
           items:
-            - name: ड्यूअल-राइट सपोर्ट के साथ Project Operations Dataverse ऐप को मैन्युअल रूप से परिनियोजित करें
-              href: environment/resource-manual-deploy-dataverse-dualwrite.md
             - name: एक नया परिवेश प्रोविज़न करें
               href: environment/resource-provision-new-environment.md
             - name: सुरक्षा मॉडल
@@ -56,28 +48,10 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: व्यय प्रबंधन एकीकरण
               href: environment/resource-dual-write-expense.md
-            - name: विक्रेता इनवॉइस एकीकरण
+            - name: विक्रेता इनवॉयस एकीकरण
               href: environment/resource-dual-write-vendor-invoice.md
-        - name: अनइंस्टॉल करें Dynamics 365 Project Operations
-          href: environment/uninstall-project-operations.md
     - name: नया क्या है
       items:
-        - name: दिसंबर 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-dec-2021-resource-based.md
-        - name: नवंबर 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-nov-2021-resource-based.md
-        - name: अक्टूबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-oct-2021-resource-based.md
-        - name: सितंबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-sept-2021-resource-based.md
-        - name: अगस्त 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-august-2021-resource-based.md
-        - name: जुलाई 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-july-2021-resource-based.md
-        - name: जून 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-june-2021-resource-based.md
-        - name: मई 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-may-2021-resource-based.md
         - name: अप्रैल 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-apr-2021-resource-based.md
         - name: मार्च 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
@@ -306,12 +280,8 @@
           items:
             - name: कॉपी परियोजना के साथ परियोजना टेम्पलेट विकसित करें
               href: project-management/dev-copy-project.md
-            - name: परियोजना शेड्यूल API का उपयोग करें
+            - name: शेड्यूल API (सार्वजनिक पूर्वावलोकन) का उपयोग करें
               href: project-management/schedule-api-preview.md
-            - name: परियोजना शेड्यूल API प्रदर्शन
-              href: project-management/project-schedule-api-performance.md
-            - name: प्रोजेक्ट शेड्यूलिंग लॉग
-              href: project-management/schedule-api-logs.md
     - name: संसाधन प्रबंधन
       items:
         - name: मुख्य अवधारणाएँ
@@ -404,10 +374,6 @@
               href: expense/set-up-credit-card-integration.md
             - name: व्यय श्रेणियाँ सेटअप करें
               href: expense/set-up-expense-categories.md
-            - name: माइलेज दर स्तरों का उपयोग करके माइलेज सेट करें
-              href: expense/set-up-mileage.md
-        - name: व्यय सूचीकरण
-          href: prod-exp/expense-itemization.md
         - name: व्यक्तिगत व्यय
           href: expense/personal-expenses-expense-report.md
         - name: इंटरकंपनी व्यय
@@ -442,8 +408,6 @@
       items:
         - name: अनुमोदन ओवरव्यू
           href: approvals/approvals-overview.md
-        - name: अनुमोदन सेट
-          href: approvals/approval-sets.md
         - name: डेवलपर नोट्स
           items:
             - name: अनुमोदनों के लिए डेवलपर नोट्स
@@ -462,20 +426,14 @@
       items:
         - name: स्टॉक न की गई सामग्री और लंबित विक्रेता इनवॉयस कॉन्फ़िगर करें
           href: procurement/configure-materials-nonstocked.md
-        - name: लंबित विक्रेता इनवॉइस का उपयोग करके परियोजनाओं के लिए गैर-स्टॉक सामग्री उपलब्ध कराएँ
+        - name: लंबित विक्रेता इनवॉयस का उपयोग कर परियोजनाओं के लिए स्टॉक न की गई सामग्री खरीदें
           href: procurement/pending-vendor-invoices.md
-        - name: परियोजना क्रय ऑर्डर का उपयोग करके परियोजनाओं के लिए गैर-स्टॉक सामग्री ऑर्डर करें
-          href: procurement/non-stocked-materials-project-purchase-orders.md
-        - name: विक्रेता अवधारण
-          items:
-            - name: विक्रेता अवधारण ओवरव्यू
-              href: procurement/vendor-retention-overview.md
-            - name: विक्रेता अवधारण सेट अप करें
-              href: procurement/set-up-vendor-retention.md
-    - name: इनवॉइसिंग
+    - name: इनवॉइस प्रक्रिया
       items:
-        - name: इनवॉइसिंग प्रक्रिया ओवरव्यू
+        - name: इनवॉइस प्रक्रिया का ओवरव्यू
           href: invoicing/post-project-invoices.md
+        - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
+          href: invoicing/format-update-project-invoice-proposals.md
         - name: प्रोफ़ॉर्मा इनवॉइसिंग
           items:
             - name: परियोजना-आधारित बिलिंग बैकलॉग प्रबंधित करें
@@ -494,22 +452,8 @@
               href: proforma-invoicing/corrective-invoices.md
             - name: परियोजना-आधारित इनवॉइस स्वचालन कॉन्फ़िगर करें
               href: proforma-invoicing/configure-automated-invoice-creation.md
-        - name: ग्राहक इनवॉइसिंग
-          items:
-            - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
-              href: invoicing/format-update-project-invoice-proposals.md
-            - name: ड्राफ़्ट परियोजना इनवॉइस प्रस्तावों पर सही लेखांकन
-              href: invoicing/correct-project-invoice-proposals.md
-        - name: इंटरकंपनी इनवॉइसिंग
-          items:
-            - name: इंटरकंपनी इनवॉइसिंग का अवलोकन
-              href: project-accounting/intercompany-invoicing-overview.md
-            - name: इंटरकंपनी इनवॉइस को कॉन्फ़िगर करें
-              href: project-accounting/configure-intercompany-invoicing.md
-            - name: इंटरकंपनी लेन-देन बनाएँ
-              href: project-accounting/create-intercompany-transactions.md
-            - name: इंटरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ
-              href: project-accounting/create-intercompany-customer-vendor-invoices.md
+        - name: परियोजना इनवॉइस प्रस्तावों को प्रबंधित करें
+          href: invoicing/format-update-project-invoice-proposals.md
     - name: परियोजना लेखांकन
       items:
         - name: वित्तीय आयाम डिफ़ॉल्ट
@@ -522,6 +466,16 @@
           href: project-accounting/configure-accounting-billable-projects.md
         - name: Project Operations में एकीकरण जर्नल
           href: project-accounting/project-operations-integration-journal.md
+        - name: इंटरकंपनी इनवॉइसिंग
+          items:
+            - name: इंटरकंपनी इनवॉइसिंग का अवलोकन
+              href: project-accounting/intercompany-invoicing-overview.md
+            - name: इंटरकंपनी इनवॉइस को कॉन्फ़िगर करें
+              href: project-accounting/configure-intercompany-invoicing.md
+            - name: इंटरकंपनी लेन-देन बनाएँ
+              href: project-accounting/create-intercompany-transactions.md
+            - name: इंटरकंपनी ग्राहक और विक्रेता इनवॉइस बनाएँ
+              href: project-accounting/create-intercompany-customer-vendor-invoices.md
     - name: राजस्व मान्यता
       items:
         - name: राजस्व मान्यता का अवलोकन
@@ -532,18 +486,12 @@
               href: project-accounting/period-types.md
             - name: लागत टेम्पलेट सेट अप करें
               href: revenue-recognition/rev-rec-cost-templates.md
-        - name: निर्धारित मूल्य राजस्व अनुमान परियोजनाएँ
+        - name: निश्चित मूल्य राजस्व अनुमान परियोजनाएँ
           href: revenue-recognition/rev-rec-percentage-completion-method.md
         - name: पूर्ण विधियों की लागत
           href: revenue-recognition/cost-complete-methods.md
         - name: राजस्व अनुमान प्रबंधित करें
           href: revenue-recognition/rev-rec-completed-contract-method.md
-    - name: समस्या निवारण
-      items:
-        - name: परियोजना विक्रय प्रक्रिया
-          items:
-            - name: 'परियोजना, अनुबंध, कोट या बुक करने योग्य संसाधन बनाते समय मुद्रा बेमेल त्रुटि'
-              href: troubleshooting/project-sales-process/currency-mismatch-error.md
 - name: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
   items:
     - name: शुरू करें
@@ -560,24 +508,6 @@
           href: environment/security-model.md
     - name: नया क्या है
       items:
-        - name: नया क्या है 2021 वेव 2 प्रारंभिक पहुँच - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-2021-early-access-lite.md
-        - name: नया क्या है दिसंबर 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-dec-2021-lite.md
-        - name: नया क्या है नवंबर 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-nov-2021-lite.md
-        - name: नया क्या है अक्टूबर 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-oct-2021-lite.md
-        - name: नया क्या है सितंबर 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-sept-2021-lite.md
-        - name: नया क्या है अगस्त 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-august-2021-lite.md
-        - name: नया क्या है जुलाई 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-july-2021-lite.md
-        - name: नया क्या है जून 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-june-2021-lite.md
-        - name: नया क्या है मई 2021 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-may-2021-lite.md
         - name: नया क्या है अप्रैल 2021 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-apr-2021-lite.md
         - name: नया क्या है मार्च 2021 - लाइट परिनियोजन
@@ -826,10 +756,8 @@
           items:
             - name: कॉपी परियोजना के साथ परियोजना टेम्पलेट विकसित करें
               href: project-management/dev-copy-project.md
-            - name: परियोजना शेड्यूल API का उपयोग करें
+            - name: शेड्यूल API (सार्वजनिक पूर्वावलोकन) का उपयोग करें
               href: project-management/schedule-api-preview.md
-            - name: परियोजना शेड्यूल API प्रदर्शन
-              href: project-management/project-schedule-api-performance.md
     - name: संसाधन प्रबंधन
       items:
         - name: मुख्य अवधारणाएँ
@@ -886,44 +814,6 @@
           items:
             - name: संसाधन उपयोग ओवरव्यू
               href: resource-management/resource-utilization-overview.md
-    - name: Project Operations में उपअनुबंध प्रबंधन
-      items:
-        - name: Project Operations में उपअनुबंध प्रबंधन
-          href: pro/subcontracting/managing-subcontracts-overview.md
-        - name: अक्टूबर 2021 समय पूर्व एक्सेस में उपअनुबंध
-          href: pro/subcontracting/Subcontracting_EA_scope.md
-        - name: उपअनुबंध में प्रमुख अवधारणाएँ
-          href: pro/subcontracting/key-concepts-subcontracting.md
-        - name: विक्रेताओं और परियोजना मूल्य सूचियों का प्रबंधन
-          href: pro/subcontracting/vendors-purchase-price-lists.md
-        - name: बुक करने योग्य संसाधनों के रूप में उपअनुबंध
-          href: pro/subcontracting/subcontractors-as-bookable-resources.md
-        - name: उप-अनुबंधों के लिए हेडर विवरण
-          href: pro/subcontracting/subcontract-header-details.md
-        - name: समय के लिए उप-अनुबंध पंक्तियाँ
-          href: pro/subcontracting/subcontract-line-time.md
-        - name: व्यय श्रेणियों के लिए उप-अनुबंध पंक्तियाँ
-          href: pro/subcontracting/subcontract-line-expense.md
-        - name: उत्पादों के लिए उप-अनुबंध पंक्तियाँ
-          href: pro/subcontracting/subcontract-line-products.md
-        - name: उप-अनुबंध पंक्ति संसाधन
-          href: pro/subcontracting/subcontract-line-resources.md
-        - name: उपअनुबंध पंक्ति माइलस्टोन
-          href: pro/subcontracting/subcontract-line-milestones.md
-        - name: परियोजना टीम सदस्य उपअनुबंध करना
-          href: pro/subcontracting/subcontracting-project-team-members.md
-        - name: परियोजना टीम सदस्य के लिए उपअनुबंध करने के विकल्प
-          href: pro/subcontracting/subcon-options.md
-        - name: उप-अनुबंधित संसाधन असाइनमेंट की लागत का अनुमान
-          href: pro/subcontracting/costing-subcon-ra.md
-        - name: अनुबंध कर्मचारियों और उप-अनुबंधित की क्षमता दिखाने के लिए शेड्यूल बोर्ड को कॉन्फ़िगर करें
-          href: pro/subcontracting/configure-sb-subcon.md
-        - name: अनुबंध कर्मचारियों और उप-अनुबंधित की क्षमता के साथ एक परियोजना की स्टाफिंग
-          href: pro/subcontracting/staffing-cw.md
-        - name: 'उप-अनुबंधित घटकों के लिए रिकॉर्डिंग समय, व्यय और सामग्री उपयोग'
-          href: pro/subcontracting/recording-subcon-actuals.md
-        - name: उपअनुबंध पर राज्य संक्रमण
-          href: pro/subcontracting/subcon-states.md
     - name: समय
       items:
         - name: समय ओवरव्यू
@@ -950,8 +840,6 @@
       items:
         - name: अनुमोदन ओवरव्यू
           href: approvals/approvals-overview.md
-        - name: अनुमोदन सेट
-          href: approvals/approval-sets.md
         - name: डेवलपर नोट्स
           items:
             - name: अनुमोदनों के लिए डेवलपर नोट्स
@@ -988,14 +876,6 @@
   items:
     - name: नया क्या है
       items:
-        - name: नया क्या है अक्टूबर 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
-          href: prod-pma/whats-new/whats-new-oct-2021-stocked.md
-        - name: नया क्या है सितंबर 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
-          href: prod-pma/whats-new/whats-new-sep-2021-stocked.md
-        - name: नया क्या है जुलाई 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
-          href: prod-pma/whats-new/whats-new-jul-2021-stocked.md
-        - name: नया क्या है मई 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
-          href: prod-pma/whats-new/whats-new-may-2021-stocked.md
         - name: नया क्या है अप्रैल 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
           href: prod-pma/whats-new/whats-new-apr-2021-stocked.md
         - name: नया क्या है मार्च 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
@@ -1148,24 +1028,6 @@
       items:
         - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
-        - name: 'अद्यतन रिलीज़ 38, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-38.md
-        - name: 'अद्यतन रिलीज़ 37.5, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-37-5.md
-        - name: 'अद्यतन रिलीज़ 37, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-37.md
-        - name: 'अद्यतन रिलीज़ 36, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-36.md
-        - name: 'अद्यतन रिलीज़ 35, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-35.md
-        - name: 'अद्यतन रिलीज़ 34, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-34.md
-        - name: 'अद्यतन रिलीज़ 33, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-33.md
-        - name: 'अद्यतन रिलीज़ 32.5, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-32-5.md
-        - name: 'अद्यतन रिलीज़ 32, V3 में नया क्या है या क्या बदल गया है'
-          href: psa/whats-new-ur-32.md
         - name: 'अद्यतन रिलीज़ 31, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-31.md
         - name: 'अद्यतन रिलीज़ 30, V3 में नया क्या है या क्या बदल गया है'
@@ -1236,8 +1098,6 @@
           href: psa/implementation-guides/resource-management-guide.md
         - name: रिपोर्टिंग मार्गदर्शिका
           href: psa/implementation-guides/reporting-guide.md
-    - name: Project Service Automation से Project Operations में अपग्रेड करें - लाइट
-      href: psa/upgrade-project-operations-non-stocked.md
     - name: Project Service Automation नवीनीकरण (ऐप संस्करण 3.x)
       items:
         - name: Project Service Automation नवीनीकरण
@@ -1338,7 +1198,7 @@
               href: psa/bulk-corrections-actuals-created-by-approved-time-expense-entries.md
             - name: परियोजना के बिलिंग बैकलॉग की समीक्षा करें
               href: psa/review-invoicing-backlog.md
-            - name: इनवॉइसिंग
+            - name: इनवॉइस प्रक्रिया
               href: psa/invoicing.md
             - name: एकाधिक-मुद्रा परिदृश्य
               href: psa/advanced-currency.md
@@ -1406,8 +1266,6 @@
               href: psa/time-entry-calendar.md
             - name: साप्ताहिक समय प्रविष्टि अनुकूलित करें
               href: psa/time-entry-extensibility-v3.md
-            - name: Project Service Automation में अनुमोदन सेट
-              href: psa/approval-set.md
     - name: सामान्य प्रश्न और समस्या निवारण (3.x)
       items:
         - name: व्यय लागत वास्तविक पर मूल्य को शून्य पर डिफ़ॉल्ट क्यों बनाया गया है?

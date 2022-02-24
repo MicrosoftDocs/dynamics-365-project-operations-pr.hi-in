@@ -2,6 +2,8 @@
 title: स्वीकृत समय या खर्चों की प्रविष्टियाँ रीकॉल करना
 description: इस विषय में पहले स्वीकृत किए गए समय या खर्चों के लेनदेन को रीकॉल करने के बारे में जानकारी दी गई है।
 author: rumant
+manager: kfend
+ms.service: project-operations
 ms.custom: ''
 ms.author: rumant
 ms.date: 03/08/2019
@@ -15,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e90b84bbfcd007e97e96b294144f058ac73746e3d358437692f0a8e6e92b8de3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: f9bb25ac9ef7b400063c5f958311e475de6f6506
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998328"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147838"
 ---
 # <a name="recall-approved-time-or-expense-entries"></a>स्वीकृत समय या खर्चों की प्रविष्टियाँ रीकॉल करना
 
@@ -98,13 +100,10 @@ ms.locfileid: "6998328"
 
 निम्नलिखित उदाहरण में ऐसे परिवर्तनों को बताया गया है जो रीकॉल करने पर स्वीकृत समय प्रविष्टियों के कारण होते हैं।
 
-![समय प्रविष्टि स्थिति के लेनदेन.](media/TimeEntryStateTransitions.png)
+![समय प्रविष्टि अवस्था के लेनदेन](media/TimeEntryStateTransitions.png)
 
 ## <a name="changes-to-expense-entry-records"></a>व्यय प्रविष्टि के रिकार्ड में परिवर्तन
 
 निम्नलिखित उदाहरण में ऐसे परिवर्तनों को बताया गया है जो रीकॉल करने पर स्वीकृत खर्च की प्रविष्टियों के कारण होते हैं।
 
-![व्यय प्रविष्टि स्थिति के लेनदेन.](media/ExpenseEntryStateTransitions.png)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+![व्यय प्रविष्टि अवस्था के लेनदेन](media/ExpenseEntryStateTransitions.png)

@@ -2,22 +2,24 @@
 title: समय प्रविष्टियाँ विस्तारित करें
 description: यह विषय इस बारे में जानकारी देता है कि डेवलपर्स कैसे समय प्रवेश नियंत्रण का विस्तार करने में सक्षम हैं.
 author: stsporen
+manager: Annbe
 ms.date: 10/08/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: c36a47b09e6012925a047f81318e89167d5c506facaae8d72b0bb6e8e267a7d5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d9c14f0550d4429ac794607a3fb61717566207e4
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993333"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4124640"
 ---
 # <a name="extending-time-entries"></a>समय प्रविष्टियाँ विस्तारित करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-Dynamics 365 Project Operations में एक विस्तार योग्य समय प्रविष्टि कस्टम नियंत्रण है. इस नियंत्रण में निम्न सुविधाएँ शामिल हैं:
+Dynamics 365 Project Operations में विस्तार योग्य समय प्रविष्टि कस्टम नियंत्रण शामिल है. इस नियंत्रण में निम्न सुविधाएँ शामिल हैं:
 
 - सप्ताह बाद क्षैतिज रूप से समय दर्ज करें
 - दिन, पंक्ति, या सप्ताह के आधार पर
@@ -142,6 +144,3 @@ Dynamics 365 Project Operations में एक विस्तार योग
 
 ### <a name="copying-time-entries"></a>समय प्रविष्टियों की प्रतिलिपि बनाएँ
 समय प्रविष्टि के दौरान कॉपी करने हेतु फ़ील्ड की सूची को परिभाषित करने के लिए **समय प्रविष्टि कॉलम कॉपी करें** दृश्य का उपयोग करें. **तिथि** और **अवधि** आवश्यक फ़ील्ड हैं और उन्हें दृश्य से नहीं हटाया जाना चाहिए.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

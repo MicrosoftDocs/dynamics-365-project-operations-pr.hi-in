@@ -2,16 +2,18 @@
 title: एक परियोजना-आधारित अवसर प्रतिलिपि करें
 description: यह विषय परियोजना संचालन में परियोजना-आधारित अवसरों को कॉपी करने के बारे में जानकारी प्रदान करता है.
 author: rumant
+manager: Annbe
 ms.date: 10/09/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 83fe41cb16be6bdd91219fc59e517ae0e5848afec5f771edde575bb5c24f9865
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 26ae5cc267bb06f958bbf9cdce2d80ccde9d3d24
+ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999723"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "4181652"
 ---
 # <a name="copy-project-based-opportunities"></a>एक परियोजना-आधारित अवसर प्रतिलिपि करें
 
@@ -32,6 +34,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
     | मूल्य-निर्धारण की प्रतिलिपि बनाएँ | एक हां/नहीं मूल्य जो यह इंगित करती है कि अवसर पर मूल्य को स्रोत अवसर से कॉपी करना चाहिए. | यदि **हां** को चुना जाता है, तो स्रोत से मूल्य सूचियों को लक्ष्य अवसर पर कॉपी किया जाता है. यदि **नहीं** को चुना जाता है, तो मूल्य सूचियों को सेट किए गए नवीनतम मूल्य सूचियों के आधार पर डिफ़ॉल्ट कर दिया जाता है. |
 
 3. **ठीक** चुनें। सिस्टम चुने हुए मापदंडों के आधार पर परियोजना अवसर की एक कॉपी बनाता है और नया परियोजना अवसर खुल जाता है.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

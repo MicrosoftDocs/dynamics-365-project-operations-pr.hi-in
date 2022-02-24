@@ -2,9 +2,10 @@
 title: प्रोजेक्ट योजना मुख पृष्ठ
 description: यह विषय प्रोजेक्ट प्लानिंग की जानकारी देता है।
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 03/01/2019
 ms.topic: article
 ms.author: rumant
@@ -17,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 17745ffacbfdcf50b44b0c3f04ecacab8905d15be9ef675a72ae47a858cb9abe
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1439cc1543adbd304d984cdc268d3e5623adc309
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990588"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148240"
 ---
 # <a name="project-planning-home-page"></a>प्रोजेक्ट योजना मुख पृष्ठ
 
@@ -51,6 +52,3 @@ PSA में प्रोजेक्ट प्रबंधन के साध
 - [प्रोजेक्ट टेम्पलेट](project-templates.md)
 - [प्रोजेक्ट अवस्थाएँ](project-stages.md)
 - [प्रोजेक्ट सेटिंग्‍स](project-settings.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

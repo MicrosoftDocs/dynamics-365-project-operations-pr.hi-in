@@ -2,16 +2,18 @@
 title: परियोजनाओं पर व्यय के लिए वित्तीय अनुमान
 description: यह विषय परियोजना-आधारित व्यय को स्पष्ट करने या उनका आकलन करने के बारे में जानकारी देता है.
 author: rumant
+manager: Annbe
 ms.date: 03/19/2021
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f4d42724af61aa241671e8dacacbe2be5a7d531f55c2025a89ff777ac41e9b67
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: ad4901b1264289f1da881154bc147fc3f8da698f
+ms.sourcegitcommit: 386921f44f1e9a8a828b140206d52945de07aee7
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6987843"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "5701784"
 ---
 # <a name="financial-estimates-for-expenses-on-projects"></a>परियोजनाओं पर व्यय के लिए वित्तीय अनुमान
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_

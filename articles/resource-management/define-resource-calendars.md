@@ -2,16 +2,18 @@
 title: संसाधन कैलेंडरों को परिभाषित करें
 description: यह विषय Project Operations में साधनों के लिए काम के घंटे को स्पष्ट करने के तरीके के बारे में जानकारी देता है.
 author: ruhercul
+manager: Annbe
 ms.date: 10/05/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: ff10da57fd0767b00282537b241d5d16d95feca8741a620a277306bd8aa53ce5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: daa49cf8ba9ba005a16777f590c4c06d024de529
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990318"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123920"
 ---
 # <a name="define-resource-calendars"></a>संसाधन कैलेंडरों को परिभाषित करें
 
@@ -41,6 +43,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 2. ग्रिड दृश्य से, अपडेट करने के लिए 25 **बुक करने योग्य संसाधन** तक का चयन करें.
 3. **कैलेंडर सेट करें** चुनें और एक संवाद आपको उपलब्ध काम के घंटे के टेम्पलेट्स की सूची के साथ संकेत देगा.
 4. आप जिस टेम्पलेट का उपयोग करना चाहते/चाहती हैं, उसे चुनें, और फिर **लागू करें** का चयन करें.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

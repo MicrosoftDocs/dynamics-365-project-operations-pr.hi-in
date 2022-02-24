@@ -2,11 +2,12 @@
 title: कीमत और लागत निर्धारण डायमेंशन का होम पेज
 description: इस विषय में कीमत निर्धारण डायमेंशन की सामान्य जानकारी दी गई है।
 author: rumant
+manager: kfend
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -16,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d17939777a6670bafc41b372adc922f8bdcc0411f3fdb399e7c9ab01eca87dd0
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 65516784c6787fa5f3c08297f4d161d52c2ea4a9
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998463"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5151300"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>कीमत और लागत निर्धारण डायमेंशन का होम पेज
 
@@ -41,7 +42,7 @@ ms.locfileid: "6998463"
 
 PSA कीमत निर्धारण डायमेंश के डिफाल्ट सेट भेजती है। आप इन्हें **Project Service** > **पैरामीटर्स** में देख सकते हैं। पैरामीटर रिकार्ड में, **राशि आधारित मूल्य निर्धारण आयाम** टैब पर, इसका सत्यापन करें कि भूमिका, **msdyn_resourcecategory** और रिसोर्सिंग ऑर्गेनाइज़ेशन यूनिट, **msdyn_organizationalunit** में **विक्रय पर लागू** और **लागत पर लागू** फील्ड **हाँ** पर सेट हैं। इससे आप प्रत्येक भूमिका और ऑर्गेनाइज़ेशनल यूनिट के संयोजन के लिए कीमत और लागत निर्धारित कर सकते हैं।
 
-!["विक्रय पर लागू" के साथ Project Service पैरामीटर का स्क्रीनशॉट.](media/PS-OOB-parameters.png)
+!["विक्रय पर लागू" के साथ Project Service पैरामीटर का स्क्रीनशॉट](media/PS-OOB-parameters.png)
 
 > [!IMPORTANT]
 > यदि आप PSA के वर्शन 3 से पहले कीमत निर्धारण के डायमेंशन के लिए भूमिका और ऑर्गेनाइज़ेशन यूनिट के अलग फील्ड का इस्तेमाल करते आ रहे थे तो कोई बड़ा परिवर्तन नहीं होगा। आप सामान्य ढंग से Project Service का इस्तेमाल करना जारी रख सकते हैं। 
@@ -64,18 +65,15 @@ PSA कीमत निर्धारण डायमेंश के डिफ
 
 **नमूना बिल दरें**
 
-| भूमिका        | संगठन इकाई    |इकाई      |कीमत      |मुद्रा  |
+| भूमिका        | संगठन इकाई    |इकाई      |मूल्य      |मुद्रा  |
 | ------------|-------------|----------|----------:|----------|
-| डेवलपर   | Contoso अमेरिका  |घंटा | 200|USD     |
-| डेवलपर   | Contoso भारत |घंटा|   112|USD     |
+| डेवलपर   | Contoso US  |Hour | 200|USD     |
+| डेवलपर   | रैना इंडिया |Hour|   112|USD     |
 
 
 **नमूना लागत दरें**
 
-| वेतन बैंड     | संगठन इकाई    |इकाई      |कीमत      |मुद्रा  |
+| वेतन बैंड     | संगठन इकाई    |इकाई      |मूल्य      |मुद्रा  |
 | ----------------|-------------|----------|----------:|----------|
-| मेरा company_Band1 | Contoso अमेरिका  |घंटा | 145|USD     |
-| मेरा company_Band2 | Contoso भारत |घंटा|   67|USD     |
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+| मेरा company_Band1 | रैना US  |Hour | 145|USD     |
+| मेरा company_Band2 | रैना इंडिया |Hour|   67|USD     |

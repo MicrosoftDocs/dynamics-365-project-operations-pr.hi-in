@@ -2,9 +2,10 @@
 title: रिसोर्सिंग प्रोजेक्ट होम पेज
 description: इस विषय में Dynamics 365 के लिए Project Service Automation (PSA) में रिसोर्स प्रबंधन की क्षमताओं की जानकारी दी गई है।
 author: JohnPBurrows
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 11/28/2018
 ms.topic: article
 ms.author: ruhercul
@@ -17,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: b0ea56a7b41f5bb7d458b780f4e2611063e1b4a0ae2a6eb2acfa9cfef8c1cff0
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 6d62baf0d5a535d118df507edaba3059d44fd4d7
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6984783"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147429"
 ---
 # <a name="resourcing-projects-home-page"></a>रिसोर्सिंग प्रोजेक्ट होम पेज
 
@@ -52,6 +53,3 @@ ms.locfileid: "6984783"
 - [संसाधनों की ज़रूरतों में से नामित संसाधनों को बुक करें](book-named-resource.md)
 - [संसाधनों हेतु अनुरोध सबमिट करें](submit-resource-request.md)
 - [संसाधनों हेतु अनुरोध में से प्रस्तावित परियोजना के किसी संसाधन को स्वीकार या अस्वीकार करें](accept-reject-proposed-resource.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

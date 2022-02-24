@@ -2,16 +2,18 @@
 title: Office समूह के साथ सहयोग
 description: कार्यालय समूह आपको Common Data Service में टीम के अन्य सदस्यों के साथ परियोजना साझा करने की अनुमति देता है.
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 2ad284bb3eb461e254292fcf78ea135c9b978deeded30927c3c442afc2ec0b7e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 815658ef66fb8083fb066f8f4d64a503580bfad2
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003143"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642500"
 ---
 # <a name="collaboration-with-office-groups"></a>Office समूह के साथ सहयोग
 
@@ -24,6 +26,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 > [!NOTE] 
 > उपयोगकर्ता केवल तभी समूह में जोड़े जाते हैं अगर आप **समूह** दबाते/दबाती हैं और उन्हें जोड़ते/जोड़ती हैं. वेब के संदर्भ में यह परियोजना के व्यवहार से भिन्न है. 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

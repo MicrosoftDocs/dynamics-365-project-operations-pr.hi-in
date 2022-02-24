@@ -2,6 +2,8 @@
 title: प्रोजेक्ट चरण प्रकार
 description: इस विषय में प्रोजेक्ट के चरणों की जानकारी दी गई है।
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 06/19/2020
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e4f50d12b4f0bf1586d0a5702bcd38b891590bffe0d3f9661d7f5d170877b54e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 61db23e19614f5c3be5c8b46fbf72463705e409c
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6996888"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5148105"
 ---
 # <a name="project-stage-types"></a>प्रोजेक्ट चरण प्रकार 
 
@@ -37,7 +39,7 @@ ms.locfileid: "6996888"
 - भाव प्रस्ताव
 - योजना
 - डिलीवर करें
-- पूरा
+- पूर्ण
 - बंद करें 
 
 ## <a name="new"></a>नया
@@ -56,13 +58,10 @@ ms.locfileid: "6996888"
 
 जब प्रोजेक्ट की योजना पूरी हो जाती है और प्रोजेक्ट को शुरु करने के लिए तैयार होते हैं तो प्रोजेक्ट मैनेजर को प्रोजेक्ट की अवस्था को **डिलीवर** में अपडेट करनी चाहिए ताकि यह दिखाया जा सके कि प्रोजेक्ट शुरु हो गया है।
 
-## <a name="complete"></a>पूरा 
+## <a name="complete"></a>पूर्ण 
 
 जब प्रोजेक्ट का काम पूरी हो जाता है तो प्रोजेक्ट मैनेजर इस अवस्था को **पूर्ण** में अपडेट कर सकता है। प्रोजेक्ट अवस्था को **पूर्ण** में अपडेट करते हुए, प्रोजेक्ट मैनेजर यह दर्शाते हैं कि काम 100 प्रतिशत पूरी हो गया है लेकिन प्रोजेक्ट को खुला रखा गया है ताकि किसी लंबित समय या खर्च की प्रविष्टियाँ की जा सकें।
 
 ## <a name="close"></a>बंद करें
 
 जब किसी प्रोजेक्ट के सभी लेनदेन दर्ज कर लिए जाते हैं तो प्रोजेक्ट मैनेजर इस अवस्था को **बंद करें** में अपडेट कर सकते हैं। इस समय, कोई लेनदेन दर्ज नहीं किए जा सकते और प्रोजेक्ट केवल पाठीय में सेट हो जाता है।
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

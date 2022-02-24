@@ -2,17 +2,19 @@
 title: कोई कोट बंद करें - लाइट
 description: यह विषय परियोजना संचालन में एक कोट को बंद करने के बारे में जानकारी प्रदान करता है.
 author: rumant
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 8ae5e14220ffecab5bcfa016d8d18e6ccfbc5b04be9a4e66cee26f8885125d31
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 6214e1b5bec5c9173a6b6e69578de14654da633e
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994323"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5272278"
 ---
 # <a name="close-a-quote---lite"></a>कोई कोट बंद करें - लाइट
 

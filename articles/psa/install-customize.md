@@ -2,6 +2,8 @@
 title: स्थापित और अनुकूलित करें
 description: Project Service को स्थापित और अनुकूलित करने का तरीका
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: ''
 ms.date: 8/03/2018
 ms.topic: article
@@ -15,12 +17,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 9d482a4e38009f371b877599bc7559bc0e21b9acf57b175081c8618236163585
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cbce900adece5880f22962b5efb859a8d65c6904
+ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6985346"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "5947926"
 ---
 # <a name="install-and-customize-project-service"></a>स्थापित और अनुकूलित करना (Project Service)
 

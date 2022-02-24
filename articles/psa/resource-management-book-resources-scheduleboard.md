@@ -2,6 +2,8 @@
 title: परियोजना के लिए संसाधनों को बुक करने हेतु शेड्यूल बोर्ड का उपयोग करें
 description: इस टॉपिक में संसाधनों को बुक करने के तरीकों के बारे में जानकारी दी गई है.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5e4516d13a30ddfb5763fe600b0c1fc675ba6cf980730912e1795cc3d6f4991f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9c9db2e602ca97d63ba237fd2c0eb757583caebc
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6998238"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144415"
 ---
 # <a name="use-the-schedule-board-to-book-project-resources"></a>परियोजना के लिए संसाधनों को बुक करने हेतु शेड्यूल बोर्ड का उपयोग करें
 
@@ -34,23 +36,20 @@ ms.locfileid: "6998238"
 1. यदि पृष्ठ के निचले भाग में बनी **बुकिंग की आवश्यकताएं** नामक पेन कोलैप्स हो गई है, तो इसे एक्सपेंड करने के लिए एक्सपेंडर कंट्रोल का चुनाव करें.
 2. **परियोजना** टैब पर **बुकिंग की आवश्यकताएं** पेन में वांछित बुकिंग का चुनाव करें.
 
-    ![परियोजना टैब पर चयनित आवश्यकताएं.](media/Resource-Management-image73.png)
+    ![परियोजना टैब पर चयनित आवश्यकताएं](media/Resource-Management-image73.png)
 
 3. बुक करने-योग्य संसाधन छांटने और उपलब्ध संसाधन देखने हेतु **उपलब्धता का पता लगाएं** का चयन करें. 
 4. शेड्यूल बोर्ड से एक या एकाधिक संसाधनों का चयन करें. 
 5. पृष्ठ के दाईं ओर **संसाधन की बुकिंग करें** पेन में बुकिंग से जुड़ी जानकारी दर्ज करें इसके बाद **बुकिंग करें और बाहर आएं** का चुनाव करें.
 
-    ![अपने द्वारा चयनित बुक करने-योग्य संसाधन के लिए संसाधन बुकिंग फलक बनाएँ.](media/Resource-Management-image74.png)
+    ![अपने द्वारा चयनित बुक करने-योग्य संसाधन के लिए संसाधन बुकिंग पेन बनाएँ](media/Resource-Management-image74.png)
 
 6. यदि आपकी आवश्यकता **संसाधन बुकिंग करें** पेन में चयनित की गई हो है, बुकिंग करने के लिए संसाधन के एक या अधिक सेलों का चयन करें.
 
-    ![किसी संसाधन के लिए कई सेल चयनित किये गए हैं.](media/Resource-Management-image75.png)
+    ![किसी संसाधन के लिए कई सेल चयनित किये गए हैं](media/Resource-Management-image75.png)
 
 7. **बुक** का चयन करें.
 
 चयनित संसाधन का उपयोग कर आवश्यकता पूरी की जाती है. ध्यान दें कि **बुकिंग की आवश्यकताएँ** पेन में इस आवश्यकता को अपडेट कर दिया गया है और इस संसाधन को परियोजना के लिए बुक हो चुका दर्शाया गया है.
 
-![संसाधन को परियोजना हेतु बुक किया गया.](media/Resource-Management-image76.png)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
+![संसाधन को परियोजना हेतु बुक किया गया](media/Resource-Management-image76.png)

@@ -2,9 +2,11 @@
 title: परियोजना अवस्थाएँ
 description: यह विषय Microsoft Dynamics Project Operations में उपलब्ध परियोजना चरणों के बारे में जानकारी देता है.
 author: ruhercul
+manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -15,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: ea8b74813e8a51930a03571eab0d962e14f66a8fd6cb978d3435570a01ce5c5d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: aa3d692a46165b01eafbd7619578cead8dd912d6
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003054"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4127475"
 ---
 # <a name="project-stages"></a>परियोजना अवस्थाएँ
 
@@ -34,7 +36,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 - भाव प्रस्ताव
 - योजना
 - डिलीवर करें
-- पूरा
+- पूर्ण करें
 - बंद करें 
 
 ## <a name="new"></a>नया
@@ -53,7 +55,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 जब प्रोजेक्ट की योजना पूरी हो जाती है और प्रोजेक्ट को शुरु करने के लिए तैयार होते हैं तो प्रोजेक्ट मैनेजर को प्रोजेक्ट की अवस्था को **डिलीवर** में अपडेट करनी चाहिए ताकि यह दिखाया जा सके कि प्रोजेक्ट शुरु हो गया है।
 
-## <a name="complete"></a>पूरा 
+## <a name="complete"></a>पूर्ण 
 
 जब प्रोजेक्ट का काम पूरी हो जाता है तो प्रोजेक्ट मैनेजर इस अवस्था को **पूर्ण** में अपडेट कर सकता है। प्रोजेक्ट अवस्था को **पूर्ण** में अपडेट करते हुए, प्रोजेक्ट मैनेजर यह दर्शाते हैं कि काम 100 प्रतिशत पूरी हो गया है लेकिन प्रोजेक्ट को खुला रखा गया है ताकि किसी लंबित समय या खर्च की प्रविष्टियाँ की जा सकें।
 
@@ -61,6 +63,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 जब किसी प्रोजेक्ट के सभी लेनदेन दर्ज कर लिए जाते हैं तो प्रोजेक्ट मैनेजर इस अवस्था को **बंद करें** में अपडेट कर सकते हैं। इस समय, कोई लेनदेन दर्ज नहीं किए जा सकते और प्रोजेक्ट केवल पाठीय में सेट हो जाता है।
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

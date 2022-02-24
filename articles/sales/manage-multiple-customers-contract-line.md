@@ -2,16 +2,18 @@
 title: परियोजना-आधारित अनुबंध पंक्तियों पर कई ग्राहकों को प्रबंधित करें
 description: यह विषय उन अनुबंध पंक्तियों और अनुबंध के साथ कार्य करने के बारे में जानकारी प्रदान करता है, जिनमें एकाधिक ग्राहक होते हैं.
 author: rumant
+manager: Annbe
 ms.date: 10/22/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 25ce50251380d1ca136a81268c74a0675928011dc2eefaee21df83cdd62845a9
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 71081775ab45167bc1bff1979f7856a2a2a91385
+ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992118"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "4181904"
 ---
 # <a name="manage-multiple-customers-on-project-based-contract-lines"></a>परियोजना-आधारित अनुबंध पंक्तियों पर कई ग्राहकों को प्रबंधित करें
 
@@ -42,6 +44,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 बिलिंग विभाजन प्रतिशत को ग्रिड में संपादित किया जा सकता है. जब बिलिंग विभाजन प्रतिशत कुल 100 प्रतिशत नहीं होता है, तो एक त्रुटि होगी. बिलिंग विभाजन प्रतिशत संपादित करने के बाद, त्रुटि को दूर करने के लिए पृष्ठ को रीफ़्रेश करें.
 
 आप अनुबंध पंक्ति ग्राहक सबग्रिड पर **समान रूप से वितरित करें** भी चुनने का प्रयास कर सकते हैं. यह क्रिया समान रूप से सभी अनुबंध पंक्ति ग्राहकों को बिलिंग विभाजन आवंटित करती है. यदि कोई राउंडिंग फ़ैक्टर है, तो उसे राउंडिंग ग्राहक में जोड़ा जाएगा. एक अनुबंध पंक्ति ग्राहक को हमेशा **राउंडिंग** ग्राहक के रूप में टैग किया जाता है, जिसमें **राउंडिंग** ध्वज **हाँ** पर सेट होता है.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

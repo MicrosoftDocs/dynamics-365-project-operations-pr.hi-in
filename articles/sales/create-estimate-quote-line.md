@@ -2,9 +2,11 @@
 title: एक कोट पंक्ति पर अनुमान बनाएँ
 description: यह विषय किसी परियोजना के लिए क्वोटेशन लाइन पर अनुमान बनाने के तरीके के बारे में जानकारी देता है.
 author: rumant
+manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -15,12 +17,12 @@ ms.search.industry: Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8d7e7df4830612f5a7c43adf37f75bdb623959ffe00fe219441d8e394ddecac3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 97030689eddb88576ffcf9dd848f8a0776512192
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6996438"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4122930"
 ---
 # <a name="create-estimates-on-a-quote-line"></a>एक कोट पंक्ति पर अनुमान बनाएँ
 
@@ -86,6 +88,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 7. संवाद बॉक्स बंद करने के लिए **ठीक** चुनें और फिर **चरण अपडेट** चुनें।
 8. दूसरे प्लग-इन के लिए चरण 1 को 7 से दोहराएं।
 9. PluginRegistrationTool को बंद करें।
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,9 +2,11 @@
 title: पुष्टि करें, अपडेट करें, और एक परियोजना उद्धरण भेजें
 description: यह विषय पुष्टि के लिए ग्राहक को एक उद्धरण भेजने, फ़ीडबैक के आधार पर संशोधन करने, और फिर उद्धरण को फिर से भेजने के बारे में जानकारी प्रदान करता है.
 author: ruhercul
+manager: AnnBe
 ms.date: 05/09/2020
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -16,12 +18,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: df7bfd7c57b7a273a94e49fcf3834072a8eb20b0ed598a144cefaff41e28a431
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 7794f9b620165b3ce914e42693faa792e3918854
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991263"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5270815"
 ---
 # <a name="confirm-update-and-send-a-project-quotation"></a>पुष्टि करें, अपडेट करें, और एक परियोजना उद्धरण भेजें
 

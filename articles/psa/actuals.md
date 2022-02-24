@@ -2,9 +2,10 @@
 title: वास्तविक अवलोकन
 description: यह विषय परियोजना के वास्तविक आंकड़ों के बारे में जानकारी प्रदान करता है।
 author: rumant
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
-- intro-internal
 ms.date: 08/03/2020
 ms.topic: article
 ms.author: rumant
@@ -17,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 15c8d26fcf4eb9fda8a4fe4ce085ea3becdc2c76f11525357b75f59e18fd6017
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 63ad6544f0ec0a893aebd8d81f3ee895e51c294e
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992478"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5146125"
 ---
 # <a name="actuals-overview"></a>वास्तविक अवलोकन
 
@@ -32,7 +33,7 @@ ms.locfileid: "6992478"
 
 वास्तविक आंकड़े उस काम की राशि हैं जो एक प्रोजेक्ट में पूरा किया गया है। परियोजना वास्तविक आंकड़ों को अपने स्रोत दस्तावेजों से पता लगाया जा सकता है। उन स्रोत दस्तावेजों में समय, व्यय और जर्नल प्रविष्टियाँ और चालान भी शामिल हैं।
 
-![स्रोत दस्तावेज़ों से प्रोजेक्ट के वास्तविक आंकड़ों का पता कैसे लगाया जाता है.](media/basic-guide-18.png)
+![स्रोत दस्तावेज़ों से प्रोजेक्ट के वास्तविक आंकड़ों का पता कैसे लगाया जाता है](media/basic-guide-18.png)
 
 ## <a name="submitting-a-time-entry"></a>एक समय प्रविष्टि प्रस्तुत करना
 
@@ -329,6 +330,3 @@ PSA किसी प्रोजेक्ट के दौरान होने
 </tr>
 </tbody>
 </table>
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

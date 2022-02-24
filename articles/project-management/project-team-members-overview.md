@@ -2,17 +2,18 @@
 title: परियोजना टीम के सदस्य
 description: यह विषय परियोजना टीम के सदस्य की जानकारी, विशेषताओं और शेड्यूलिंग के साथ काम करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.custom: intro-internal
-ms.openlocfilehash: 034b39b93b7c5cb640e7dd8281e0d224d69d8adaf3eedbdff288a96e7fb9920b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3985febf62a520619e05bbb9a307195009e4b100
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994008"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4127430"
 ---
 # <a name="project-team-members"></a>परियोजना टीम के सदस्य
 
@@ -59,6 +60,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 - **नया**: शेड्यूल से सीधे संसाधनों को जोड़ने के अतिरिक्त, परियोजना प्रबंधक टीम के सदस्य के ग्रिड से नए नामित या टीम के सामान्य सदस्यों को जोड़ सकते हैं.
 - **मिटाएं**: एक या कई टीम के सदस्यों का चयन करके, परियोजना प्रबंधक उन संसाधनों को मिटा सकता है जो अब परियोजना पर भाग लेने नहीं जा रहे हैं. टीम के सदस्य को मिटाने से सभी संबद्ध संसाधन कार्यभार भी मिटा दिए जाएंगे और सभी मौजूदा बुकिंग रद्द हो जाएंगी.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

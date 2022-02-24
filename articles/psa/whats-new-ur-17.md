@@ -2,6 +2,8 @@
 title: Project Service Automation के अपडेट रिलीज़ 17, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: यह विषय Project Service Automation अपडेट रिलीज़ 17, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 03/06/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ba2bc9da1c6e7e2e2628980878f9201b1c732cc03f791f5259bbbd0ee279b31b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: f9fb941a95b0610dc546b1c12a87aa7faef4d676
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006608"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5143721"
 ---
 # <a name="project-service-automation-update-release-17-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 17, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं.  यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ को अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
+हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं.  यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ को अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 यह टॉपिक PSA V3, अपडेट रिलीज़ 17 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस संस्करण की बिल्ड संख्या V3.10.6.34 है और यह आमतौर पर मार्च 2020 के स्वयं-अपडेट के माध्यम से उपलब्ध है.
 
@@ -55,6 +57,3 @@ ms.locfileid: "7006608"
 - निश्चित: जब लेन-देन वर्ग **समय**, **UnitGroup** सहित सभी प्रविष्टियों के लिए गैर-संपादन योग्य है, **QuoteLineDetails**, **JournalLine**, **InvoiceLineDetail**, और **ContractLineDetails**. हालाँकि, **इकाई** केवल **JournalLine** और **InvoiceLineDetails** के लिए गैर-संपादन योग्य है.
 
 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

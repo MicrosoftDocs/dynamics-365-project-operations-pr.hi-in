@@ -2,16 +2,18 @@
 title: यात्रा की आवश्यकता
 description: यह विषय यात्रा मांग-पत्र के बारे में जानकारी प्रदान करता है.
 author: suvaidya
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: suvaidya
-ms.openlocfilehash: f00b5ca2142c4ba5cb523773f1f6dd8f0a055f6f6d474bc2b8e5f775ca0fc739
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 46a678ac4486c99f11d74dbac07dedd08364cb2f
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994548"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4123740"
 ---
 # <a name="travel-requisitions"></a>यात्रा की आवश्यकता
 
@@ -54,6 +56,3 @@ _**इस पर लागू होता है:** संसाधन/गै�
 
 > [!NOTE]
 > जब आप किसी स्वीकृत यात्रा आवश्यकता के लिए व्यय रिपोर्ट मैप करते हैं, तो लेनदेन राशि अधिकृत राशि से अधिक नहीं हो सकती है। 
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

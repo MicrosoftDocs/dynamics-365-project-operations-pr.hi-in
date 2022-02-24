@@ -2,17 +2,19 @@
 title: परियोजना विक्रय मूल्य सूचियाँ ओवरराइड करें
 description: यह विषय कस्टम विक्रय मूल्य सूचियाँ बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
+manager: Annbe
 ms.date: 10/22/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b26947822eb8e87b3b36fcde9c99c6ee69375aa942a5641112b9b1109dcaa26c
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: af9baca540d89f4e5e616bdfdd6111bef29abe28
+ms.sourcegitcommit: 656a9d03f260c29e988e2ff05b6e07ae0365d6d0
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7009578"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "4672233"
 ---
 # <a name="override-project-sales-price-lists"></a>परियोजना विक्रय मूल्य सूचियाँ ओवरराइड करें
 
@@ -50,6 +52,3 @@ Dynamics 365 Project Operations में खाता-रिकॉर्ड प
 परियोजना अनुबंध पर, परियोजना मूल्य निर्धारण हमेशा अनुबंध के नाम और नाम के साथ जोड़े गए निर्माण दिनांक समय स्टैम्प के साथ कस्टम मूल्य सूची के रूप में डिफ़ॉल्ट होते हैं. यह सही है चाहे तो अनुबंध को तब बनाया गया था, जब कोट को जीता गया था या अनुबंध को शुरुआत से बनाया गया था. यदि आवश्यक हो, तो आप कस्टम मूल्य सूची की संबद्धता को निकाल सकते हैं या इसके बजाए परियोजना अनुबंध से मानक मूल्य सूची संबद्ध कर सकते हैं.
 
 जब आप मानक मूल्य सूची को कोट या अनुबंध पर परियोजना मूल्य सूचियों से संबद्ध करते हैं, तो मूल्य सूची के मूल्यों में किए गए कोई भी परिवर्तन उन सभी कोट और अनुबंधों को प्रभावित करेंगे, जो मूल्य सूची का उपयोग करते हैं.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

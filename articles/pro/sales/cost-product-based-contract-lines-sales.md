@@ -2,17 +2,19 @@
 title: उत्पाद-आधारित अनुबंध पंक्ति लागत - लाइट
 description: यह विषय बनाने के बारे में जानकारी प्रदान करता है
 author: rumant
+manager: Annbe
 ms.date: 10/19/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 55f74b016b55945433083e11902003cea99f1aa463264cdd95b0aad389592e20
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: a81c972f36179621f0547c24fc53d294485f638c
+ms.sourcegitcommit: 2b74edd31f38410024a01124c9202a4d94464d04
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997338"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "4764461"
 ---
 # <a name="cost-product-based-contract-lines---lite"></a>उत्पाद-आधारित अनुबंध पंक्ति लागत - लाइट
 
@@ -28,6 +30,3 @@ Dynamics 365 Project Operations में उत्पाद आधारित 
 उत्पाद-आधारित अनुबंध लाइन पर एक इकाई लागत होने से एक इकाई की प्रत्येक बिक्री के लिए विभिन्न उत्पाद लागतों की अनुमति मिलती है. जबकि हमेशा आवश्यक नहीं है, कुछ परिदृश्य हैं जहां आपूर्तिकर्ता द्वारा ग्राहक के लिए उत्पाद की लागत में छूट दी जा सकती है. निम्न परिदृश्य पर विचार करें:
 
 Fabrikam Robotics, Adatum कॉर्पोरेशन की असेंबली लाइनों में रोबोटिक टुकड़ियाँ इंस्टॉल कर रहा है. Fabrikam स्थापना सेवाएं प्रदान करता है, लेकिन Robotic Arms, Trey Research से है. यदि Adatum कॉर्पोरेशन में रोबोटिक टुकड़ियाँ का इंस्टॉलेशन Trey Research के लिए एक नया उद्योग सिरा खोलता है, तो वे Fabrikam को इस सौदे के लिए एक विशेष छूट की पेशकश कर सकते हैं. इस मामले में, Fabrikam, Robotic Arms के लिए उत्पाद-आधारित अनुबंध पंक्ति बनाता है. इस अनुबंध के लिए प्रति इकाई लागत दर्ज की जाती है. लागत Trey Research से Robotic Arms की लागत से अलग है.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

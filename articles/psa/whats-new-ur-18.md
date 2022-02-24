@@ -2,6 +2,8 @@
 title: Project Service Automation के अपडेट रिलीज़ 18, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: यह विषय Project Service Automation अपडेट रिलीज़ 18, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 04/27/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 43491a3820d84e9d2a43e678f2604e234e18794d9e28889429debc0b991bbfac
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d6e0bb669513185ca266858ea9b8a89ed6dd4408
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004358"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5147205"
 ---
 # <a name="project-service-automation-update-release-18-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 18, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ को अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
+हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ को अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 यह टॉपिक Project Service Automation V3, अपडेट रिलीज़ 18 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस संस्करण की बिल्ड संख्या V3.10.8.12 है और यह आमतौर पर अप्रैल 2020 में एक स्व-अद्यतन के माध्यम से उपलब्ध है.
 
@@ -61,6 +63,3 @@ ms.locfileid: "7004358"
 **Sales**
 
 - सुधार किया गया: जब समय प्रविष्टियों का फिर से अनुमोदन (**अनुमोदन करें > रद्द करें >** फिर से अनुमोदन करें) किया जाता है, तो एक डुप्लिकेट नॉन-चार्जिएबल एक्चुअल बन जाता है.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

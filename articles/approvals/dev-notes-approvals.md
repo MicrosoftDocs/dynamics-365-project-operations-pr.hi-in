@@ -2,16 +2,18 @@
 title: अनुमोदन के लिए डेवलपर नोट्स
 description: यह विषय अनुमोदनों के साथ कार्य करने के बारे में अतिरिक्त डेवलपर जानकारी प्रदान करता है.
 author: stsporen
+manager: Annbe
 ms.date: 11/09/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: cfa4928eda286bee298a2c33f4e9c25b576f495795fc2deda33b393e372465b1
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9e4e910d0ff0a5f2603148fcc5daa0d423a4d174
+ms.sourcegitcommit: a9dbcd3aff4c6ae495412e4980e105ae160fd1ec
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991668"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "4483950"
 ---
 # <a name="developer-notes-for-approvals"></a>अनुमोदन के लिए डेवलपर नोट्स
 
@@ -21,6 +23,3 @@ Dynamics 365 Project Operations में सत्यापन तर्क श
 
   - सभी सहायक पंक्तियाँ संबंधित तालिकाओं में बनाई गई हैं, जैसे जर्नल और वास्तविक.
   - आगे बढ़ने से पहले परियोजना में अनुमोदनकर्ता को एक **परियोजना अनुमोदनकर्ता** के रूप में चिह्नित किया गया है.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

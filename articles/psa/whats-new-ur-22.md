@@ -2,6 +2,8 @@
 title: Project Service Automation के अपडेट रिलीज़ 22, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: यह विषय Project Service Automation अपडेट रिलीज़ 22, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 07/28/2020
 ms.topic: article
@@ -15,18 +17,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6a5109b1ffedfce99fc50c035bcbe5810abcf3b71f88679b47561d69daa9f3ab
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: db4cbb9f9daadcb1911325f8bee987d5e480e1cf
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004313"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150985"
 ---
 # <a name="project-service-automation-update-release-22-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 22, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ का अद्यतन करने के लिए, अपडेट को स्थापित करने हेतु Dynamics 365 online समाधन पृष्ठ के लिए व्यवस्थापन केंद्र पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
+हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ का अद्यतन करने के लिए, अपडेट को स्थापित करने हेतु Dynamics 365 online समाधन पृष्ठ के लिए व्यवस्थापन केंद्र पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
 
 यह टॉपिक Project Service Automation V3, अपडेट रिलीज़ 22 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस संस्करण की बिल्ड संख्या V 3.10.33.48 है और यह आमतौर पर जून 2020 में एक स्व-अद्यतन के माध्यम से उपलब्ध है.
 
@@ -70,6 +72,3 @@ ms.locfileid: "7004313"
 - यदि कोट से संलग्न BPF अंतिम चरण में है, तो कोट को जीते गए के रूप में बंद करना, बनाए गए अनुबंध पर नेविगेट नहीं करता है.
 - समय प्रविष्टि को रीकॉल किए जाने पर रीवर्सिंग **बिल न की गई विक्रय** मूल लागत से लिंक की जाती है.
 - **पुष्टि करें** बटन चुने जाने के बाद, इनवॉइस स्थिति तब तक **पुष्टि हुई** में नहीं बदलती है, जब तक इनवॉइस को रीफ़्रेश न किए जाए.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

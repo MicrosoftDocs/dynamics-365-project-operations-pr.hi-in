@@ -2,6 +2,8 @@
 title: संसाधन प्रबंधन FAQ
 description: यह विषय संसाधन प्रबंधन के बारे में अक्सर पूछे जाने वाले प्रश्नों के उत्तर प्रदान करता है।
 author: ruhercul
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f80e65e7ff423c362fd1a86676a84ab67afabc88115c99b582c5eefa6c725a46
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d335a12a9b478bff63b6c93809c89dac9718a4be
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7002378"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5144370"
 ---
 # <a name="resource-management-faq"></a>संसाधन प्रबंधन FAQ
 
@@ -52,6 +54,3 @@ ms.locfileid: "7002378"
 ## <a name="what-is-the-difference-between-an-assignment-and-a-booking"></a>असाइनमेंट और बुकिंग में क्या अंतर है?
 
 असाइनमेंट्स, प्रोजेक्ट शेड्यूल में प्रोजेक्ट कार्यों के लिए संसाधनों का असाइनमेंट हैं। संसाधन, वास्तविक या सामान्य संसाधन हो सकते हैं। बुकिंग किसी परियोजना के लिए संसाधनों का कठिन या आसान आवंटन है। हार्ड बुकिंग किसी संसाधन की क्षमता का उपभोग करते हैं। आदर्श रूप से, वास्तविक संसाधनों के लिए, बुकिंग और असाइनमेंट आपस में सहमत होना चाहिए, क्योंकि वे अलग नहीं हैं। हालाँकि, PSA इस समझौते को लागू नहीं करता है। समायोजन दृश्य एक परियोजना प्रबंधक स्थानों को दिखाता है, जहां संसाधन की बुकिंग और असाइनमेंट सहमत नहीं होते हैं।
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

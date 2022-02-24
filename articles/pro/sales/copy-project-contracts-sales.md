@@ -2,16 +2,18 @@
 title: परियोजना अनुबंधों की प्रतिलिपि बनाएँ - लाइट
 description: इस विषय में Project Operations में परियोजना संपर्क की प्रतिलिपि बनाने की जानकारी दी गई है.
 author: rumant
+manager: Annbe
 ms.date: 10/07/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d5c45c6f1631d9e20bd0416410c7fe24a11623da425c8e2a633b085fbfabdd79
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 4137fc400c7fdd8fecd9d8349bf7f57f3470b51f
+ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7006023"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "4181409"
 ---
 # <a name="copy-project-contracts---lite"></a>परियोजना अनुबंधों की प्रतिलिपि बनाएँ - लाइट
 
@@ -43,6 +45,3 @@ _**लागू होता है:** लाइट नियोजन-प्र
   - ग्राहक के बजट की जानकारी
 
 क्योंकि यह जानकारी प्रत्येक अनुबंध के लिए विशेष है, ये क्षेत्र और रिकॉर्ड्स कॉपी नहीं किए गए हैं. परियोजना और उत्पादों के लिए अनुबंध पंक्तियां, अनुबंध पंक्ति विवरणों पर अनुमान, और अनुबंध स्तर पर इससे अधिक मूल्यों को कॉपी नहीं किया गया है. मूल्य और लागत दर डिफ़ॉल्ट रूप से **मापदंड कॉपी करें** संवाद पृष्ठ पर **मूल्य निर्धारण कॉपी करें** क्षेत्र के चयन पर निर्भर करते हैं.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -2,9 +2,11 @@
 title: व्यय नीतियों को परिभाषित करें
 description: आप व्यय नीतियां निर्धारित कर सकते हैं जिनका आपके कर्मचारियों को व्यय रिपोर्ट दर्ज करने और यात्रा मांग-पत्र दर्ज करने और सबमिट करने के दौरान पालन करना चाहिए.
 author: suvaidya
+manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
+ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -13,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: d29b1a9c1a935b933f403f78279b74577d11089007ce1d1090c361075822263a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: c55cec132649daf9ee08ea4d8db3668860247934
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986358"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4128420"
 ---
 # <a name="define-expense-policies"></a>व्यय नीतियों को परिभाषित करें
 
@@ -51,6 +53,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 ## <a name="when-to-evaluate-policies"></a>नीतियों का मूल्यांकन कब करें
 
 व्यय प्रबंधन मापदंडों में जब कोई लाइन सहेजी जाती है या व्यय रिपोर्ट सबमिट की जाती है, तो आप व्यय प्रबंधन नीतियों का मूल्यांकन कर सकते हैं. यदि आप किसी पंक्ति को सहेजने पर मूल्यांकन करना चुनते हैं तो उपयोगकर्ताओं को पहले दृश्यता होगी कि उन्हें उनकी व्यय रिपोर्ट को एक बार में पूरा करने के लिए क्या करना होगा. नहीं तो, आप कार्यप्रवाह को सबमिट करने के दौरान नीति मूल्यांकन में देरी कर सकते हैं और अंत में सत्यापन करके समय बचा सकते हैं.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,16 +2,18 @@
 title: डिफ़ॉल्ट मूल्य सूची
 description: यह विषय Project Operations में डिफ़ॉल्ट विक्रय और लागत मूल्य सूचियों के बारे में जानकारी प्रदान करता है.
 author: rumant
+manager: Annbe
 ms.date: 10/13/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: a5e38e2f0b553b789956c6d73d481ab0ed2ce3a77815e7cf8c058a0b4666c558
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: fd29a3fc9c873d46dd66a05ad100c7515177d6cd
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989868"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4130940"
 ---
 # <a name="default-price-lists"></a>डिफ़ॉल्ट मूल्य सूची
 
@@ -19,7 +21,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="sales-price-lists"></a>विक्रय मूल्य सूचियाँ
 
-Dynamics 365 Project Operations में हर परियोजना कोट और अनुबंध में एक डिफ़ॉल्ट विक्रय मूल्य सूची होती है. 
+Dynamics 365 Project Operations में हर प्रोजेक्ट कोटेशन और अनुबंध में डिफॉल्ट बिक्री मूल्य सूची होती है. 
 
 ### <a name="price-list-default-on-project-quotes"></a>प्रोजेक्ट कोटेशन पर डिफ़ॉल्ट मूल्य सूची
 सिस्टम यह निर्धारित करने के लिए निम्नलिखित प्रक्रिया को पूरा करता है कि प्रोजेक्ट कोटेशन पर कौन सी मूल्य सूची डिफ़ॉल्ट है:
@@ -55,6 +57,3 @@ Dynamics 365 Project Operations में हर परियोजना को
 5. इसके बाद सिस्टम मूल्य सूचियों की तिथि प्रभावकारिता को देखता है जो आने वाले अनुमान या वास्तविक लाइन की तिथि से मेल खाते हैं. 
 6. यदि कई मूल्य सूचियां हैं जो आने वाले अनुमान या वास्तविक आँकड़ों के लिए प्रभावी हैं, तो हाल ही में बनाई गई मूल्य सूची का चयन किया जाता है.
 7. यदि मुद्रा और प्रभावी तिथि से मेल खाने वाले प्रोजेक्ट मापदंडों से जुड़ी कोई लागत मूल्य सूचियां नहीं हैं, तो सिस्टम आने वाले अनुमान या वास्तविक लाइन पर लागत दर को डिफ़ॉल्ट रूप से शून्य (0) कर देता है.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

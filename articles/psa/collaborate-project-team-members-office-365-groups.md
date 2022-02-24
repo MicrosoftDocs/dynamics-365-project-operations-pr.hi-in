@@ -2,6 +2,8 @@
 title: Office 365 समूहों के साथ अपने प्रोजेक्ट टीम के सदस्यों के साथ सहयोग करें
 description: Office 365 समूहों के माध्यम से अपनी Project Service दल के सदस्यों के साथ कैसे सहयोग करें
 author: JohnPBurrows
+manager: kfend
+ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -16,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 94e781e527dcc8077c5123b68d9695bbf707f86444f2a5e119c7594ee54e0da7
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 68816b00b752249023f053836994a083bba5362d
+ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007058"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "5150895"
 ---
 # <a name="collaborate-with-your-project-team-members-with-office-365-groups-project-service"></a>Office 365 समूहों (Project Service) के साथ अपने प्रोजेक्ट टीम के सदस्यों के साथ सहयोग करें
 
@@ -41,6 +43,3 @@ ms.locfileid: "7007058"
   
 ### <a name="see-also"></a>यह भी देखें  
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,16 +2,18 @@
 title: परियोजना-आधारित कोट पंक्तियों पर कई ग्राहकों को प्रबंधित करें - लाइट
 description: यह विषय परियोजना-आधारित कोटेशन लाइनों पर कई ग्राहकों का प्रबंधन करने का तरीका बताता है.
 author: rumant
+manager: Annbe
 ms.date: 10/06/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: d015e9107741fd496f7d3639731f33fcdcc9b9bdd5f501c9ad2617e37a707f35
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 7cab29693fc1447beba74dc6266367f13e48634d
+ms.sourcegitcommit: 625878bf48ea530f3381843be0e778cebbbf1922
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001703"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "4176478"
 ---
 # <a name="manage-multiple-customers-on-project-based-quote-lines---lite"></a>परियोजना-आधारित कोट पंक्तियों पर कई ग्राहकों को प्रबंधित करें - लाइट
 
@@ -41,6 +43,3 @@ _**लागू होता है:** लाइट नियोजन-प्र
 आप बिलिंग विभाजन प्रतिशत को इन-लाइन संपादित कर सकते हैं. जब बिलिंग विभाजन प्रतिशत कुल 100% नहीं होती है, तो एक त्रुटि होती है. बिलिंग विभाजन प्रतिशत को संपादित करने के बाद, त्रुटि को दूर करने के लिए कोटेशन लाइन पृष्ठ को रिफ़्रेश करें.
 
 सभी कोटेशन लाइन ग्राहकों को बिलिंग विभाजन आवंटित करने के लिए कोटेशन लाइन ग्राहक सबग्रिड पर समान रूप से वितरण की कार्रवाई का उपयोग करें. यदि कोई पूर्णांकन कारक है, तो उसे पूर्ण ग्राहक में जोड़ा जाएगा. कोटेशन लाइन ग्राहकों में से एक को हमेशा पूर्ण ग्राहक के रूप में टैग किया जाता है, जिसका अर्थ है कि कोटेशन लाइन ग्राहक रिकॉर्ड में पूर्णांकन चिह्नक **हाँ** के लिए सेट है. 
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
