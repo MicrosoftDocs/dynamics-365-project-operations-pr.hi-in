@@ -2,9 +2,11 @@
 title: ख़र्च प्रबंधन का अवलोकन
 description: यह विषय ख़र्च प्रबंधन और अतिरिक्त संसाधनों के लिंक के बारे में सामान्य जानकारी प्रदान करता है. आप एक एकीकृत कार्यप्रवाह बनाने के लिए ख़र्च प्रबंधन का उपयोग कर सकते हैं जहां आप भुगतान विधि की जानकारी को संग्रह कर सकते हैं, क्रेडिट कार्ड लेनदेन आयात कर सकते हैं, और कर्मचारियों द्वारा आपके व्यवसाय के लिए खर्च उठाने पर ख़र्च किए जाने वाले पैसे की निगरानी कर सकते हैं.
 author: ShylaThompson
+manager: AnnBe
 ms.date: 07/25/2019
 ms.topic: article
 ms.prod: ''
+ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvExpenseWorkspace
 audience: Application User, IT Pro
@@ -16,12 +18,12 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 0fe9f763e18507fa232cb830f8e0b6852374b65b
-ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
+ms.openlocfilehash: 7066a021390e3403c4312a7cfe8488a989b9aaa3
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "5993553"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077860"
 ---
 # <a name="expense-management-overview"></a>ख़र्च प्रबंधन का अवलोकन
 
@@ -35,7 +37,7 @@ ms.locfileid: "5993553"
 
 ### <a name="whats-new-and-in-development"></a>नया और विकास में क्या है
 
-यह देखने के लिए कि किन नई सुविधाओं की योजना बनाई गई है, [Microsoft Dynamics 365 रिलीज प्लान](/dynamics365/release-plans/).
+यह देखने के लिए कि किन नई सुविधाओं की योजना बनाई गई है, [Microsoft Dynamics 365 रिलीज प्लान](https://go.microsoft.com/fwlink/?linkid=2010158).
 
 #### <a name="expense-report-entry"></a>ख़र्च रिपोर्ट प्रविष्टि
 
@@ -56,6 +58,3 @@ ms.locfileid: "5993553"
 ### <a name="videos"></a>वीडियोज़
 
 कैसे-करें वीडियो को ख़ोजें जो अब [Microsoft Dynamics 365 YouTube चैनल](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ)पर उपलब्ध हैं.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

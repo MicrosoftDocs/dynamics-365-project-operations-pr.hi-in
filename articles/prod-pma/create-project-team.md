@@ -2,11 +2,9 @@
 title: एक प्रोजेक्ट टीम बनाएं
 description: यह विषय प्रोजेक्ट टीमों को बनाने और प्रबंधित करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 121a007d91c2da4f3b9951901781757b8bcca8fe
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 1ab8ae045852a75a7a39a4eccfa86a114a34273581c98631975bcbfac5a7a343
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270860"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005798"
 ---
 # <a name="create-a-project-team"></a>एक प्रोजेक्ट टीम बनाएं
 
@@ -35,7 +33,7 @@ ms.locfileid: "5270860"
 
 परियोजना प्रबंधक पृष्ठ पर एक भूमिका का चयन कर सकता है और फिर, यदि कोई उपलब्ध संसाधन है जो आवश्यकता को पूरा करता है, तो भूमिका को भरने हेतु एक संसाधन आरक्षित करने के लिए चयन करें. ध्यान दें कि नियोजन के स्तर में इस बिंदु पर संसाधनों को आरक्षित नहीं होना है. जब आप एक WBS बनाते हैं, तो आप परियोजना के लिए कर्मचारियों के संसाधनों के साथ भूमिकाओं को बदल सकते हैं. यदि भूमिकाओं को WBS में कर्मचारियों के संसाधनों से प्रतिस्थापित किया जाता है, तो संसाधन सेटअप स्वचालित रूप से परियोजना दल सूचीकरण और शेड्यूलिंग को अपडेट करता है.
 
-[![परियोजना दल सूचीकरण जिसमें भूमिकाएं और वास्तविक संसाधन दोनों शामिल हैं](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
+[![परियोजना टीम सूचीकरण जिसमें भूमिकाएं और वास्तविक संसाधन दोनों शामिल हैं.](./media/projectresourcing03-1024x368.jpg)](./media/projectresourcing03.jpg) 
 
 परियोजना प्रबंधक के पास परियोजना के लिए संसाधन बुक करने के विभिन्न विकल्प हैं, जैसे **शेष क्षमता**, **पूर्ण क्षमता**, **क्षमता प्रतिशत**, और **घंटे निर्दिष्ट करें**. यदि संसाधन कार्यभार बदलते हैं तो इन बुकिंग विकल्पों को किसी भी समय रद्द किया जा सकता है. दो प्रकार की बुकिंग समर्थित है:
 

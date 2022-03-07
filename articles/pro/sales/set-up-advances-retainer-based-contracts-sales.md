@@ -2,18 +2,16 @@
 title: उन्नत और शुल्क आधारित अनुबन्ध
 description: यह अध्याय शुल्क आधारित अनुबन्ध मॉडल्स और प्रकल्प परिचालन के उन्नत प्रकारों को लेकर जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/20/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: e098d25a3e96adf2a1b8e43a19da3a14f446fba9
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 87e275cb72f1edc5a2a9913b4aa47d461d1f3d3d9bf177bf0ffba8b463f4ce01
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5272345"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6994413"
 ---
 # <a name="advances-and-retainer-based-contracts"></a>एडवांसेस और रिटेनर-आधारित अनुबंध
 

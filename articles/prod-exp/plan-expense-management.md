@@ -18,14 +18,16 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 74a8435464c8573ca831b7886f00c2695fd29827
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: e2291515cc154fb5b34ca5802135791958bea1e5
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271355"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077848"
 ---
 # <a name="configure-expense-management"></a>ख़र्च प्रबंधन कॉन्फ़िगर करें
+
+[!include [banner](../includes/banner.md)]
 
 यह विषय ख़र्च प्रबंधन को कॉन्फ़िगर करने से पहले योजना प्रक्रिया के दौरान किए जाने वाले विचारों और निर्णयों का वर्णन करता है. ख़र्च प्रबंधन में, आप भुगतान विधियों, यात्रा मांगों, ख़र्च रिपोर्ट, नीतियों आदि के बारे में जानकारी संग्रहीत कर सकते हैं.
 
@@ -160,6 +162,3 @@ ms.locfileid: "5271355"
 - नीति कब समाप्त हो जाती है?
 - नीति नियम क्या है?
 - नीति नियम का परिणाम क्या है?
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

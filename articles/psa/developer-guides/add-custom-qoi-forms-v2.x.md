@@ -2,12 +2,10 @@
 title: नए कस्टम निकाय फ़ॉर्म जोड़ें (Project Service Automation 2.x)
 description: यह विषय Dynamics 365 Project Service Automation 2.x में अवसरों, उद्धरणों, आदेशों या चालानों के लिए कस्टम निकाय फॉर्म को जोड़ने के बारे में जानकारी प्रदान करता है.
 author: makk
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 3/14/2019
 ms.topic: article
-ms.service: business-applications
 ms.author: makk
 audience: admin
 search.audienceType:
@@ -16,12 +14,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 31986efed81892cc5722cb8f5e292cde14d8843d
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 400d817ee7cbae6f6da95db4286ad6c4d6ff349a
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144595"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6007998"
 ---
 # <a name="add-new-custom-entity-forms-project-service-automation-2x"></a>नए कस्टम निकाय फ़ॉर्म जोड़ें (Project Service Automation 2.x)
 
@@ -96,3 +94,6 @@ Dynamics 365 Project Service Automation **आइटम-आधारित** औ�
     ```
 
 6. सहेजें और फिर अनुकूलन प्रकाशित करें.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

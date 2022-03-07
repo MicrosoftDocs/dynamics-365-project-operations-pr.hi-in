@@ -2,12 +2,11 @@
 title: कीमत और लागत निर्धारण डायमेंशन का होम पेज
 description: इस विषय में कीमत निर्धारण डायमेंशन की सामान्य जानकारी दी गई है।
 author: rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +16,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 65516784c6787fa5f3c08297f4d161d52c2ea4a9
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 5c8c28839f5e7b3259afbea4ab400d0c4fca95fd
+ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5151300"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "6368883"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>कीमत और लागत निर्धारण डायमेंशन का होम पेज
 
@@ -65,15 +64,18 @@ PSA कीमत निर्धारण डायमेंश के डिफ
 
 **नमूना बिल दरें**
 
-| भूमिका        | संगठन इकाई    |इकाई      |मूल्य      |मुद्रा  |
+| भूमिका        | संगठन इकाई    |इकाई      |कीमत      |मुद्रा  |
 | ------------|-------------|----------|----------:|----------|
-| डेवलपर   | Contoso US  |Hour | 200|USD     |
-| डेवलपर   | रैना इंडिया |Hour|   112|USD     |
+| डेवलपर   | Contoso अमेरिका  |घंटा | 200|USD     |
+| डेवलपर   | Contoso भारत |घंटा|   112|USD     |
 
 
 **नमूना लागत दरें**
 
-| वेतन बैंड     | संगठन इकाई    |इकाई      |मूल्य      |मुद्रा  |
+| वेतन बैंड     | संगठन इकाई    |इकाई      |कीमत      |मुद्रा  |
 | ----------------|-------------|----------|----------:|----------|
-| मेरा company_Band1 | रैना US  |Hour | 145|USD     |
-| मेरा company_Band2 | रैना इंडिया |Hour|   67|USD     |
+| मेरा company_Band1 | Contoso अमेरिका  |घंटा | 145|USD     |
+| मेरा company_Band2 | Contoso भारत |घंटा|   67|USD     |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: व्यावसायिक लेनदेन
 description: यह विषय व्यावसायिक लेन-देन के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 3a8506effc453280177d74f94dcf9310e310c098
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 33c27acc6747c94d76892f41031adc46150da0e0
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149905"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6011553"
 ---
 # <a name="business-transactions"></a>व्यावसायिक लेनदेन
 
@@ -149,3 +147,6 @@ PSA इन पांच इकाइयों में रिकॉर्ड �
 | ड्राफ्ट इनवॉइस सुधार       | इनवॉइस पंक्ति लेन-देन GUID | बदलना          | msdyn_invoicelinetransaction | बिल की बिक्री GUID            | मूल           | msdyn_actual       |
 | इनवॉइस सुधार की पुष्टि करें     | बिल की बिक्री उलटना GUID    | उलटना          | msdyn_actual                 | बिल की बिक्री GUID            | मूल           | msdyn_actual       |
 | नई बिल न की गई बिक्री वास्तविक GUID | बदलना                     | msdyn_actual       | बिल की बिक्री GUID            | मूल                     | msdyn_actual       |                    |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

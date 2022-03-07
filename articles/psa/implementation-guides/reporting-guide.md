@@ -2,8 +2,6 @@
 title: रिपोर्टिंग मार्गदर्शिका
 description: इस विषय में रिपोर्टिंग के बारे में जानकारी दी गई है।
 author: kfend
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 02/11/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 10f4a6cbd741008b696ae9dd147307413b5b7936
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: dbfcbc724842a0c2dd507da63b45608f3a18b9eae489f72e2ec0bd50f9fd2f24
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150805"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985414"
 ---
 # <a name="reporting-guide"></a>रिपोर्टिंग मार्गदर्शिका
 
@@ -41,3 +39,6 @@ ms.locfileid: "5150805"
 
 > [!NOTE]
 > यह विषय भविष्य के दस्तावेज़ अपडेट में हटा दिया जाएगा। 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

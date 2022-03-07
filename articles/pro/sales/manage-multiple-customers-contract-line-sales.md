@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: f28e7d1363647621f7bd23504aa6d4ea3fc95fc9
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
+ms.openlocfilehash: 9dfaa766f3d6064bb84dcd1b032e0e279b1b9cdf
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181621"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273244"
 ---
 # <a name="manage-multiple-customers-on-project-based-contract-lines---lite"></a>परियोजना-आधारित अनुबंध पंक्तियों पर एकाधिक ग्राहकों को प्रबंधित करें - लाइट
 
@@ -43,3 +43,6 @@ _**लागू होता है:** लाइट नियोजन-प्र
 बिलिंग विभाजन प्रतिशत को ग्रिड में संपादित किया जा सकता है. जब बिलिंग विभाजन प्रतिशत कुल 100 प्रतिशत नहीं होता है, तो एक त्रुटि होगी. बिलिंग विभाजन प्रतिशत संपादित करने के बाद, त्रुटि को दूर करने के लिए पृष्ठ को रीफ़्रेश करें.
 
 आप अनुबंध पंक्ति ग्राहक सबग्रिड पर **समान रूप से वितरित करें** भी चुन सकते हैं. यह क्रिया समान रूप से सभी अनुबंध पंक्ति ग्राहकों को बिलिंग विभाजन आवंटित करती है. यदि कोई राउंडिंग फ़ैक्टर है, तो उसे राउंडिंग ग्राहक में जोड़ा जाएगा. एक अनुबंध पंक्ति ग्राहक को हमेशा **राउंडिंग** ग्राहक के रूप में टैग किया जाता है, जिसमें **राउंडिंग** ध्वज **हाँ** पर सेट होता है.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

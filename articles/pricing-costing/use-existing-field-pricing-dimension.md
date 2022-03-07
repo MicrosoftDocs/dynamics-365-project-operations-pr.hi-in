@@ -1,12 +1,10 @@
 ---
 title: मूल्य निर्धारण पैमानों के रूप में Project Operations फ़ील्ड
-description: यह विषय Dynamics 365 Project Operations में मूल्य निर्धारण पैमानों के रूप में फ़ील्ड इस्तेमाल करके जानकारी देता है.
+description: यह विषय Dynamics 365 Project Operations में फ़ील्ड का उपयोग मूल्य निर्धारण आयामों के रूप में करने के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: AnnBe
 ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
@@ -17,17 +15,20 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 59367b35f15f806b109f606e912edc487d9e7685
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 2f95228cd765d9f220aa4b143412b237ec609eb89fd9aeb786818af828dd3229
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4119240"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001928"
 ---
-# <a name="project-operations-fields-as-pricing-dimensions"></a>मूल्य निर्धारण पैमानों के रूप में Project Operations फ़ील्ड
+# <a name="project-operations-fields-as-pricing-dimensions"></a>मूल्य निर्धारण आयाम के रूप में Project Operations फ़ील्ड
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 **वास्तविक आंकड़े** निकाय में कई फ़ील्ड हैं जिनका उपयोग साधन-आधारित मूल्य-निर्धारण के लिए मूल्य निर्धारण पैमाने के रूप में किया जा सकता है. उदाहरण के लिए, एक सामान्य क्षेत्र **बुक करने योग्य संसाधन** है। छोटी कंपनियां जिनके पास 20-30 से कम बिल योग्य संसाधन हैं, उनके लिए प्रत्येक संसाधन के लिए विशिष्ट बिल और लागत दरें होना, एक सरल तरीका है। यद्यपि, जैसा कि बिल योग्य कार्यबल बढ़ता है, साधन-विशिष्ट दरें बनाए रखने के लिए अवास्तविक बन सकती हैं. साधन की लागत और बिल दर अलग-अलग होने लगती हैं, क्योंकि संसाधन पदोन्नत किए जाते हैं, अधिक अनुभव प्राप्त करते हैं, या कुशलता का अलग सेट प्राप्त होता है. 
 
 एक अन्य उदाहरण लेन-देन श्रेणी का है। ग्राहकों और कार्यान्वयनकर्ताओं ने कार्य को वर्गीकृत करने और कार्य की श्रेणी के आधार पर मूल्य और लागत के क्षेत्र का उपयोग करने के लिए लेन-देन श्रेणी का उपयोग किया है.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,7 +2,7 @@
 title: Project Service Automation वर्ज़न 3.x wave 1 2020 में क्या क्या नया है या बदल गया है
 description: यह टॉपिक Project Service Automation वर्ज़न 3 wave 1 2020 में क्या नया है और क्या बदला है, इसके बारे में जानकारी प्रदान करता है.
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/15/2020
@@ -18,17 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5110679038ae7ed1e21a3e7dc80a4657e0752b49
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 16b51995f863d9ee54172625dacbf081c51c8556
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150940"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077646"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3-wave-1-2020"></a>Project Service Automation वर्ज़न 3 wave 1 2020 में क्या क्या नया है या बदल गया है
-
-[!include [banner](../includes/psa-now-project-operations.md)]
-
 यह टॉपिक Project Service Automation (PSA) वर्ज़न 3.x wave 1 2020 की नवीनतम रिलीज़ के लिए आगे बढ़ने पर मुख्य अपडेट विचारों पर प्रकाश डालता है.
 
 ## <a name="time-entry"></a>समय प्रविष्टि

@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: d86185b414a559694077783d1f89dc863112a252
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 35a76cad8c6ddaa84038746ace6a7e1e5623388f
+ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271175"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "4960069"
 ---
 # <a name="view-an-expense-report-from-general-ledger-or-procurement-and-sourcing"></a>जनरल खाताबही या प्रोक्योरमेंट और सोर्सिंग से व्यय रिपोर्ट देखें
 
@@ -32,6 +32,3 @@ ms.locfileid: "5271175"
 जिस पर कोई लेनदेन प्रस्तुत हुआ हो उस मूल व्यय रिपोर्ट को ड्रिल करने के लिए लेनदेन का चयन करें, और फिर **मूल दस्तावेज़** का चयन करें.
 
 जब आप व्यक्तिगत लेनदेन को देखते/देखती हैं, तो आप लेनदेन से जुड़े किसी भी अतिरिक्त डेटा को भी देख सकते/सकती हैं. उदाहरण के तौर पर किसी मदवार होटल व्यय के लिए आप इंटरनेट एक्सेस, टेलीफोन कॉल और कमरा सेवा जैसे व्यय की विस्तृत सूची को देख सकते/सकती हैं.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

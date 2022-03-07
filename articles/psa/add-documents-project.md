@@ -2,8 +2,6 @@
 title: परियोजना में दस्तावेज़ जोड़ें
 description: Project Service में किसी परियोजना में दस्तावेज़ जोड़ने के चरण
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/30/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 373e6e6f41b8877c6a8a69f56c22edc9499d0c1a
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 8cc17b3bf5c57663ba85fa6ce96875459d601057
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5146035"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6014613"
 ---
 # <a name="add-documents-to-a-project-project-service"></a>परियोजना में दस्तावेज़ जोड़ना (Project Service)
 
@@ -45,3 +43,6 @@ ms.locfileid: "5146035"
   
 ### <a name="see-also"></a>यह भी देखें  
  [परियोजना प्रबंधक मार्गदर्शिका](../psa/project-manager-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

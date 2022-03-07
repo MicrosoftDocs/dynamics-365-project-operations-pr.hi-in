@@ -2,8 +2,6 @@
 title: Project Service Automation कॉन्फ़िगर करें
 description: Project Service को कॉन्फ़िगर करने के चरण
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ec5381f91b1fe5198bd93ac8d6015b1fea38738d
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: ef1724bb92e62ae21472e133fff0978c4faeeffa
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5146935"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6002839"
 ---
 # <a name="configure-project-service"></a>Project Service कॉन्फ़िगर करें
 
@@ -58,3 +56,6 @@ ms.locfileid: "5146935"
  [परियोजना प्रबंधक मार्गदर्शिका](../psa/project-manager-guide.md)   
  [संसाधन प्रबंधक मार्गदर्शिका](../psa/resource-manager-guide.md)   
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

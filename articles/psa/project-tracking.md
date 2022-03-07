@@ -2,8 +2,6 @@
 title: परियोजना प्रगति और लागत उपभोग
 description: यह विषय प्रोजेक्ट की प्रगति और लागत उपभोग का पता लगाने के बारे में जानकारी प्रदान करता है.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 08/21/2020
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0b69cee49e028b98bbb32e4a7e7aedf5479527dc
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 8bde19fbf1dd9f0c760455ecb7f7f2bd14a358d441bf024ec0cdefa42866f53e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148015"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987168"
 ---
 # <a name="project-progress-and-cost-consumption"></a>परियोजना प्रगति और लागत उपभोग
 
@@ -98,3 +96,6 @@ Project Service Automation में ट्रैकिंग मैट्रि
 **संपूर्ण परियोजना स्थिति** फील्ड एक एडिट करने योग्य फील्ड होता है जो प्रोजेक्ट का संपूर्ण स्टेटस दिखाता है। इसमें बढ़ते जोखिम को दर्शाने के लिए हरे, पीले और लाल जैसे कलर-कोडिंग का इस्तेमाल किया जाता है। **टिप्पणियां** फ़ील्ड परियोजना प्रबंधक को स्थिति के बारे में विशिष्ट टिप्पणी दर्ज करने देता है. फील्ड **पर स्थिति अद्यतन** एडिट नहीं किया जा सकता और इसका वैल्यू टाइमस्टैम्प होता है जो स्टेटस के अंतिम बार अपडेट करने को बताता है।
 
 **शेड्यूल प्रदर्शन** और **लागत प्रदर्शन** फील्ड ट्रैकिंग की तारीख से सेट किए जाते हैं। जब **प्रयास ट्रैकिंग** व्यू में रूट नोड के लिए शेड्यूल और लागत भिन्नता पोज़िटिव होते हैं तो आप इन फील्ड को **Ahead** में सेट कर सकते हैं। जब रूट नोड के लिए शेड्यूल और लागत भिन्नता निगेटिव होते हैं तो आप इन फील्ड को **पीछे** में सेट कर सकते हैं।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

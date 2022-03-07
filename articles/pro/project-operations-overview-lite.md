@@ -1,6 +1,6 @@
 ---
 title: लाइट परिनियोजन ओवरव्यू
-description: यह विषय Dynamics 365 Project Operations के लाइट परिनियोजन के बारे में जानकारी प्रदान करता है.
+description: यह विषय Dynamics 365 Project Operations लाइट परिनियोजन के बारे में जानकारी प्रदान करता है.
 author: rumant
 manager: Annbe
 ms.date: 11/02/2020
@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: b66b3656d1ef5266ede1f62657dbe9b8a63c863a
-ms.sourcegitcommit: d33ef0ae39f90fe3b0f6b4524f483e8052057361
+ms.openlocfilehash: c1df809ea3df3f53d5fb42d632c56c47615fec3d
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "4365502"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5273965"
 ---
-# <a name="lite-deployment-overview"></a>लाइट परिनियोजन ओवरव्यू
+# <a name="lite-deployment-overview"></a>लाइट परिनियोजन का अवलोकन
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-Dynamics 365 Project Operations के लाइट परिनियोजन प्रकार में परियोजना-आधारित कंपनियों के लिए निम्न क्षमताएं हैं:
+Dynamics 365 Project Operations के लाइट परिनियोजन प्रकार में परियोजना-आधारित कंपनियों के लिए निम्न क्षमताएँ होती हैं:
 
 - वेब के लिए Microsoft Project का उपयोग करके परियोजना की योजना
 - लेबर संसाधनों के लिए बहुआयामी मूल्य निर्धारण और लागत
@@ -37,3 +37,6 @@ Dynamics 365 Project Operations के लाइट परिनियोजन 
 - एक एकीकृत प्रणाली, जो परियोजना विक्रय से लेकर इनवॉइसिंग तक के शेड्यूल और वित्तीय के लिए आंतरिक और बिल योग्य परियोजनाओं का प्रबंधन करती है.
 - Project Operations के साथ एकीकृत करने के लिए एक तृतीय-पक्ष एंटरप्राइज़ संसाधन नियोजन (ERP/वित्तीय लेखांकन प्रणाली).
 - विक्रय कर, विनिमय दर, व्यय प्रतिपूर्ति और गैर-परियोजना व्यय के साथ कार्य करने के लिए एक तृतीय-पक्ष प्रणाली.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

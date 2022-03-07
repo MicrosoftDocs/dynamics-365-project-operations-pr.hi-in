@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 8b85464dbb68523b122116225a604f67e7236f3e
-ms.sourcegitcommit: 14aa380759214713d9bf560f5a7f619b7f4bd5b8
+ms.openlocfilehash: 4d66b5fc642ef53adf1169ce891a7a5fa26b07d6
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "4401378"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5279320"
 ---
 # <a name="resource-utilization-overview"></a>संसाधन उपयोग अवलोकन
 
@@ -45,3 +45,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 **Project Service** टैब पर आप जाकर किसी संसाधन के लिए व्यक्तिगत लक्षित उपयोगिता भी सेट कर सकते हैं। उस मामले में उपयोगिता की गणना संसाधन के डिफ़ॉल्ट रोल के लक्ष्य के बजाय संसाधन की लक्षित उपयोगिता के आधार पर की जाती है।
 
 किसी संसाधन के लिए उपयोग तभी दिखाया जाता है, जब ग्रिड में दिखाई गई अवधि के दौरान उस संसाधन ने प्रभार्य समय को स्वीकृति दी हो.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

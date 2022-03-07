@@ -3,7 +3,7 @@ title: मुख्य अवधारणाएँ
 description: इस विषय में Project Service Automation में रिसोर्स मैनेजमेंट के लिए मुख्य अवधारणाओं की जानकारी दी गई है।
 author: ruhercul
 manager: kfend
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,16 +18,14 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 75b2d2c520cc48eb59c266289ca2bdc1288f2920
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 1e5e78bbeb1086fada799cf7ac66173e5a563e2d
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147745"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077924"
 ---
 # <a name="key-concepts"></a>मुख्य अवधारणाएँ
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 

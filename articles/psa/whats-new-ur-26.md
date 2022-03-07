@@ -2,8 +2,6 @@
 title: Project Service Automation के अपडेट रिलीज़ 26, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: यह विषय Project Service Automation अपडेट रिलीज़ 26, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/12/2021
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 14fcccf5804e5da0926dbc69bdfa040229a7f068
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: fa526e97a366c01dae2547d79d0eda2fb204e07d0f6383b991165b9eecd836e9
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5143560"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004268"
 ---
 # <a name="project-service-automation-update-release-26-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 26, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ का अद्यतन करने के लिए, अपडेट को स्थापित करने हेतु Dynamics 365 online समाधन पृष्ठ के लिए व्यवस्थापन केंद्र पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ का अद्यतन करने के लिए, अपडेट को स्थापित करने हेतु Dynamics 365 online समाधन पृष्ठ के लिए व्यवस्थापन केंद्र पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
 
 यह विषय Project Service Automation अद्यतन रिलीज़ 26, V3 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस संस्करण की बिल्ड संख्या V3.10.44.59 है और यह आम तौर पर दिसंबर 2020 में एक स्व-अद्यतन के माध्यम से उपलब्ध है.
 
@@ -74,3 +72,6 @@ ms.locfileid: "5143560"
 - कोट या अनुबंध में परियोजना-आधारित पंक्ति का चयन करते समय, **सुझाव** बटन केवल तब ही दृश्यमान होना चाहिए, जब उत्पाद-आधारित पंक्ति को चुनना मौजूदा उत्पाद से संबद्ध हो.
 - **Create_ProjectContract** विशेषाधिकार से **Create_Product** विशेषाधिकार विभाजित करें.
 - इनवॉइस पंक्ति को हटाने से **MarkReadyToInvoiceForProductContractLineAfterDeletingInvoice** पर नल संदर्भ विफलता होती है.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

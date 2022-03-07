@@ -2,18 +2,16 @@
 title: किसी परियोजना के लिए बुक करें
 description: यह विषय परियोजना में संसाधन बुकिंग के बारे में जानकारी देता है.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: c87b0c32ef081f601ed79c11687f008bb454dd45
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: 719892a37f381fc0ad6c3ccaca5c4d87c9947a4d7a39dca96aef464d04a71af0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4131075"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6994908"
 ---
 # <a name="book-to-a-project"></a>किसी परियोजना के लिए बुक करें
 
@@ -66,3 +64,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 > [!NOTE]
 > यह तरीका संसाधन के लिए बुकिंग नहीं बनाता है. इसके बजाय, यह टीम में संसाधन जोड़ता है. टीम के सदस्य को परियोजना में जोड़ने के बाद, परियोजना प्रबंधक संसाधन में ज़रूरी बुकिंग को जोड़ने, बुकिंग बनाए रखने या बुकिंग के विस्तार हेतु इस्तेमाल कर सकते/सकती हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

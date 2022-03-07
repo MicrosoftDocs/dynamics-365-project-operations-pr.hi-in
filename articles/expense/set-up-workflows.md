@@ -2,11 +2,9 @@
 title: व्यय प्रबंधन के लिए कार्यप्रवाह सेट करना
 description: आप कार्यप्रवाह प्रक्रिया सेट कर सकते हैं जिसका इस्तेमाल यात्रा और व्यय दस्तावेजों की समीक्षा और स्वीकृत करने के लिए किया जाता है.
 author: suvaidya
-manager: AnnBe
 ms.date: 09/23/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.search.form: ''
 audience: Application User
 ms.reviewer: kfend
@@ -15,12 +13,12 @@ ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: af6463b07e282ae1ff6aa7dc1a540ff7c8cc318a
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 883e871b434c910747e45904cc9dc0c46bb4e2df788f503b848ad41984884edd
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4127700"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6997743"
 ---
 # <a name="set-up-workflows-for-expense-management"></a>व्यय प्रबंधन के लिए कार्यप्रवाह सेट करना
 
@@ -48,3 +46,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 |       <strong>यात्रा की आवश्यकता</strong>       |          यात्रा मांग-पत्रों के लिए स्वीकृति कार्यप्रवाह बनाएं.           |
 |      <strong>नकद अग्रिम अनुरोध</strong>      |         नकद अग्रिम अनुरोधों के लिए स्वीकृति कार्यप्रवाह बनाएं.          |
 |        <strong>VAT कर रिकवरी</strong>        | मूल्य वर्धित कर (VAT) की वसूली के लिए स्वीकृति कार्यप्रवाह बनाएं.  |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

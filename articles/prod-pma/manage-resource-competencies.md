@@ -2,11 +2,9 @@
 title: संसाधन दक्षताओं को प्रबंधित करें
 description: यह विषय परियोजना संसाधनों के लिए दक्षताओं को सेट करने के बारे में जानकारी प्रदान करता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 09/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ProjProjectsListPage
 audience: Application User
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: db96ffc5fdd6bc759cd35fff0a39a64d9854a4f0
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: f93fbda0ad6435c627eb7e580f92fd90481034cae2236b9a636195883470ca5c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270635"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007418"
 ---
 # <a name="manage-resource-competencies"></a>संसाधन दक्षताओं को प्रबंधित करें
 
@@ -31,7 +29,7 @@ ms.locfileid: "5270635"
 
 संसाधन योग्यताएं संसाधन प्रबंधन का एक अनिवार्य हिस्सा हैं. योग्यताओं का उपयोग उन संसाधनों को निर्धारित करने के लिए एक आधार रेखा के रूप में किया जा सकता है जिनके पास कौशल, शिक्षा, प्रमाणन और परियोजना अनुभव का सही संतुलन है. आपको प्रत्येक संसाधन के लिए यह जानकारी सेट करनी चाहिए और इसे नियमित आधार पर अपडेट करना चाहिए. इस तरह, जब परियोजना संसाधन कार्यभार के दौरान विशिष्ट संसाधन योग्यताओं का मिलान किया जाता है, तो आप क्षमताओं को अधिकतम कर सकते हैं.
 
-[![कौशल, प्रमाणन, शिक्षा और परियोजना अनुभव के उदाहरण](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
+[![कौशल, प्रमाणन, शिक्षा और परियोजना अनुभव के उदाहरण.](./media/projectresourcing06-1024x383.jpg)](./media/projectresourcing06.jpg)
 
 निम्नलिखित प्रक्रियाएं यह समझाती हैं कि एक संसाधन के लिए कुछ योग्यताओं को कैसे सेट किया जाए.
 

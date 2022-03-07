@@ -1,11 +1,10 @@
 ---
 title: होम पृष्ठ को अपग्रेड करें
 description: इस टॉपिक में इस बात से संबंधित जानकारी दी गयी है कि Dynamics 365 Project Service Automation में नई और बदली हुई विशेषताओं के बारे में महत्वपूर्ण जानकारी कहाँ से मिल सकती है और अपग्रेड कर नवीनतम संस्करण पाने की प्रोसेस क्या है.
-manager: kfend
 ms.prod: ''
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 05/30/2019
 ms.topic: article
 author: rumant
@@ -19,12 +18,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: e30da3a5ade6d8bafcdc45801b830196841997bf
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 2b9b14d72157ae0046e1ca6abdc604b8dbc30377b5b24f5d79617a7201b1bf10
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150085"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7006743"
 ---
 # <a name="upgrade-home-page"></a>होम पृष्ठ को अपग्रेड करें
 
@@ -65,3 +64,6 @@ ms.locfileid: "5150085"
 
 > [!NOTE]
 > Field Service और PSA ऍप्लिकेशन के पुराने वर्ज़न का उपयोग करते समय सर्वोत्तम अनुभव पाने के लिए **सिस्टम सेटिंग्स** पृष्ठ पर जाएं और **केवल नया यूनिफ़ाइड इंटरफ़ेस उपयोग करें (सलाह दी जाती है)** फ़ील्ड के लिए **नहीं** का चयन चूंकि ये वर्ज़न UCI में सही ढंग से लोड करने के लिए नहीं बने हैं. UCI को बंद करने के बाद आप पुराने वेब क्लाइंट का उपयोग कर Field Service और PSA के इन वर्ज़न को खोलकर चला सकते हैं. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: Project Service Automation के अपडेट रिलीज़ 15, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: यह टॉपिक Project Service Automation अपडेट रिलीज़ 15, V3 में क्या नया है, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/27/2020
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0ec6746c0d3a1a03ee56440c73d044df844046f8
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: d052dd670ac31fae57a71cb71682da86a237b3487482a9548f3fb9e52516c407
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5143965"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004448"
 ---
 # <a name="project-service-automation-update-release-15-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 15, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
 
 यह टॉपिक PSA V3, अपडेट रिलीज़ 15 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस वर्ज़न की बिल्ड संख्या V3.10.5.28 है और यह आमतौर पर जनवरी 2020 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
 
@@ -63,3 +61,6 @@ ms.locfileid: "5143965"
   - फ़िक्स्ड: 1000 से अधिक परियोजनाएं होने पर अब **उद्धरण पंक्ति** में **परियोजना लुकअप** में कोई त्रुटि संदेश नहीं आता है.
   - फ़िक्स्ड: श्रम अनुमान और व्यय अनुमान के लिए **अनुमान** ग्रिड अब सही मुद्रा चिह्न दिखाता है.
   - फ़िक्स्ड: किसी भी संगठन द्वारा PSA को अपडेट रिलीज़ 14 से अपडेट रिलीज़ 15 पर अपडेट करने के बाद, अब **परियोजना** प्रपत्र पर **शेड्यूल** टैब रिक्त नहीं आती है.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

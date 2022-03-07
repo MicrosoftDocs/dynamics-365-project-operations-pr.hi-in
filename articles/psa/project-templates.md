@@ -2,8 +2,6 @@
 title: प्रोजेक्ट टेम्पलेट
 description: यह विषय प्रोजेक्ट सेटअप तुरंत बनाने के लिए प्रोजेक्ट टैम्पलेट का इस्तेमाल करने की जानकारी देता है।
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: db42c9ea7280274cdc9cc90f1487f27e08f892e5
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 34df8ed9a8baff949097af1b95da56bfe9a4240c213896fafd5c7dcfcf580b6c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148060"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7002513"
 ---
 # <a name="project-templates"></a>प्रोजेक्ट टेम्पलेट 
 
@@ -49,7 +47,7 @@ ms.locfileid: "5148060"
 
 - जब आप कोट से प्रोजेक्ट बनाते हैं तो आप **त्वरित बनाएँ: प्रोजेक्ट** डॉयलॉग बॉक्स में प्रोजेक्ट टैम्पलेट चुन सकते हैं।
 
-> ![त्वरित बनाएँ: प्रोजेक्ट डायलॉग बॉक्स](media/project-11.png)
+> ![त्वरित बनाएँ: प्रोजेक्ट संवाद बॉक्स.](media/project-11.png)
 
 - जब आप **नया प्रोजेक्ट** चुनते हुए एक प्रोजेक्ट बनाते हैं तो रिकार्ड के सेव होने से पहले **प्रोजेक्ट** पेज दिखता है। **एक टेम्पलेट चुनें** फील्ड में, संगठन में एक पूर्व-निर्धारित प्रोजेक्ट टैम्पलेट चुनें।
 - **टैम्पलेट एंटिटी** पेज पर **एक टेम्पलेट से प्रोजेक्ट बनाएँ** का इस्तेमाल करें।
@@ -69,3 +67,6 @@ ms.locfileid: "5148060"
 ### <a name="copying-a-project-team"></a>प्रोजेक्ट टीम को कॉपी करना
 
 जब प्रोजेक्ट टीम को प्रोजेक्ट टैम्पलेट से प्रोजेक्ट में कॉपी किया जाता है तो सामान्य रिसोर्स टैम्पलेट में परिभाषित कौशल और प्रवीणता के साथ कॉपी किए जाते हैं। सामान्य संसाधन असाइनमेंट को भी प्रोजेक्ट के टैम्पलेट की तरह रखा जाता है। प्रोजेक्ट टैम्पलेट में नामित संसाधन का समर्थन नहीं किया जाता।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,18 +2,16 @@
 title: आंतरिक परियोजनाओं के लिए लेखांकन कॉन्फ़िगर करें
 description: यह विषय परियोजना संचालन की आंतरिक परियोजनाओं के लिए किस तरह लेखांकन प्रथाओं को तैयार किया जाए, पर जानकारी प्रदान करता है.
 author: sigitac
-manager: Annbe
 ms.date: 10/09/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 65d05e3a6321dc32aee55c28b3eaa4bd0bae2f86
-ms.sourcegitcommit: 5fd529f2308edfe9322082313e6d50146df56aca
-ms.translationtype: HT
+ms.openlocfilehash: be1dcd1b6b18591c99c904e0013d9870c7cafe1077fa6e9634f2e9f495190848
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "5857980"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005528"
 ---
 # <a name="configure-accounting-for-internal-projects"></a>आंतरिक परियोजनाओं के लिए लेखांकन कॉन्फ़िगर करें
 

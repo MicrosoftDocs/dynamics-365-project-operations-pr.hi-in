@@ -2,8 +2,6 @@
 title: Project Service Automation डेटा मॉडल के साथ काम करना
 description: इस विषय में डेटा मॉडल के साथ काम करने के बारे में बताया गया है।
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: d8c212ef2c9fd9dcd6be0b8f0a31aa5a948176bc
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 37c7b15daa75cc3ba53ff6a3bcc0ab54717aa62d
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147655"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6008808"
 ---
 # <a name="working-with-the-project-service-automation-data-model"></a>Project Service Automation डेटा मॉडल के साथ काम करना
 
@@ -87,7 +85,7 @@ PSA ऐसे नए एंटिटी को भी जोड़ता है 
 
 ## <a name="reporting-on-resources"></a>रिसोर्स की रिपोर्टिंग
 
-प्रोजेक्ट संसाधन Universal Resource Scheduling (URS) से **बुक करने योग्य** संसाधन संस्थाओं का उपयोग करते हैं जो अन्य एप्लिकेशन, जैसे कि Microsoft Dynamics 365 Field Service के साथ साझा किए जाते हैं। यहाँ ऐसे एंटिटी की सूची दी गई है जिनका इस्तेमाल आप प्रोजेक्ट रिसोर्स की रिपोर्ट करते समय कर सकते हैं:
+परियोजना के संसाधन Universal Resource Scheduling (URS) से उन **बुक करने योग्य संसाधन** निकायों का उपयोग करते हैं, जो अन्य Microsoft Dynamics 365 Field Service जैसे अन्य ऐप्स के साथ साझा किए जाते हैं. यहाँ ऐसे एंटिटी की सूची दी गई है जिनका इस्तेमाल आप प्रोजेक्ट रिसोर्स की रिपोर्ट करते समय कर सकते हैं:
 
 - **बुक करने योग्य रिसोर्स** – यह एंटिटी प्रोजेक्ट टीम में इस्तेमाल होने वाले यूज़र, संपर्क, सामान्य रिसोर्स, एकाउंट, ग्रुप या उपकरण को बताता है।
 - **बुक करने योग्य रिसोर्स कैरेक्टरिस्टिक्स** – इस एंटिटी में रिसोर्स का कौशल, प्रमाण-पत्र या शिक्षा शामिल होते हैं। विशेषताओं के रेटिंग वैल्यू हो सकते हैं जिन्हें रेटिंग मॉडल द्वारा निर्धारित किया जाता है।
@@ -123,3 +121,6 @@ PSA ऐसे नए एंटिटी को भी जोड़ता है 
 **ट्रांज़ेक्शन ओरिजिन** एंटिटी **एक्चुअल** रिकार्ड के उद्गम को रिकार्ड करता है और **ट्रांज़ेक्शन कनेक्शन** एंटिटी **एक्चुअल** रिकार्ड के लिए संबंधित रिकार्ड को रिकार्ड करता है। इसके अलावा, **एक्चुअल** रिकार्ड में प्रोजेक्ट, प्रोजेक्ट कांट्रेक्ट (ऑर्डर), बुक करने योग्य रिसोर्स और ग्राहक के संदर्भ होते हैं।
 
 ![लेनदेन का कनेक्शन, उद्गम और वास्तविक संबंधों को दर्शाने वाला आरेख](media/PS-Reporting-image6.png "लेनदेन का कनेक्शन, उद्गम और वास्तविक संबंधों को दर्शाने वाला आरेख")
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

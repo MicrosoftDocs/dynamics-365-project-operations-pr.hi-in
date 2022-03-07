@@ -2,11 +2,9 @@
 title: iOS और Android पर Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग के लिए कस्टम फ़ील्ड लागू करें
 description: यह विषय कस्टम फील्ड के क्रियान्वयन के लिए विस्तार के इस्तेमाल का आम पैटर्न उपलब्ध कराता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 05/29/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.3
 ms.search.validFrom: 2019-05-29
-ms.openlocfilehash: 5dae571fce746b49281587f5349774a7f2c4111b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 9f19a6d069c4f825be8515a6d26739c50d3b064698fc1872ede07a4e74ee4dcb
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5270995"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005753"
 ---
 # <a name="implement-custom-fields-for-the-microsoft-dynamics-365-project-timesheet-mobile-app-on-ios-and-android"></a>iOS और Android पर Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग के लिए कस्टम फ़ील्ड लागू करें
 
@@ -53,7 +51,7 @@ ms.locfileid: "5270995"
 
 | प्रकार मान | प्रकार              | नोट्स |
 |-------------|-------------------|-------|
-| 12           | स्ट्रिंग (और Enum) | फ़ील्ड टेक्स्ट फ़ील्ड के रूप में प्रकट होती है. |
+| 0           | स्ट्रिंग (और Enum) | फ़ील्ड टेक्स्ट फ़ील्ड के रूप में प्रकट होती है. |
 | 1           | Integer           | मूल्य को बिना दशमलव स्थान के एक संख्या के रूप में दिखाया गया है. |
 | 2           | वास्तविक              | मान को संख्या के रूप में दिखाया जाता है जिसमें दशमलव स्थान होता है.<p>अनुप्रयोग में वास्तविक मूल्य को एक मुद्रा के रूप में दिखाने के लिए **fieldExtenededType** प्रॉपर्टी का इस्तेमाल किया जाता है. आप **दशमलों की संख्या** प्रॉपर्टी का इस्तेमाल कर दिखाए जाने वाले दशमलव स्थान की संख्या तय कर सकते हैं.</p> |
 | 3           | दिनांक              | तारीख का फ़ॉर्मेट उपयोगकर्ता के **तारीख, समय और संख्या फ़ॉर्मेट** सेटिंग द्वारा निर्धारित किया जाता है, जिसका वर्णन **उपयोगकर्ता विकल्पों** में **भाषा व देश/क्षेत्र वरीयता** के अंदर किया जाता है. |
@@ -155,13 +153,13 @@ ms.locfileid: "5270995"
 
 नीचे एक मोबाइल के टाइमशीट प्रविष्टि निर्माण का स्क्रीनशॉट है. यह "समय प्रविष्टि'' सेक्शन जिसे ''टेस्ट स्ट्रिंग'' कहा जाता है, उसमें पहले से तय "दूसरे विकल्प" के असंख्य मूल्य के साथ एकदम अलग तरह के फील्ड और कस्टम फील्ड को दिखाता है.
 
-![अनुप्रयोग में टेस्ट स्ट्रिंग कस्टम फ़ील्ड](media/timesheet-entry.jpg)
+![अनुप्रयोग में टेस्ट स्ट्रिंग कस्टम फ़ील्ड.](media/timesheet-entry.jpg)
 
 
 
 नीचे मोबाइल ऐप का एक स्क्रीन शॉट है जिसमें "टेस्ट स्ट्रिंग" कस्टम फ़ील्ड के लिए उपलब्ध असंख्य विकल्पों में से एक का चुनाव उपयोगकर्ता कर रहा है.  दो विकल्प "पहला विकल्प" और "दूसरा विकल्प" है जिसे रेडियो बटन के रूप में दिखाया जाता है. वर्तमान में दूसरा विकल्प चुना गया है.
 
-![विकल्प बटनों (रेडियो बटन) टेस्ट स्ट्रिंग कस्टम फील्ड के लिए होता है](media/enum-option.jpg)
+![विकल्प बटनों (रेडियो बटन) टेस्ट स्ट्रिंग कस्टम फील्ड के लिए होता है.](media/enum-option.jpg)
 
 
 
@@ -173,7 +171,7 @@ ms.locfileid: "5270995"
 
 नीचे अनुप्रयोग ऑब्जेक्ट ट्री के Visual Studio का स्क्रीनशॉट है. यह TSTimesheetLine तालिका का TestLineString के साथ विस्तार दिखाता है, जिसे कस्टम फील्ड में जोड़ा जाता है.
 
-![लाइन का तार](media/b6756b4a3fc5298093327a088a7710fd.png)
+![लाइन का तार.](media/b6756b4a3fc5298093327a088a7710fd.png)
 
 ### <a name="use-chain-of-command-on-the-buildcustomfieldlist-method-of-the-tstimesheetsettings-class-to-show-a-field-in-the-timesheet-entry-section"></a>TSTimesheetSettings वर्ग की buildCustomFieldList पद्धति के चेन ऑफ कमांड का इस्तेमाल टाइमशीट प्रविष्टि सेक्शन में फील्ड दिखाने के लिए करता है
 
@@ -319,11 +317,11 @@ final class TSTimesheetEntryService_Extension
 
 नीचे एक मोबाइल के उपयोगकर्ता एक टाइमशीट देख रहा है का स्क्रीनशॉट है. "और सूचना" बटन सबसे ऊपर दाईं ओर चुनें गए हैं ताकि "और अधिक विवरण" को देखा जा सके.  
 
-![अधिक विवरण आदेश देखें](media/show-more.png)
+![अधिक विवरण आदेश देखें.](media/show-more.png)
 
 नीचे मोबाइल ऐप से लिए गया स्क्रीनशॉट है जिसमें टाइमशीट के "और" सेक्शन दिख रहे हैं. कस्टम फील्ड को "इस टाइमशीट की उपयोगिता दर (गणना किया हुआ कस्टम फील्ड)" कहा जाता है, जिसे टाइमशीट हेडर सेक्शन से जोड़ा गया है. रीड-ओनली का "0.667" मूल्य कस्टम फील्ड में सेट किया जाता है.
 
-![अधिक सेक्शन](media/more-section.jpg)
+![अधिक सेक्शन.](media/more-section.jpg)
 
 ### <a name="extend-the-tstimesheettable-table-so-that-it-has-a-custom-field"></a>TSTimesheetTable तालिका को विस्तार दें ताकि इसके पास कस्टम फील्ड हो
 
@@ -416,7 +414,7 @@ final class TSTimesheetDetails_Extension
 
 परियोजना मानक से, मोबाइल ऐप में एकदम अलग रीड-ओनली या छुपी हुई फील्ड तैयार कर सकते हैं. **परियोजना प्रबंधन और लेखांकन मानक** पृष्ठ के **टाइमशीट** टैब पर **मोबाइल टाइमशीट** सेक्शन में विकल्पों को सेट करें.
 
-![प्रोजेक्ट पैरामीटर](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
+![परियोजना पैरामीटर्स.](media/5753b8ecccd1d8bb2b002dd538b3f762.png)
 
 ### <a name="changing-the-activities-that-are-available-for-selection-via-extensions"></a>गतिविधियों में बदलाव करना, जो कि प्रसारण के माध्यम से चयन के लिए उपलब्ध हैं
 

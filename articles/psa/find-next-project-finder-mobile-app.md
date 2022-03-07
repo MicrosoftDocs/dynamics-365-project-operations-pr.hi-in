@@ -2,8 +2,6 @@
 title: Project Finder Mobile अनुप्रयोग की सहायता से अपनी अगली परियोजना खोजें
 description: Project Service के लिए Project Finder Mobile अनुप्रयोग की सहायता से अपनी अगली परियोजना ढूँढ़ने का तरीका
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 58e6970dbe902deeef144e563bcfcd09046c70ce
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: b5b6c4d608ae083d01be24258af35ed8f64e67a897690f1a2678f76b8befdcb1
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5149275"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990778"
 ---
 # <a name="find-your-next-project-with-the-project-finder-mobile-app-project-service"></a>Project Finder Mobile अनुप्रयोग की सहायता से अपनी अगली परियोजना ढूँढ़ना (Project Service)
 
@@ -40,12 +38,15 @@ ms.locfileid: "5149275"
   
  आपकी जिस परियोजना में रुचि है, उसके बारे में अधिक विवरण देखने और उसके लिए साइन अप करने के लिए परियोजना की दाईं ओर स्थित तीर पर टैप करें.  
   
- ![Project Finder Mobile एप्लिकेशन में कौशल से मेल खाने वाले प्रोजेक्ट की सूची](../psa/media/project-service-project-finder-list.png "Project Finder Mobile एप्लिकेशन में कौशल से मेल खाने वाले प्रोजेक्ट की सूची")  
+ ![Project Finder Mobile एप्लिकेशन में कौशल से मेल खाने वाले प्रोजेक्ट की सूची.](../psa/media/project-service-project-finder-list.png "Project Finder Mobile एप्लिकेशन में कौशल से मेल खाने वाले प्रोजेक्ट की सूची")  
   
 ## <a name="update-your-skills"></a>अपना कौशल अद्यतन करें  
  स्क्रीन के नीचे दाईं ओर प्रोफ़ाइल बटन टैप करें ताकि अपने कौशल और दक्षता स्तर को अद्यतन कर सकें.  
   
- ![Project Finder Mobile एप्लिकेसन में प्रोफ़ाइल बटन](../psa/media/project-service-project-finder-profile.png "Project Finder Mobile एप्लिकेसन में प्रोफ़ाइल बटन")  
+ ![Project Finder Mobile एप्लिकेसन में प्रोफ़ाइल बटन.](../psa/media/project-service-project-finder-profile.png "Project Finder Mobile एप्लिकेसन में प्रोफ़ाइल बटन")  
   
 ### <a name="see-also"></a>यह भी देखें  
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

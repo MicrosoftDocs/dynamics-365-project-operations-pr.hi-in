@@ -2,8 +2,6 @@
 title: अपने Office 365 कैलेंडर में प्रोजेक्ट और बुकिंग को व्यवस्थित करना
 description: अपने Office 365 कैलेंडर में प्रोजेक्ट और बुकिंग को कैसे व्यवस्थित करें
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c575bd3deba5bcde2526ccfc598327917bf91642
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: b38affbfc8d339ac1a2093391286ea4c095207be8de2e8eeca558e6fcc5bcc07
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144460"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985324"
 ---
 # <a name="manage-projects-and-bookings-in-your-calendar-project-service"></a>अपने कैलेंडर में प्रोजेक्ट और बुकिंग को व्यवस्थित करना (Project Service)
 
@@ -52,7 +50,7 @@ ms.locfileid: "5144460"
   
 - आपको [!INCLUDE[pn_office_365](../includes/pn-office-365.md)] ग्‍लोबल व्यवस्थापक या सिस्टम व्यवस्थापक क्रेडेंशियल्स की आवश्यकता होगी.  
   
-- आपके व्यवस्थापक को ईमेल सर्वर प्रोफ़ाइल कॉन्फ़िगर करना होगा और प्रत्येक उपयोगकर्ता को उसके मेलबॉक्स को कॉन्फ़िगर करने की आवश्यकता होगी. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [सर्वर-साइड सिंक्रनाइज़ेशन का उपयोग करके ईमेल संसाधन सेट अप करें](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
+- आपके व्यवस्थापक को ईमेल सर्वर प्रोफ़ाइल कॉन्फ़िगर करना होगा और प्रत्येक उपयोगकर्ता को उसके मेलबॉक्स को कॉन्फ़िगर करने की आवश्यकता होगी. [!INCLUDE[proc_more_information](../includes/proc-more-information.md)] [सर्वर-साइड सिंक्रनाइज़ेशन का उपयोग करके ईमेल संसाधन सेट अप करें](/dynamics365/customerengagement/on-premises/admin/set-up-server-side-synchronization-of-email-appointments-contacts-and-tasks)  
   
 ## <a name="turn-on-synchronization-for-your-organization-admin-task"></a>अपने संगठन के लिए सिंक्रनाइज़ेशन चालू करें (व्यवस्थापन कार्य)  
   
@@ -91,3 +89,6 @@ ms.locfileid: "5144460"
   
 ### <a name="see-also"></a>यह भी देखें  
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

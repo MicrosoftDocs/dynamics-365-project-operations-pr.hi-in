@@ -16,14 +16,16 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 0fbe1c93c5359a6be493e3c4e1b27b06dbb48002
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: ce24b156a268f9f5aada35f9314d2d9c6607200b
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271715"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077856"
 ---
 # <a name="multiple-approvers-on-an-expense-report"></a>एक ख़र्च रिपोर्ट पर कई अनुमोदक
+
+[!include [banner](../includes/banner.md)]
 
 आपके संगठन की ख़र्च अनुमोदन नीतियों के आधार पर, एक से अधिक व्यक्ति को एक कर्मचारी द्वारा प्रस्तुत ख़र्च रिपोर्ट को मंजूरी देनी पड़ सकती है. जब आप व्यय रिपोर्ट अनुमोदन के लिए कार्यप्रवाह प्रक्रिया सेट करते हैं तो आप कार्यप्रवाह के अवयव जोड़ सकते हैं, जिसमें एक या कई व्यय रिपोर्ट अनुमोदकों के लिए कार्य या चरण शामिल हैं. उदाहरण के लिए, आपको यह आवश्यक हो सकता है कि सभी ख़र्च रिपोर्टों को पहले उस कर्मचारी के प्रबंधक द्वारा अनुमोदित किया जाए जिसने रिपोर्ट प्रस्तुत की है और फिर लेखा देय समन्वयक द्वारा.
 
@@ -40,6 +42,3 @@ ms.locfileid: "5271715"
 
     1. कर्मचारी का प्रबंधक व्यय रिपोर्ट को स्वीकृत करता है.
     2. बजट मालिक व्यय रिपोर्ट को स्वीकृत करता है.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

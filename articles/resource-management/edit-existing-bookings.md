@@ -2,18 +2,16 @@
 title: बुकिंग संपादित करें
 description: यह विषय बुकिंग में अद्यतन और परिवर्तन करने के बारे में जानकारी प्रदान करता है.
 author: ruhercul
-manager: Annbe
 ms.date: 11/12/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 3980df0608c387d47ad68bbf2e816d408f1c2cf0
-ms.sourcegitcommit: 260ce052fed760bb44c514517806049ca13a5459
-ms.translationtype: HT
+ms.openlocfilehash: 7f3676811f304fe852bda46ac85291c3b75958d8dd1e0a07f87c58ef5efe8738
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "4841348"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008318"
 ---
 # <a name="edit-bookings"></a>बुकिंग संपादित करें
 
@@ -33,3 +31,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 ## <a name="schedule-board"></a>शेड्यूल बोर्ड
 
 **शेड्यूल बोर्ड** में, संसाधन प्रबंधक के पास संगठन में सभी बुकिंग का एक पोर्टफ़ोलियो दृश्य होता है. इस दृश्य से, संसाधन प्रबंधक **बुकिंग बनाए रखें** में प्रदान की गई क्षमताओं के समान मौजूदा बुकिंग को विस्तारित, कम या स्थानांतरित कर सकता है. संसाधन प्रबंधक, बुकिंग पर राइट-क्लिक करके और **संसाधन प्रतिस्थापित करें** का चयन करके विशिष्ट बुकिंग को आवंटित किए गए मौजूदा संसाधनों को भी प्रतिस्थापित कर सकता है. संसाधन प्रबंधक, बुकिंग पर राइट-क्लिक करके और **संपादित करें** का चयन करके मौजूदा बुकिंग की रूपरेखा को संपादित भी कर सकते हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,16 +2,16 @@
 title: Project Operations ट्रायल के लिए साइन अप करें
 description: यह विषय यह जानकारी प्रदान करता है कि Dynamics 365 Project Operations का ट्रायल कैसे परिनियोजित करें.
 author: ruhercul
-ms.date: 12/08/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: e40b4ac23241730f5c2db89f0dc674083f9e7abe
-ms.sourcegitcommit: 8f970b46d0303dafaa75fc7d00567d232e1e600b
+ms.openlocfilehash: e9c0d81591061f0ff01200dd5fd634a4a9ff31e4
+ms.sourcegitcommit: 0e5de344f2040075ba431918a4499a80510458d9
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 12/09/2021
-ms.locfileid: "7901619"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "7418459"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Project Operations ट्रायल के लिए साइन अप करें 
 
@@ -85,13 +85,18 @@ Dynamics 365 Project Operations के ट्रायल को परिनि
 
    प्रावधान शुरू होने के बाद, आपको Power Platform व्यवस्थापन केंद्र में परिवेश सूची पर पुनर्निर्देशित किया जाता है. जब प्रावधान प्रगति में है, तो आपके परिवेश की स्थिति **PreparingInstance** है.
  
-  प्रावधान पूर्ण होने पर, आपके परिवेश की स्थिति **तैयार** होती है. परिवेश के प्रावधान में डेमो डेटा का परिनियोजन शामिल है.
+  प्रावधान पूर्ण होने के बाद, आपके परिवेश की स्थिति **तैयार** है.
  
-4.  परिनियोजन को मान्य करने के लिए संबंधित Microsoft Dataverse URL और Finance and Operations ऐप्स URL का चयन करें.
+4.  जब प्रावधान पूरा हो जाता है, तो परिनियोजन को मान्य करने के लिए संबंधित Microsoft Dataverse URL और Finance and Operations अनुप्रयोग URL का चयन करें.
+
+## <a name="demo-data-installation"></a>डेमो डेटा स्थापना
+
+गैर-स्टॉक की गई सामग्री और लाइट परिनियोजन परिदृश्य दोनों के लिए डेमो डेटा पैकेज तक पहुंचने के लिए निम्नलिखित लिंक का उपयोग करें. 
+- [गैर-स्टॉक सामग्री डेमो डेटा](resource-apply-pro-setup-config-data.md)
+- [लाइट डेमो डेटा](lite-apply-demo-setup-config-data.md)
 
 ## <a name="configuring-dual-write"></a>ड्यूल-राइट कॉन्‍फ़‍िगर हो रहा है
-- दोहरे लेखन के लिए सुरक्षा भूमिकाओं को कॉन्फ़िगर करने के लिए, देखें [में प्रोजेक्ट ऑपरेशंस पर सुरक्षा सेटिंग्स अपडेट करें।Dataverse](resource-provision-new-environment.md)
-- दोहरे-लेखन मानचित्रों को कॉन्फ़िगर करने के लिए, देखें [प्रोजेक्ट ऑपरेशंस चलाएँ दोहरे-लेखन मानचित्र।](resource-provision-new-environment.md#run-project-operations-dual-write-maps)
+केवल गैर-स्टॉक की गई सामग्री परिनियोजन के लिए, अपने ड्यूल-राइट मैपिंग को कॉन्फ़िगर करें. अधिक जानकारी के लिए, [Project Operations ड्यूल-राइट मैप वर्जन](resource-dual-write-maps.md) देखें.
 
 ## <a name="assign-licenses"></a>लाइसेंस असाइन करें
 

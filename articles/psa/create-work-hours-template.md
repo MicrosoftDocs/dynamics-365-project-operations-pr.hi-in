@@ -2,8 +2,6 @@
 title: कार्य घंटों का एक टेम्पलेट बनाएँ
 description: यह विषय बताता है कि Project Service में कार्य के घंटों का टेम्प्लेट कैसे बनाया जाए.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 525f601ad6fee902cb6d5c128b596cc2d33f30c4
-ms.sourcegitcommit: c45ceda833b30ad39861f5bcd3ba1bbfff11fe7a
+ms.openlocfilehash: 105e3cb2ef7b904e96dc21013906e0b7444e3b88
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2021
-ms.locfileid: "5981257"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "5997198"
 ---
 # <a name="create-a-work-hours-template-project-service"></a>कार्य घंटों का टेम्पलेट बनाना (Project Service)
 
@@ -51,7 +49,7 @@ ms.locfileid: "5981257"
 
 1. **संसाधन** \> **संसाधन** पर जाएं।
 2. कैलेंडर टेम्पलेट में संदर्भ के लिए एक नया संसाधन बनाएं, या किसी मौजूदा संसाधन का चयन करें.
-3. संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](https://docs.microsoft.com/dynamics365/field-service/set-work-hours-resource) में दिए गए निर्देशों को पूरा करें.
+3. संसाधन के **कार्य के घंटे** टैब का चयन करें और कैलेंडर नियमों को कॉन्फ़िगर करने के लिए [संसाधन के लिए काम के घंटे निर्धारित करें](/dynamics365/field-service/set-work-hours-resource.md) में दिए गए निर्देशों को पूरा करें.
 
 **नया कैलेंडर टेम्पलेट बनाये**
 

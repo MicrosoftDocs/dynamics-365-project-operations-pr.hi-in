@@ -2,8 +2,6 @@
 title: Project Service Automation के अपडेट रिलीज़ 12, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 description: यह टॉपिक Project Service Automation अपडेट रिलीज़ 12, V3 में क्या नया है, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 02/04/2020
 ms.topic: article
@@ -17,18 +15,18 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: daf0e6c7a4b1b953cb808cfefab74475c47d3996
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 5f05488a652f7a699aaa5d8e644eae38d7083f404d3c461cdaabd1915b1a710a
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5143830"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004493"
 ---
 # <a name="project-service-automation-update-release-12-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 12, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](https://docs.microsoft.com/power-platform/admin/install-remove-preferred-solution).
+हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
 
 यह टॉपिक Project Service Automation V3, अपडेट रिलीज़ 12 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस वर्ज़न की बिल्ड संख्या V3.10.2.34 है और यह आमतौर पर अक्टूबर 2019 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
 
@@ -61,3 +59,6 @@ ms.locfileid: "5143830"
     - फ़िक्स्ड: **अनुबंध मुख्य** प्रपत्र पर मिले डुप्लिकेट ऑब्जेक्ट आईडी.
     - फ़िक्स्ड: **उद्धरण विश्लेषण** टैब दिखने लगे, इसके लिए लॉजिक को अपडेट किया गया है ताकि यह टैब के मेटाडेटा सेटअप को प्रदर्शित करे.
     - फ़िक्स्ड: अब वास्तविक रिकॉर्ड पर लेखांकन तिथि समय/व्यय प्रविष्टि की तिथि से आती है न कि अनुमोदन की तिथि से.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

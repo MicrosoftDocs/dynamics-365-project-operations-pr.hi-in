@@ -2,12 +2,10 @@
 title: लेनदेन श्रेणी को प्राइस निर्धारण आयाम के रूप में उपयोग करें
 description: इस टॉपिक में लेनदेन श्रेणी का प्राइस निर्धारण आयाम के रूप में उपयोग करने के बारे में जानकारी प्रदान दी गई है।
 author: Rumant
-manager: kfend
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: business-applications
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -17,12 +15,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 00214aa2b514da71b331073cd0eeb5320c03e7d7
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 776327ddca9b5013ca05eb4058145f4196e4143509098c82d0f452bc9709b673
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150760"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988862"
 ---
 # <a name="use-transaction-category-as-a-pricing-dimension"></a>लेनदेन श्रेणी को प्राइस निर्धारण आयाम के रूप में उपयोग करें
 
@@ -53,3 +51,6 @@ ms.locfileid: "5150760"
 2. **पैरामीटर** पृष्ठ पर **धनराशि-आधारित प्राइस-निर्धारण आयाम** टैब पर ध्यान दें कि टैब पर ग्रिड में रिकॉर्ड **प्राइस निर्धारण आयाम** इकाई में दिखाए गए हैं।
 3. इस सूची में **लेनदेन श्रेणी** शामिल करें और **लागत पर लागू** और **बिक्री पर लागू** फील्ड को **हां** पर सेट करें।
 4. **आयाम का प्रकार** फ़ील्ड में **धनराशि-आधारित** का चयन करें और फिर लागत और बिक्री से संबंधित **लेनदेन श्रेणी** के लिए प्राथमिकता चुनें।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

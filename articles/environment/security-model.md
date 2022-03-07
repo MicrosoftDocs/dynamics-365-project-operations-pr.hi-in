@@ -2,18 +2,16 @@
 title: सुरक्षा मॉडल
 description: यह विषय Dynamics 365 Project Operations सुरक्षा मॉडल के बारे में जानकारी प्रदान करता है.
 author: stsporen
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: b01f3d88dd021895933bc863b762f019ae50eed6
-ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
+ms.openlocfilehash: ccca2f387ce3abef3b24cb96fdbcc69f3c0c075b
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "4642905"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6002244"
 ---
 # <a name="security-model"></a>सुरक्षा मॉडल
 
@@ -58,7 +56,7 @@ Microsoft Dynamics 365 Project Operations में एक अद्विती
 
 परियोजना संचालन अंतर्निहित कार्रवाई के माध्यम से समूह नहीं बनाता और केवल दबाव समूहों की स्पष्ट कार्रवाई के माध्यम से ऐसा करता है।
 
-**समूह प्रबंधन** संवाद में समूह सदस्य खोज, उन लोगों तक सीमित है जो परिवेश के सुरक्षा समूह के हिस्से के रूप में सेट हैं। अधिक जानकारी के लिए, [परिवेशों तक उपयोगकर्ताओं की पहुँच नियंत्रित करें: सुरक्षा समूह और लाइसेंस](https://docs.microsoft.com/power-platform/admin/control-user-access) देखें.
+**समूह प्रबंधन** संवाद में समूह सदस्य खोज, उन लोगों तक सीमित है जो परिवेश के सुरक्षा समूह के हिस्से के रूप में सेट हैं। अधिक जानकारी के लिए, [परिवेशों तक उपयोगकर्ताओं की पहुँच नियंत्रित करें: सुरक्षा समूह और लाइसेंस](/power-platform/admin/control-user-access) देखें.
 
 ![समूह मोड](./media/groupsmode.png)
 
@@ -70,7 +68,7 @@ Microsoft Dynamics 365 Project Operations में एक अद्विती
 ## <a name="deployment-recommendation"></a>परिनियोजन सुझाव
 जैसे-जैसे Office समूह सहयोग मॉडल विकसित होता है, समय के साथ अधिक विस्तृत नियंत्रण प्रदान करने के लिए कार्यक्षमता को जोड़ा जाएगा। ग्राहक जो आज परियोजना संचालन नियोजित करते हैं, उन्हें पारंपरिक Microsoft Dynamics 365 सुरक्षा मॉडल पर ध्यान केंद्रित करने के लिए प्रोत्साहित किया जाता है.
 
-अधिक जानकारी के लिए, [Common Data Service में सुरक्षा](https://docs.microsoft.com/power-platform/admin/wp-security) देखें.
+अधिक जानकारी के लिए, [Common Data Service में सुरक्षा](/power-platform/admin/wp-security) देखें.
 
 ## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>परियोजना संचालन और Microsoft Dynamics 365 Finance सुरक्षा
 परियोजना संचालन में निम्नलिखित भूमिकाएं शामिल हैं:
@@ -78,6 +76,9 @@ Microsoft Dynamics 365 Project Operations में एक अद्विती
 - परियोजना प्रबंधक
 - परियोजना अकाउंटेंट
 
-वित्त में सुरक्षा के बारे में अधिक जानकारी के लिए, [भूमिका-आधारित सुरक्षा](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security) देखें.
+वित्त में सुरक्षा के बारे में अधिक जानकारी के लिए, [भूमिका-आधारित सुरक्षा](/dynamics365/fin-ops-core/dev-itpro/sysadmin/role-based-security) देखें.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

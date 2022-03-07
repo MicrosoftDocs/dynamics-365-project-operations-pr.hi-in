@@ -2,25 +2,23 @@
 title: उत्पाद-आधारित कोट लागत
 description: यह विषय उत्पाद-आधारित कोट लाइन पर लागत मूल्य लागू करने के बारे में जानकारी देता है.
 author: ruhercul
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: d21ab159294cac66ffeb8abcf0943b4babd7b360
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: d9c03fa1a8f43cc110565efbafd7f5aba69f65f96bec7f15f2bd492123f639c7
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4118925"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001883"
 ---
 # <a name="costing-product-based-quote-lines"></a>उत्पाद-आधारित कोट लागत
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 
-Dynamics 365 Project Operations में उत्पाद-आधारित कोट लाइन में **लागत मूल्य** फ़ील्ड भी है. इस फ़ील्ड का इस्तेमाल उत्पाद की कोट लाइन पर और डाउनस्ट्रीम लाभ क्षमता की गणना के लिए लागत मूल्य पर नज़र रखने के लिए किया जाता है.
+Dynamics 365 Project Operations में उत्पाद-आधारित कोट लाइनों की भी एक **लागत मूल्य** फ़ील्ड होती है. इस फ़ील्ड का इस्तेमाल उत्पाद की कोट लाइन पर और डाउनस्ट्रीम लाभ क्षमता की गणना के लिए लागत मूल्य पर नज़र रखने के लिए किया जाता है.
 
 जब कैटलॉग उत्पाद के लिए उत्पाद-आधारित कोट लाइन बनाई जाती है, उत्पाद-आधारित कोट लाइन की लागत उत्पाद सूची में **मानक लागत** फ़ील्ड से डिफ़ॉल्ट होती है. उत्पाद कैटलॉग में मानक लागत फ़ील्ड संगठन की आधार मुद्रा में सेट किया गया है. उत्पाद-आधारित कोट लाइन पर डिफ़ॉल्ट इकाई लागत कोट पर बिक्री मुद्रा में परिवर्तित हो जाती है.
 
@@ -33,3 +31,6 @@ Dynamics 365 Project Operations में उत्पाद-आधारित 
 Fabrikam Robotics, Adatum कॉर्पोरेशन की असेंबली लाइनों में रोबोटिक टुकड़ियाँ इंस्टॉल कर रहा है. Fabrikam इंस्टॉलेशन सेवाएं प्रदान करता है, लेकिन रोबोटिक आर्म्स Trey robotics से खरीदे जाते हैं. यदि A Datum Corporation में रोबोटिक आर्म्स का इंस्टॉलेशन,Trey के रोबोटिक आर्म्स के लिए नया उद्योग परिक्षेत्र खोलती है, Trey इस डील के लिए Fabrikam को विशेष छूट दे सकता है.
 
 इस मामले में, Fabrikam रोबोटिक आर्म्स के लिए उत्पाद-आधारित कोट लाइन बनाएगा और इस कोट के लिए विशेष प्रति इकाई लागत इनपुट देगा. यह लागत Trey रोबोटिक आर्म्स की मानक लागत से अलग है.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

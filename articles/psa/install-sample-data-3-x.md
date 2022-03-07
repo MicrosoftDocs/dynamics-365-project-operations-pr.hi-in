@@ -3,7 +3,7 @@ title: नमूना डेटा स्थापना विफल रही
 description: यह विषय Project Service Automation में नमूना डेटा इंस्टॉल करने के बारे में जानकारी प्रदान करता है.
 ms.custom: dyn365-projectservice
 ms.date: 11/08/2018
-ms.service: project-operations
+ms.service: dynamics-365-customerservice
 ms.reviewer: kfend
 ms.suite: ''
 applies_to: Dynamics 365 Project Service Automation
@@ -11,16 +11,14 @@ author: ruhercul
 ms.author: ruhercul
 search.audienceType: IT Pro, Developer
 search.app: ''
-ms.openlocfilehash: aaeb4163c7ace1c3bf4db61f1a10a13cfbdc4fc2
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 46dbd8d125396baa97537ea5d11c47864558c113
+ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5144505"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "4077765"
 ---
 # <a name="sample-data-installation-for-the-project-service-application"></a>Project Service अनुप्रयोग के लिए नमूना डेटा स्थापना
-
-[!include [banner](../includes/psa-now-project-operations.md)]
 
 स्वयं का डेमो तैयार करने में आपकी मदद करने के लिए, Microsoft डाउनलोड करने योग्य नमूने का डेटा पैकेज प्रदान करता जो आपके ऐप की सक्षमता दिखाता है। यहाँ दो प्रकार के नमूना डेटा पैकेज हैं:
 - संदर्भ/सेटअप डेटा
@@ -51,7 +49,7 @@ ms.locfileid: "5144505"
 
 - Project Service, Field Service या दोनों अनुप्रयोगों का उपयोग करने के लिए डिफ़ॉल्ट पैरामीटर बनाती या सेट करती है (यदि लागू है).
 
-- अनुप्रयोगों के लिए नमूना डेटा आयात करती है, जैसे बुक करने योग्य संसाधन, अनुप्रयोग-विशिष्ट भूमिकाएं, विक्रय, लागत मूल्य सूचियां, संगठनात्मक इकाइयां, विक्रय प्रक्रिया रिकॉर्ड और मुख्य क्षमताएं दिखाने के लिए अन्य निकाय.  
+- अनुप्रयोगों के लिए नमूना डेटा आयात करती है, जैसे बुक करने योग्य संसाधन, अनुप्रयोग-विशिष्ट भूमिकाएं, विक्रय, लागत मूल्य सूचियां, संगठनात्मक इकाइयां, विक्रय प्रक्रिया रिकॉर्ड और मुख्य क्षमताएं दिखाने के लिए अन्य निकाय.  
 
 **डेमो डेटा** पैकेज से, आपको उपरोक्त और अतिरिक्त कार्य ऑर्डर और परियोजना जैसे लेन-देन संबंधी डेटा प्राप्त होते हैं.
 

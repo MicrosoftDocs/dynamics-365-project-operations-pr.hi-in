@@ -15,12 +15,12 @@ ms.search.region: ''
 ms.author: suvaidya
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 09fc5a58b3367d1b70d2ddddb8e920769055f9d2
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
+ms.openlocfilehash: ee00b3c6a683aa8daf2823331a1a9638828dad03
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4122705"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5276395"
 ---
 # <a name="manage-delegation"></a>प्रत्यायोजन का प्रबंधन करें
 एक ख़र्च प्रतिनिधि किसी अन्य कर्मचारी के लिए ख़र्च रिपोर्ट बना और प्रबंधित कर सकता है.
@@ -39,3 +39,6 @@ ms.locfileid: "4122705"
 एक प्रतिनिधि उन्हें सौंपे गए मौजूदा ख़र्च रिपोर्टों को जल्दी से फ़िल्टर कर सकता और खोज सकता है. प्रतिनिधि **नई ख़र्च रिपोर्ट** का चयन करके अन्य उपयोगकर्ताओं के लिए जल्दी से एक नई ख़र्च रिपोर्ट भी बना सकता है.
 
 प्रतिनिधि **ख़र्च प्रबंधन** > **मेरा खर्च** > **ख़र्च रिपोर्ट** और चयन **पर जाकर अन्य कर्मचारियों के लिए ख़र्च रिपोर्ट बना सकते हैं और प्रबंधित कर सकते हैं और अन्य उपयोगकर्ता के खर्चों को चालू करें** का चयन कर सकते हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

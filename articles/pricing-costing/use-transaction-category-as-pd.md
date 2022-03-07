@@ -2,18 +2,16 @@
 title: मूल्य निर्धारण आयाम के रूप में लेनदेन श्रेणी का उपयोग करें
 description: इस विषय में मूल्य निर्धारण आयाम के रूप में लेनदेन श्रेणी का उपयोग करने के बारे में जानकारी प्रदान दी गई है.
 author: rumant
-manager: tfehr
 ms.date: 11/05/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: bace11455d34fdda95e08be1a7cc37850a0cf589
-ms.sourcegitcommit: 869bde007805ef255f61b03937e4a44aeef61df9
+ms.openlocfilehash: d956545e1ad38fb09660f107e085f38d099c2207
+ms.sourcegitcommit: 40f68387f594180af64a5e5c748b6efa188bd300
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "4513990"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "6004443"
 ---
 # <a name="use-transaction-category-as-a-pricing-dimension"></a>मूल्य निर्धारण आयाम के रूप में लेनदेन श्रेणी का उपयोग करें
 
@@ -50,3 +48,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 2. **पैरामीटर** पृष्ठ पर **राशि-आधारित मूल्य निर्धारण आयाम** टैब पर, सत्यापित करें कि **मूल्य निर्धारण आयाम** निकाय में ग्रिड रिकॉर्ड दिखाती है.
 3. इस सूची में **लेनदेन श्रेणी** जोड़ें और **लागत पर लागू** और **विक्रय पर लागू** फ़ील्ड को **हाँ** पर सेट करें.
 4. **आयाम प्रकार** फ़ील्ड में, **राशि-आधारित** चुनें और उसके बाद **लेनदेन श्रेणी** की वह प्राथमिकता चुनें, जिसमें वह लागत और विक्रय से संबंधित है.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

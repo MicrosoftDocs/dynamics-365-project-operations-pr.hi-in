@@ -2,18 +2,16 @@
 title: परियोजना-आधारित कोटेशन लाइनों पर इंवॉयस शेड्यूल
 description: यह विषय कोट लाइन के लिए इनवॉयस शेड्यूल और उपलब्धि के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 2b69742915fe79ee59e7fdcf317000cea79c5929
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
-ms.translationtype: HT
+ms.openlocfilehash: 0d07596b299d71b229487faf80a09e368059575ea37095d2c82d35561d009c96
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4180824"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988608"
 ---
 # <a name="invoice-schedules-on-project-based-quote-lines"></a>परियोजना-आधारित कोटेशन लाइनों पर इंवॉयस शेड्यूल
 
@@ -68,3 +66,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 | इनवॉइस स्थिति | त्वरित बनाएँ | जब एक उपलब्धि बनायी जाती है, तो इस स्थिति को हमेशा **इंवॉयसिंग के लिए तैयार नहीं** पर सेट किया जाता है. | यह परियोजना अनुबंध लाइन उपलब्धि और इनवॉयस के लिए प्रचारित किया जाता है. |
 | पंक्ति राशि | त्वरित बनाएँ | ग्राहक को इनवॉयस किए जाने वाली उपलब्धि की राशि या मूल्य. | यह परियोजना अनुबंध लाइन उपलब्धि और इनवॉयस के लिए प्रचारित किया जाता है. |
 | कर | त्वरित बनाएँ | कर राशि जो उपलब्धि पर लागू होगी. | यह परियोजना अनुबंध लाइन उपलब्धि और इनवॉयस के लिए प्रचारित किया जाता है. |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

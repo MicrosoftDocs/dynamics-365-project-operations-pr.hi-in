@@ -2,11 +2,9 @@
 title: ख़र्च प्रबंधन कार्यप्रवाह
 description: यह विषय बताता है कि आप ख़र्च प्रबंधन में ख़र्च रिपोर्ट के लिए समीक्षा प्रक्रिया सेट करने के लिए Microsoft Dynamics 365 Finance में कार्यप्रवाह प्रणाली का उपयोग कैसे कर सकते हैं.
 author: ShylaThompson
-manager: AnnBe
 ms.date: 09/13/2017
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: WorkflowtableListPageRnr
 audience: Application User
@@ -16,12 +14,12 @@ ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: fde336f53d72e9ddf38c5123d9e774a4c3a22a28
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 7c2a2cae435342139f32d1bb5d38d68acd920453f5e6f6551e1f6d57967d8053
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271670"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001298"
 ---
 # <a name="expense-management-workflow"></a>ख़र्च प्रबंधन कार्यप्रवाह
 

@@ -2,18 +2,16 @@
 title: बुकिंग बनाम असाइनमेंट
 description: यह विषय संसाधन बुकिंग और संसाधन असाइनमेंट के बीच अंतर की जानकारी देता है.
 author: ruhercul
-manager: Annbe
 ms.date: 01/08/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: 9e346766e6ccbb3dff59ef12072a1cd63f1e4231
-ms.sourcegitcommit: 260ce052fed760bb44c514517806049ca13a5459
-ms.translationtype: HT
+ms.openlocfilehash: 1906ebd76f5fc66215aa5963242de13206a81668cb4973cccaf5b153514672d5
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "4841174"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7008453"
 ---
 # <a name="bookings-vs-assignments"></a>बुकिंग बनाम असाइनमेंट
 
@@ -26,3 +24,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 आमतौर पर, संसाधन के लिए बुकिंग का योग एक या कई कार्यों में संसाधन के असाइनमेंट के योग को बराबर होगा. हालाँकि, Project Operations इस समझौते को लागू नहीं करता है. **समायोजन** दृश्य परियोजना प्रबंधक को वे स्थान दिखाता है, जहां संसाधन की बुकिंग और असाइनमेंट सहमत नहीं होते हैं.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

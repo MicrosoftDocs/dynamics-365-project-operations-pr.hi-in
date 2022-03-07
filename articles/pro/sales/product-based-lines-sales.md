@@ -2,19 +2,17 @@
 title: उत्पाद-आधारित अवसर पंक्तियाँ - लाइट
 description: यह विषय Project Operations में उत्पाद आधारित अवसर लाइन आइटम के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4f8da5258a1dd0aa4229654c0e1e222b8cf3a21a
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 132bfa8418e255cf65c247e55cd45fbaf58d243cb34368fd07bc4ade11bb243e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5272615"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6989688"
 ---
 # <a name="product-based-opportunity-lines---lite"></a>उत्पाद-आधारित अवसर पंक्तियाँ - लाइट
 
@@ -22,7 +20,7 @@ _**लागू होता है:** लाइट नियोजन-प्र
 
 उत्पाद आधारित अवसर लाइनें, अवसर पर लाइन आइटम हैं. ये अलग-अलग पंक्ति आइटम उस संभावित इनवॉइस पर मौजूद हैं, जो ग्राहक को प्रदान किया गया. इनवॉइस में कोई अन्य अतिरिक्त सेवाएँ शामिल नहीं होती हैं. संबद्ध ख़र्च और खपत किसी भी संबंधित परियोजनाओं के कार्यों पर ट्रैक नहीं होता है.
 
-उत्पाद-आधारित लाइनें, कैटलॉग आइटम या राइट-इन उत्पाद हो सकती हैं. अवसर के उत्पाद-आधारित लाइनों पर अधिकांश कार्यक्षमता Dynamics 365 Sales एप्लिकेशन द्वारा प्रदान की गई कार्यक्षमता का पालन करती है. उत्पाद-आधारित अवसर लाइनों के बारे में अधिक जानकारी के लिए, देखें [एक अवसर के लिए उत्पादों को जोड़ें](https://docs.microsoft.com/dynamics365/sales-enterprise/add-products-opportunity).
+उत्पाद-आधारित लाइनें, कैटलॉग आइटम या राइट-इन उत्पाद हो सकती हैं. अवसर के उत्पाद-आधारित लाइनों पर अधिकांश कार्यक्षमता Dynamics 365 Sales एप्लिकेशन द्वारा प्रदान की गई कार्यक्षमता का पालन करती है. उत्पाद-आधारित अवसर लाइनों के बारे में अधिक जानकारी के लिए, देखें [एक अवसर के लिए उत्पादों को जोड़ें](/dynamics365/sales-enterprise/add-products-opportunity).
 
 **ग्राहक बजट** एक अवधारणा है, जो परियोजना-आधारित अवसर पंक्तियों के लिए विशिष्ट है. **ग्राहक बजट** फ़ील्ड उस राशि को ट्रैक करती है, जो ग्राहक आइटम के लिए भुगतान करने के लिए तैयार है.
 

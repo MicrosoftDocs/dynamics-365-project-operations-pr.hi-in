@@ -2,18 +2,16 @@
 title: अनुबंध पर एक एड-हॉक उन्नत बनाना
 description: यह विषय आवश्यकतानुसार अनुबंध पर एडवांस बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/26/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 790a0281f72eff5f241d11da025b5b4af643a567
-ms.sourcegitcommit: 250270409412ba4cad95fbd4c345a80d3d2b3e53
-ms.translationtype: HT
+ms.openlocfilehash: bceed1372dbaf523426a4c34da7152d77fe108240c8c3e4e1390c43b1cf536a4
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "4595986"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999138"
 ---
 # <a name="creating-an-ad-hoc-advance-on-a-contract"></a>अनुबंध पर एक एड-हॉक उन्नत बनाना
 
@@ -39,3 +37,6 @@ Microsoft Dynamics 365 Project Operations उन इनवॉइसिंग प
     | **इनवॉइस स्थिति** | यह एक विकल्प सेटिंग है, जो इंगित करती है कि यह एडवांस इस ग्राहक के लिए ड्राफ़्ट इनवॉइस में जोड़ा गया है या नहीं. संभावित मान हैं:</br>- **इनवॉइस करने के लिए तैयार नहीं**</br>- **इनवॉइस करने के लिए तैयार** | जब किसी एडवांस या पूर्व भुगतान को **इनवॉइस के लिए तैयार** के रूप में चिह्नित किया जाता है, तो उसे ड्राफ़्ट इनवॉइस पर एक पंक्ति समय के रूप में जोड़ा जाता है. केवल एक पूरी तरह से इनवॉइस किए गए एडवांस का उपयोग अगली इनवॉइस अवधि के लिए परियोजना लागतों के विरुद्ध मिलान करने के लिए किया जा सकता है. |
 
 4. एडवांस या पूर्व भुगतान को रिकॉर्ड करने के लिए, त्वरित बनाएँ संवाद पर **सहेजें और बंद करें** चुनें.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

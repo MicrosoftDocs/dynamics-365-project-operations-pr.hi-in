@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: bdb6122d8aba84d2b449f9f17a4093388b585614
-ms.sourcegitcommit: addbe0647619413e85e7cde80f6a21db95ab623e
+ms.openlocfilehash: 2dec6669a41161a23f74ea962df6d8708b905315
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "4595486"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5287555"
 ---
 # <a name="configure-intercompany-invoicing"></a>अंतरकंपनी इनवॉइस को कॉन्फ़िगर करें
 
@@ -101,3 +101,6 @@ Dynamics 365 Project Operations में परियोजनाओं के 
           - **संसाधन कंपनी** = **Contoso Robotics UK**
           - **बिल दर** = **200 USD**
       9. **विक्रय** > **परियोजना अनुबंध** पर जाएँ और **एडवेंचर वर्क्स बिल दर** मूल्य सूची को परियोजना अनुबंध की एडवेंचर वर्क्स मूल्य सूची से संलग्न करें.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,17 +2,18 @@
 title: शेड्यूल सहायक का अवलोकन
 description: यह विषय पुस्तक संसाधनों के लिए अनुसूची सहायक के साथ काम करने के बारे में जानकारी प्रदान करता है।
 author: ruhercul
+manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
+ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.custom: intro-internal
-ms.openlocfilehash: 309cb94ea30c525daccf032c625004c42fb408dada4b337b65d8f36d76219669
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 92b12bd9272805a736286bf7e0ff926cb6361c05
+ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990228"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "4125630"
 ---
 # <a name="schedule-assistant-overview"></a>शेड्यूल सहायक का अवलोकन
 
@@ -24,7 +25,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="prerequisites"></a>पूर्वावश्यकताएँ
 
-अनुसूची सहायक Universal Resource Scheduling समाधान का एक हिस्सा है। यह समाधान Dynamics 365 Project Operations, Dynamics 365 Field Service, और Dynamics 365 Customer Service में शामिल है और साथ स्थापित किया गया है.
+अनुसूची सहायक Universal Resource Scheduling समाधान का एक हिस्सा है। यह समाधान Dynamics 365 परियोजना संचालन, Dynamics 365 Field Service, और Dynamics 365 Customer Service के साथ शामिल और स्थापित है.
 
 ## <a name="matching-requirements-and-resources"></a>मेल खाती आवश्यकताएँ और संसाधन
 
@@ -56,6 +57,3 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 -   संसाधन कंपनी
 -   संसाधन प्रकार
 -   पसंदीदा संसाधन
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

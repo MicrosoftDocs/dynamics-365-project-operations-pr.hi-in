@@ -17,12 +17,12 @@ ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 41d2eace497f4291022da0775cca7cda7d600df7
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: d9ccbb29d5035ea061d232011af87cef2c81e76c
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271085"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4642455"
 ---
 # <a name="project-service-automation-overview"></a>Project Service Automation अवलोकन
 
@@ -75,6 +75,3 @@ ms.locfileid: "5271085"
 ## <a name="install-the-project-service-automation-to-finance-integration-solution-in-your-project-service-automation-instance"></a>Project Service Automation टू फाइनेंस एकीकरण समाधान को अपने Project Service Automation आवृत्ति में इंस्टॉल करें
 
 Project Service Automation टू फाइनेंस एकीकरण समाधान को [Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=57016) से डाउनलोड करें, और समाधान के साथ शामिल निर्देशों का पालन करें.
-
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

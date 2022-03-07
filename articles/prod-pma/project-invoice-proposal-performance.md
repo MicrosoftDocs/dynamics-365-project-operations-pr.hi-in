@@ -2,11 +2,9 @@
 title: परियोजना इनवॉइस प्रस्ताव प्रदर्शन
 description: यह विषय इनवॉइस प्रस्ताव प्रदर्शन प्रोज़ेक्ट करें में सुधार के बारे में जानकारी प्रदान करता है.
 author: Yowelle
-manager: AnnBe
-ms.date: 04/20/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: ''
 audience: Application User, IT Pro
@@ -18,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 20121-03-05
 ms.dyn365.ops.version: 10.0.18
-ms.openlocfilehash: 1641d5f731029fdbdc16c4b652cc752a583058c6
-ms.sourcegitcommit: 68d52fc983861114e654ffc8d2472b4db9b48981
-ms.translationtype: HT
+ms.openlocfilehash: 8b6df8baf1013720778308ce536b037dec4775f040d2925a47508fb373900f81
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "5920304"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005708"
 ---
 # <a name="project-invoice-proposal-performance"></a>परियोजना इनवॉइस प्रस्ताव प्रदर्शन
 
@@ -46,4 +44,6 @@ ms.locfileid: "5920304"
 3.  अपने ब्राउज़र को रिफ्रेश करें.
 
 > [!NOTE]
-> बिलिंग नियमों को सक्षम होने या बैच प्रक्रियाएं चलने पर इनवॉइस प्रस्ताव प्रदर्शन लागू नहीं किया जा सकता है.
+> बिलिंग नियम सक्षम होने पर इनवॉइस प्रस्ताव प्रदर्शन लागू नहीं किया जा सकता है.
+> 
+> इनवॉइस प्रस्ताव बनाने की बैच प्रक्रिया के दौरान, उप-कार्यों की संख्या, इनवॉइस योग्य लेन-देन वाले अनुबंधों की संख्या के आधार पर कार्यों को अधिकतम संख्या में विभाजित कर देगी, चाहे आपने कुछ भी दर्ज किया हो. उदाहरण के लिए, बैच में इनवॉइस प्रस्ताव निर्माण के लिए उप-कार्यों की संख्या के लिए यदि आप **3** दर्ज करते हैं और इनवॉइस-योग्य लेन-देन के साथ केवल दो अनुबंध हैं, तो केवल दो उप-कार्य बनाए जाते हैं.

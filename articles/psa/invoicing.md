@@ -17,12 +17,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0855e85c1f09d29d3ecb49ba517fd3043ae11140
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
+ms.openlocfilehash: 5d9fff2d3b26da73e5a236cd8607576439fc1a08
+ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5151390"
+ms.lasthandoff: 02/15/2021
+ms.locfileid: "5284270"
 ---
 # <a name="invoicing-in-project-service-automation"></a>Project Service Automation में इनवॉइस करना
 
@@ -117,3 +117,6 @@ PSA में स्वचालित बीजक रन कन्फीगर
 
 - छ: घंटों के लिए बिल की गई वास्तविक बिक्री।
 - शेष दो घंटों के लिए बिल न की गई वास्तविक बिक्री। इस लेनदेन को बाद में बिल किया जा सकता है या ग्राहक के साथ हुई बातचीत पर निर्भर करते हुए, प्रभार के लिए नहीं दर्शाया जा सकता है।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

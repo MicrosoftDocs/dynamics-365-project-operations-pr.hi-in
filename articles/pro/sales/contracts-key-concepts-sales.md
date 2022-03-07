@@ -8,14 +8,14 @@ ms.topic: article
 ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 75c4b90e47c0b90ed3fea8dce1533057aa6137b9
-ms.sourcegitcommit: df30839484ef278675c5c712af0f7ba66ed9cdd3
+ms.openlocfilehash: 3381707457ef35ff604c716592afd8382b98ad5d
+ms.sourcegitcommit: 573be7e36604ace82b35e439cfa748aa7c587415
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "5663776"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "4643040"
 ---
-# <a name="concepts-unique-to-project-contracts"></a>परियोजना अनुबंधों के लिए युनीक अवधारणाएँ
+# <a name="project-contracts---key-concepts---lite"></a>परियोजना अनुबंध - मुख्य अवधारणाएँ - लाइट
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
@@ -93,6 +93,3 @@ Project Operations चार प्रकार की लेनदेन वर
 - परियोजना संचालन अनुबंध के अपने रूप और UI तत्व, कारोबारी नियम, प्लग-इन में कारोबारी तर्क, और ग्राहक की तरफ की स्क्रिप्ट होती है जो उन्हें बिक्री अनुबंधों से अलग बनाती है.
 
 इन कारणों की वजह से आपको बिक्री अनुबंध और परियोजना अनुबंध की विनिमेयता का/का परस्पर उपयोग नहीं करना चाहिए.
-
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

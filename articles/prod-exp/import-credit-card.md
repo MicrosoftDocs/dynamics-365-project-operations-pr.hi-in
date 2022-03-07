@@ -2,11 +2,9 @@
 title: क्रेडिट कार्ड लेनदेन आयात करें और कायम करें
 description: यह विषय बताता है कि व्यय-संबंधित क्रेडिट कार्ड लेनदेन को कैसे आयात किया जाए और बनाए रखा जाए. इन लेनदेन को सेट किया जा सकता है ताकि वे स्वचालित रूप से बार-बार आने वाले शेड्यूल पर आयात हो सकें, या उन्हें आवश्यकतानुसार मैन्युअल रूप से आयात किया जा सके.
 author: KimANelson
-manager: AnnBe
 ms.date: 01/12/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvPbsMainDataLines
 audience: Application User
@@ -18,18 +16,18 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: df5c6bce8a534f4f8b1872e2bd5cc8a58ef11189
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: c3a53d2ae4eae411364aaf68ac806b55335c75d4870a24715954ccae327f4358
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5271580"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995853"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>क्रेडिट कार्ड लेनदेन आयात करें और कायम करें
 
 व्यय से संबंधित क्रेडिट कार्ड लेनदेन को सेट किया जा सकता है ताकि वे आवर्ती शेड्यूल पर अपने आप आयात किये जा सकें. विकल्प रूप से, लेनदेन को मैन्युअल रूप से आयात किया जा सकता है क्योंकि उनकी ज़रूरत है. क्रेडिट कार्ड लेनदेन को क्रेडिट कार्ड लेनदेन डेटा निकाय के माध्यम से आयात किया जाता है.
 
-डेटा निकायों के बारे में अधिक जानकारी के लिए, [डेटा निकाय](https://docs.microsoft.com/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities) देखें.
+डेटा निकायों के बारे में अधिक जानकारी के लिए, [डेटा निकाय](/dynamics365/fin-ops-core/dev-itpro/data-entities/data-entities) देखें.
 
 ## <a name="import-credit-card-transactions"></a>क्रेडिट कार्ड लेनदेन आयात करें
 
