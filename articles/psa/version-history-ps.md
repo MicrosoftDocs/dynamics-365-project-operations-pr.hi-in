@@ -2,10 +2,9 @@
 title: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
 description: यह विषय Dynamics 365 Project Service Automation के उपलब्ध और आगामी रिलीज़ के बारे में जानकारी प्रदान करता है.
 ms.custom: dyn365-projectservice
-ms.date: 12/07/2020
+ms.date: 10/04/2021
 ms.reviewer: kfend
 ms.prod: ''
-ms.service: project-operations
 ms.suite: ''
 ms.tgt_pltfrm: ''
 ms.topic: article
@@ -15,7 +14,6 @@ author: kfend
 ms.assetid: ''
 caps.latest.revision: 42
 ms.author: rumant
-manager: annbe
 search.audienceType:
 - admin
 - customizer
@@ -24,12 +22,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: a8e1c7233de5705c928308431738060cca454e89
-ms.sourcegitcommit: 7e39fc1d50681850175428c909755204b08f0a77
+ms.openlocfilehash: a82622a30804c0c4228ebd37b89c94580cfc89e9
+ms.sourcegitcommit: 1186e9822e06a13fde89b67ea89427eddfe23cee
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "5556625"
+ms.lasthandoff: 12/20/2021
+ms.locfileid: "7940936"
 ---
 # <a name="update-release-schedule-for-project-service-3x"></a>Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
 
@@ -39,36 +37,38 @@ ms.locfileid: "5556625"
 
 | समाधान  | नवीनतम संस्करण |
 |-------|----|
-| Project Service Automation    | 3.10.47.7 |
-| Project Service Automation डेस्कटॉप ऐड-इन                | 3.15          |
+| परियोजना सेवा स्वचालन    | 3.10.59.117 |
+| Project Service Automation डेस्कटॉप ऐड-इन                | 3.60          |
 
-Project Service के अद्यतन के बारे में जानकारी के लिए, [Dynamics 365 रिलीज़ योजनाएँ](https://docs.microsoft.com/dynamics365/release-plans/) देखें. 
+Project Service के अद्यतन के बारे में जानकारी के लिए, [Dynamics 365 रिलीज़ योजनाएँ](/dynamics365/release-plans/) देखें. 
 
 | स्टेशन  | क्षेत्र | वर्तमान संस्करण | अगला संस्करण |  निर्धारित तिथि
 | :---   | :---   | :---   | :---   |:---   |         
 |<strong>स्टेशन 1</strong> | |  |  | |
-| | <i>पहला प्रकाशन</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
+| | <i>पहला प्रकाशन</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 14 जनवरी, 2022
 |<strong>स्टेशन 2</strong> | |  |  | |
-| | <i>दक्षिण अमेरिका</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
-| | <i>कनाडा</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
-| | <i>भारत</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
-| | <i>फ़्रांस</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
-| | <i>संयुक्त अरब अमीरात</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
-| | <i>दक्षिण अफ़्रीका</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
-| | <i>जर्मनी</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
-| | <i>स्विट्ज़रलैंड</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 2 अप्रेल, 2021
+| | <i>दक्षिण अमेरिका</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 21 जनवरी, 2022
+| | <i>कनाडा</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 21 जनवरी, 2022
+| | <i>भारत</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 21 जनवरी, 2022
+| | <i>फ़्रांस</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 21 जनवरी, 2022
+| | <i>दक्षिण अफ़्रीका</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 21 जनवरी, 2022
+| | <i>जर्मनी</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 21 जनवरी, 2022
+| | <i>स्विट्ज़रलैंड</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 21 जनवरी, 2022
 |<strong>स्टेशन 3</strong> | |  |  | |
-| | <i>जापान</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9 अप्रेल, 2021
-| | <i>एशिया प्रशांत</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9 अप्रेल, 2021
-| | <i>ग्रेट ब्रिटेन</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9 अप्रेल, 2021
-| | <i>ओसिनिया</i> | [3.10.47.7](whats-new-ur-29.md) | TBD | 9 अप्रेल, 2021
+| | <i>जापान</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 28 जनवरी, 2022
+| | <i>एशिया प्रशांत</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 28 जनवरी, 2022
+| | <i>ग्रेट ब्रिटेन</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 28 जनवरी, 2022
+| | <i>ओसिनिया</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 28 जनवरी, 2022
+| | <i>संयुक्त अरब अमीरात</i> | [पी3.10.59.117](whats-new-ur-38.md) | TBD | 28 जनवरी, 2022
 |<strong>स्टेशन 4</strong> | |  |  | |
-| | <i>यूरोप</i> | [3.10.46.147](whats-new-ur-28-6.md) | [3.10.47.7](whats-new-ur-29.md) | 12 मार्च, 2021
+| | <i>यूरोप</i> | [पी3.10.58.130](whats-new-ur-37-5.md) | [पी3.10.59.117](whats-new-ur-38.md) | 07 जनवरी, 2022
 |<strong>स्टेशन 5</strong> | |  |  | |
-| | <i>उत्तरी अमेरिका</i> | [3.10.46.147](whats-new-ur-28-6.md) | [3.10.47.7](whats-new-ur-29.md) | 19 मार्च, 2021
+| | <i>उत्तरी अमेरिका</i> | [पी3.10.58.130](whats-new-ur-37-5.md) | [पी3.10.59.117](whats-new-ur-38.md) | 14 जनवरी, 2022
 |<strong>स्टेशन 6</strong> | |  |  | |
-| | <i>सरकारी सामुदायिक क्लाउड</i> | [3.10.46.147](whats-new-ur-28-6.md) | [3.10.47.7](whats-new-ur-29.md) | 19 मार्च, 2021
-| | <i>समर्पित स्केल समूह</i> | [3.10.45.120](whats-new-ur-27-6.md) | [3.10.46.147](whats-new-ur-28-6.md) | 05 मार्च, 2021
+| | <i>सरकारी सामुदायिक क्लाउड</i> | [पी3.10.58.130](whats-new-ur-37-5.md) | [पी3.10.59.117](whats-new-ur-38.md) | 14 जनवरी, 2022
+| | <i>समर्पित स्केल समूह</i> | [3.10.58.130](whats-new-ur-37-5.md) | [पी3.10.59.117](whats-new-ur-38.md) | 21 जनवरी, 2022
+
+
 
 >[!Note]
 > - गवर्नमेंट कम्युनिटी क्लाउड (GCC) को छोड़कर सभी क्षेत्रों में दिनांक अगले स्वचालित अद्यतन के समय को दर्शाती हैं. GCC में दिनांक संस्करण की उपलब्धता को दर्शाती हैं; इस समय, इन क्षेत्रों के लिए कोई स्वचालित अद्यतन नहीं है.

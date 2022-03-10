@@ -2,8 +2,6 @@
 title: प्रोजेक्ट सेटिंग्‍स
 description: इस विषय में प्रोजेक्ट प्रबंधन सेटिंग की जानकारी दी गई है।
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/01/2019
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ca5fc63d56ddd84871949e38f421bcdfe38d478e
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 5f6fec091c50f35589e333fce4b3a296dd736d10dd2f56b6c11209a55b493836
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5148150"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996933"
 ---
 # <a name="project-settings"></a>प्रोजेक्ट सेटिंग्‍स
 
@@ -47,9 +45,9 @@ ms.locfileid: "5148150"
 
   - नया साप्ताहिक शेड्यूल
   - एक दिन के लिए कार्य शेड्यूल
-  - समय समाप्त
+  - टाइम ऑफ़
 
-> ![सेट अप विकल्प](media/project-13.png)
+> ![सेट अप विकल्प.](media/project-13.png)
 
 4. **नया साप्ताहिक शेड्यूल** चुनें और उसके बाद इस रिसोर्स के शेड्यूल के लिए ऑप्शन सेट करें। इसमें आप आवर्ती साप्ताहिक शेड्यूल, दैनिक घंटा पैरामीटर, कारोबार समाप्ति जैसी कई सुविधाएँ सेट कर सकते हैं.
 5. डेट रेंज सेट करें, **सहेजें** चुनें और उसके बाद **बंद करें** क्लिक करें। 
@@ -68,3 +66,6 @@ ms.locfileid: "5148150"
 ## <a name="price-lists"></a>मूल्य सूचियाँ
 
 कीमत की सूचियों से आप एक संगठन में संसाधन की भूमिकाओं, खर्च के वर्गों, प्रॉडक्ट और अन्य तत्वों के लिए लागत और बिक्री की कीमत सेट कर सकते हैं। किसी प्रोजेक्ट के लिए किए जाने वाले कार्य का वित्तीय आकलन सेट करने से पहले, आपको बैकिंग लागत और बिक्री कीमत सूची तैयार करनी चाहिए। पैरामीटर खंड में, आपको डिफाल्ट लागत और बिक्री कीमत सूची भी सेट करनी चाहिए जो संगठन में बनाए गए सभी प्रोजेक्ट के लिए लागू होते हैं। **सक्रिय परियोजना पैरामीटर्स** पेज में यह सुनिश्चित करें कि आपने डिफाल्ट लागत और बिक्री कीमत सूची सेट कर ली है।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

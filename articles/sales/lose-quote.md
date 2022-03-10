@@ -2,18 +2,16 @@
 title: परियोजना-आधारित कोटेशन कॉपी करें
 description: यह विषय Project Operations में परियोजना-आधारित कोटेशनों को कॉपी करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: e4e70ed1451c1076f72ef5d7200b918c626ab23c
-ms.sourcegitcommit: f6f86e80dfef15a7b5f9174b55dddf410522f7c8
-ms.translationtype: HT
+ms.openlocfilehash: 247f9d33bc2e7b0bcbeae8114bb436ed237efce660d0840e58d536d2a290639e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "4181814"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992163"
 ---
 # <a name="copy-project-based-quotes"></a>परियोजना-आधारित कोटेशन कॉपी करें
 
@@ -45,3 +43,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 > - परियोजना- आधारित कोटेशन लाइनों पर परियोजना संदर्भ - ग्राहक बजट जानकारी
 >
 >चूंकि यह जानकारी प्रत्येक कोटेशन के लिए बहुत विशिष्ट है, ये फ़ील्ड और रिकॉर्ड नकल नहीं किये जाते हैं. परियोजनाओं और उत्पादों के लिए कोटेशन लाइनें, कोटेशन लाइन विवरण पर अनुमान, और कोटेशन स्तर पर अधिकतम मूल्यों की नकल की जाती है. कीमत और लागत दर चूक **मापदंड कॉपी करें** संवाद पृष्ठ पर चुने गए **मूल्य निर्धारण कॉपी करें** विकल्प पर निर्भर करती है.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

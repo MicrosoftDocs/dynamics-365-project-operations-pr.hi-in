@@ -16,12 +16,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 5c8c28839f5e7b3259afbea4ab400d0c4fca95fd
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
-ms.translationtype: HT
+ms.openlocfilehash: d17939777a6670bafc41b372adc922f8bdcc0411f3fdb399e7c9ab01eca87dd0
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6368883"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998463"
 ---
 # <a name="pricing-and-costing-dimensions-home-page"></a>कीमत और लागत निर्धारण डायमेंशन का होम पेज
 
@@ -41,7 +41,7 @@ ms.locfileid: "6368883"
 
 PSA कीमत निर्धारण डायमेंश के डिफाल्ट सेट भेजती है। आप इन्हें **Project Service** > **पैरामीटर्स** में देख सकते हैं। पैरामीटर रिकार्ड में, **राशि आधारित मूल्य निर्धारण आयाम** टैब पर, इसका सत्यापन करें कि भूमिका, **msdyn_resourcecategory** और रिसोर्सिंग ऑर्गेनाइज़ेशन यूनिट, **msdyn_organizationalunit** में **विक्रय पर लागू** और **लागत पर लागू** फील्ड **हाँ** पर सेट हैं। इससे आप प्रत्येक भूमिका और ऑर्गेनाइज़ेशनल यूनिट के संयोजन के लिए कीमत और लागत निर्धारित कर सकते हैं।
 
-!["विक्रय पर लागू" के साथ Project Service पैरामीटर का स्क्रीनशॉट](media/PS-OOB-parameters.png)
+!["विक्रय पर लागू" के साथ Project Service पैरामीटर का स्क्रीनशॉट.](media/PS-OOB-parameters.png)
 
 > [!IMPORTANT]
 > यदि आप PSA के वर्शन 3 से पहले कीमत निर्धारण के डायमेंशन के लिए भूमिका और ऑर्गेनाइज़ेशन यूनिट के अलग फील्ड का इस्तेमाल करते आ रहे थे तो कोई बड़ा परिवर्तन नहीं होगा। आप सामान्य ढंग से Project Service का इस्तेमाल करना जारी रख सकते हैं। 

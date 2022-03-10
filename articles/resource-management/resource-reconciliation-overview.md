@@ -2,27 +2,25 @@
 title: संसाधन समन्वय ओवरव्यू
 description: यह विषय ऐसी जानकारी प्रदान करता है, जो आपकी यह सुनिश्चित करने में मदद करेगी कि परियोजनाओं के लिए संसाधन बुकिंग और असाइनमेंट संरेखित हैं.
 author: ruhercul
-manager: AnnBe
 ms.date: 01/08/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 audience: Application User
 ms.reviewer: kfend
 ms.search.scope: ''
-ms.custom: ''
+ms.custom: intro-internal
 ms.assetid: ''
 ms.search.region: Global
 ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8723cfad1e7cd07774e37023c5427b0a5833a554
-ms.sourcegitcommit: cffc84187007b34211c90babef8af5152d4d92ea
+ms.openlocfilehash: 1542e97955902486d22ca637514e4e121fae70e2b227cafc7020c031061b5f98
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "4849626"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6994773"
 ---
 # <a name="resource-reconciliation-overview"></a>संसाधन समन्वय ओवरव्यू
 
@@ -48,3 +46,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 **बुकिंग विस्तृत करें** क्रिया के माध्यम से बनाई गई बुकिंग, प्राथमिक परियोजना आवश्यकता से संबद्ध होती हैं. जब विस्तार कार्य शुरू किया जाता है, तो जिस विशिष्ट आवश्यकता को विस्तृत किया जाना चाहिए, उसे निर्धारित नहीं किया जा सकता है, क्योंकि परियोजना के लिए संसाधन एक से अधिक आवश्यकता से संबद्ध हो सकता है.
 
 इसके बाद परियोजना प्रबंधक या संसाधन प्रबंधक किसी भी परिस्थिति जिसमें किसी संसाधन की क्षमता से अधिक ओवरबुकिंग की गई है, को प्रबंधित करने के लिए शेड्यूल बोर्ड का उपयोग कर सकते हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

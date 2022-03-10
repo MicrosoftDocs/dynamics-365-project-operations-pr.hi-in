@@ -1,8 +1,6 @@
 ---
 title: किसी प्रस्तावित प्रोजेक्ट संसाधन को स्वीकार या अस्वीकार करें
 description: यह विषय प्रस्तावित परियोजना संसाधन को स्वीकृत या अस्वीकृत करने के तरीके के बारे में जानकारी प्रदान करता है।
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 12/07/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 6e244ad48b4d6b50aea528d4ea378c28b8e42f2b
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: e5c0e53c7fbde92c0f0b445847d2499532626637cf66fa1bb556eccc1e6079ee
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4129860"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992523"
 ---
 # <a name="accept-or-reject-a-proposed-project-resource"></a>किसी प्रस्तावित प्रोजेक्ट संसाधन को स्वीकार या अस्वीकार करें
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -33,13 +33,16 @@ ms.locfileid: "4129860"
 
 जब एक संसाधन प्रबंधक एक नामित संसाधन को एक परियोजना के लिए सामान्य संसाधन अनुरोध को भरने का प्रस्ताव देता है, सामान्य टीम के सदस्य के लिए **अनुरोध स्थिति** क्षेत्र **समीक्षा आवश्यकता** के लिए अद्यतन किया जाएगा। अनुरोध, अनुमोदन या अस्वीकृति के लिए परियोजना प्रबंधक को भेजा जाएगा।
 
-![एक प्रस्ताव के साथ सामान्य टीम का सदस्य](media/RM-how-to-19.png)
+![एक प्रस्ताव के साथ सामान्य टीम का सदस्य.](media/RM-how-to-19.png)
 
 **परियोजना टीम के सदस्य** पृष्ठ पर **प्रस्तावित संसाधन** टैब पर ग्रिड प्रस्तावित संसाधन की वर्तमान बुकिंग दिखाता है। प्रस्ताव स्वीकार किए जाने के बाद, ग्रिड को उस बुकिंग को प्रकट करने के लिए अपडेट किया जाता है। 
 
 प्रस्तावित संसाधन को स्वीकार करने और अपनी टीम पर उस संसाधन को बुक करने के लिए, **प्रस्ताव स्वीकार करें** पर क्लिक करें।  
 प्रस्ताव को अस्वीकार करने के लिए, **संसाधन अस्वीकार करें** पर क्लिक करें।
 
-![संसाधन प्रस्ताव स्वीकार करना](media/RM-how-to-20.png) 
+![संसाधन प्रस्ताव स्वीकार करना.](media/RM-how-to-20.png) 
 
 नामित संसाधन के साथ सामान्य संसाधन अनुरोध को प्रत्यक्ष रूप से पूरा करने के समान ही, सामान्य संसाधन को बदल दिया जाएगा और निर्दिष्ट कार्यों को नामित टीम के सदस्य के साथ अपडेट किया जाएगा।
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

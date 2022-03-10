@@ -2,18 +2,16 @@
 title: आय अनुमान प्रबंधित करें
 description: इस विषय में परियोजना के लिए आय अनुमान के साथ कार्य करने के तरीके के बारे में बताया गया है.
 author: sigitac
-manager: Annbe
 ms.date: 11/04/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: b63346f56db8b906e5aa45940465bdb18e3df480
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 8d118826f8c63b9540435e320924d4562ab191ba126088560f5def1c1ff0b908
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5279005"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6996528"
 ---
 # <a name="manage-revenue-estimates"></a>आय अनुमान प्रबंधित करें
 

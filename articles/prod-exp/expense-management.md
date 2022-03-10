@@ -2,28 +2,26 @@
 title: ख़र्च प्रबंधन का अवलोकन
 description: यह विषय ख़र्च प्रबंधन और अतिरिक्त संसाधनों के लिंक के बारे में सामान्य जानकारी प्रदान करता है. आप एक एकीकृत कार्यप्रवाह बनाने के लिए ख़र्च प्रबंधन का उपयोग कर सकते हैं जहां आप भुगतान विधि की जानकारी को संग्रह कर सकते हैं, क्रेडिट कार्ड लेनदेन आयात कर सकते हैं, और कर्मचारियों द्वारा आपके व्यवसाय के लिए खर्च उठाने पर ख़र्च किए जाने वाले पैसे की निगरानी कर सकते हैं.
 author: ShylaThompson
-manager: AnnBe
 ms.date: 07/25/2019
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvExpenseWorkspace
 audience: Application User, IT Pro
 ms.reviewer: roschlom
 ms.search.scope: Core, Operations
-ms.custom: 15001
+ms.custom: intro-internal
 ms.assetid: 2d97d69b-9c08-4f0d-9637-68759fd34d34
 ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 7066a021390e3403c4312a7cfe8488a989b9aaa3
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: b069b5101c0b093bea5ddb7c02d4e0f5fedd09b7ae051dca96f620b164c17fd3
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077860"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001433"
 ---
 # <a name="expense-management-overview"></a>ख़र्च प्रबंधन का अवलोकन
 
@@ -37,7 +35,7 @@ ms.locfileid: "4077860"
 
 ### <a name="whats-new-and-in-development"></a>नया और विकास में क्या है
 
-यह देखने के लिए कि किन नई सुविधाओं की योजना बनाई गई है, [Microsoft Dynamics 365 रिलीज प्लान](https://go.microsoft.com/fwlink/?linkid=2010158).
+यह देखने के लिए कि किन नई सुविधाओं की योजना बनाई गई है, [Microsoft Dynamics 365 रिलीज प्लान](/dynamics365/release-plans/).
 
 #### <a name="expense-report-entry"></a>ख़र्च रिपोर्ट प्रविष्टि
 
@@ -58,3 +56,6 @@ ms.locfileid: "4077860"
 ### <a name="videos"></a>वीडियोज़
 
 कैसे-करें वीडियो को ख़ोजें जो अब [Microsoft Dynamics 365 YouTube चैनल](https://www.youtube.com/channel/UCJGCg4rB3QSs8y_1FquelBQ)पर उपलब्ध हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

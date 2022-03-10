@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: dc45bfd6fefaa51a4a540d694cb4ba07c5058a2a
-ms.sourcegitcommit: 11a61db54119503e82faec5f99c4273e8d1247e5
+ms.openlocfilehash: 205a4fbe41637be12970041ff309c0a8d206db513987c4f64610e842183ed781
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4069703"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7004813"
 ---
 Project Finder mobile अनुप्रयोग सक्षम करके, आप संगठन के उपयोगकर्ताओं को प्रोजेक्ट कार्य में दृश्यता और कार्य के लिए साइन अप करने की योग्यता प्रदान करते हैं. आप उनके कौशल को देखने और अद्यतन करने के लिए भी, Project Finder अनुप्रयोग के साथ कार्य कर सकते हैं. संसाधन आवश्यकताओं के मान को संसाधन के लिए दृश्यमान पर सेट करके और संसाधन एट्रिब्यूट को हाँ पर सेट करके कौशल अद्यतन की अनुमति देकर Project Finder mobile अनुप्रयोग को Project Service पैरामीटर सेटिंग द्वारा सक्षम किया जाता है. इन एट्रिब्यूट के मान को बदलकर नहीं करने से यह कार्यक्षमता अक्षम हो जाती है.  
   

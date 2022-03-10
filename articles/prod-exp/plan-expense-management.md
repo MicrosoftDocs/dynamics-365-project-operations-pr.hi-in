@@ -2,11 +2,9 @@
 title: ख़र्च प्रबंधन कॉन्फ़िगर करें
 description: यह लेख Microsoft Dynamics 365 Finance में ख़र्च प्रबंधन को कॉन्फ़िगर करने से पहले योजना प्रक्रिया के दौरान किए जाने वाले विचारों और निर्णयों का वर्णन करता है.
 author: KimANelson
-manager: AnnBe
 ms.date: 08/29/2017
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: GlobalCategory, ProjCategory, TrvLocations, TrvParameters, TrvPaymethod, TrvPerDiems
 audience: Application User
@@ -18,16 +16,14 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: e2291515cc154fb5b34ca5802135791958bea1e5
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: eca4362b0ff5d37b131e1d96e311aa48ac20397618314936944ba66e458dbdc2
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077848"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007463"
 ---
 # <a name="configure-expense-management"></a>ख़र्च प्रबंधन कॉन्फ़िगर करें
-
-[!include [banner](../includes/banner.md)]
 
 यह विषय ख़र्च प्रबंधन को कॉन्फ़िगर करने से पहले योजना प्रक्रिया के दौरान किए जाने वाले विचारों और निर्णयों का वर्णन करता है. ख़र्च प्रबंधन में, आप भुगतान विधियों, यात्रा मांगों, ख़र्च रिपोर्ट, नीतियों आदि के बारे में जानकारी संग्रहीत कर सकते हैं.
 
@@ -162,3 +158,6 @@ ms.locfileid: "4077848"
 - नीति कब समाप्त हो जाती है?
 - नीति नियम क्या है?
 - नीति नियम का परिणाम क्या है?
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

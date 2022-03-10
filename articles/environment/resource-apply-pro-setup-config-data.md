@@ -2,28 +2,26 @@
 title: Common Data Service में कॉन्फ़िगरेशन डेटा सेट अप करें और लागू करें
 description: यह विषय परियोजना संचालन में कॉन्फ़िगरेशन डेटा सेट अप करने और लागू करने के बारे में जानकारी प्रदान करता है।
 author: sigitac
-manager: Annbe
-ms.date: 11/04/2020
+ms.date: 05/10/2021
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 1651d3b3b85d3dc581bf61976fada249bafd6b7b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.openlocfilehash: 26f49ad3b9fb08824071699128f8b907ec98bb54505c6fea3c97288cbaf31633
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289821"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986628"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Common Data Service में कॉन्फ़िगरेशन डेटा सेट अप करें और लागू करें 
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 ## <a name="prerequisites"></a>पूर्वावश्यकताएँ
 
-Common Data Service (CDS) में डेटा को कॉन्फ़िगर करना शुरू करने से पहले, निम्नलिखित आवश्यकताएं पूरी की जानी चाहिए:
+इससे पहले कि आप Common Data Service (CDS) में डेटा कॉन्फ़िगर करना शुरू करें, निम्नलिखित शर्तें पूरी होनी चाहिए:
 
 1.  Project Operations के लिए एक CDS परिवेश और एक Dynamics 365 Finance परिवेश प्रोविज़न करें.
 2.  Dynamics 365 Finance से कानूनी निकाय की जानकारी CDS परिवेश के साथ साझा की जाती है. इसका मतलब है कि CDS में **कंपनी** निकाय के पास कंपनी के निम्नलिखित रिकॉर्ड हैं:
@@ -33,37 +31,44 @@ Common Data Service (CDS) में डेटा को कॉन्फ़िग
 
 ## <a name="install-setup-and-configuration-data"></a>सेटअप और कॉन्फ़िगरेशन डेटा स्थापित करें
 
-1. [सेटअप और कॉन्फ़िगरेशन डेटा पैकेज](https://download.microsoft.com/download/1/3/4/1349369c-6209-42b7-b3b4-5be0e67cacd8/ProjOpsSampleSetupData-%20Integrated%20UR1.zip)को डाउनलोड करें, अनब्लॉक करें और अनज़िप करें।
+1. [सेटअप और कॉन्फ़िगरेशन डेटा पैकेज](https://download.microsoft.com/download/e/2/d/e2da6c98-d5dd-450c-aabe-fd6bf2ba374b/ProjOpsSampleSetupData-%20Integrated%20Latest.zip)को डाउनलोड करें, अनब्लॉक करें और अनज़िप करें।
 2. अनज़िप किए गए फ़ोल्डर में जाएं और एक्सीक्यूट योग्य फ़ाइल, *DataMigrationUtility* चलाएं।
 3. Common Data Service कॉन्फ़िगरेशन माइग्रेशन (CMT) विज़ार्ड के पेज 1 पर, **डेटा आयात करें** चुनें और फिर **जारी रखें** चुनें.
 
-![कॉन्फ़िगरेशन माइग्रेशन](./media/1ConfigurationMigration.png)
+![कॉन्फ़िगरेशन माइग्रेशन.](./media/1ConfigurationMigration.png)
 
 4. CMT विज़ार्ड के पृष्ठ 2 पर **परिनियोजन के प्रकार** के रूप में **Microsoft 365** का चयन करें.
 5. **उपलब्ध संगठनों की सूची प्रदर्शित करें** और **उन्नत दिखाएं** चेक बॉक्स चुनें।
 6. अपने टेनेंट के क्षेत्र का चयन करें, अपने क्रेडेंशियल दर्ज करें और **लॉगिन** चुनें।
 
-![साइन इन का कॉन्फ़िगरेशन करें](./media/2ConfigurationSignin.png)
+![साइन इन का कॉन्फ़िगरेशन करें.](./media/2ConfigurationSignin.png)
 
 7. पृष्ठ 3 पर, टेनेंट पर संगठनों की सूची से, उस संगठन को चुनें जिसे आप डेमो डेटा आयात करना चाहते हैं और **लॉगिन** चुनें।
 8. पृष्ठ 4 पर, अनपैक किए गए फ़ोल्डर से ज़िप फ़ाइल, *SampleSetupAndConfigData* चुनें।
 
-![ज़िप फ़ाइल चयन](./media/3ZipFile.png)
+![ज़िप फ़ाइल चयन.](./media/3ZipFile.png)
 
-![किसी फ़ाइल का चयन करें](./media/4SelectAFile.png)
+![एक फ़ाइल चुनें.](./media/4SelectAFile.png)
 
 9. ज़िप फ़ाइल चुनने के बाद **डेटा आयात करें** चुनें।
 
-![डेटा आयात करें](./media/5ImportData.png)
+![डेटा आयात करें.](./media/5ImportData.png)
 
 10. आपके नेटवर्क की स्पीड के आधार पर आयात लगभग दो-दस मिनट तक चलेगा। आयात पूर्ण होने के बाद, CMT विज़ार्ड से बाहर निकलें। 
-11. डेटा के लिए अपने संगठन की निम्नलिखित 19 निकायों में जांच करें:
+11. डेटा के लिए अपने संगठन की निम्नलिखित 26 निकायों में जांच करें:
 
   - मुद्रा
+  - खातों का चार्ट
+  - वित्त कैलेंडर
+  - मुद्रा विनिमय दर प्रकार
+  - भुगतान दिन
+  - भुगतान शेड्यूल
+  - भुगतान अवधि
   - संगठनात्मक इकाई
   - संपर्क
   - कर समूह
   - ग्राहक समूह
+  - विक्रेता समूह
   - इकाई
   - इकाई समूह
   - मूल्य सूची
@@ -79,50 +84,50 @@ Common Data Service (CDS) में डेटा को कॉन्फ़िग
   - बुक करने योग्य संसाधन श्रेणी Assn
   - बुक करने योग्य संसाधन विशेषता
 
-![पूरा आयात](./media/6CompleteImport.png)
+![पूरा आयात.](./media/6CompleteImport.png)
 
 ## <a name="update-project-operations-configurations"></a>परियोजना संचालन कॉन्फ़िगरेशन अपडेट करें
 
 1. CE परिवेश पर जाएं। आप इसे [Power Platform एडमिन सेंटर](https://admin.powerplatform.microsoft.com/environments) खोलकर, परिवेश चुनकर और फिर **परिवेश खोलें** चुनकर पा सकते हैं. 
 
-![परिवेश खोलें](./media/7OpenEnvironment.png)
+![परिवेश खोलें.](./media/7OpenEnvironment.png)
 
 2. अपने उपयोगकर्ता के लिए बुक करने योग्य संसाधन बनाने के लिए **परियोजनाओं** > **संसाधन** पर जाएं और फिर **नया** चुनें।
 
-![बुक करने योग्य संसाधन](./media/8BookableResources.png)
+![बुक करने योग्य संसाधन.](./media/8BookableResources.png)
 
 3. **सामान्य** टैब पर, अपने व्यवस्थापक उपयोगकर्ता को चुनें। सत्यापित करें कि समय क्षेत्र उससे मेल खाता है जिसमें आप हैं। 
 
-![न्यू बुक करने योग्य संसाधन](./media/9NewBookableResource.png)
+![न्यू बुक करने योग्य संसाधन.](./media/9NewBookableResource.png)
 
 4. **कंपनी** फ़ील्ड में, **शेड्यूलिंग** टैब पर, **USPM** कंपनी चुनें और फिर **सहेजें** चुनें। 
 
-![शेड्यूलिंग टैब](./media/10SchedulingTab.png)
+![शेड्यूलिंग टैब.](./media/10SchedulingTab.png)
 
 5. **कार्य घंटे** टैब चुनें।  
 
-![कार्य घंटे](./media/11WorkHours.png)
+![कार्य घंटे.](./media/11WorkHours.png)
 
 6. कैलेंडर में किसी भी मान पर डबल क्लिक करें और **संपादित करें** > **श्रृंखला में सभी घटनाएं** । 
 
-![कार्य कैलेंडर](./media/12WorkCalendar.png)
+![कार्य कैलेंडर.](./media/12WorkCalendar.png)
 
 7. काम के घंटों को आठ (8) घंटे के कार्य दिवस में बदलें, सप्ताहांत को गैर-कार्य दिवस के रूप में चिह्नित करें और सुनिश्चित करें कि समय क्षेत्र आपकी जगह से मेल खाता है। 
 8. **सहेजें और बंद करें** चुनें.
 
-![कैलेंडर को अपडेट करें](./media/13UpdateCalendar.png)
+![कैलेंडर को अपडेट करें.](./media/13UpdateCalendar.png)
 
 9. **सेटिंग्स** > **कैलेंडर टेम्प्लेट** पर जाएं और **नया** चुनें।
  
- ![कैलेंडर टेम्पलेट्स](./media/14CalendarTemplates.png)
+ ![कैलेंडर टेम्पलेट्स.](./media/14CalendarTemplates.png)
  
  10. एक नाम दर्ज करें, आपके द्वारा बनाए गए टेम्पलेट संसाधन को चुनें और फिर **सहेजें** चुनें। 
  
- ![कैलेंडर टेम्पलेट सहेजें](./media/15SaveCalendarTemplate.png)
+ ![कैलेंडर टेम्पलेट सहेजें.](./media/15SaveCalendarTemplate.png)
  
  11. **मापदंड** पर जाएं और रिकॉर्ड पर डबल-क्लिक करें। 
  
- ![परियोजना पैरामीटर्स](./media/16ProjectParameters.png)
+ ![परियोजना पैरामीटर्स.](./media/16ProjectParameters.png)
  
 12. निम्नलिखित फ़ील्ड अपडेट करें:
 
@@ -133,7 +138,7 @@ Common Data Service (CDS) में डेटा को कॉन्फ़िग
 
 13. **सहेजें** चुनें. 
 
-![अपडेट किए गए परियोजना मापदंड](./media/17UpdatedProjectParameters.png)
+![अपडेट किए गए परियोजना मापदंड.](./media/17UpdatedProjectParameters.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

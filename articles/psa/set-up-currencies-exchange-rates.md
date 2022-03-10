@@ -2,8 +2,6 @@
 title: मुद्रा और विनिमय दर सेट अप करें
 description: Project Service में मुद्रा और विनिमय दर सेट अप करने का तरीका
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: c6bc200cc24bca2b3358149903a8341dd65f031d
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: fc3f7c5d2ba3ea33a99dcbec029deabcf932ef05f632938fb6d804e7f5405d3d
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5150400"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6994998"
 ---
 # <a name="set-up-currencies-and-exchange-rates-project-service"></a>मुद्रा और विनिमय दर सेट अप करना (Project Service)
 
@@ -43,3 +41,6 @@ ms.locfileid: "5150400"
   
 ### <a name="see-also"></a>यह भी देखें  
  [Project Service कॉन्फ़िगर करें](../psa/configure.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

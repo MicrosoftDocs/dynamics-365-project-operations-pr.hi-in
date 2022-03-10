@@ -2,18 +2,16 @@
 title: अवसरों से परियोजना कोट्स बनाएं
 description: यह विषय एक अवसर से एक परियोजना कोट बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
-manager: Annbe
 ms.date: 10/01/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: rumant
-ms.openlocfilehash: 4d2cc35e3205332d2941bf17fb8c7d8c9d9f310c
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: acc7c6d0d3162163f071a9ab56950e4876aa711c94d36b3c9149cd46d76c57bd
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4118115"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999633"
 ---
 # <a name="create-project-quotes-from-opportunities"></a>अवसरों से परियोजना कोट्स बनाएं
 
@@ -56,3 +54,6 @@ _**पर लागू होता है:** साधन / गैर-स्ट
    जब आप इस चरण में एक अवसर ले जाते/जाती हैं, तो आप इस अवसर से जुड़े कोट्स की सूची से इस कोट का चयन कर सकते/सकती हैं. इस कोट का चयन इंगित करता है कि आप इसके साथ आगे बढ़ रहे/रही हैं.
 
    अवसर से जुड़े अन्य सभी कोट्स अभी भी उपलब्ध और सक्रिय होंगे जब तक कि उनमें से एक जीता न हो जाए. आप बिक्री प्रक्रिया को पिछले चरण में वापस ले जा सकते/सकती हैं **योग्य**, और आगे बढ़ने के लिए एक और कोट चुन सकते/सकती हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

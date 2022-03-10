@@ -2,11 +2,9 @@
 title: जनरल खाताबही या प्रोक्योरमेंट और सोर्सिंग से व्यय रिपोर्ट देखें
 description: यह विषय बताता है कि किसी प्रस्तुत लेनदेन के लिए मूल व्यय रिपोर्ट को कैसे देखें.
 author: saraschi2
-manager: AnnBe
 ms.date: 02/26/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 ms.search.form: TrvPerDiems
 audience: Application User
@@ -16,12 +14,12 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 35a76cad8c6ddaa84038746ace6a7e1e5623388f
-ms.sourcegitcommit: 9f31b33ed6e7f1b49200a407913201a1337f3401
-ms.translationtype: HT
+ms.openlocfilehash: 8d660d372bf4421da21b42889cfc62cd62df7366414af7e1a6efe4747033a29b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "4960069"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7003413"
 ---
 # <a name="view-an-expense-report-from-general-ledger-or-procurement-and-sourcing"></a>जनरल खाताबही या प्रोक्योरमेंट और सोर्सिंग से व्यय रिपोर्ट देखें
 
@@ -32,3 +30,6 @@ ms.locfileid: "4960069"
 जिस पर कोई लेनदेन प्रस्तुत हुआ हो उस मूल व्यय रिपोर्ट को ड्रिल करने के लिए लेनदेन का चयन करें, और फिर **मूल दस्तावेज़** का चयन करें.
 
 जब आप व्यक्तिगत लेनदेन को देखते/देखती हैं, तो आप लेनदेन से जुड़े किसी भी अतिरिक्त डेटा को भी देख सकते/सकती हैं. उदाहरण के तौर पर किसी मदवार होटल व्यय के लिए आप इंटरनेट एक्सेस, टेलीफोन कॉल और कमरा सेवा जैसे व्यय की विस्तृत सूची को देख सकते/सकती हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,18 +2,16 @@
 title: भूमिकाओं को परिभाषित करें
 description: यह विषय बुक करने योग्य संसाधन श्रेणियां सेट अप करने की जानकारी का लिंक प्रदान करता है.
 author: ruhercul
-manager: Annbe
 ms.date: 11/05/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: fff52c142e4ac1f01fe86808094e94e3974db53a
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
-ms.translationtype: HT
+ms.openlocfilehash: 926346fc3b522c79ec2108d68b8be9314eb1751396a9f26b172f01bad87f5f40
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949996"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6992253"
 ---
 # <a name="define-roles"></a>भूमिकाओं को परिभाषित करें
 

@@ -2,11 +2,9 @@
 title: नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन विशेषताओं को अपडेट करें
 description: इस टॉपिक में प्राइस-निर्धारण आयामों के लिए प्लग-इन विशेषताओं को अपडेट करने के बारे में जानकारी प्रदान की गयी है।
 author: Rumant
-manager: kfend
 ms.custom: ''
 ms.date: 11/19/2018
 ms.topic: article
-ms.service: project-operations
 ms.author: rumant
 audience: Admin
 search.audienceType:
@@ -16,12 +14,12 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 603b0e9a10dc2fe23c9fa0fa7065bc3f500dc540
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: d04561fb6bcbc64f6ad3ea922bff1912824be64c6bb2b18cddd95e9b1b5c7850
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5147070"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988788"
 ---
 # <a name="update-plug-in-attributes-to-include-new-pricing-dimensions"></a>नए मूल्य निर्धारण आयामों को शामिल करने के लिए प्लग-इन विशेषताओं को अपडेट करें
 
@@ -44,27 +42,30 @@ ms.locfileid: "5147070"
 1. **PluginRegistrationTool** खोलें और अपने ऑनलाइन उदाहरण से कनेक्ट करें।
 2. **खोजें** पर क्लिक करें और अपडेट किए जाने वाला प्लग-इन खोजें।
 
- ![खोज से जुड़े वृक्ष का स्क्रीनशॉट](media/PRT-1.png)
+ ![खोज से जुड़े वृक्ष का स्क्रीनशॉट.](media/PRT-1.png)
 
 3. प्लग-इन मिलने के बाद इसका चयन करें और फिर **मेन फ़ॉर्म का चयन करें** पर क्लिक करें।
 
 4. अपडेट किए जाने वाले प्लग-इन के चरण का चयन करें, राइट-क्लिक करें और फिर **अपडेट** का चयन करें।
 
- ![प्लग-इन का स्क्रीनशॉट अपडेट किया जाना है](media/PRT-2.png)
+ ![प्लग-इन का स्क्रीनशॉट अपडेट किया जाना है.](media/PRT-2.png)
  
 5. अपडेट विंडो में फ़िल्टरिंग विशेषताओं में एलिप्सिस (**...**) पर क्लिक करें।
 
- ![मौजूदा चरण कॉन्फ़िगरेशन से जुड़ी जानकारी अपडेट करें का स्क्रीनशॉट](media/PRT-3.png)
+ ![मौजूदा चरण कॉन्फ़िगरेशन से जुड़ी जानकारी अपडेट करें का स्क्रीनशॉट.](media/PRT-3.png)
  
 6. प्राइस निर्धारण विशेषता चेक बॉक्स का चयन करें।
 
- ![प्राइस-निर्धारण विशेषताओं के लिए चेकबॉक्स का चयन दिखाता हुआ स्क्रीनशॉट](media/PRT-4.png)
+ ![प्राइस-निर्धारण एट्रिब्यूट के लिए चेकबॉक्स का चयन दिखाता हुआ स्क्रीनशॉट.](media/PRT-4.png)
 
 7. पृष्ठ को बंद करने के लिए **ओके** पर क्लिक करें और फिर **अपडेट का चरण** का चुनाव करें।
 
- ![“अपडेट का चरण" बटन दिखाता हुआ स्क्रीनशॉट](media/PRT-5.png)
+ ![“अपडेट का चरण” बटन दिखाता हुआ स्क्रीनशॉट.](media/PRT-5.png)
  
 8. इस प्रक्रिया को दूसरे प्लग-इन  **PreOperationQuoteLineDetail - Update of msdyn_quotelinetransaction** के लिए दोहराएं।
 
 9. प्लग-इन रजिस्ट्रेशन टूल को बंद करें।
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,8 +2,6 @@
 title: एक मूल्य सूची बनाएँ
 description: Project Service में मूल्य सूची बनाने का तरीका
 author: rumant
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 0732ccca43e404412efae8a91873e43c28d041ca
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 049b36beed34ada5758d47a40a1126e0599e23e50afac83eb7ef0e37daaaaa65
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5290316"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6990903"
 ---
 # <a name="create-a-price-list-project-service"></a>मूल्‍य सूची बनाना (Project Service)
 

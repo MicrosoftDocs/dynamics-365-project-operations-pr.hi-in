@@ -16,12 +16,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 579a07e117cf00727813385da28d47f7e42f0127
-ms.sourcegitcommit: 0fafe022731f0e1e8693382ff906e3f8541d34ca
-ms.translationtype: HT
+ms.openlocfilehash: ea2a34ed9e0bf5b28649a53db88976ec56aaf10d1c80af99cb0856250873a2ab
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "6369468"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7007328"
 ---
 # <a name="project-resourcing-home-page"></a>प्रोजेक्ट रिसोर्सिंग होम पृष्ठ
 
@@ -38,7 +38,7 @@ ms.locfileid: "6369468"
 - किसी परियोजना के संपूर्ण जीवन चक्र के लिए आवश्यक संसाधनों की संख्या का अनुमान लगाना.
 - प्रारंभिक संसाधन नियतन का उपयोग करके एक कार्य-विश्लेषण संरचना (WBS) का मसौदा बनाना.
 
-[![प्रोजेक्ट जीवन चक्र](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
+[![प्रोजेक्ट जीवनचक्र.](./media/projectresourcing02-1024x812.jpg)](./media/projectresourcing02.jpg)
 
 जैसे-जैसे परियोजना नियोजन आगे बढ़ता है, नियोजित संसाधनों को कर्मचारियों के संसाधनों से प्रतिस्थापित किया जा सकता है. परियोजना प्रबंधक वापस जाकर किसी भी परियोजना के चरण के दौरान संसाधनीकरण आरक्षण को अपडेट कर सकता है.
 

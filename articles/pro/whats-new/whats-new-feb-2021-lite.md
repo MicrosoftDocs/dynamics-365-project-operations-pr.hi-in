@@ -2,19 +2,17 @@
 title: क्या नया है फरवरी 2021 - Project Operations लाइट परिनियोजन
 description: इस विषय में Project Operations लाइट परिनियोजन के फरवरी 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
 author: sigitac
-manager: tfehr
 ms.date: 02/08/2021
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: bfc4c622c423e689938e58666ae47abbe3c23d48
-ms.sourcegitcommit: 625b5244aaadff5a24a79d9addff91f87c6b015a
-ms.translationtype: HT
+ms.openlocfilehash: f9f162dd07f62b1ef82367de7d8186002fedae57b56bb83dbc6741232d70e4f6
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "5141318"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7009308"
 ---
 # <a name="whats-new-february-2021---project-operations-lite-deployment"></a>क्या नया है फरवरी 2021 - Project Operations लाइट परिनियोजन
 
@@ -38,3 +36,6 @@ ms.locfileid: "5141318"
 | **परियोजना नियोजन और ट्रैकिंग** | 2164035 | **परियोजना को कॉपी करें** फ़ंक्शन के साथ समस्याएं ठीक की गईं. |
 | **समय प्रविष्टि** | 2129161 | उपयोगकर्ता द्वारा सबमिट की गई या स्वीकृत की गई समय प्रविष्टि को परिवर्तित नहीं किया जा सकता है, यह सुनिश्चित करने के लिए सख्त प्रतिबंध लागू किए जाते हैं. |
 | **समय प्रविष्टि** | 2103572 | गैर-परियोजना समय प्रविष्टियों के लिए समय अनुमोदन को परियोजना अनुमोदक भूमिका की आवश्यकता नहीं होनी चाहिए. |
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

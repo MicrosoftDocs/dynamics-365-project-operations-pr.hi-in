@@ -2,8 +2,6 @@
 title: व्यवस्थापक मार्गदर्शिका
 description: Project Service व्यवस्थापन के लिए चरण-दर-चरण निर्देश
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/31/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 90b66560e64d0aad32f3c18e71858537263267ef
-ms.sourcegitcommit: 418fa1fe9d605b8faccc2d5dee1b04b4e753f194
-ms.translationtype: HT
+ms.openlocfilehash: 6e591bd9b00bb39efaf4bb2893329a1c853573f03cb2d51a7564e3a8fc8efa56
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "5145765"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7005167"
 ---
 # <a name="administrator-guide-project-service"></a>व्यवस्थापक मार्गदर्शिका (Project Service)
 
@@ -52,3 +50,6 @@ ms.locfileid: "5145765"
  [खाता प्रबंधक मार्गदर्शिका](../psa/account-manager-guide.md) [खाता प्रबंधक मार्गदर्शिका](../psa/project-manager-guide.md)   
  [संसाधन प्रबंधक मार्गदर्शिका](../psa/resource-manager-guide.md)   
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

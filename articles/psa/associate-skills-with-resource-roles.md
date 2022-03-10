@@ -2,8 +2,6 @@
 title: कौशल, संसाधन भूमिकाओं के साथ संबद्ध करें
 description: Project Service में कौशल को संसाधन भूमिकाओं के साथ संबद्ध करने का तरीका
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: b515c977d2b1798359f86211372dfc1faf18b353
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: dd3d20593f55feccaaf67eb0af9550d6e3289edfeeaf4001a56fd39dbb1e3c07
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5291351"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6998598"
 ---
 # <a name="associate-skills-with-resource-roles-project-service"></a>कौशल को संसाधन भूमिकाओं के साथ संबद्ध करना (Project Service)
 

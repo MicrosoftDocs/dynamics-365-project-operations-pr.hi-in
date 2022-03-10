@@ -2,19 +2,18 @@
 title: व्यय का अवलोकन
 description: यह विषय परियोजना संचालन में व्यय क्रियात्मकता की जानकारी उपलब्ध कराता है.
 author: stsporen
-manager: AnnBe
 ms.date: 10/06/2020
 ms.topic: article
 ms.prod: ''
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: d946a8dcbf3b2369631d83e80788eed4904be95d
-ms.sourcegitcommit: 2b74edd31f38410024a01124c9202a4d94464d04
+ms.custom: intro-internal
+ms.openlocfilehash: 7ba4d090e15bffa687d69d3d8e5733d2519668e2879249e1d6dc6aba26f7fbf6
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "4764911"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988473"
 ---
 # <a name="expense-home-page"></a>मुख पृष्ठ व्यय
 
@@ -44,3 +43,6 @@ Project Operations में, ख़र्च के लिए दो समर्�
 
 ## <a name="determine-your-expense-deployment"></a>अपने व्यय की परिनियोजन का निर्धारण करें
 यह निर्धारित करने के लिए कि क्या आप बुनियादी ख़र्च प्रबंधन नियोजन चला रहे/रही हैं, सत्यापित करें कि एड्रेस URL **.crm.dynamics.com** के साथ समाप्त होता है. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

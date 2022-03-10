@@ -1,8 +1,6 @@
 ---
 title: Project Service Automation वर्ज़न 3.x wave 1 2020 में क्या क्या नया है या बदल गया है
 description: यह टॉपिक Project Service Automation वर्ज़न 3 wave 1 2020 में क्या नया है और क्या बदला है, इसके बारे में जानकारी प्रदान करता है.
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/15/2020
@@ -18,14 +16,17 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 16b51995f863d9ee54172625dacbf081c51c8556
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: a88b777c54ce54935d5483f616f3a24724ee192d40fbfd5d514f990e958dd5ea
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077646"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7002108"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3-wave-1-2020"></a>Project Service Automation वर्ज़न 3 wave 1 2020 में क्या क्या नया है या बदल गया है
+
+[!include [banner](../includes/psa-now-project-operations.md)]
+
 यह टॉपिक Project Service Automation (PSA) वर्ज़न 3.x wave 1 2020 की नवीनतम रिलीज़ के लिए आगे बढ़ने पर मुख्य अपडेट विचारों पर प्रकाश डालता है.
 
 ## <a name="time-entry"></a>समय प्रविष्टि
@@ -40,3 +41,6 @@ ms.locfileid: "4077646"
 
 ### <a name="currently-extended-time-entry-changes"></a>वर्तमान में विस्तारित समय प्रविष्टि परिवर्तन
 समय प्रविष्टि के वर्तमान उपयोगकर्ताओं पर प्रभाव को कम करने के लिए, यह भूमिका परिवर्तन समय प्रविष्टि का उपयोग जारी रखने के लिए आवश्यक एकमात्र कोर आवश्यकता है. यदि आपने कस्टम दृश्य या अलग समय प्रविष्टि अनुभव बनाए हैं, तो आपको **समय प्रविष्टि सेटिंग** फील्ड को सही PSA मान पीआर सेट करना होगा.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

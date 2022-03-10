@@ -2,18 +2,16 @@
 title: समय क्षेत्र का प्रबंधन करें
 description: जब कोई परियोजना बनाई जाती है, तो उसका समय क्षेत्र लागू हुए कार्य घंटे के टेम्पलेट में परिभाषित समय क्षेत्र पर आधारित होता है.
 author: ruhercul
-manager: Annbe
 ms.date: 10/05/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: ruhercul
-ms.openlocfilehash: e0cf24a9916f7ceedee0e9d6fa9399a88c3e4b91
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: d3fc0453e3038839107a98c4179e6bd4aede95cf4a5fcfe2d52f823b83029485
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5279545"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988698"
 ---
 # <a name="manage-time-zones"></a>समय क्षेत्र का प्रबंधन करें
 
@@ -34,13 +32,13 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 - उपयोगकर्ता को सिस्टम के **निजीकरण सेटिंग्सस** में परिभाषित समय क्षेत्र से मेल खाने के लिए अपने डिवाइस के समय क्षेत्र को कॉन्फ़िगर करना होगा.
  
-  ![Windows 10 में समय क्षेत्र सेटिंग](media/reconcile-assignments-03.png)
+  ![Windows 10 में समय क्षेत्र सेटिंग्स.](media/reconcile-assignments-03.png)
 
-  ![वैयक्तिकरण सेटिंग में समय क्षेत्र सेटिंग](media/reconcile-assignments-04.png)
+  ![वैयक्तिकरण सेटिंग्स में समय क्षेत्र सेटिंग्स.](media/reconcile-assignments-04.png)
  
 - बुक करने योग्य संसाधन में कम से कम एक मिनट का काम करने का समय होना चाहिए जो अनुरोध किए गए विस्तार को परिभाषित करने के लिए उपयोग की जाने वाली रूपरेखा के साथ ओवरलैप होता है. उदाहरण के लिए, सुबह 9:00 बजे और शाम 7:00 बजे के बीच पड़ने वाले काम के घंटों के साथ निम्नलिखित संसाधन. 
 
-  ![संसाधन कोंटूरों की तुलना](media/reconcile-assignments-05.png)
+  ![संसाधन रूपलाइन की तुलना.](media/reconcile-assignments-05.png)
 
 निम्न तालिका दर्शाती है:
 
@@ -49,25 +47,25 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 - संसाधन बी: यह संसाधन परियोजना की तुलना में एक अलग समय क्षेत्र में स्थित है और अपने समय क्षेत्र में सुबह 7:00 बजे शुरू होता है. हालाँकि, बुकिंग सुबह 9:00 बजे से शुरू होगी, क्योंकि यह असाइनमेंट कोंटूर का सबसे प्रारंभिक शुरुआती समय है.
 - संसाधन सी और डी: संसाधन अलग-अलग समय क्षेत्रों में स्थित हैं, दोनों एक दूसरे से और परियोजना से अलग हैं, और उनकी बुकिंग उनके अपने उपलब्ध शुरू करने के समय से पहले शुरू नहीं होती है.
 
-|निकाय  |कैलेंडर  |
+|Entity  |कैलेंडर  |
 |-|-|
-|परियोजना कैलेंडर टेम्पलेट   | ![परियोजना कैलेंडर](media/reconcile-assignments-06.png) |
-|संसाधन A  | ![संसाधन A कैलेंडर](media/reconcile-assignments-06.png) |
-|संसाधन B  |  ![संसाधन B कैलेंडर](media/reconcile-assignments-07.png) |
-|संसाधन C  |  ![संसाधन C कैलेंडर](media/reconcile-assignments-08.png) |
-|संसाधन D  | ![संसाधन D कैलेंडर](media/reconcile-assignments-09.png)  |
+|परियोजना कैलेंडर टेम्पलेट   | ![प्रोजेक्ट कैलेंडर.](media/reconcile-assignments-06.png) |
+|संसाधन A  | ![संसाधन A कैलेंडर.](media/reconcile-assignments-06.png) |
+|संसाधन B  |  ![संसाधन B कैलेंडर.](media/reconcile-assignments-07.png) |
+|संसाधन C  |  ![संसाधन C कैलेंडर.](media/reconcile-assignments-08.png) |
+|संसाधन D  | ![संसाधन D कैलेंडर.](media/reconcile-assignments-09.png)  |
  
 जब आप **मेल** दृश्य पर नेविगेट करते हैं, तो संसाधन निर्धारण और संबंधित बुकिंग की कमी प्रदर्शित होती है.
 
-![विस्तार से पहले समायोजन दृश्य](media/reconcile-assignments-10.png)
+![विस्तार से पहले समायोजन दृश्य.](media/reconcile-assignments-10.png)
 
 प्रत्येक संसाधन के लिए बढ़ाये गये बुकिंग कार्यक्षमता का उपयोग कर लेने के बाद, प्रत्येक संसाधन के लिए बुकिंग सफलतापूर्वक बढ़ा दी जाती है क्योंकि प्रत्येक संसाधन के काम के घंटे कमी की रूपरेखा के साथ ओवरलैप कर जाते हैं.
 
-![बुकिंग विस्तार के बाद समायोजन दृश्य](media/reconcile-assignments-11.png) 
+![बुकिंग विस्तार के बाद समायोजन दृश्य.](media/reconcile-assignments-11.png) 
 
 ध्यान दें कि बुकिंग के विवरण पर करीब से नजर डालने से बुकिंग के शुरुआती समय में अंतर दिखाई देता है। बुकिंग, असाइनमेंट की रूपरेखा के शुरु होने के समय से पहले और संसाधन के लिए शुरू होने के उपलब्ध समय से पहले शुरू नहीं होती है.
 
-![शेड्यूल बोर्ड में संसाधनों की नई बुकिंग](media/reconcile-assignments-12.png)
+![शेड्यूल बोर्ड में संसाधनों की नई बुकिंग.](media/reconcile-assignments-12.png)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

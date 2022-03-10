@@ -2,8 +2,6 @@
 title: खाता प्रबंधक मार्गदर्शिका
 description: Project Service के लिए खाता प्रबंधक मार्गदर्शिका, जो परियोजना-आधारित खातों के लिए विक्रय और अनुबंध प्रक्रिया में आपका मार्गदर्शन करती है.
 author: JohnPBurrows
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 7/30/2018
@@ -18,12 +16,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 2d5bca26a5a32d062123e1a83b27ee2d0045a43b
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 4792d3438216a850b0b4afdb38f26b85adb81960c5984217c76c9954ca36b884
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5285665"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6985818"
 ---
 # <a name="account-manager-guide-project-service"></a>खाता प्रबंधक मार्गदर्शिका (Project Service)
 

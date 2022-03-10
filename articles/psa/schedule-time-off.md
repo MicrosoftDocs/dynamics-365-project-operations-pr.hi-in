@@ -2,8 +2,6 @@
 title: टाइम ऑफ़ शेड्यूल करें
 description: Project Service में टाइम ऑफ़ शेड्यूल करने का तरीका
 author: revathimuthiah
-manager: kfend
-ms.service: project-operations
 ms.custom:
 - dyn365-projectservice
 ms.date: 8/03/2018
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: eed6103734773e90701853391584c55c1d1704e8
-ms.sourcegitcommit: 4cf1dc1561b92fca4175f0b3813133c5e63ce8e6
-ms.translationtype: HT
+ms.openlocfilehash: 76589470b1391226ea2a35143daf0b18b16286dfcd2829e748b0984397cb25ee
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "4132200"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6984604"
 ---
 # <a name="schedule-time-off-project-service"></a>टाइम ऑफ़ शेड्यूल करना (Project Service)
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
@@ -55,3 +55,6 @@ ms.locfileid: "4132200"
   
 ### <a name="see-also"></a>यह भी देखें  
  [समय, व्यय और सहयोग मार्गदर्शिका](../psa/time-expense-collaboration-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

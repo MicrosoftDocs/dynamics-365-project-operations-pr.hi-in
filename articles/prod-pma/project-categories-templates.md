@@ -2,11 +2,9 @@
 title: Finance and Operations और Project Service Automation के बीच परियोजना व्यय श्रेणियों को सिन्क्रोनाइज करें
 description: यह विषय टेम्पलेट्स और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग Microsoft Dynamics 365 Finance और Dynamics 365 Project Service Automation के बीच परियोजना व्यय श्रेणियों को सिन्क्रोनाइज करने के लिए किया जाता है.
 author: Yowelle
-manager: AnnBe
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: josaw
@@ -17,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 4abb7fe6554825b97df4cc04ee1b02d731cb4af9
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
-ms.translationtype: HT
+ms.openlocfilehash: 52c79f8b641d4b2df3b30964331633f2487402f8f8d229b540f9544c0f848557
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5289641"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "7001118"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Finance and Operations और Project Service Automation के बीच परियोजना व्यय श्रेणियों को सिन्क्रोनाइज करें
 
@@ -58,7 +56,7 @@ Project Service Automation और Finance एकीकरण समाधान 
 
 निम्नलिखित दृष्टांत दर्शाता है कि Project Service Automation और Finance के बीच डेटा को सिन्क्रोनाइज कैसे किया जाता है.
 
-[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
+[![वित्त के साथ Project Service Automation एकीकरण के लिए डेटा प्रवाह.](./media/ProjectExpenseCategoriesFlow.png)](./media/ProjectExpenseCategoriesFlow.png)
 
 ## <a name="project-expense-category-synchronization-from-finance-to-project-service-automation"></a>Finance से Project Service Automation के लिए परियोजना व्यय श्रेणी सिन्क्रोनाइजेशन
 
@@ -95,7 +93,7 @@ Project Service Automation और Finance एकीकरण समाधान 
 
 निम्नलिखित चित्रण डेटा इंटीग्रेशन में टेम्पलेट टास्क मैपिंग का उदाहरण दिखाता है. मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Finance से Project Service Automation तक सिन्क्रोनाइज्ड किया जाएगा.
 
-[![परियोजना व्यय श्रेणी से Project Service Automation टेम्पलेट मैपिंग](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
+[![परियोजना व्यय श्रेणी से Project Service Automation टेम्पलेट मैपिंग.](./media/ProjectExpenseCategoriesToPSAMapping.jpg)](./media/ProjectExpenseCategoriesToPSAMapping.jpg)
 
 ## <a name="project-expense-category-synchronization-from-project-service-automation-to-finance"></a>Project Service Automation to Finance के लिए परियोजना व्यय श्रेणी सिन्क्रोनाइजेशन
 
@@ -123,7 +121,7 @@ Project Service Automation और Finance एकीकरण समाधान 
 > [!NOTE]
 > मानचित्रण फील्ड की जानकारी को प्रदर्शित करता है जिसे Project Service Automation से Finance तक सिन्क्रोनाइज्ड किया जाएगा.
 
-[![Project Service Automation से Finance टेम्पलेट मैपिंग](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
+[![Project Service Automation से Finance टेम्पलेट मैपिंग.](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)](./media/ProjectExpenseCategoriesToFinOpsMapping.jpg)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

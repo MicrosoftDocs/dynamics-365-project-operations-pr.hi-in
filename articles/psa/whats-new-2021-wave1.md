@@ -2,8 +2,6 @@
 title: Project Service Automation पूर्व पहुंच वेव 1 2021, V3 में नया क्या है या क्या बदल गया है
 description: इस विषय में Project Service Automation पूर्व पहुंच वेव 1 2021, V3 में उपलब्ध सुविधाएँ और सुधार सूचीबद्ध किए गए हैं.
 author: ruhercul
-manager: kfend
-ms.service: project-operations
 ms.custom: dyn365-projectservice
 ms.date: 01/29/2021
 ms.topic: article
@@ -17,12 +15,12 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ceba31934f021b4a18766eca314d68b69dd6a8ff
-ms.sourcegitcommit: 3d78338773929121d17ec3386f6cb67bfb2272cc
-ms.translationtype: HT
+ms.openlocfilehash: 9439aefda275e9c6256215fa6e82e13f693e61a0dd9b2c68b8e5273eeac4d64b
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "5949591"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6999813"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-early-access-wave-1-2021-v3"></a>Project Service Automation पूर्व पहुंच वेव 1 2021, V3 में नया क्या है या क्या बदल गया है
 

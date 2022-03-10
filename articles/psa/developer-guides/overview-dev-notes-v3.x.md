@@ -2,12 +2,11 @@
 title: डेवलपमेंट होम पेज (Project Service Automation 3.x)
 description: इस विषय में ऐसे विषयों के लिंक दिए गए हैं जो Dynamics 365 Project Service Automation (PSA) वर्शन 3.x. की विकास सूचना दी गई है।
 author: makk
-manager: kfend
 ms.custom:
 - dyn365-projectservice
+- intro-internal
 ms.date: 03/26/2019
 ms.topic: article
-ms.service: business-applications
 ms.author: makk
 audience: admin
 search.audienceType:
@@ -16,14 +15,16 @@ search.audienceType:
 search.app:
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 68eb9d4334bed7562ffe0de7951a2d364bbf9a5d
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
+ms.openlocfilehash: c76faeecf252f0ae70594e7dfbb28c1aac2423a37f6cd12b53103dd7a493306e
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077893"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6987303"
 ---
 # <a name="development-home-page-project-service-automation-3x"></a>डेवलपमेंट होम पेज (Project Service Automation 3.x)
+
+[!include [banner](../../includes/psa-now-project-operations.md)]
 
 Dynamics 365 Project Service Automation (PSA) वर्शन 3.x. में नई खूबियाँ, विभिन्न क्षेत्रों में मौजूदा विशेषताओं पर नए प्लेटफार्म की क्षमताओं और सुधार कार्य का कार्यान्वयन मौजूद हैं। निम्नलिखित विषयों में PSA के इस नए वर्शन में किए गए परिवर्तनों के बारे में अधिक जानकारी दी गई है:
 
@@ -31,3 +32,6 @@ Dynamics 365 Project Service Automation (PSA) वर्शन 3.x. में न
 - [समय और व्यय परिवर्तन (Project Service Automation 3.x)](../developer-guides/time-expense-changes-v3.x.md)
 - [संसाधन प्रबंधन में परिवर्तन (Project Service Automation 3.x)](../developer-guides/resource-management-changes-v3.x.md)
 - [Project Service Automation 3.x में अवमानित वेब संसाधन](../developer-guides/web-resources-deprecated-v3.x.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

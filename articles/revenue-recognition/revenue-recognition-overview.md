@@ -2,22 +2,21 @@
 title: आय पहचान ओवरव्यू
 description: इस विषय में Project Operations में आय पहचान के बारे में जानकारी दी गई है.
 author: sigitac
-manager: Annbe
 ms.date: 11/16/2020
 ms.topic: article
-ms.service: project-operations
 ms.reviewer: kfend
 ms.author: sigitac
-ms.openlocfilehash: 5e77a0442f634a50f8099fadec42ff400fee0e81
-ms.sourcegitcommit: fa32b1893286f20271fa4ec4be8fc68bd135f53c
+ms.custom: intro-internal
+ms.openlocfilehash: 3d2fcf434a5086595e40f50afc2366eb806168085ae9212b5d25e3e9bd02e2c6
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "5278870"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6988653"
 ---
 # <a name="revenue-recognition-overview"></a>आय पहचान ओवरव्यू
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 Dynamics 365 Project Operations में, आय पहचान सिद्धांत परियोजना या परियोजना के हिस्से के लिए चयनित बिलिंग विधि के आधार पर भिन्न होते हैं. इस विषय में Project Operations में आय पहचान के बारे में जानकारी दी गई है.
 

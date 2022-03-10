@@ -2,8 +2,6 @@
 title: मुख्य अवधारणाएँ
 description: इस विषय में Project Service Automation में रिसोर्स मैनेजमेंट के लिए मुख्य अवधारणाओं की जानकारी दी गई है।
 author: ruhercul
-manager: kfend
-ms.service: dynamics-365-customerservice
 ms.custom:
 - dyn365-projectservice
 ms.date: 03/28/2019
@@ -18,14 +16,16 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 1e5e78bbeb1086fada799cf7ac66173e5a563e2d
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: 8e56523a9a2fbe8bc07e6d46062f4e1c20e6d2fa2244b32ff53e96d898b0086c
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077924"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6995088"
 ---
 # <a name="key-concepts"></a>मुख्य अवधारणाएँ
+
+[!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
@@ -46,3 +46,6 @@ ms.locfileid: "4077924"
 | रूपरेखा                    | टास्क, आवश्यकता या असाइनमेंट घंटे जैसा कि उन्हें दैनिक वितरण के लिए विभाजित किया जाता है। उदाहरण के लिए, पाँच-दिन, 40 घंटे के टास्क को पाँच दिनों आठ घंटों में विभाजित किया जा सकता है। |
 | समायोजन दृश्य        | व्यू जो प्रत्येक प्रोजेक्ट के टीम सदस्य के लिए बुकिंग और असाइनमेंट दिखाता है। इस व्यू से परियोजना प्रबंधक बुकिंग और असाइनमेंट के बीच किसी प्रकार की भिन्नता को देखता है और ऐसी स्थिति में सुधारात्मक कार्रवाई करता है। |
 | कार्य घंटे                 | एक संस्था जिसका इस्तेमाल संसाधन की क्षमता और कामकाजी और कामकाज के बाहर के घंटों की पहचान करने में किया जाता है। इस संस्था को संसाधन का कैलेंडर भी कहा जाता है। |
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

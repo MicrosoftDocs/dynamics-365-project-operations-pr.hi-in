@@ -2,11 +2,9 @@
 title: पुष्टि करें, अपडेट करें, और एक परियोजना उद्धरण भेजें
 description: यह विषय पुष्टि के लिए ग्राहक को एक उद्धरण भेजने, फ़ीडबैक के आधार पर संशोधन करने, और फिर उद्धरण को फिर से भेजने के बारे में जानकारी प्रदान करता है.
 author: ruhercul
-manager: AnnBe
 ms.date: 05/09/2020
 ms.topic: article
 ms.prod: ''
-ms.service: dynamics-ax-applications
 ms.technology: ''
 audience: Application User
 ms.reviewer: kfend
@@ -18,12 +16,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: f9d76c65cb6732a96cd0bd6c4c36a2a73a65a2b6
-ms.sourcegitcommit: 5c4c9bf3ba018562d6cb3443c01d550489c415fa
-ms.translationtype: HT
+ms.openlocfilehash: df7bfd7c57b7a273a94e49fcf3834072a8eb20b0ed598a144cefaff41e28a431
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "4077838"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6991263"
 ---
 # <a name="confirm-update-and-send-a-project-quotation"></a>पुष्टि करें, अपडेट करें, और एक परियोजना उद्धरण भेजें
 
@@ -57,3 +55,6 @@ ms.locfileid: "4077838"
 
 > [!NOTE]
 > स्थिति के **भेजा गया** में परिवर्तित होने के बाद आप परियोजना उद्धरण को बदल नहीं सकते हैं.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

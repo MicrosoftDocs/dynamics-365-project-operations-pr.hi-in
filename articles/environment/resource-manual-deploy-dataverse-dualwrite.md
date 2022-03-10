@@ -6,12 +6,12 @@ ms.date: 06/18/2021
 ms.topic: article
 ms.reviewer: kfend
 ms.author: stsporen
-ms.openlocfilehash: 2ad147da542fc9e7a2705da7a834d1a6512907e5
-ms.sourcegitcommit: 205a94ab4168de25b102f31d00a691c8205ba63e
-ms.translationtype: HT
+ms.openlocfilehash: 06325a9a9f9084d1f506f2493c32565fe7b7c52ae6fe22c81339b9c1d632e688
+ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/18/2021
-ms.locfileid: "6274010"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "6986448"
 ---
 # <a name="manually-deploy-the-project-operations-dataverse-app-with-dual-write-support"></a>Project Operations Dataverse अनुप्रयोग को डुअल-राइट समर्थन के साथ मैन्युअल रूप से परिनियोजित करना
 
