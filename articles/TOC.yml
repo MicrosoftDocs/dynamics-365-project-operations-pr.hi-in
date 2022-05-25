@@ -58,11 +58,19 @@
               href: environment/resource-dual-write-expense.md
             - name: विक्रेता इनवॉइस एकीकरण
               href: environment/resource-dual-write-vendor-invoice.md
-        - name: अनइंस्टॉल करें Dynamics 365 Project Operations
+        - name: Dynamics 365 Project Operations अनइंस्टॉल करें
           href: environment/uninstall-project-operations.md
     - name: नया क्या है
       items:
-        - name: दिसंबर 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+        - name: मई 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-may-2022-resource-based.md
+        - name: अप्रैल 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-apr-2022-resource-based.md
+        - name: मार्च 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-mar-2022-resource-based.md
+        - name: फरवरी 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-feb-2022-resource-based.md
+        - name: दिसंबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-dec-2021-resource-based.md
         - name: नवंबर 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
           href: whats-new/whats-new-nov-2021-resource-based.md
@@ -92,9 +100,9 @@
           href: whats-new/whats-new-nov-2020-resource-based.md
     - name: परियोजना विक्रय प्रक्रिया
       items:
-        - name: परियोजना विक्रय प्रक्रिया ओवरव्यू
+        - name: परियोजना विक्रय प्रक्रिया का संक्षिप्त विवरण
           href: sales/sales-overview.md
-        - name: सेटअप करें
+        - name: सेट अप
           items:
             - name: उत्पाद
               href: sales/sales-products.md
@@ -102,11 +110,13 @@
               href: sales/sales-units-unit-groups.md
             - name: मुद्रा
               href: sales/sales-currency.md
+            - name: संगठनात्मक इकाईयाँ
+              href: sales/OrgUnits.md
         - name: परियोजना लीड प्रबंधित करें
           href: sales/manage-leads.md
         - name: परियोजना अवसर प्रबंधित करें
           items:
-            - name: परियोजना अवसर प्रबंधित करें ओवरव्यू
+            - name: परियोजना अवसर प्रबंधित करें का संक्षिप्त विवरण
               href: sales/manage-project-based-opportunities.md
             - name: परियोजना-आधारित अवसरों के लिए हेडर विवरण
               href: sales/opportunity-header.md
@@ -288,13 +298,11 @@
               href: project-management/project-cost-tracking.md
             - name: परियोजनाओं पर श्रम राजस्व की ट्रैकिंग
               href: project-management/project-sales-tracking.md
-            - name: पूर्णता पर अनुमानित लागत अद्यतित करें
-              href: project-management/update-completed-estimate.md
         - name: परियोजना टीम के सदस्य
           items:
-            - name: परियोजना टीम के सदस्य ओवरव्यू
+            - name: परियोजना टीम के सदस्यों का संक्षिप्त विवरण
               href: project-management/project-team-members-overview.md
-            - name: टीम के सदस्यों का रखरखाव करें
+            - name: टीम के सदस्यों की देखरेख करें
               href: project-management/maintain-team-members.md
         - name: कार्य ग्रिड में काम करने की समस्या का निवारण करें
           href: project-management/projectplanningUIFAQ.md
@@ -308,9 +316,11 @@
               href: project-management/dev-copy-project.md
             - name: परियोजना शेड्यूल API का उपयोग करें
               href: project-management/schedule-api-preview.md
+            - name: Power Automate के साथ परियोजना शेड्यूल API का उपयोग करें
+              href: project-management/scheduling-apis-powerautomate.md
             - name: परियोजना शेड्यूल API प्रदर्शन
               href: project-management/project-schedule-api-performance.md
-            - name: प्रोजेक्ट शेड्यूलिंग लॉग
+            - name: परियोजना शेड्यूलिंग लॉग
               href: project-management/schedule-api-logs.md
     - name: संसाधन प्रबंधन
       items:
@@ -366,11 +376,11 @@
               href: resource-management/manage-multiple-time-zones.md
         - name: संसाधन उपयोग
           items:
-            - name: संसाधन उपयोग ओवरव्यू
+            - name: संसाधन उपयोग का संक्षिप्त विवरण
               href: resource-management/resource-utilization-overview.md
     - name: समय
       items:
-        - name: समय ओवरव्यू
+        - name: समय का संक्षिप्त विवरण
           href: time/time-entry-overview.md
         - name: समय प्रविष्टियाँ बनाएँ
           items:
@@ -382,7 +392,7 @@
               href: time/customize-weekly-time-entry-grid.md
     - name: व्यय
       items:
-        - name: व्यय का अवलोकन
+        - name: व्यय का संक्षिप्त विवरण
           href: expense/expense-overview.md
         - name: नया व्यय अनुभव
           items:
@@ -426,8 +436,8 @@
           href: expense/travel-requisition.md
         - name: नकद अग्रिम
           href: expense/cash-advance.md
-        - name: प्रति भत्ता
-          href: expense/per-diems.md
+        - name: प्रति भत्ता व्यय
+          href: expense/per-diem-expenses.md
         - name: मोबाइल व्यय अनुप्रयोग
           href: expense/expense-using-mobile.md
         - name: वित्तीय प्रबंधन
@@ -438,33 +448,45 @@
       items:
         - name: परियोजनाओं और परियोजना कार्यों पर सामग्री उपयोग को रिकॉर्ड करें
           href: material/material-usage-log.md
-    - name: अनुमोदन
+    - name: स्वीकृतियां
       items:
-        - name: अनुमोदन ओवरव्यू
+        - name: अनुमोदन का संक्षिप्त विवरण
           href: approvals/approvals-overview.md
         - name: अनुमोदन सेट
           href: approvals/approval-sets.md
+        - name: पिछली अनुमोदित प्रविष्टियों पर अनुमोदन रद्द करें
+          href: approvals/cancelapproval.md
+        - name: पिछली अनुमोदित प्रविष्टियों को याद रखें
+          href: approvals/recall-cancel.md
         - name: डेवलपर नोट्स
           items:
             - name: अनुमोदनों के लिए डेवलपर नोट्स
               href: approvals/dev-notes-approvals.md
     - name: वास्तविक
       items:
-        - name: वास्तविक ओवरव्यू
+        - name: Project Operations में व्यावसायिक लेन-देन
+          href: actuals/businesstransactions.md
+        - name: वास्तविक आंकड़ों का संक्षिप्त विवरण
           href: actuals/actuals-overview.md
-        - name: वास्तविक को मूल रिकॉर्ड से लिंक करें
+        - name: ट्रांज़ैक्शन के मूल - वास्तविक आंकड़ों को स्रोत से लिंक करें
           href: actuals/linkingactuals.md
-        - name: सुधार जर्नल
+        - name: ट्रांज़ैक्शन के कनेक्शन - विभिन्न प्रकार के ट्रांज़ैक्शन के वास्तविक आंकड़ों को लिंक करें
+          href: actuals/connectingactuals.md
+        - name: जर्नल
           items:
+            - name: प्रविष्टि जर्नल बनाएँ और पुष्टि करें
+              href: actuals/create-confirm-entry-journals.md
             - name: सुधार जर्नल बनाएँ और पुष्टि करें
               href: actuals/create-confirm-correction-journals.md
     - name: खरीद
       items:
-        - name: स्टॉक न की गई सामग्री और लंबित विक्रेता इनवॉयस कॉन्फ़िगर करें
+        - name: स्टॉक नहीं की गई सामग्री और लंबित विक्रेता इनवॉयस कॉन्फ़िगर करें
           href: procurement/configure-materials-nonstocked.md
-        - name: लंबित विक्रेता इनवॉइस का उपयोग करके परियोजनाओं के लिए गैर-स्टॉक सामग्री उपलब्ध कराएँ
+        - name: परियोजनाओं के लिए खरीद की श्रेणियां कॉन्फ़िगर करें
+          href: procurement/configure-procurement-categories.md
+        - name: लंबित विक्रेता इनवॉइस का उपयोग करके परियोजनाओं के लिए सामान और सेवाएं खरीदें
           href: procurement/pending-vendor-invoices.md
-        - name: परियोजना क्रय ऑर्डर का उपयोग करके परियोजनाओं के लिए गैर-स्टॉक सामग्री ऑर्डर करें
+        - name: परियोजना खरीद ऑर्डर का उपयोग करके परियोजना के लिए सामान और सेवाएं ऑर्डर करें
           href: procurement/non-stocked-materials-project-purchase-orders.md
         - name: विक्रेता अवधारण
           items:
@@ -538,6 +560,18 @@
           href: revenue-recognition/cost-complete-methods.md
         - name: राजस्व अनुमान प्रबंधित करें
           href: revenue-recognition/rev-rec-completed-contract-method.md
+    - name: उन्नत कॉन्फ़िगरेशन
+      items:
+        - name: कटओवर के दौरान पूरी तरह से इनवॉइस की गई बिलिंग उपलब्धियां माइग्रेट करें
+          href: advanced-configuration/migrating-invoiced-milestones.md
+    - name: नवीनीकरण
+      items:
+        - name: आधुनिक अनुमोदनों के लिए विचार नवीनीकरण करें
+          href: upgrade/upgrade-considerations-modern-approvals.md
+    - name: Project Operations ऐप्स
+      items:
+        - name: Project Operations टीम सदस्य ऐप
+          href: team-member/project-operations-team-member.md
     - name: समस्या निवारण
       items:
         - name: परियोजना विक्रय प्रक्रिया
@@ -562,6 +596,14 @@
       items:
         - name: नया क्या है 2021 वेव 2 प्रारंभिक पहुँच - लाइट परिनियोजन
           href: pro/whats-new/whats-new-2021-early-access-lite.md
+        - name: नया क्या है मई 2022 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-may-2022-lite.md
+        - name: नया क्या है अप्रैल 2022 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-apr-2022-lite.md
+        - name: नया क्या है मार्च 2022 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-mar-2022-lite.md
+        - name: नया क्या है फरवरी 2022 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-feb-2022-lite.md
         - name: नया क्या है दिसंबर 2021 - लाइट परिनियोजन
           href: pro/whats-new/whats-new-dec-2021-lite.md
         - name: नया क्या है नवंबर 2021 - लाइट परिनियोजन
@@ -592,9 +634,9 @@
           href: pro/whats-new/whats-new-nov-2020-lite.md
     - name: परियोजना विक्रय प्रक्रिया
       items:
-        - name: परियोजना विक्रय प्रक्रिया ओवरव्यू
+        - name: परियोजना विक्रय प्रक्रिया का संक्षिप्त विवरण
           href: sales/sales-overview.md
-        - name: सेटअप करें
+        - name: सेट अप
           items:
             - name: उत्पाद
               href: sales/sales-products.md
@@ -602,11 +644,13 @@
               href: sales/sales-units-unit-groups.md
             - name: मुद्रा
               href: sales/sales-currency.md
+            - name: संगठनात्मक इकाईयाँ
+              href: sales/OrgUnits.md
         - name: परियोजना लीड प्रबंधित करें
           href: pro/sales/managing-leads-sales.md
         - name: परियोजना अवसर प्रबंधित करें
           items:
-            - name: परियोजना अवसर ओवरव्यू
+            - name: परियोजना अवसर का संक्षिप्त विवरण
               href: sales/manage-project-based-opportunities.md
             - name: परियोजना अवसरों के लिए हेडर विवरण
               href: pro/sales/opportunity-header-sales.md
@@ -808,13 +852,11 @@
               href: project-management/project-cost-tracking.md
             - name: परियोजनाओं पर श्रम राजस्व की ट्रैकिंग
               href: project-management/project-sales-tracking.md
-            - name: पूर्णता पर अनुमानित लागत अद्यतित करें
-              href: project-management/update-completed-estimate.md
         - name: परियोजना टीम के सदस्य
           items:
-            - name: परियोजना टीम के सदस्य ओवरव्यू
+            - name: परियोजना टीम के सदस्यों का संक्षिप्त विवरण
               href: project-management/project-team-members-overview.md
-            - name: टीम के सदस्यों का रखरखाव करें
+            - name: टीम के सदस्यों की देखरेख करें
               href: project-management/maintain-team-members.md
         - name: कार्य ग्रिड में काम करने की समस्या का निवारण करें
           href: project-management/projectplanningUIFAQ.md
@@ -828,6 +870,8 @@
               href: project-management/dev-copy-project.md
             - name: परियोजना शेड्यूल API का उपयोग करें
               href: project-management/schedule-api-preview.md
+            - name: Power Automate के साथ परियोजना शेड्यूल API का उपयोग करें
+              href: project-management/scheduling-apis-powerautomate.md
             - name: परियोजना शेड्यूल API प्रदर्शन
               href: project-management/project-schedule-api-performance.md
     - name: संसाधन प्रबंधन
@@ -884,17 +928,15 @@
               href: resource-management/manage-multiple-time-zones.md
         - name: संसाधन उपयोग
           items:
-            - name: संसाधन उपयोग ओवरव्यू
+            - name: संसाधन उपयोग का संक्षिप्त विवरण
               href: resource-management/resource-utilization-overview.md
-    - name: Project Operations में उपअनुबंध प्रबंधन
+    - name: उप-अनुबंध प्रबंधन
       items:
-        - name: Project Operations में उपअनुबंध प्रबंधन
+        - name: Project Operations में उप-अनुबंध प्रबंधन
           href: pro/subcontracting/managing-subcontracts-overview.md
-        - name: अक्टूबर 2021 समय पूर्व एक्सेस में उपअनुबंध
-          href: pro/subcontracting/Subcontracting_EA_scope.md
-        - name: उपअनुबंध में प्रमुख अवधारणाएँ
+        - name: उप-अनुबंध में प्रमुख अवधारणाएँ
           href: pro/subcontracting/key-concepts-subcontracting.md
-        - name: विक्रेताओं और परियोजना मूल्य सूचियों का प्रबंधन
+        - name: विक्रेताओं और परियोजना मूल्य सूचियों का प्रबंधन करना
           href: pro/subcontracting/vendors-purchase-price-lists.md
         - name: बुक करने योग्य संसाधनों के रूप में उपअनुबंध
           href: pro/subcontracting/subcontractors-as-bookable-resources.md
@@ -922,11 +964,33 @@
           href: pro/subcontracting/staffing-cw.md
         - name: 'उप-अनुबंधित घटकों के लिए रिकॉर्डिंग समय, व्यय और सामग्री उपयोग'
           href: pro/subcontracting/recording-subcon-actuals.md
-        - name: उपअनुबंध पर राज्य संक्रमण
+        - name: उप-अनुबंध पर राज्य संक्रमण
           href: pro/subcontracting/subcon-states.md
+    - name: परियोजना विक्रेता के इनवॉइस
+      items:
+        - name: विक्रेता इनवॉइस बनाना - अवधारणा और निर्माण
+          href: pro/subcontracting/vendor-invoice-overview.md
+        - name: विक्रेता इनवॉइस के लिए शीर्ष लेख के विवरण
+          href: pro/subcontracting/vendor-invoice-header.md
+        - name: समय के लिए विक्रेता इनवॉयस की लाइनें
+          href: pro/subcontracting/vendor-invoice-line-time.md
+        - name: उत्पादों के लिए विक्रेता इनवॉइस की लाइनें
+          href: pro/subcontracting/vi-line-material.md
+        - name: उपलब्धियों के लिए विक्रेता इनवॉइस की लाइनें
+          href: pro/subcontracting/vi-line-milestone.md
+        - name: व्यय श्रेणियों के लिए विक्रेता इनवॉइस की लाइनें
+          href: pro/subcontracting/vi-line-expense.md
+        - name: अनुमोदित वास्तविक आंकड़ों के साथ विक्रेता इनवॉइस का सत्यापन
+          href: pro/subcontracting/VI-Verification.md
+        - name: परियोजना विक्रेता इनवॉइस रद्द करें
+          href: pro/subcontracting/cancel-vi.md
+        - name: विक्रेता परियोजना इनवॉइस की पुष्टि करें
+          href: pro/subcontracting/confirm-vi.md
+        - name: विक्रेता इनवॉइस पर राज्य संक्रमण
+          href: pro/subcontracting/vi-state-model.md
     - name: समय
       items:
-        - name: समय ओवरव्यू
+        - name: समय का संक्षिप्त विवरण
           href: time/time-entry-overview.md
         - name: समय प्रविष्टियाँ बनाएँ
           items:
@@ -938,7 +1002,7 @@
               href: time/customize-weekly-time-entry-grid.md
     - name: व्यय
       items:
-        - name: व्यय का अवलोकन
+        - name: व्यय का संक्षिप्त विवरण
           href: expense/expense-overview.md
         - name: व्यय-प्रविष्टि (लाइट)
           href: expense/basic-expense.md
@@ -946,24 +1010,34 @@
       items:
         - name: परियोजनाओं और परियोजना कार्यों पर सामग्री उपयोग को रिकॉर्ड करें
           href: material/material-usage-log.md
-    - name: अनुमोदन
+    - name: स्वीकृतियां
       items:
-        - name: अनुमोदन ओवरव्यू
+        - name: अनुमोदन का संक्षिप्त विवरण
           href: approvals/approvals-overview.md
         - name: अनुमोदन सेट
           href: approvals/approval-sets.md
+        - name: पिछली अनुमोदित प्रविष्टियों पर अनुमोदन रद्द करें
+          href: approvals/cancelapproval.md
+        - name: पिछली अनुमोदित प्रविष्टियों को याद रखें
+          href: approvals/recall-cancel.md
         - name: डेवलपर नोट्स
           items:
             - name: अनुमोदनों के लिए डेवलपर नोट्स
               href: approvals/dev-notes-approvals.md
     - name: वास्तविक
       items:
-        - name: वास्तविक ओवरव्यू
+        - name: Project Operations में व्यावसायिक लेन-देन
+          href: actuals/businesstransactions.md
+        - name: वास्तविक आंकड़ों का संक्षिप्त विवरण
           href: actuals/actuals-overview.md
-        - name: वास्तविक को मूल रिकॉर्ड से लिंक करें
+        - name: ट्रांज़ैक्शन के मूल - वास्तविक आंकड़ों को स्रोत से लिंक करें
           href: actuals/linkingactuals.md
-        - name: सुधार जर्नल
+        - name: ट्रांज़ैक्शन के कनेक्शन - विभिन्न प्रकार के ट्रांज़ैक्शन के वास्तविक आंकड़ों को लिंक करें
+          href: actuals/connectingactuals.md
+        - name: जर्नल
           items:
+            - name: प्रविष्टि जर्नल बनाएँ और पुष्टि करें
+              href: actuals/create-confirm-entry-journals.md
             - name: सुधार जर्नल बनाएँ और पुष्टि करें
               href: actuals/create-confirm-correction-journals.md
     - name: प्रोफ़ॉर्मा इनवॉइसिंग
@@ -982,8 +1056,16 @@
           href: pro/proforma-invoicing/confirm-proforma-invoice-sales.md
         - name: सुधारात्मक परियोजना इनवॉइस बनाएँ
           href: pro/proforma-invoicing/corrective-invoices-sales.md
-        - name: परियोजना इनवॉइस स्वचालन कॉन्फ़िगर करें
+        - name: परियोजना इनवॉइस स्वचालन का कॉन्फ़िगर करें
           href: pro/proforma-invoicing/configure-automated-invoice-creation-sales.md
+    - name: नवीनीकरण
+      items:
+        - name: आधुनिक अनुमोदनों के लिए विचार नवीनीकरण करें
+          href: upgrade/upgrade-considerations-modern-approvals.md
+    - name: Project Operations ऐप्स
+      items:
+        - name: Project Operations टीम सदस्य ऐप
+          href: team-member/project-operations-team-member.md
 - name: स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
   items:
     - name: नया क्या है
@@ -1006,49 +1088,45 @@
           href: prod-pma/whats-new/whats-new-dec-2020-stocked.md
         - name: नया क्या है नवंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
           href: prod-pma/whats-new/whats-new-nov-2020-production-based.md
-    - name: स्टॉक/उत्पादन-आधारित परिदृश्य परिनियोजन के लिए Project Operations ओवरव्यू
+    - name: स्टॉक/उत्पादन-आधारित परिदृश्य परिनियोजन के लिए Project Operations का संक्षिप्त विवरण
       href: prod-pma/project-operations-prod-order-deployment-overview.md
-    - name: परियोजना प्रबंधन और लेखांकन ओवरव्यू
+    - name: परियोजना प्रबंधन और लेखांकन का संक्षिप्त विवरण
       href: prod-pma/overview-project-management-accounting.md
-    - name: इंटरकंपनी इनवॉइसिंग
-      href: prod-pma/intercompany-invoicing.md
-    - name: इंटरकंपनी परियोजना इनवॉइस को कॉन्फ़िगर करें
-      href: prod-pma/tasks/configure-intercompany-project-invoicing.md
-    - name: लेबर और व्यय के लिए स्टैंडर्ड लागत को कॉन्फ़िगर करें
-      href: prod-pma/tasks/configure-standard-costs-labor-expenses.md
-    - name: विक्रेता भुगतान अवधारण शर्तें बनाएँ और लागू करें
-      href: prod-pma/create-and-apply-vendor-payment-retention-terms.md
-    - name: भुगतान होने पर भुगतान करें विक्रेता भुगतान को सेटअप करें और उपयोग करें
-      href: prod-pma/setup-manage-vendor-payments.md
-    - name: खरीद की रसीदों पर परियोजना की लागत
-      href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
-    - name: परियोजना इनवॉइसिंग
-      href: /dynamics365/finance/accounts-payable/project-invoicing
-    - name: परियोजना इनवॉइस प्रस्ताव प्रदर्शन
-      href: prod-pma/project-invoice-proposal-performance.md
-    - name: परियोजना अनुबंध
-      href: prod-pma/project-contracts.md
-    - name: प्रगति के आधार पर बिलिंग के लिए उन्नत अनुबंध बनाएँ
-      href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
-    - name: परियोजना के पूर्वानुमान और बजट
-      href: prod-pma/project-forecasts-budgets.md
-    - name: परियोजना बजट के लिए पूर्वानुमान मॉडल बनाएँ
-      href: prod-pma/create-forecast-models-project-budgets.md
-    - name: वित्त वर्ष के अंत में परियोजना बजट स्थानांतरित करें
-      href: prod-pma/process-project-budgets-for-fiscal-year-end.md
-    - name: परियोजना विक्रय ऑर्डर
-      href: prod-pma/project-sales-orders.md
-    - name: किसी परियोजना के लिए खरीद आदेश
-      href: prod-pma/project-purchase-orders.md
-    - name: परियोजना कोटेशन
-      href: prod-pma/project-quotations.md
-    - name: 'पुष्टि करें, अद्यतन करें, और एक परियोजना कोटेशन भेजें'
-      href: prod-pma/confirm-update-send-project-quotation.md
-    - name: किसी परियोजना के लिए एक कोटेशन स्थानांतरित करें
-      href: prod-pma/transfer-quote-new-existing-project.md
-    - name: परियोजना के लिए संसाधन
+    - name: परियोजना विक्रय प्रक्रिया
       items:
-        - name: परियोजना के संसाधन ओवरव्यू
+        - name: परियोजना कोटेशन
+          href: prod-pma/project-quotations.md
+        - name: 'पुष्टि करें, अपडेट करें, और एक परियोजना कोटेशन भेजें'
+          href: prod-pma/confirm-update-send-project-quotation.md
+        - name: किसी परियोजना के लिए एक कोटेशन स्थानांतरित करें
+          href: prod-pma/transfer-quote-new-existing-project.md
+        - name: परियोजना अनुबंध
+          href: prod-pma/project-contracts.md
+        - name: परियोजना ग्रांट
+          href: prod-pma/project-grants.md
+    - name: मूल्य निर्धारण और लागत
+      items:
+        - name: क्ष्रम और व्यय के लिए स्टैंडर्ड लागत को कॉन्फ़िगर करें
+          href: prod-pma/tasks/configure-standard-costs-labor-expenses.md
+    - name: परियोजना प्रबंधन
+      items:
+        - name: कार्य विश्लेषण संरचना का संक्षिप्त विवरण
+          href: prod-pma/work-breakdown-structures.md
+        - name: Microsoft Project Client एकीकरण
+          href: prod-pma/project-integration.md
+        - name: Project मोबाइल ऐप ओवरव्यू
+          href: prod-pma/project-mobile-application-overview.md
+        - name: परियोजना समय प्रविष्टि मोबाइल कार्यस्थान
+          href: prod-pma/project-time-entry-mobile-workspace.md
+        - name: Project Timesheet मोबाइल ऐप
+          href: prod-pma/project-timesheet.md
+        - name: मोबाइल डिवाइस पर परियोजना टाइमशीट
+          href: prod-pma/mobile-timesheets.md
+        - name: Project Timesheet मोबाइल ऐप के लिए कस्टम फ़ील्ड लागू करें
+          href: prod-pma/custom-fields-mobile.md
+    - name: संसाधन प्रबंधन
+      items:
+        - name: परियोजना संसाधित करने का संक्षिप्त विवरण
           href: prod-pma/project-resourcing.md
         - name: परियोजना संसाधन सेट अप करें
           href: prod-pma/set-up-project-resources.md
@@ -1068,31 +1146,109 @@
           href: prod-pma/set-up-roles-wbs-template.md
         - name: योजनाबद्ध संसाधनों के लिए संसाधनों की पूर्ति
           href: prod-pma/resource-fulfillment-planned-resources.md
-    - name: आइटम आवश्यकताओं से क्रय ऑर्डर पर आइटम प्राप्त करें
-      href: prod-pma/tasks/receive-items-purchase-order-item-requirement.md
-    - name: कार्य विश्लेषण संरचना
+    - name: परियोजना के बजट और पूर्वानुमान
       items:
-        - name: कार्य विश्लेषण संरचना ओवरव्यू
-          href: prod-pma/work-breakdown-structures.md
-        - name: Microsoft Project Client एकीकरण
-          href: prod-pma/project-integration.md
-        - name: Project मोबाइल ऐप ओवरव्यू
-          href: prod-pma/project-mobile-application-overview.md
-        - name: परियोजना समय प्रविष्टि मोबाइल कार्यस्थान
-          href: prod-pma/project-time-entry-mobile-workspace.md
-        - name: परियोजना टाइमशीट मोबाइल ऐप
-          href: prod-pma/project-timesheet.md
-        - name: मोबाइल डिवाइस पर परियोजना टाइमशीट
-          href: prod-pma/mobile-timesheets.md
-        - name: परियोजना टाइमशीट मोबाइल ऐप के लिए कस्टम फ़ील्ड लागू करें
-          href: prod-pma/custom-fields-mobile.md
-    - name: परियोजना ग्रांट
-      href: prod-pma/project-grants.md
-    - name: परियोजना का अनुमान हटा दें
-      href: prod-pma/eliminate-project-estimate.md
+        - name: परियोजना के पूर्वानुमान और बजट
+          href: prod-pma/project-forecasts-budgets.md
+        - name: परियोजना बजट के लिए पूर्वानुमान मॉडल बनाएँ
+          href: prod-pma/create-forecast-models-project-budgets.md
+        - name: वित्त वर्ष के अंत में परियोजना बजट स्थानांतरित करें
+          href: prod-pma/process-project-budgets-for-fiscal-year-end.md
+    - name: समय
+      items:
+        - name: परियोजना समय प्रविष्टियों के लिए डिफाल्टिंग वित्तीय आयाम
+          href: prod-pma/time-entry-dimension-defaults.md
+    - name: व्यय
+      items:
+        - name: व्यय का संक्षिप्त विवरण
+          href: expense/expense-overview.md
+        - name: नया व्यय अनुभव
+          items:
+            - name: व्यय रिपोर्ट पुनर्कल्पित
+              href: expense/expense-reports-reimagined.md
+            - name: OCR का उपयोग करके रसीद कैप्चर करें
+              href: expense/match-receipt-expense-ocr.md
+        - name: कॉन्‍फ़िगरेशन और सेटअप
+          items:
+            - name: नीतियाँ निर्धारित करें
+              href: expense/set-up-policies.md
+            - name: कार्यप्रवाह सेट अप करें
+              href: expense/set-up-workflows.md
+            - name: प्रत्यायोजन का प्रबंधन करें
+              href: expense/manage-delegation.md
+            - name: व्यय प्रबंधन पैरामीटर कॉन्फ़िगर करें
+              href: expense/configure-expense-management-parameters.md
+            - name: क्रेडिट कार्ड एकीकरण सेटअप करें
+              href: expense/set-up-credit-card-integration.md
+            - name: व्यय श्रेणियाँ सेटअप करें
+              href: expense/set-up-expense-categories.md
+            - name: माइलेज दर स्तरों का उपयोग करके माइलेज सेट करें
+              href: expense/set-up-mileage.md
+        - name: व्यय सूचीकरण
+          href: prod-exp/expense-itemization.md
+        - name: व्यक्तिगत व्यय
+          href: expense/personal-expenses-expense-report.md
+        - name: इंटरकंपनी व्यय
+          href: prod-exp/intercompany-expense.md
+        - name: व्यय रिपोर्ट बनाएँ
+          items:
+            - name: एक व्यय रिपोर्ट पर वितरण
+              href: expense/distributions-expense-report.md
+        - name: व्यय रिपोर्ट को मंजूरी दें
+          items:
+            - name: व्यय रिपोर्ट और कई अनुमोदनकर्ता
+              href: expense/expense-reports-multiple-approvers.md
+        - name: व्यय रिपोर्ट पोस्ट करें
+          href: expense/posting-expense-reports.md
+        - name: यात्रा की आवश्यकता
+          href: expense/travel-requisition.md
+        - name: नकद अग्रिम
+          href: expense/cash-advance.md
+        - name: प्रति भत्ता व्यय
+          href: expense/per-diem-expenses.md
+        - name: मोबाइल व्यय अनुप्रयोग
+          href: expense/expense-using-mobile.md
+        - name: वित्तीय प्रबंधन
+          items:
+            - name: वैट रिकवरी
+              href: expense/vat-recovery.md
+    - name: खरीद
+      items:
+        - name: किसी परियोजना के लिए खरीद आदेश
+          href: prod-pma/project-purchase-orders.md
+        - name: खरीद की रसीदों पर परियोजना की लागत की बढ़ोतरी
+          href: /dynamics365/finance/accounts-payable/project-cost-accrual-purchase-receipts
+        - name: आइटम आवश्यकताओं से क्रय ऑर्डर पर आइटम प्राप्त करें
+          href: prod-pma/tasks/receive-items-purchase-order-item-requirement.md
+        - name: भुगतान होने पर भुगतान करें विक्रेता भुगतान को सेटअप करें और उपयोग करें
+          href: prod-pma/setup-manage-vendor-payments.md
+        - name: विक्रेता भुगतान अवधारण शर्तें बनाएँ और लागू करें
+          href: prod-pma/create-and-apply-vendor-payment-retention-terms.md
+    - name: परियोजना इनवॉइस बनाना
+      items:
+        - name: परियोजना इनवॉइस बनाना
+          href: /dynamics365/finance/accounts-payable/project-invoicing
+        - name: परियोजना इनवॉइस प्रस्ताव प्रदर्शन
+          href: prod-pma/project-invoice-proposal-performance.md
+        - name: प्रगति के आधार पर बिलिंग के लिए उन्नत अनुबंध बनाएँ
+          href: prod-pma/project-create-advanced-contracts-for-billing-based-progress.md
+        - name: परियोजना विक्रय ऑर्डर
+          href: prod-pma/project-sales-orders.md
+        - name: कई फंडिंग स्रोतों के साथ परियोजना अनुबंधों के लिए आइटम की आवश्यकताएँ
+          href: prod-pma/multiple-funding-sources-item-req.md
+    - name: इंटरकंपनी इनवॉइसिंग
+      items:
+        - name: इंटरकंपनी इनवॉइसिंग
+          href: prod-pma/intercompany-invoicing.md
+        - name: इंटरकंपनी परियोजना इनवॉइस को कॉन्फ़िगर करें
+          href: prod-pma/tasks/configure-intercompany-project-invoicing.md
+    - name: राजस्व मान्यता
+      items:
+        - name: परियोजना का अनुमान हटा दें
+          href: prod-pma/eliminate-project-estimate.md
 - name: व्यय प्रबंधन
   items:
-    - name: व्यय प्रबंधन का अवलोकन
+    - name: व्यय प्रबंधन का संक्षिप्त विवरण
       href: prod-exp/expense-management.md
     - name: नया व्यय अनुभव
       items:
@@ -1146,11 +1302,21 @@
       href: psa/overview.md
     - name: नया क्या है
       items:
-        - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
+        - name: Project Service 3.x के लिए अपडेट रिलीज़ शेड्यूल
           href: psa/version-history-ps.md
-        - name: 'अद्यतन रिलीज़ 38, V3 में नया क्या है या क्या बदल गया है'
+        - name: 'अपडेट रिलीज़ 43, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur43.md
+        - name: 'अपडेट रिलीज़ 42, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-42.md
+        - name: 'अपडेट रिलीज़ 41, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-41.md
+        - name: 'अपडेट रिलीज़ 40, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-40.md
+        - name: 'अपडेट रिलीज़ 39, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-39.md
+        - name: 'अपडेट रिलीज़ 38, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-38.md
-        - name: 'अद्यतन रिलीज़ 37.5, V3 में नया क्या है या क्या बदल गया है'
+        - name: 'अपडेट रिलीज़ 37.5, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-37-5.md
         - name: 'अद्यतन रिलीज़ 37, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-37.md
@@ -1238,6 +1404,8 @@
           href: psa/implementation-guides/reporting-guide.md
     - name: Project Service Automation से Project Operations में अपग्रेड करें - लाइट
       href: psa/upgrade-project-operations-non-stocked.md
+    - name: 'फ़ीचर, Project Service Automation से Project Operations में बदल जाता है'
+      href: psa/psa-project-operations-changes.md
     - name: Project Service Automation नवीनीकरण (ऐप संस्करण 3.x)
       items:
         - name: Project Service Automation नवीनीकरण
@@ -1312,7 +1480,7 @@
               href: psa/basic-sales-process.md
             - name: इकाई समूह और इकाइयाँ
               href: psa/advanced-units.md
-            - name: संगठनात्मक इकाइयाँ
+            - name: संगठनात्मक इकाईयाँ
               href: psa/advanced-organizational.md
             - name: कोट और कोट पंक्तियाँ
               href: psa/basic-quote-lines.md
