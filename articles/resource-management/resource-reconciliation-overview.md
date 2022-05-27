@@ -3,24 +3,23 @@ title: संसाधन समन्वय ओवरव्यू
 description: यह विषय ऐसी जानकारी प्रदान करता है, जो आपकी यह सुनिश्चित करने में मदद करेगी कि परियोजनाओं के लिए संसाधन बुकिंग और असाइनमेंट संरेखित हैं.
 author: ruhercul
 ms.date: 01/08/2021
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
 audience: Application User
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.search.scope: ''
-ms.custom: intro-internal
 ms.assetid: ''
 ms.search.region: Global
 ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 1542e97955902486d22ca637514e4e121fae70e2b227cafc7020c031061b5f98
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 0574a0402bc6b34ab82bbc223aeb3a0ffcc9df9c
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994773"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8580044"
 ---
 # <a name="resource-reconciliation-overview"></a>संसाधन समन्वय ओवरव्यू
 

@@ -3,16 +3,15 @@ title: लाइट परिनियोजन ओवरव्यू
 description: यह विषय Dynamics 365 Project Operations लाइट परिनियोजन के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 11/02/2020
-ms.topic: article
-ms.reviewer: kfend
+ms.topic: overview
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.custom: intro-internal
-ms.openlocfilehash: bc6385ea53091ac396daee37d8b5174092406cfc42d34c356a112f665cd63456
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 7e7f5de70b1a050039509c40d1378302392f2ec9
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997383"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8574965"
 ---
 # <a name="lite-deployment-overview"></a>लाइट परिनियोजन का अवलोकन
 

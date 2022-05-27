@@ -4,20 +4,20 @@ description: कार्यालय समूह आपको Common Data Serv
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 2ad284bb3eb461e254292fcf78ea135c9b978deeded30927c3c442afc2ec0b7e
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 76a5b94780c4467c5e423bb6048e91d9efcde6d6
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003143"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8574478"
 ---
 # <a name="collaboration-with-office-groups"></a>Office समूह के साथ सहयोग
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 कार्यालय समूह आपको Common Data Service में अन्य टीम के सदस्यों के साथ परियोजना साझा करने की अनुमति देते हैं. जब आप समूह में उपयोगकर्ता जोड़ते/जोड़ती हैं, तो परियोजना स्वामित्व समूह में स्थानांतरित हो जाता है. सभी उपयोगकर्ताओं को परियोजना में संपादन की अनुमति होगी. अगर व्यवस्थापक ने विशेषाधिकार दिए हैं, तो उपयोगकर्ता परियोजना भी देख सकते हैं. ये उपयोगकर्ता समूह में दिखाए नहीं जाएंगे.
 
