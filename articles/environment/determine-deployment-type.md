@@ -4,14 +4,14 @@ description: यह विषय आपकी कंपनी के लिए P
 author: stsporen
 ms.date: 03/15/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 4be8e69c5b6ff1ed65e9484a9b427bb428f7ff3e6dc597c615d5586da52867ef
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 280578b2710a0bccd1973b51b062fef7a2997780
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994638"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8584138"
 ---
 # <a name="determine-your-deployment-type"></a>अपना परिनियोजन प्रकार निर्धारित करें
 
@@ -25,7 +25,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 ## <a name="existing-customers-of-dynamics-using-dynamics-365-project-service-automation"></a>Dynamics 365 Project Service Automation उपयोग से Dynamics के मौजूदा ग्राहक
 Project Operations में Project Service Automation के साथ भेजी गई क्षमताएं शामिल हैं. इन ग्राहकों के लिए 2021 रिलीज़ वेव 1 में एक अपग्रेड पथ जारी किया जाएगा.
 
-## <a name="existing-customers-of-dynamics-365-finance-using-project-management-and-accounting"></a>परियोजना प्रबंधन और लेखांकन के उपयोग से Dynamics 365 Finance के मौजूदा ग्राहक 
+## <a name="existing-customers-of-dynamics-365-finance-using-project-management-and-accounting"></a>Dynamics 365 Finance के मौजूदा ग्राहक परियोजना प्रबंधन और लेखांकन का उपयोग कर रहे हैं 
 
 Finance के मौजूदा ग्राहक जो परियोजना प्रबंधन और लेखा कार्यक्षमता का उपयोग करते हैं, वे इसका, इसी तरह से उपयोग करना जारी रख सकते हैं. देखें [स्टॉक/उत्पादन आदेश परिदृश्यों के लिए Project Operations](#pma).
 
@@ -42,7 +42,7 @@ Project Operations आपकी आवश्यकताओं से मेल 
 - [संसाधन/गैर-स्टॉक परिदृश्यों के लिए Project Operations](#integrated)
 - [स्टॉक/उत्पादन ऑर्डर परिदृश्यों के लिए Project Operations](#pma)
 
-Project Operations कानूनी निकाय-स्तर के कॉन्फ़िगरेशन के माध्यम से एक ही परिवेश पर स्टॉक/उत्पादन आदेश परिदृश्यों और गैर-स्टॉक/संसाधन-आधारित परिदृश्यों का समर्थन करते हैं. उदाहरण के लिए, Contoso अपनी अमेरिकी विनिर्माण सुविधा (कानूनी निकाय = Contoso विनिर्माण संयुक्त राज्य अमेरिका) में स्टॉक किए गए/उत्पादित ऑर्डर की क्षमताओं का उपयोग कर सकता है. Contoso ब्रिटेन में अपने Contoso रोबोटिक्स आर्म्स सर्विसिंग सुविधा में बिना स्टॉक किए गए/संसाधन-आधारित क्षमताओं का उपयोग कर सकता है (कानूनी निकाय = Contoso रोबोटिक्स यूनाइटेड किंगडम).
+Project Operations कानूनी निकाय-स्तर के कॉन्फ़िगरेशन के माध्यम से एक ही परिवेश पर स्टॉक/उत्पादन आदेश परिदृश्यों और गैर-स्टॉक/संसाधन-आधारित परिदृश्यों का समर्थन करते हैं. उदाहरण के लिए, Contoso अपनी अमेरिकी विनिर्माण सुविधा (कानूनी निकाय = Contoso विनिर्माण संयुक्त राज्य अमेरिका) में स्टॉक/उत्पादन आदेश क्षमताओं का उपयोग कर सकता है. Contoso यूनाइटेड किंगडम में अपने Contoso रोबोटिक्स आर्म्स सर्विसिंग सुविधा में गैर-स्टॉक/संसाधन-आधारित क्षमताओं का उपयोग कर सकता है (कानूनी निकाय = Contoso रोबोटिक्स यूनाइटेड किंगडम).
 
 ### <a name="lite-deployment---deal-to-proforma-invoicing"></a><a  name="lite"></a>लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
 

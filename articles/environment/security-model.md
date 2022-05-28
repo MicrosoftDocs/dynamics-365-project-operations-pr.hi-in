@@ -4,20 +4,20 @@ description: यह विषय Dynamics 365 Project Operations सुरक्
 author: stsporen
 ms.date: 10/01/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 2f283771921504dc29ddcc26ca659d4e151598840339bd8c1a857e8bf5dde9ed
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 8ba220097589655381ac1da5d4d926605c3ae672
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991488"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8585748"
 ---
 # <a name="security-model"></a>सुरक्षा मॉडल
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 Microsoft Dynamics 365 Project Operations में एक अद्वितीय सुरक्षा मॉडल है, जो भूमिका-आधारित व्यावसायिक सुरक्षा मॉडल की अनुमति देता है, जो सहयोग Microsoft Office समूह के साथ सहयोग करता है. 
 
@@ -70,7 +70,7 @@ Microsoft Dynamics 365 Project Operations में एक अद्विती
 
 अधिक जानकारी के लिए, [Common Data Service में सुरक्षा](/power-platform/admin/wp-security) देखें.
 
-## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>परियोजना संचालन और Microsoft Dynamics 365 Finance सुरक्षा
+## <a name="project-operations-and-microsoft-dynamics-365-finance-security"></a>परियोजना संचालन और Microsoft Dynamics 365 वित्त सुरक्षा
 परियोजना संचालन में निम्नलिखित भूमिकाएं शामिल हैं:
 
 - परियोजना प्रबंधक

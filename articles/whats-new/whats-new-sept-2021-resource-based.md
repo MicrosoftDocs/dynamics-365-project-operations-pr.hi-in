@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 09/12/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 842ea95892fa4f7a29a778cfd2c33a66e84f676c
-ms.sourcegitcommit: 74a7e1c9c338fb8a4b0ad57c5560a88b6e02d0b2
+ms.openlocfilehash: 06f23630ef0205394f376e5bb93a29ae8a9eab15
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "7547156"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8582896"
 ---
 # <a name="whats-new-september-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है सितंबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
 
@@ -21,7 +21,7 @@ ms.locfileid: "7547156"
 यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 
    - Microsoft Dataverse परिवेश संस्करण 4.14.0.99 में Project Operations.
-   - Dynamics 365 Finance परिवेश संस्करण 10.0.20 में प्रोजेक्ट प्रबंधन और लेखांकन.
+   - Dynamics 365 Finance पर्यावरण संस्करण 10.0.20 में परियोजना प्रबंधन और लेखांकन।
 
 ## <a name="project-operations-dual-write-maps-updates"></a>Project Operations ड्यूल-राइट मानचित्र अपडेट्स
 
@@ -45,7 +45,7 @@ ms.locfileid: "7547156"
 | बिलिंग और मूल्य निर्धारण | 2385802 | प्रोजेक्ट टोटल रिफ़्रेश होने पर निगेटिव वास्तविक घंटों के साथ होने वाली त्रुटि को ठीक किया गया. |
 | बिलिंग और मूल्य निर्धारण | 2389675 | बेहतर प्रोफार्मा चालान पुष्टिकरण व्यवहार. लंबे समय तक चलने वाली जॉब निकाय को लेखांकन के लिए पुष्टिकरण परिणाम लिखने के लिए आवश्यक गतिविधि को ध्यान में रखना चाहिए. |
 
-### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance में परियोजना प्रबंधन और लेखांकन
+### <a name="project-management-and-accounting-in-dynamics-365-finance"></a>Dynamics 365 Finance . में परियोजना प्रबंधन और लेखांकन
 
 | सुविधा क्षेत्र | संदर्भ संख्या | गुणवत्ता अद्यतन |
 | --- | --- | --- |

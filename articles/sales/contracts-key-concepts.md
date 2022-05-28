@@ -4,26 +4,26 @@ description: यह विषय परियोजना संचालन म
 author: rumant
 ms.date: 10/07/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ce84984f873e6336a6d065f0aa7a72f1474404a84d3dbb614c09d58bff66d83d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: f87a29893ca3d9bec6fbd07dded66a282ff597c3
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6986943"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8582942"
 ---
 # <a name="concepts-unique-to-project-based-contracts"></a>परियोजना-आधारित कॉन्ट्रैक्टों के लिए अद्वितीय अवधारणाएं
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 यह विषय Dynamics 365 Project Operations में परियोजना अनुबंधों का उपयोग करना शुरू करने से पहले वे मुख्य अवधारणाएँ प्रदान करना है, जिनसे अवगत रहना होता है:
 
 ## <a name="owning-company"></a>स्वामी कंपनी
 
-मालिक कंपनी **परियोजना प्रबंधन और लेखांकन** मॉड्यूल से Dynamics 365 Finance से परियोजना संचालन के लिए कानूनी इकाई है. मालिक कंपनी उस कानूनी इकाई का प्रतिनिधित्व करती है जो उस सौदे से होने वाली लागत और राजस्व का हिसाब करेगी.
+स्वामित्व वाली कंपनी से कानूनी इकाई है **परियोजना प्रबंधन और लेखा** Dynamics 365 Finance से परियोजना संचालन के लिए मॉड्यूल। मालिक कंपनी उस कानूनी इकाई का प्रतिनिधित्व करती है जो उस सौदे से होने वाली लागत और राजस्व का हिसाब करेगी.
 
 ## <a name="contracting-unit"></a>अनुबंध इकाई
 
