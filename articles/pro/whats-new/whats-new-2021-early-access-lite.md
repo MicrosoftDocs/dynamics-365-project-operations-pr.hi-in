@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 08/10/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a201e3e4333b8892eea72387222d64e18b74d71b
-ms.sourcegitcommit: 80aa1e8070f0cb4992ac408fc05bdffe47cee931
-ms.translationtype: HT
+ms.openlocfilehash: 7b5f3528e4b4e615b8e7f24bfd3702746fd584c9
+ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "7323913"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "8723678"
 ---
 # <a name="whats-new-2021-wave-2-early-access---project-operations-lite-deployment"></a>नया क्या है 2021 वेव 2 अर्ली एक्सेस - Project Operations लाइट परिनियोजन
 
@@ -26,7 +26,7 @@ _इस पर लागू होता है: लाइट परिनिय
 
 ## <a name="features-included-in-this-release"></a>इस रिलीज़ में शामिल की गई सुविधाएँ
 
-[उप-अनुबंध प्रबंधन](../subcontracting/subcontracting_EA_scope.md) - यह फ़ीचर किसी प्रोजेक्ट पर काम के सभी पहलुओं पर बेहतर दृश्यता और नियंत्रण प्रदान करती है. उप-अनुबंध प्रबंधन के पूर्वावलोकन में निम्नलिखित क्षमताएं शामिल हैं:
+[उप-अनुबंध प्रबंधन](/dynamics365/project-operations/pro/subcontracting/managing-subcontracts-overview) - यह फ़ीचर किसी प्रोजेक्ट पर काम के सभी पहलुओं पर बेहतर दृश्यता और नियंत्रण प्रदान करती है. उप-अनुबंध प्रबंधन के पूर्वावलोकन में निम्नलिखित क्षमताएं शामिल हैं:
 
   - प्रोजेक्ट प्रबंधक विक्रेता के साथ उप-अनुबंध बना सकता है. डिफ़ॉल्ट रूप से, उपअनुबंध के लिए विक्रेता रिकॉर्ड से जुड़ी मूल्य सूचियों का उपयोग किया जाता है. विक्रेता खाते का संबंध प्रकार **विक्रेता** या **आपूर्तिकर्ता** होता है.
   - प्रोजेक्ट प्रबंधक उप-अनुबंध पर सभी खरीद को लाइन आइटम के रूप में सूचीबद्ध कर सकता है. उपअनुबंध लाइनें समय, व्यय या उत्पादों के लिए हो सकती हैं. उप-अनुबंध लाइन का लेन-देन वर्ग निर्धारित करता है कि लाइन किस लिए है.

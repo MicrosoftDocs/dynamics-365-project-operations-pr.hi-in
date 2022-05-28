@@ -1,24 +1,23 @@
 ---
 title: ख़र्च रसीद संसाधित करना
-description: यह विषय रसीदों के लिए ऑप्टिकल कैरेक्टर रिकॉग्निशन (OCR) प्रक्रिया के बारे में जानकारी देता है. जब Microsoft Dynamics 365 Finance में ख़र्च रिपोर्ट बनाई जाती है तो यह सुविधा उपयोगकर्ता के अनुभव को बेहतर बनाने के लिए डिज़ाइन की गई है.
+description: यह विषय रसीदों के लिए ऑप्टिकल कैरेक्टर रिकॉग्निशन (OCR) प्रक्रिया के बारे में जानकारी देता है. जब व्यय रिपोर्टें बनाई जाती हैं तो यह सुविधा उपयोगकर्ता अनुभव को बेहतर बनाने के लिए डिज़ाइन की गई है Microsoft Dynamics 365 वित्त।
 author: stsporen
 ms.date: 05/14/2020
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Operations, Core
+ms.reviewer: johnmichalak
 ms.search.region: Global
 ms.author: stsporen
 ms.search.validFrom: 2019-11-20
 ms.dyn365.ops.version: 10.0.8
-ms.openlocfilehash: 0d43c44bf4f2a58e3249d6cc1028353555cfd836580a802ad6e1878dc9b2e263
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 067432106742447d2b8fa215ec05bf05f4b41e70
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001388"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8684322"
 ---
 # <a name="expense-receipt-processing"></a>ख़र्च रसीद संसाधित करना
 
@@ -51,7 +50,7 @@ ms.locfileid: "7001388"
 
 यह सुविधा ख़र्च अनुभव को सरल बनाने में मदद करने के लिए **पुनर्कल्पित ख़र्च रिपोर्ट** के साथ मेल से कार्य करती है. यह सुविधा केवल टियर 2 + परिवेश के लिए उपलब्ध है, जो Sandbox और Production हैं.
 
-इन उन्नत व्यय क्षमताओं को इस्तेमाल करने के लिए Microsoft Dynamics 365 Finance के लिए Expense Management Service ऐड-इन इंस्टॉल करें, और और अपने इंस्टेंस में फ़ीचर चालू करें. आप Microsoft Dynamics Lifecycle Services (LCS) में अपनी परियोजना से ऐड-इन में प्रवेश कर सकते हैं.
+इन उन्नत व्यय क्षमताओं का उपयोग करने के लिए, इसके लिए व्यय प्रबंधन सेवा ऐड-इन स्थापित करें Microsoft Dynamics 365 वित्त, और अपने उदाहरण में सुविधाओं को चालू करें। आप Microsoft Dynamics Lifecycle Services (LCS) में अपनी परियोजना से ऐड-इन में प्रवेश कर सकते हैं.
 
 1. LCS में साइन इन करें और वांछित परिवेश खोलें.
 2. **पूर्ण विवरण** पर जाएं.

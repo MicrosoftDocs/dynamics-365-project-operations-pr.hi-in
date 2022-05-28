@@ -3,25 +3,23 @@ title: ख़र्च प्रबंधन का अवलोकन
 description: यह विषय ख़र्च प्रबंधन और अतिरिक्त संसाधनों के लिंक के बारे में सामान्य जानकारी प्रदान करता है. आप एक एकीकृत कार्यप्रवाह बनाने के लिए ख़र्च प्रबंधन का उपयोग कर सकते हैं जहां आप भुगतान विधि की जानकारी को संग्रह कर सकते हैं, क्रेडिट कार्ड लेनदेन आयात कर सकते हैं, और कर्मचारियों द्वारा आपके व्यवसाय के लिए खर्च उठाने पर ख़र्च किए जाने वाले पैसे की निगरानी कर सकते हैं.
 author: ShylaThompson
 ms.date: 07/25/2019
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
 ms.technology: ''
 ms.search.form: TrvExpenseWorkspace
 audience: Application User, IT Pro
-ms.reviewer: roschlom
-ms.search.scope: Core, Operations
-ms.custom: intro-internal
+ms.reviewer: johnmichalak
 ms.assetid: 2d97d69b-9c08-4f0d-9637-68759fd34d34
 ms.search.region: Global
 ms.author: shylaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: b069b5101c0b093bea5ddb7c02d4e0f5fedd09b7ae051dca96f620b164c17fd3
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 93a8581db26dfecb9f847740c979e096dc3e227d
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001433"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8684828"
 ---
 # <a name="expense-management-overview"></a>ख़र्च प्रबंधन का अवलोकन
 
@@ -45,7 +43,7 @@ ms.locfileid: "7001433"
 
 ### <a name="blogs"></a>ब्लॉग्स
 
-आप [Microsoft Dynamics 365 ब्लॉग](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) और [Microsoft Dynamics 365 Finance and Operations - वित्तीय ब्लॉग](https://community.dynamics.com/365/financeandoperations/b/financials)पर सलाहें, न्यूज़ और अन्य जानकारी पा सकते हैं.
+आप इस पर राय, समाचार और अन्य जानकारी प्राप्त कर सकते हैं [Microsoft Dynamics 365 ब्लॉग](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) और यह [Microsoft Dynamics 365 वित्त और संचालन - वित्तीय ब्लॉग।](https://community.dynamics.com/365/financeandoperations/b/financials)
 
 [Microsoft Dynamics संचालन साथी कम्युनिटी ब्लॉग](https://community.dynamics.com/partner/b/operationspartnercommunityblog) देता है Microsoft Dynamics को एकल संसाधन देता है जहां वे सीख सकते हैं कि MBS Operations में नया और ट्रेंडिंग क्या है.
 

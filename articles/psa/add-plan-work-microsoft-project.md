@@ -16,12 +16,13 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: ccebf1439f49092b23da5b4fc2ebb4fc484de4dd17c870eea9fe37b00fbb3689
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 460b5bb7baabcb804b9745f5fddae9bcc3fc7541
+ms.sourcegitcommit: 30242d7754bca300b594b0887eb4212d10bea1c4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005303"
+ms.lasthandoff: 05/07/2022
+ms.locfileid: "8727960"
 ---
 # <a name="use-the-project-service-automation-add-in-to-plan-your-work-in-microsoft-project"></a>Microsoft Project में आपके कार्य की योजना बनाने के लिए Project Service Automation ऐड-इन का उपयोग करें
 
@@ -40,7 +41,7 @@ ms.locfileid: "7005303"
 ## <a name="download-and-install-the-add-in"></a>ऐड-इन डाउनलोड और स्थापित करें  
  अपनी [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] साइन-इन जानकारी तैयार रखें. [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] से [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] पर कनेक्ट करने के लिए आपको इस जानकारी की आवश्यकता होगी.  
 
-1.  डाउनलोड केंद्र से आप, Project Service के अपने समर्थित संस्करण [V2.X](https://go.microsoft.com/fwlink/?linkid=828268) या [V3.4+](https://www.microsoft.com/download/details.aspx?id=57956) के लिए ऐड-इन डाउनलोड कर सकते हैं.  
+1.  डाउनलोड केंद्र से आप, Project Service के अपने समर्थित संस्करण [V2.X](/dynamics365/project-operations/psa/overview#guidance-for-earlier-versions-app-version-2x-or-1x) या [V3.4+](https://www.microsoft.com/download/details.aspx?id=57956) के लिए ऐड-इन डाउनलोड कर सकते हैं.  
 
 2.  डाउनलोड लिंक पर क्लिक करें.  
 
@@ -87,9 +88,8 @@ ms.locfileid: "7005303"
 
 परियोजना [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] में आयात हो जाएगी. मूल्य निर्धारण और टीम जनरेशन प्रक्रिया लागू की जाती है. यह देखने के लिए [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] में परियोजना को खोलें कि टीम, परियोजना अनुमान और कार्य विश्लेषण संरचना जनरेट किए गए हैं. निम्न तालिका दिखाती है कि परिणामों को कहाँ खोजना है:
 
-
-|                                                                                          |                                                                                                                                   |
-|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Project | Details |
+| ---- | --- |
 |  [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **गैंट चार्ट**   | [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **कार्य विश्लेषण संरचना** स्क्रीन में आयात करता है. |
 | [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **संसाधन पत्रक** |   [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **परियोजना Team Members** स्क्रीन में आयात करता है.   |
 |   [!INCLUDE[pn_microsoft_project](../includes/pn-microsoft-project.md)] **उपयोग का उपयोग करें**    |    [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] **परियोजना अनुमान** स्क्रीन में आयात करता है.     |

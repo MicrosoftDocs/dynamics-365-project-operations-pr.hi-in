@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 07/07/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 69507427521466335df9cbbaba79db1cfc7be91386b8b2ded5b1c384555946ee
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 1c88f3b4747005bee0d68d0e8a4314c01ffdaf34
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008048"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8600882"
 ---
 # <a name="whats-new-july-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है जुलाई 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
 
@@ -21,7 +21,7 @@ ms.locfileid: "7008048"
 यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 
    - Microsoft Dataverse परिवेश संस्करण 4.12.0.148 या 4.12.0.152 में Project Operations.
-   - Dynamics 365 Finance परिवेश संस्करण 10.0.20 में प्रोजेक्ट प्रबंधन और लेखांकन.
+   - Dynamics 365 Finance पर्यावरण संस्करण 10.0.20 में परियोजना प्रबंधन और लेखांकन।
 
 ## <a name="features-included-in-this-release"></a>इस रिलीज़ में शामिल की गई सुविधाएँ
 
@@ -80,7 +80,7 @@ ms.locfileid: "7008048"
 | सामान्य                       | 2253682              | जब ड्यूल-राइट ऑर्केस्ट्रेशन समाधान के बिना किसी परिवेश में ड्यूल-राइट कोर इंस्टॉल किया जाता है, तो Project Operations ड्यूल-राइट समादान इंस्टॉल नहीं किया जाना चाहिए.                                                |
 | सामान्य                       | 2316420              | Project service कोर प्रावधान विफल हो जाते हैं, यदि अनुप्रयोग उपयोगकर्ता की व्यावसायिक इकाई बदल दी जाती है.                                                                                                                     |
 | सामान्य                       | 2376405              | निश्चित प्रकाशक द्वारा संचालित अपडेट समस्या (गुणवत्ता अपडेट संस्करण 4.12.0.152 में उपलब्ध है)                                                                                                                     |
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance पर परियोजना प्रबंधन और लेखांकन
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance . पर परियोजना प्रबंधन और लेखांकन
 
 | सुविधा क्षेत्र                      | संदर्भ संख्या | गुणवत्ता अद्यतन                                                                                                                                                                                                                                                                                                                |
 |-----------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

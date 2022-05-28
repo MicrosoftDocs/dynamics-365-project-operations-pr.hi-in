@@ -4,14 +4,14 @@ description: इस विषय में कस्टम मूल्य न�
 author: Rumant
 ms.date: 11/09/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 753f0c4496bafd43d7e4a399cedeb355c2163c7ce56d932b2c786d5f2e672b6b
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 82593d3d00b008c1922d70c508bc77624aeb46b3
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6992208"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8601112"
 ---
 # <a name="create-a-solution-for-custom-pricing-dimensions"></a>कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ
 
@@ -23,7 +23,7 @@ ms.locfileid: "6992208"
 ## <a name="create-a-solution-for-custom-pricing-dimensions"></a>कस्टम मूल्य निर्धारण आयामों के लिए एक समाधान बनाएँ
 
 1.  **सेटिंग** > **समाधान** चुने और फिर उसके बाद **नया** चुनें.
-2.  समाधान को नाम दें, *<your organization name> मूल्य निर्धारण आयाम*.
+2.  समाधान को नाम दें, *\<your organization name\> मूल्य निर्धारण आयाम*.
 3. शेष आवश्यक जानकारी दर्ज करें और फिर **सहेजें** चुनें.
 
   ![कस्टम मूल्य निर्धारण आयाम समाधान का निर्माण.](./media/Creation-of-custom-pricing-dimension-solution.png)

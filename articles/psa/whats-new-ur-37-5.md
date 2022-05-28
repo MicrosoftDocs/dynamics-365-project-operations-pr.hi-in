@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation के अपडेट रिलीज़ 37.5, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
-description: यह विषय Microsoft Dynamics 365 Project Service Automation अपडेट रिलीज़ 37.5, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है।
+description: यह विषय Microsoft Dynamics 365 Project Service Automation Update Release 37.5, V3 में उपलब्ध फ़ीचर और सुधारों को सूचीबद्ध करता है.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 11/15/2021
@@ -15,18 +15,19 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: f4bb9a33f72cd98b74a4576bcc2a3760b42b3486
-ms.sourcegitcommit: 6a852ca1e3aacb55d7357cd474d2f07b39381f03
+ms.reviewer: johnmichalak
+ms.openlocfilehash: f36d15bdce7b7b243cf26f6513665c6519bee8fa
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "7816662"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8601158"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-375-v3"></a>Project Service Automation के अपडेट रिलीज़ 37.5, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-हमें Microsoft Dynamics 365 Project Service Automation ऐप के लिए नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है। इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह Dynamics 365 9.x से मेल के योग्य है. इस रिलीज़ में अद्यतन करने के लिए, Dynamics 365 ऑनलाइन समाधान के लिए व्यवस्थापन केंद्र पृष्ठ पर जाएं और अद्यतन इंस्टॉल करें. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
+हमें Microsoft Dynamics 365 Project Service Automation अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह Dynamics 365 9.x से मेल के योग्य है. इस रिलीज़ में अद्यतन करने के लिए, Dynamics 365 ऑनलाइन समाधान के लिए व्यवस्थापन केंद्र पृष्ठ पर जाएं और अद्यतन इंस्टॉल करें. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
 
 यह विषय Project Service Automation अद्यतन रिलीज़ 37.5, V3 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस संस्करण की निर्माण संख्या V3.10.58.130 है और आम तौर पर नवंबर 2021 में स्वयं-अपडेट के माध्यम से उपलब्ध है.
 

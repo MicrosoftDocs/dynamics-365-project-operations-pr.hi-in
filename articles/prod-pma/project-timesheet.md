@@ -7,8 +7,7 @@ ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: ''
 ms.assetid: ''
 ms.search.region: Global
@@ -16,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: df6d286b6d5716fb0ea908ed71c2257b4db21ecfd35148fea65dfd96e058ac9a
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: cd5ea257472ef8dfa0d7181223a518c677c6d77b
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6997203"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683130"
 ---
 # <a name="project-timesheet-mobile-application"></a>प्रोजेक्ट टाइमशीट मोबाइल अनुप्रयोग
 
@@ -29,7 +28,7 @@ ms.locfileid: "6997203"
 
 ## <a name="overview"></a>अवलोकन
 
-Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग उपयोगकर्ताओं को उनके मोबाइल डिवाइस (iPhone या Android) पर परियोजनाओं के लिए टाइमशीट सबमिट करने और अनुमोदित करने में सक्षम बनाता है. यह मोबाइल अनुप्रयोग टाइमशीट की कार्यक्षमता दिखाती है जो Dynamics 365 Finance के परियोजना प्रबंधन और लेखांकन क्षेत्र में होती है, उपयोगकर्ता की उत्पादकता और दक्षता में सुधार करती है, साथ ही समय पर प्रवेश और परियोजना टाइमशीट के अनुमोदन को सक्षम बनाती है.
+Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग उपयोगकर्ताओं को उनके मोबाइल डिवाइस (iPhone या Android) पर परियोजनाओं के लिए टाइमशीट सबमिट करने और अनुमोदित करने में सक्षम बनाता है. यह मोबाइल ऐप टाइमशीट की कार्यक्षमता को पेश करता है जो Dynamics 365 Finance के प्रोजेक्ट मैनेजमेंट और अकाउंटिंग क्षेत्र में रहता है, उपयोगकर्ता उत्पादकता और दक्षता में सुधार करता है, साथ ही प्रोजेक्ट टाइमशीट के समय पर प्रवेश और अनुमोदन को सक्षम करता है।
 
 ## <a name="download-and-install-the-mobile-app"></a>मोबाइल अनुप्रयोग डाउनलोड और स्थापित करें
 

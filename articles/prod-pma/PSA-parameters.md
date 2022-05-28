@@ -1,32 +1,31 @@
 ---
 title: Project Service Automation एकीकरण मानक
-description: यह विषय आंकड़े कैसे दर्ज करते हैं, को कन्फीगर करना बताता है, जब आप Dynamics 365 Finance के साथ Microsoft Dynamics 365 for Project Service Automation का एकीकरण करते हैं.
+description: यह विषय बताता है कि जब आप एकीकृत करते हैं तो डिफ़ॉल्ट डेटा कैसे दर्ज किया जाता है, इसे कैसे कॉन्फ़िगर किया जाए Microsoft Dynamics 365 for Project Service Automation साथ Microsoft Dynamics 365 वित्त।
 author: ruhercul
 ms.date: 03/03/2020
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: kfend
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 87983
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: b58f34cb74be531a98518100158f39d74f136afc34444468d666cd4e9394af6f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 70dcf44c0948bfb8f17c51e052b6c76e029d35fd
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005843"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683678"
 ---
 # <a name="project-service-automation-integration-parameters"></a>Project Service Automation एकीकरण मानक
 
 [!include[banner](../includes/banner.md)]
 
-**Project Service Automation एकीकरण मानक** पृष्ठ पर आप यह कन्फीगर कर सकते हैं कि जब आप Dynamics 365 Finance के साथ Dynamics 365 Project Service Automation का एकीकरण करते हैं तो डिफॉल्ट आंकड़े कैसे दर्ज होते हैं. Project Service Automation से फाइनेंस में परियोजना को सफलतापूर्वक संकालित करने के लिए, आपको निम्न फील्ड को सेट करना होगा.
+पर **Project Service Automation एकीकरण पैरामीटर** पृष्ठ, आप कॉन्फ़िगर कर सकते हैं कि जब आप एकीकृत करते हैं तो डिफ़ॉल्ट डेटा कैसे दर्ज किया जाता है Dynamics 365 Project Service Automation Dynamics 365 Finance के साथ। Project Service Automation से फाइनेंस में परियोजना को सफलतापूर्वक संकालित करने के लिए, आपको निम्न फील्ड को सेट करना होगा.
 
 **Project Service Automation एकीकरण मानक** p को खोलने के लिए **परियोजना प्रबंधन एवं लेखांकन** \> **सेट अप** \> **एकीकरण मानक** के लिए Dynamics 365 for Project Service Automation पर जाएं. 
 

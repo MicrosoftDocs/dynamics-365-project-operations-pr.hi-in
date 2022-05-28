@@ -1,33 +1,31 @@
 ---
 title: Project Service Automation अवलोकन
-description: यह विषय Dynamics 365 Project Service Automation के Dynamics 365 Finance में एकीकरण समाधान के बारे में जानकारी प्रदान करता है.
+description: यह विषय इसके बारे में जानकारी प्रदान करता है Dynamics 365 Project Service Automation Dynamics 365 Finance एकीकरण समाधान के लिए।
 author: ruhercul
 ms.date: 07/25/2019
-ms.topic: article
+ms.topic: overview
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: ruhercul
-ms.search.scope: Core, Operations
-ms.custom: intro-internal
+ms.reviewer: johnmichalak
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: ruhercul
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 551d511fda83857459a0488cfb48a9c7829171d2e4bd526ab27b4ee74b21910d
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 1b8588e664f140ca1b0dd740d27fe6a5137da595
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7005888"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8685518"
 ---
 # <a name="project-service-automation-overview"></a>Project Service Automation अवलोकन
 
 [!include[banner](../includes/banner.md)]
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-यह विषय Dynamics 365 Project Service Automation के Dynamics 365 Finance में एकीकरण समाधान डेटा एकीकरण सुविधा का उपयोग Common Data Service के माध्यम से Dynamics 365 Finance और Dynamics 365 Project Service Automation के इंस्टेंस में डेटा को सिंक्रनाइज़ करने के लिए करता है. डेटा एकीकरण फ़ीचर के साथ उपलब्ध एकीकरण टेम्पलेट Project Service Automation से Finance में परियोजनाओं, परियोजना अनुबंधों, परियोजना अनुबंध लाइनों, परियोजना अनुबंध लाइन उपलब्धि, परियोजना कार्य, व्यय लेनदेन श्रेणियों और व्यय अनुमान के प्रवाह को सक्षम करते हैं.
+
+प्रोजेक्ट सर्विस ऑटोमेशन टू फाइनेंस इंटीग्रेशन सॉल्यूशन Dynamics 365 Finance के उदाहरणों में डेटा को सिंक्रोनाइज़ करने के लिए डेटा इंटीग्रेशन फीचर का उपयोग करता है और Dynamics 365 Project Service Automation के जरिए ।Common Data Service डेटा एकीकरण फ़ीचर के साथ उपलब्ध एकीकरण टेम्पलेट Project Service Automation से Finance में परियोजनाओं, परियोजना अनुबंधों, परियोजना अनुबंध लाइनों, परियोजना अनुबंध लाइन उपलब्धि, परियोजना कार्य, व्यय लेनदेन श्रेणियों और व्यय अनुमान के प्रवाह को सक्षम करते हैं.
 
 > [!NOTE]
 > - यदि आप वर्जन 7.3.0 का इस्तेमाल कर रहे हैं तो आपको KB 4074835 इंस्टॉल करना चाहिए. इसके बाद आप निर्धारित मूल्य परियोजनाओं को एकीकृत कर पाएंगे.

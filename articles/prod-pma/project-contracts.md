@@ -8,20 +8,19 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ProjProjectContractsListPage, ProjProjectsListPage
 audience: Application User, IT Pro
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 23561
 ms.assetid: bfd18d9b-d9a6-4e21-bc95-bf4af45f617f
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1b92668c38071e8b1afdee9a79fd4a25190248ada30380bfb79054a6dc587f95
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 8cfc5183ce28574d865389eba72cafd3528741cc
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001028"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683494"
 ---
 # <a name="project-contracts"></a>परियोजना अनुबंध
 
@@ -45,7 +44,7 @@ ms.locfileid: "7001028"
 -   एक सड़क परियोजना दो नगर पालिकाओं द्वारा सह-वित्तपोषित है.
 -   एक पुल परियोजना एक सरकारी अनुदान और एक निजी निगम द्वारा वित्तपोषित है.
 
-Dynamics 365 Finance में, आप एक ही लेनदेन के लिए बिलिंग को विभाजित कर सकते हैं या कई ग्राहकों, अनुदानों या संगठनों के बीच एक पूरी परियोजना के लिए बिलिंग को विभाजित कर सकते हैं. 
+Dynamics 365 Finance में, आप एकल लेन-देन या संपूर्ण प्रोजेक्ट के लिए बिलिंग को कई ग्राहकों, अनुदानों या संगठनों के बीच विभाजित कर सकते हैं। 
 
 जिन परियोजनाओं में कई वित्तपोषक हैं, उन सभी पक्षों को जो एक उन्नत वित्तपोषण परियोजना के वित्तपोषण में योगदान देते हैं, उन्हें वित्तपोषण स्रोत कहा जाता है. एक ग्राहक, संगठन या अनुदान को वित्तपोषण स्रोत के रूप में परिभाषित करने के बाद, इसे एक या अधिक वित्तपोषण नियमों को सौंपा जा सकता है. वित्तपोषण नियमों में मानदंड होते हैं जो यह निर्धारित करते हैं कि किसी परियोजना के लिए विभिन्न वित्तपोषण स्रोतों को शुल्क कैसे आवंटित किए जाते हैं. 
 

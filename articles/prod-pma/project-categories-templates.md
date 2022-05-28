@@ -1,32 +1,31 @@
 ---
-title: Finance and Operations और Project Service Automation के बीच परियोजना व्यय श्रेणियों को सिन्क्रोनाइज करें
-description: यह विषय टेम्पलेट्स और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग Microsoft Dynamics 365 Finance और Dynamics 365 Project Service Automation के बीच परियोजना व्यय श्रेणियों को सिन्क्रोनाइज करने के लिए किया जाता है.
+title: वित्त और संचालन और परियोजना सेवा स्वचालन के बीच परियोजना व्यय श्रेणियों को सिंक्रनाइज़ करें
+description: यह विषय उन टेम्प्लेट और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग परियोजना व्यय श्रेणियों के बीच सिंक्रनाइज़ करने के लिए किया जाता है Microsoft Dynamics 365 वित्त और Dynamics 365 Project Service Automation.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 87983
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 52c79f8b641d4b2df3b30964331633f2487402f8f8d229b540f9544c0f848557
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: c5513285c8beb96e2aa8b9c67ebde38b3c938edd
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7001118"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8685472"
 ---
-# <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>Finance and Operations और Project Service Automation के बीच परियोजना व्यय श्रेणियों को सिन्क्रोनाइज करें
+# <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>वित्त और संचालन और परियोजना सेवा स्वचालन के बीच परियोजना व्यय श्रेणियों को सिंक्रनाइज़ करें
 
 [!include[banner](../includes/banner.md)]
 
-यह विषय टेम्पलेट्स और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग Dynamics 365 Finance और Dynamics 365 Project Service Automation के बीच परियोजना व्यय श्रेणियों को सिन्क्रोनाइज करने के लिए किया जाता है.
+यह विषय उन टेम्प्लेट और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग परियोजना व्यय श्रेणियों को Dynamics 365 Finance और Dynamics 365 Project Service Automation.
 
 > [!NOTE]
 > - परियोजना कार्य एकीककरण, व्यय लेनदेन श्रेणियां, घंटा अनुमान, व्यय अनुमान, और कार्यात्मकता लॉकिंग वर्शन 8.0 में उपलब्ध है.
@@ -81,10 +80,10 @@ Project Service Automation और Finance एकीकरण समाधान 
 
 ### <a name="power-query"></a>Power Query
 
-जब आप Project Service Automation से सिन्क्रोनाइज कर रहे हैं, तो आपको लेनदेन श्रेणी पर बिलिंग प्रकार सेट करने के लिए Excel के लिए Microsoft Power Query का उपयोग करना होगा. परियोजना व्यय लेनदेन की श्रेणियों (Fin और Ops से PSA) का टेम्पलेट एक डिफ़ॉल्ट कॉलम और मानचित्रण प्रदान करता है. यदि आप अपना खुद का टेम्पलेट बनाते हैं, तो आपको Power Query में एक सशर्त कॉलम जोड़ना होगा. इन चरणों का अनुसरण करें.
+जब आप Project Service Automation के साथ सिंक्रनाइज़ कर रहे हों, तो आपको Microsoft का उपयोग करना चाहिए Power Query लेन-देन श्रेणी पर बिलिंग प्रकार सेट करने के लिए एक्सेल के लिए। परियोजना व्यय लेनदेन की श्रेणियों (Fin और Ops से PSA) का टेम्पलेट एक डिफ़ॉल्ट कॉलम और मानचित्रण प्रदान करता है. यदि आप अपना खुद का टेम्प्लेट बनाते हैं, तो आपको में एक सशर्त कॉलम जोड़ना होगा।Power Query इन चरणों का अनुसरण करें.
 
 1. परियोजना व्यय लेनदेन की श्रेणियों (Fin और Ops से PSA) के टेम्पलेट में परियोजना व्यय श्रेणियों के कार्य का मानचित्रण खोलने के लिए तीर पर क्लिक करें.
-2. Power Query खोलने के लिए **उन्नत क्वेरी और फ़िल्टरिंग** लिंक पर क्लिक करें.
+2. दबाएं **अग्रिम क्वेरी और फ़िल्टरिंग** खोलने के लिए लिंक।Power Query
 2. **सशर्त कॉलम जोड़ें** का चयन करें.
 3. नए स्तंभ के लिए एक नाम दर्ज करें, जैसे **बिलिंग प्रकार**.
 4. निम्नलिखित शर्त दर्ज करें: **यदि CATEGORYID शून्य के बराबर नहीं है तो 19235001, अन्यथा शून्य**.

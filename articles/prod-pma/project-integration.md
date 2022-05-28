@@ -8,26 +8,25 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ProjWbsTemplate
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 87983
 ms.assetid: b454ad57-2fd6-46c9-a77e-646de4153067
 ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2017-12-04
 ms.dyn365.ops.version: 7.2999999999999998
-ms.openlocfilehash: 8ef34bc984510f23ab77cc1710c06abbcf80f721703685d696fea28eeaddd732
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d2994195ba916ac7a128e8bdd53bea6acb7bd0ba
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6988023"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8684966"
 ---
 # <a name="microsoft-project-client-integration"></a>Microsoft Project Client एकीकरण
 
 [!include [banner](../includes/banner.md)]
 
-परियोजना शेड्यूल की योजना बनाना और उसे बनाए रखना जटिल हो सकता है, इसीलिए परियोजना प्रबन्धकों को ऐसे उपकरणों/साधनों का उपयोग करना होगा जो उन्हें इस कार्य को प्रबन्धित करने में सहायक हों. Microsoft Project Client के साथ एकीकरण, परियोजना कार्य विश्लेषण संरचना को खोलने और प्रबन्धित करने के लिए समर्थन प्रदान करता है. परियोजना प्रबन्धक Dynamics 365 Finance परियोजना कार्य विश्लेषण संरचना में किसी भी परिवर्तन को वापस प्रकाशित कर सकता है.
+परियोजना शेड्यूल की योजना बनाना और उसे बनाए रखना जटिल हो सकता है, इसीलिए परियोजना प्रबन्धकों को ऐसे उपकरणों/साधनों का उपयोग करना होगा जो उन्हें इस कार्य को प्रबन्धित करने में सहायक हों. Microsoft Project Client के साथ एकीकरण, परियोजना कार्य विश्लेषण संरचना को खोलने और प्रबन्धित करने के लिए समर्थन प्रदान करता है. प्रोजेक्ट मैनेजर Dynamics 365 Finance प्रोजेक्ट वर्क ब्रेकडाउन स्ट्रक्चर में किसी भी बदलाव को वापस प्रकाशित कर सकता है।
 
 > [!NOTE]
 > यदि आप जुलाई अपडेट (संस्करण 10.0.4) का उपयोग कर रहे हैं, तो आपको KB 4054797 और 4055884 इंस्टॉल करना होगा.
@@ -40,7 +39,7 @@ Microsoft Project Client के साथ एकीकरण सक्षम क
 •   **खोलें** पर क्लिक करें, और फिर अनुबोध कराए जाने पर **चलाएं** पर क्लिक करें.
 
 ## <a name="open-and-edit-an-existing-draft-work-breakdown-structure-in-microsoft-project-client"></a>Microsoft Project Client में मौजूदा प्रारूप कार्य विश्लेषण संरचना को खोलें और संपादित करें
-यदि Dynamics 365 Finance की किसी परियोजना में पहले से ही एक कार्य विश्लेषण संरचना है, तो कार्य विश्लेषण संरचना को Microsoft Project Client अनुप्रयोग में खोला जा सकता है, यदि कार्य-विश्लेषण संरचना एक प्रारूप स्थिति में है. **परियोजना** पृष्ठ से खोलने के लिए, **योजना** टैब से **Microsoft Project में खोलें** को क्लिक करें. इस पृष्ठ को Microsoft Project Client अनुप्रयोग के भीतर ही **Microsoft Dynamics 365** टैब में **खोलें** पर क्लिक करके भी खोला जा सकता है. सूची से **विधिक निकाय** और **परियोजना** चुनें.
+अगर Dynamics 365 Finance में किसी प्रोजेक्ट में पहले से ही वर्क ब्रेकडाउन स्ट्रक्चर बनाया गया है, तो वर्क ब्रेकडाउन स्ट्रक्चर को माइक्रोसॉफ्ट प्रोजेक्ट क्लाइंट एप्लिकेशन में खोला जा सकता है, अगर वर्क ब्रेकडाउन स्ट्रक्चर ड्राफ्ट स्टेटस में है। **परियोजना** पृष्ठ से खोलने के लिए, **योजना** टैब से **Microsoft Project में खोलें** को क्लिक करें. इस पृष्ठ को Microsoft Project Client अनुप्रयोग के भीतर ही **Microsoft Dynamics 365** टैब में **खोलें** पर क्लिक करके भी खोला जा सकता है. सूची से **विधिक निकाय** और **परियोजना** चुनें.
 
 > [!NOTE]
 > यदि आप अपने ब्राउज़र के रूप में Internet Explorer का उपयोग कर रहे हैं, तो आपको फ़ाइल के डाउनलोड होने वाले स्थान से मैन्युअल रूप से खोलने के लिए **सहेजें** पर क्लिक करना होगा. अथवा, Microsoft Project Client में फ़ाइल खोलने के लिए **सहेजें और खोलें** पर क्लिक करें. सहेजते समय फ़ाइल का नाम न बदलें.

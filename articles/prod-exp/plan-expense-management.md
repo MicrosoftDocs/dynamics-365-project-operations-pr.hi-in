@@ -1,6 +1,6 @@
 ---
 title: ख़र्च प्रबंधन कॉन्फ़िगर करें
-description: यह लेख Microsoft Dynamics 365 Finance में ख़र्च प्रबंधन को कॉन्फ़िगर करने से पहले योजना प्रक्रिया के दौरान किए जाने वाले विचारों और निर्णयों का वर्णन करता है.
+description: यह आलेख उन विचारों और निर्णयों का वर्णन करता है जो आपको व्यय प्रबंधन को कॉन्फ़िगर करने से पहले नियोजन प्रक्रिया के दौरान करना चाहिए Microsoft Dynamics 365 वित्त।
 author: KimANelson
 ms.date: 08/29/2017
 ms.topic: article
@@ -8,20 +8,19 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: GlobalCategory, ProjCategory, TrvLocations, TrvParameters, TrvPaymethod, TrvPerDiems
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 23001
 ms.assetid: aa3fd14d-7e94-4603-985f-ca26d6f860ea
 ms.search.region: Global
 ms.author: suvaidya
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: eca4362b0ff5d37b131e1d96e311aa48ac20397618314936944ba66e458dbdc2
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: d919a26000b127dd6fb2fd8a49d79e3087f1c403
+ms.sourcegitcommit: 7e419a5f73f80fa887084e3b212c90586fc397dd
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7007463"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "8710111"
 ---
 # <a name="configure-expense-management"></a>ख़र्च प्रबंधन कॉन्फ़िगर करें
 

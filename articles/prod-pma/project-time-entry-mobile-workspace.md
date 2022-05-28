@@ -7,8 +7,7 @@ ms.topic: article
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: josaw
-ms.search.scope: Core, Operations
+ms.reviewer: johnmichalak
 ms.custom: 272101
 ms.assetid: 4505f021-b9bb-4b87-be24-6bf0bd88ee60
 ms.search.region: Global
@@ -16,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: 04024cc005b67b8f4e5821b22be65cfd1822b2414c85e1fbb75c3b2ac4339dc4
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 64a80d931332a4d6edfcd175d7168a7815ddca38
+ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6989553"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "8683954"
 ---
 # <a name="project-time-entry-mobile-workspace"></a>प्रोजेक्ट टाइम एंट्री मोबाइल कार्यस्थान
 
@@ -45,7 +44,7 @@ ms.locfileid: "6989553"
 ## <a name="prerequisites"></a>पूर्वावश्यकताएँ
 Microsoft Dynamics 365 के संस्करण के आधार पर शर्तें अलग होती हैं, जिनको आपके संगठन के लिए तैनात किया गया है.
 
-### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>शर्तें अगर आप Dynamics 365 Finance इस्तेमाल करते हैं
+### <a name="prerequisites-if-you-use-dynamics-365-finance"></a>यदि आप Dynamics 365 Finance . का उपयोग करते हैं तो पूर्वापेक्षाएँ
 अगर Finance आपके संगठन के लिए तैनात किया गया है, तो सिस्टम व्यवस्थापक को **परियोजना समय प्रविष्टि** मोबाइल कार्यक्षेत्र प्रकाशित करना होगा. निर्देशों के लिए, [मोबाइल कार्यस्थान प्रकाशित करें](/dynamics365/fin-ops-core/dev-itpro/mobile-apps/publish-mobile-workspace) देखें.
 
 ### <a name="prerequisites-if-you-use-version-1611-with-platform-update-3-or-later"></a>शर्तें अगर आप प्लेटफ़ॉर्म अपडेट 3 का वर्जन 1611 या इसके बाद के वर्जन इस्तेमाल करते हैं
@@ -83,7 +82,7 @@ Microsoft Dynamics 365 के संस्करण के आधार पर �
 
 ## <a name="download-and-install-the-mobile-app"></a>मोबाइल अनुप्रयोग डाउनलोड और स्थापित करें
 
-Finance and Operations मोबाइल अनुप्रयोग डाउनलोड और स्थापित करें:
+वित्त और संचालन मोबाइल ऐप डाउनलोड और इंस्टॉल करें:
 
 -   [Android फ़ोन के लिए](https://go.microsoft.com/fwlink/?linkid=850662)
 -   [iPhone के लिए](https://go.microsoft.com/fwlink/?linkid=850663)
