@@ -6,7 +6,7 @@ ms.date: 09/18/2020
 ms.topic: article
 ms.prod: ''
 audience: Application User
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.search.scope: ''
 ms.custom: ''
 ms.assetid: ''
@@ -15,18 +15,18 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 0a5ae29f1a11f62c6edfca64c4751338f42a26f24c4f8230018b0b45a4ee2ddb
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: a20b4518954cce755555b95cc7fd9e6efb1a7322
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6999588"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8591820"
 ---
 # <a name="currency"></a>मुद्रा
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 मुद्राएँ उत्पाद कैटलॉग में उत्पादों के लिए मूल्यों और विक्रय ऑर्डर जैसे लेन-देनों की लागत का निर्धारण करती हैं. यदि आपके ग्राहक भौगोलिक क्षेत्रों में फैले हैं, तो अपने लेनदेन को प्रबंधित करने के लिए उनकी मुद्राओं को जोड़ें. ऐसी मुद्राएँ जोड़ें जो आपकी वर्तमान और भावी व्यावसायिक आवश्यकताओं के लिए सबसे उपयुक्त हो.  
 

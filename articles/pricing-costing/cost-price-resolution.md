@@ -4,14 +4,14 @@ description: यह विषय इस बारे में जानका�
 author: rumant
 ms.date: 04/09/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: f9a6c3236c1d523a967155d3f1fdbe05aa00001bcc36b38afd86270c4cd1d7cc
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 7395a1845f4a895efbabda36ba3b2a2f3c1eea52
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7003683"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8587910"
 ---
 # <a name="resolving-cost-prices-for-estimates-and-actuals"></a>अनुमानों और वास्तविक आँकड़ों के लिए लागत मूल्यों को तय करना
 

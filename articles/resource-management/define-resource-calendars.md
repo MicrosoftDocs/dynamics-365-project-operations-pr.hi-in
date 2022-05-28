@@ -4,14 +4,14 @@ description: यह विषय Project Operations में साधनों
 author: ruhercul
 ms.date: 10/05/2020
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: ff10da57fd0767b00282537b241d5d16d95feca8741a620a277306bd8aa53ce5
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 58247bece5d424c07fc8f864ec6e541d6ac3fb37
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6990318"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8593292"
 ---
 # <a name="define-resource-calendars"></a>संसाधन कैलेंडरों को परिभाषित करें
 

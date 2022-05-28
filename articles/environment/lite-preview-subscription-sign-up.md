@@ -4,14 +4,14 @@ description: यह विषय Project Operations लाइट नियोज
 author: sigitac
 ms.date: 07/02/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 5ba43ba9f917da068415fb62067ab73433b701139ee07014b6bd8c02612008ce
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 3b06ac29e8021967490534d3aefc8b5ce733413b
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6991533"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8588002"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट 
 
@@ -43,7 +43,7 @@ ms.locfileid: "6991533"
 > निम्नलिखित चरणों को पूरा करने के लिए आपको अपने संगठन के Microsoft 365 पोर्टल तक प्रशासनिक पहुंच की आवश्यकता होगी.
 
 
-1. अपने उपयोगकर्ताओं को लाइसेंस आवंटित करने के लिए [Microsoft 365 व्यवस्थापक केंद्र](https://portal.office.com/) पर जाएं.
+1. के लिए जाओ [Microsoft 365 प्रशासन केंद्र](https://portal.office.com/) अपने उपयोगकर्ताओं को लाइसेंस सौंपने के लिए।
 2. **सक्रिय उपयोगकर्ता** पृष्ठ पर उन उपयोगकर्ताओं का चयन करें, जिन्हें आप लाइसेंस देना चाहते हैं.
 3. सत्यापित करें कि **Dynamics 365 Project Operations** लाइसेंस चुना गया है. 
 4. **परिवर्तन सहेजे** का चयन करें.

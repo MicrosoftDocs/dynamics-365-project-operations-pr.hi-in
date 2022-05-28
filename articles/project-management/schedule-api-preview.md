@@ -2,16 +2,16 @@
 title: शेड्यूलिंग निकायों के साथ संचालन करने के लिए प्रोजेक्ट शेड्यूल API का उपयोग करें
 description: यह विषय प्रोजेक्ट शेड्यूल API का उपयोग करने के लिए जानकारी और नमूने प्रदान करता है.
 author: sigitac
-ms.date: 09/09/2021
+ms.date: 01/13/2022
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 6be35b1c52996f4f94dc429974ef47343a027c8c
-ms.sourcegitcommit: bbe484e58a77efe77d28b34709fb6661d5da00f9
-ms.translationtype: HT
+ms.openlocfilehash: cabdf9716e4e25ed682368b99a87b3a3bf483cca
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "7487687"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8592050"
 ---
 # <a name="use-project-schedule-apis-to-perform-operations-with-scheduling-entities"></a>शेड्यूलिंग निकायों के साथ संचालन करने के लिए प्रोजेक्ट शेड्यूल API का उपयोग करें
 
@@ -42,7 +42,7 @@ OperationSet एक यूनिट-ऑफ-वर्क पैटर्न ह�
 
 निम्नलिखित वर्तमान प्रोजेक्ट शेड्यूल API की सूची है.
 
-- **msdyn_CreateProjectV1**: इस API का उपयोग एक प्रोज़ेक्ट बनाने के लिए किया जा सकता है. प्रोज़ेक्ट और डिफॉल्ट प्रोज़ेक्ट बकेट तुरंत बनाया जाता है.
+- **msdyn_CreateProjectV1**: इस API का उपयोग एक प्रोज़ेक्ट बनाने के लिए किया जा सकता है. प्रोजेक्ट और डिफ़ॉल्ट प्रोजेक्ट बकेट तुरंत बनाए जाते हैं।
 - **msdyn_CreateTeamMemberV1**: इस API का उपयोग प्रोज़ेक्ट टीम के सदस्य बनाने के लिए किया जा सकता है. टीम के सदस्य का रिकार्ड तुरंत बनाया जाता है.
 - **msdyn_CreateOperationSetV1**: इस एपीआई का उपयोग कई अनुरोधों को शेड्यूल करने के लिए किया जा सकता है जिन्हें लेनदेन के भीतर किया जाना चाहिए.
 - **msdyn_PSSCreateV1**: इस एपीआई का उपयोग एक निकाय बनाने के लिए किया जा सकता है. निकाय कोई भी प्रोजेक्ट शेड्यूलिंग निकाय हो सकता है, जो निर्माण कार्य का समर्थन करता है.
@@ -58,12 +58,12 @@ OperationSet एक यूनिट-ऑफ-वर्क पैटर्न ह�
 
 | निकाय शेड्यूलिंग | निर्माण करें | अद्यतित करें | हटाएं | महत्वपूर्ण विचार |
 | --- | --- | --- | --- | --- |
-परियोजना कार्य | हाँ | हाँ | हाँ | कुछ नहीं |
-| प्रोज़ेक्ट कार्य निर्भरता | हाँ | हाँ | | प्रोज़ेक्ट कार्य निर्भरता रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बजाय, एक पुराना रिकॉर्ड हटाया जा सकता है और एक नया रिकॉर्ड बनाया जा सकता है. |
-| रिसोर्स असाइनमेंट | हाँ | हाँ | | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **BookableResourceID**, **प्रयास**,**EffortCompleted**, **EffortRemaining**, और **PlannedWork**. संसाधन असाइनमेंट रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बदले पुराना रिकॉर्ड डिलीट किया जा सकता है और नया रिकॉर्ड बनाया जा सकता है. |
-| प्रोज़ेक्ट बकेट | लागू नहीं | लागू नहीं | लागू नहीं | डिफ़ॉल्ट बकेट **CreateProjectV1** API का उपयोग करके बनाई गई है. |
-| प्रोजेक्ट टीम सदस्य | हाँ | हाँ | हाँ | बनाने के ऑपरेशन के लिए, **CreateTeamMemberV1** API का उपयोग करें. |
-| Project | हाँ | हाँ | लागू नहीं | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **प्रयास**, **EffortCompleted**, **EffortRemaining**, **प्रगति**, **समाप्त करें**, **TaskEarliestStart**, और **अवधि**. |
+परियोजना कार्य | हां | हां | हां | **प्रगति**, **ास पूर्ण**, और **प्रयास शेष** वेब के लिए प्रोजेक्ट में फ़ील्ड संपादित किए जा सकते हैं, लेकिन उन्हें प्रोजेक्ट ऑपरेशंस में संपादित नहीं किया जा सकता है।  |
+| प्रोज़ेक्ट कार्य निर्भरता | हां |  | हां | प्रोज़ेक्ट कार्य निर्भरता रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बजाय, एक पुराना रिकॉर्ड हटाया जा सकता है, और एक नया रिकॉर्ड बनाया जा सकता है। |
+| रिसोर्स असाइनमेंट | हां | हां | | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **BookableResourceID**, **प्रयास**,**EffortCompleted**, **EffortRemaining**, और **PlannedWork**. संसाधन असाइनमेंट रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बजाय, पुराने रिकॉर्ड को हटाया जा सकता है, और एक नया रिकॉर्ड बनाया जा सकता है। |
+| प्रोज़ेक्ट बकेट | हां | हां | हां | डिफ़ॉल्ट बकेट का उपयोग करके बनाया जाता है **प्रोजेक्ट बनाएंV1** एपीआई। अद्यतन रिलीज़ 16 में प्रोजेक्ट बकेट बनाने और हटाने के लिए समर्थन जोड़ा गया था। |
+| प्रोजेक्ट टीम सदस्य | हां | हां | हां | बनाने के ऑपरेशन के लिए, **CreateTeamMemberV1** API का उपयोग करें. |
+| Project | हां | हां |  | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **प्रयास**, **EffortCompleted**, **EffortRemaining**, **प्रगति**, **समाप्त करें**, **TaskEarliestStart**, और **अवधि**. |
 
 इन APIs को निकाय ऑब्जेक्ट्स के साथ बुलाया जा सकता है जिसमें कस्टम फ़ील्ड शामिल हैं.
 
@@ -71,196 +71,207 @@ ID संपत्ति वैकल्पिक है. यदि यह प�
 
 ## <a name="restricted-fields"></a>प्रतिबंधित फील्ड
 
-निम्न तालिका उन क्षेत्रों को परिभाषित करती है जो **बनाएं** और **संपादित करें** से प्रतिबंधित हैं.
+निम्न तालिकाएँ उन फ़ील्ड्स को परिभाषित करती हैं जो प्रतिबंधित हैं **सृजन करना** और **संपादन करना**.
 
 ### <a name="project-task"></a>परियोजना कार्य
 
-| **तार्किक नाम**                       | **बना सकते हैं** | **संपादित कर सकते हैं**     |
+| तार्किक नाम                           | बना सकते हैं     | संपादित कर सकते हैं         |
 |----------------------------------------|----------------|------------------|
-| msdyn_actualcost                       | नहीं             | नहीं               |
-| msdyn_actualcost_base                  | नहीं             | नहीं               |
-| msdyn_actualend                        | नहीं             | नहीं               |
-| msdyn_actualsales                      | नहीं             | नहीं               |
-| msdyn_actualsales_base                 | नहीं             | नहीं               |
-| msdyn_actualstart                      | नहीं             | नहीं               |
-| msdyn_costatcompleteestimate           | नहीं             | नहीं               |
-| msdyn_costatcompleteestimate_base      | नहीं             | नहीं               |
-| msdyn_costconsumptionpercentage        | नहीं             | नहीं               |
-| msdyn_effortcompleted                  | नहीं             | नहीं               |
-| msdyn_effortestimateatcomplete         | नहीं             | नहीं               |
-| msdyn_iscritical                       | नहीं             | नहीं               |
-| msdyn_iscriticalname                   | नहीं             | नहीं               |
-| msdyn_ismanual                         | नहीं             | नहीं               |
-| msdyn_ismanualname                     | नहीं             | नहीं               |
-| msdyn_ismilestone                      | नहीं             | नहीं               |
-| msdyn_ismilestonename                  | नहीं             | नहीं               |
-| msdyn_LinkStatus                       | नहीं             | नहीं               |
-| msdyn_linkstatusname                   | नहीं             | नहीं               |
-| msdyn_msprojectclientid                | नहीं             | नहीं               |
-| msdyn_plannedcost                      | नहीं             | नहीं               |
-| msdyn_plannedcost_base                 | नहीं             | नहीं               |
-| msdyn_plannedsales                     | नहीं             | नहीं               |
-| msdyn_plannedsales_base                | नहीं             | नहीं               |
-| msdyn_pluginprocessingdata             | नहीं             | नहीं               |
-| msdyn_progress                         | नहीं             | नही ( P4W के लिए हां) |
-| msdyn_remainingcost                    | नहीं             | नहीं               |
-| msdyn_remainingcost_base               | नहीं             | नहीं               |
-| msdyn_remainingsales                   | नहीं             | नहीं               |
-| msdyn_remainingsales_base              | नहीं             | नहीं               |
-| msdyn_requestedhours                   | नहीं             | नहीं               |
-| msdyn_resourcecategory                 | नहीं             | नहीं               |
-| msdyn_resourcecategoryname             | नहीं             | नहीं               |
-| msdyn_resourceorganizationalunitid     | नहीं             | नहीं               |
-| msdyn_resourceorganizationalunitidname | नहीं             | नहीं               |
-| msdyn_salesconsumptionpercentage       | नहीं             | नहीं               |
-| msdyn_salesestimateatcomplete          | नहीं             | नहीं               |
-| msdyn_salesestimateatcomplete_base     | नहीं             | नहीं               |
-| msdyn_salesvariance                    | नहीं             | नहीं               |
-| msdyn_salesvariance_base               | नहीं             | नहीं               |
-| msdyn_scheduleddurationminutes         | नहीं             | नहीं               |
-| msdyn_scheduledend                     | नहीं             | नहीं               |
-| msdyn_scheduledstart                   | नहीं             | नहीं               |
-| msdyn_schedulevariance                 | नहीं             | नहीं               |
-| msdyn_skipupdateestimateline           | नहीं             | नहीं               |
-| msdyn_skipupdateestimatelinename       | नहीं             | नहीं               |
-| msdyn_summary                          | नहीं             | नहीं               |
-| msdyn_varianceofcost                   | नहीं             | नहीं               |
-| msdyn_varianceofcost_base              | नहीं             | नहीं               |
+| msdyn_actualcost                       | No             | No               |
+| msdyn_actualcost_base                  | No             | No               |
+| msdyn_actualend                        | No             | No               |
+| msdyn_actualsales                      | No             | No               |
+| msdyn_actualsales_base                 | No             | No               |
+| msdyn_actualstart                      | No             | No               |
+| msdyn_costatcompleteestimate           | No             | No               |
+| msdyn_costatcompleteestimate_base      | No             | No               |
+| msdyn_costconsumptionpercentage        | No             | No               |
+| msdyn_effortcompleted                  | नहीं (हाँ परियोजना के लिए)             | नहीं (हाँ परियोजना के लिए)               |
+| msdyn_effortremaining                  | नहीं (हाँ परियोजना के लिए)              | नहीं (हाँ परियोजना के लिए)                |
+| msdyn_effortestimateatcomplete         | No             | No               |
+| msdyn_iscritical                       | No             | No               |
+| msdyn_iscriticalname                   | No             | No               |
+| msdyn_ismanual                         | No             | No               |
+| msdyn_ismanualname                     | No             | No               |
+| msdyn_ismilestone                      | No             | No               |
+| msdyn_ismilestonename                  | No             | No               |
+| msdyn_LinkStatus                       | No             | No               |
+| msdyn_linkstatusname                   | No             | No               |
+| msdyn_msprojectclientid                | No             | No               |
+| msdyn_plannedcost                      | No             | No               |
+| msdyn_plannedcost_base                 | No             | No               |
+| msdyn_plannedsales                     | No             | No               |
+| msdyn_plannedsales_base                | No             | No               |
+| msdyn_pluginprocessingdata             | No             | No               |
+| msdyn_progress                         | नहीं (हाँ परियोजना के लिए)             | नहीं (हाँ परियोजना के लिए) |
+| msdyn_remainingcost                    | No             | No               |
+| msdyn_remainingcost_base               | No             | No               |
+| msdyn_remainingsales                   | No             | No               |
+| msdyn_remainingsales_base              | No             | No               |
+| msdyn_requestedhours                   | No             | No               |
+| msdyn_resourcecategory                 | No             | No               |
+| msdyn_resourcecategoryname             | No             | No               |
+| msdyn_resourceorganizationalunitid     | No             | No               |
+| msdyn_resourceorganizationalunitidname | No             | No               |
+| msdyn_salesconsumptionpercentage       | No             | No               |
+| msdyn_salesestimateatcomplete          | No             | No               |
+| msdyn_salesestimateatcomplete_base     | No             | No               |
+| msdyn_salesvariance                    | No             | No               |
+| msdyn_salesvariance_base               | No             | No               |
+| msdyn_scheduleddurationminutes         | No             | No               |
+| msdyn_scheduledend                     | No             | No               |
+| msdyn_scheduledstart                   | No             | No               |
+| msdyn_schedulevariance                 | No             | No               |
+| msdyn_skipupdateestimateline           | No             | No               |
+| msdyn_skipupdateestimatelinename       | No             | No               |
+| msdyn_summary                          | No             | No               |
+| msdyn_varianceofcost                   | No             | No               |
+| msdyn_varianceofcost_base              | No             | No               |
 
 ### <a name="project-task-dependency"></a>प्रोज़ेक्ट कार्य निर्भरता
 
-| **तार्किक नाम**              | **बना सकते हैं** | **संपादित कर सकते हैं** |
+| तार्किक नाम                  | बना सकते हैं     | संपादित कर सकते हैं     |
 |-------------------------------|----------------|--------------|
-| msdyn_linktype                | नहीं             | नहीं           |
-| msdyn_linktypename            | नहीं             | नहीं           |
-| msdyn_predecessortask         | हाँ            | नहीं           |
-| msdyn_predecessortaskname     | हाँ            | नहीं           |
-| msdyn_project                 | हाँ            | नहीं           |
-| msdyn_projectname             | हाँ            | नहीं           |
-| msdyn_projecttaskdependencyid | हाँ            | नहीं           |
-| msdyn_successortask           | हाँ            | नहीं           |
-| msdyn_successortaskname       | हाँ            | नहीं           |
+| msdyn_linktype                | No             | No           |
+| msdyn_linktypename            | No             | No           |
+| msdyn_predecessortask         | हां            | No           |
+| msdyn_predecessortaskname     | हां            | No           |
+| msdyn_project                 | हां            | No           |
+| msdyn_projectname             | हां            | No           |
+| msdyn_projecttaskdependencyid | हां            | No           |
+| msdyn_successortask           | हां            | No           |
+| msdyn_successortaskname       | हां            | No           |
 
 ### <a name="resource-assignment"></a>रिसोर्स असाइनमेंट
 
-| **तार्किक नाम**             | **बना सकते हैं** | **संपादित कर सकते हैं** |
+| तार्किक नाम                 | बना सकते हैं     | संपादित कर सकते हैं     |
 |------------------------------|----------------|--------------|
-| msdyn_bookableresourceid     | हाँ            | नहीं           |
-| msdyn_bookableresourceidname | हाँ            | नहीं           |
-| msdyn_bookingstatusid        | नहीं             | नहीं           |
-| msdyn_bookingstatusidname    | नहीं             | नहीं           |
-| msdyn_committype             | नहीं             | नहीं           |
-| msdyn_committypename         | नहीं             | नहीं           |
-| msdyn_effort                 | नहीं             | नहीं           |
-| msdyn_effortcompleted        | नहीं             | नहीं           |
-| msdyn_effortremaining        | नहीं             | नहीं           |
-| msdyn_finish                 | नहीं             | नहीं           |
-| msdyn_plannedcost            | नहीं             | नहीं           |
-| msdyn_plannedcost_base       | नहीं             | नहीं           |
-| msdyn_plannedcostcontour     | नहीं             | नहीं           |
-| msdyn_plannedsales           | नहीं             | नहीं           |
-| msdyn_plannedsales_base      | नहीं             | नहीं           |
-| msdyn_plannedsalescontour    | नहीं             | नहीं           |
-| msdyn_plannedwork            | नहीं             | नहीं           |
-| msdyn_projectid              | हाँ            | नहीं           |
-| msdyn_projectidname          | नहीं             | नहीं           |
-| msdyn_projectteamid          | नहीं             | नहीं           |
-| msdyn_projectteamidname      | नहीं             | नहीं           |
-| msdyn_start                  | नहीं             | नहीं           |
-| msdyn_taskid                 | नहीं             | नहीं           |
-| msdyn_taskidname             | नहीं             | नहीं           |
-| msdyn_userresourceid         | नहीं             | नहीं           |
+| msdyn_bookableresourceid     | हां            | No           |
+| msdyn_bookableresourceidname | हां            | No           |
+| msdyn_bookingstatusid        | No             | No           |
+| msdyn_bookingstatusidname    | No             | No           |
+| msdyn_committype             | No             | No           |
+| msdyn_committypename         | No             | No           |
+| msdyn_effort                 | No             | No           |
+| msdyn_effortcompleted        | No             | No           |
+| msdyn_effortremaining        | No             | No           |
+| msdyn_finish                 | No             | No           |
+| msdyn_plannedcost            | No             | No           |
+| msdyn_plannedcost_base       | No             | No           |
+| msdyn_plannedcostcontour     | No             | No           |
+| msdyn_plannedsales           | No             | No           |
+| msdyn_plannedsales_base      | No             | No           |
+| msdyn_plannedsalescontour    | No             | No           |
+| msdyn_plannedwork            | No             | No           |
+| msdyn_projectid              | हां            | No           |
+| msdyn_projectidname          | No             | No           |
+| msdyn_projectteamid          | No             | No           |
+| msdyn_projectteamidname      | No             | No           |
+| msdyn_start                  | No             | No           |
+| msdyn_taskid                 | No             | No           |
+| msdyn_taskidname             | No             | No           |
+| msdyn_userresourceid         | No             | No           |
 
 ### <a name="project-team-member"></a>प्रोजेक्ट टीम सदस्य
 
-| **तार्किक नाम**                                 | **बना सकते हैं** | **संपादित कर सकते हैं** |
+| तार्किक नाम                                     | बना सकते हैं     | संपादित कर सकते हैं     |
 |--------------------------------------------------|----------------|--------------|
-| msdyn_calendarid                                 | नहीं             | नहीं           |
-| msdyn_creategenericteammemberwithrequirementname | नहीं             | नहीं           |
-| msdyn_deletestatus                               | नहीं             | नहीं           |
-| msdyn_deletestatusname                           | नहीं             | नहीं           |
-| msdyn_effort                                     | नहीं             | नहीं           |
-| msdyn_effortcompleted                            | नहीं             | नहीं           |
-| msdyn_effortremaining                            | नहीं             | नहीं           |
-| msdyn_finish                                     | नहीं             | नहीं           |
-| msdyn_hardbookedhours                            | नहीं             | नहीं           |
-| msdyn_hours                                      | नहीं             | नहीं           |
-| msdyn_markedfordeletiontimer                     | नहीं             | नहीं           |
-| msdyn_markedfordeletiontimestamp                 | नहीं             | नहीं           |
-| msdyn_msprojectclientid                          | नहीं             | नहीं           |
-| msdyn_percentage                                 | नहीं             | नहीं           |
-| msdyn_requiredhours                              | नहीं             | नहीं           |
-| msdyn_softbookedhours                            | नहीं             | नहीं           |
-| msdyn_start                                      | नहीं             | नहीं           |
+| msdyn_calendarid                                 | No             | No           |
+| msdyn_creategenericteammemberwithrequirementname | No             | No           |
+| msdyn_deletestatus                               | No             | No           |
+| msdyn_deletestatusname                           | No             | No           |
+| msdyn_effort                                     | No             | No           |
+| msdyn_effortcompleted                            | No             | No           |
+| msdyn_effortremaining                            | No             | No           |
+| msdyn_finish                                     | No             | No           |
+| msdyn_hardbookedhours                            | No             | No           |
+| msdyn_hours                                      | No             | No           |
+| msdyn_markedfordeletiontimer                     | No             | No           |
+| msdyn_markedfordeletiontimestamp                 | No             | No           |
+| msdyn_msprojectclientid                          | No             | No           |
+| msdyn_percentage                                 | No             | No           |
+| msdyn_requiredhours                              | No             | No           |
+| msdyn_softbookedhours                            | No             | No           |
+| msdyn_start                                      | No             | No           |
 
 ### <a name="project"></a>Project
 
-| **तार्किक नाम**                       | **बना सकते हैं** | **संपादित कर सकते हैं** |
+| तार्किक नाम                           | बना सकते हैं     | संपादित कर सकते हैं     |
 |----------------------------------------|----------------|--------------|
-| msdyn_actualexpensecost                | नहीं             | नहीं           |
-| msdyn_actualexpensecost_base           | नहीं             | नहीं           |
-| msdyn_actuallaborcost                  | नहीं             | नहीं           |
-| msdyn_actuallaborcost_base             | नहीं             | नहीं           |
-| msdyn_actualsales                      | नहीं             | नहीं           |
-| msdyn_actualsales_base                 | नहीं             | नहीं           |
-| msdyn_contractlineproject              | हाँ            | नहीं           |
-| msdyn_contractorganizationalunitid     | हाँ            | नहीं           |
-| msdyn_contractorganizationalunitidname | हाँ            | नहीं           |
-| msdyn_costconsumption                  | नहीं             | नहीं           |
-| msdyn_costestimateatcomplete           | नहीं             | नहीं           |
-| msdyn_costestimateatcomplete_base      | नहीं             | नहीं           |
-| msdyn_costvariance                     | नहीं             | नहीं           |
-| msdyn_costvariance_base                | नहीं             | नहीं           |
-| msdyn_duration                         | नहीं             | नहीं           |
-| msdyn_effort                           | नहीं             | नहीं           |
-| msdyn_effortcompleted                  | नहीं             | नहीं           |
-| msdyn_effortestimateatcompleteeac      | नहीं             | नहीं           |
-| msdyn_effortremaining                  | नहीं             | नहीं           |
-| msdyn_finish                           | हाँ            | हाँ          |
-| msdyn_globalrevisiontoken              | नहीं             | नहीं           |
-| msdyn_islinkedtomsprojectclient        | नहीं             | नहीं           |
-| msdyn_islinkedtomsprojectclientname    | नहीं             | नहीं           |
-| msdyn_linkeddocumenturl                | नहीं             | नहीं           |
-| msdyn_msprojectdocument                | नहीं             | नहीं           |
-| msdyn_msprojectdocumentname            | नहीं             | नहीं           |
-| msdyn_plannedexpensecost               | नहीं             | नहीं           |
-| msdyn_plannedexpensecost_base          | नहीं             | नहीं           |
-| msdyn_plannedlaborcost                 | नहीं             | नहीं           |
-| msdyn_plannedlaborcost_base            | नहीं             | नहीं           |
-| msdyn_plannedsales                     | नहीं             | नहीं           |
-| msdyn_plannedsales_base                | नहीं             | नहीं           |
-| msdyn_progress                         | नहीं             | नहीं           |
-| msdyn_remainingcost                    | नहीं             | नहीं           |
-| msdyn_remainingcost_base               | नहीं             | नहीं           |
-| msdyn_remainingsales                   | नहीं             | नहीं           |
-| msdyn_remainingsales_base              | नहीं             | नहीं           |
-| msdyn_replaylogheader                  | नहीं             | नहीं           |
-| msdyn_salesconsumption                 | नहीं             | नहीं           |
-| msdyn_salesestimateatcompleteeac       | नहीं             | नहीं           |
-| msdyn_salesestimateatcompleteeac_base  | नहीं             | नहीं           |
-| msdyn_salesvariance                    | नहीं             | नहीं           |
-| msdyn_salesvariance_base               | नहीं             | नहीं           |
-| msdyn_scheduleperformance              | नहीं             | नहीं           |
-| msdyn_scheduleperformancename          | नहीं             | नहीं           |
-| msdyn_schedulevariance                 | नहीं             | नहीं           |
-| msdyn_taskearlieststart                | नहीं             | नहीं           |
-| msdyn_teamsize                         | नहीं             | नहीं           |
-| msdyn_teamsize_date                    | नहीं             | नहीं           |
-| msdyn_teamsize_state                   | नहीं             | नहीं           |
-| msdyn_totalactualcost                  | नहीं             | नहीं           |
-| msdyn_totalactualcost_base             | नहीं             | नहीं           |
-| msdyn_totalplannedcost                 | नहीं             | नहीं           |
-| msdyn_totalplannedcost_base            | नहीं             | नहीं           |
+| msdyn_actualexpensecost                | No             | No           |
+| msdyn_actualexpensecost_base           | No             | No           |
+| msdyn_actuallaborcost                  | No             | No           |
+| msdyn_actuallaborcost_base             | No             | No           |
+| msdyn_actualsales                      | No             | No           |
+| msdyn_actualsales_base                 | No             | No           |
+| msdyn_contractlineproject              | हां            | No           |
+| msdyn_contractorganizationalunitid     | हां            | No           |
+| msdyn_contractorganizationalunitidname | हां            | No           |
+| msdyn_costconsumption                  | No             | No           |
+| msdyn_costestimateatcomplete           | No             | No           |
+| msdyn_costestimateatcomplete_base      | No             | No           |
+| msdyn_costvariance                     | No             | No           |
+| msdyn_costvariance_base                | No             | No           |
+| msdyn_duration                         | No             | No           |
+| msdyn_effort                           | No             | No           |
+| msdyn_effortcompleted                  | No             | No           |
+| msdyn_effortestimateatcompleteeac      | No             | No           |
+| msdyn_effortremaining                  | No             | No           |
+| msdyn_finish                           | हां            | हां          |
+| msdyn_globalrevisiontoken              | No             | No           |
+| msdyn_islinkedtomsprojectclient        | No             | No           |
+| msdyn_islinkedtomsprojectclientname    | No             | No           |
+| msdyn_linkeddocumenturl                | No             | No           |
+| msdyn_msprojectdocument                | No             | No           |
+| msdyn_msprojectdocumentname            | No             | No           |
+| msdyn_plannedexpensecost               | No             | No           |
+| msdyn_plannedexpensecost_base          | No             | No           |
+| msdyn_plannedlaborcost                 | No             | No           |
+| msdyn_plannedlaborcost_base            | No             | No           |
+| msdyn_plannedsales                     | No             | No           |
+| msdyn_plannedsales_base                | No             | No           |
+| msdyn_progress                         | No             | No           |
+| msdyn_remainingcost                    | No             | No           |
+| msdyn_remainingcost_base               | No             | No           |
+| msdyn_remainingsales                   | No             | No           |
+| msdyn_remainingsales_base              | No             | No           |
+| msdyn_replaylogheader                  | No             | No           |
+| msdyn_salesconsumption                 | No             | No           |
+| msdyn_salesestimateatcompleteeac       | No             | No           |
+| msdyn_salesestimateatcompleteeac_base  | No             | No           |
+| msdyn_salesvariance                    | No             | No           |
+| msdyn_salesvariance_base               | No             | No           |
+| msdyn_scheduleperformance              | No             | No           |
+| msdyn_scheduleperformancename          | No             | No           |
+| msdyn_schedulevariance                 | No             | No           |
+| msdyn_taskearlieststart                | No             | No           |
+| msdyn_teamsize                         | No             | No           |
+| msdyn_teamsize_date                    | No             | No           |
+| msdyn_teamsize_state                   | No             | No           |
+| msdyn_totalactualcost                  | No             | No           |
+| msdyn_totalactualcost_base             | No             | No           |
+| msdyn_totalplannedcost                 | No             | No           |
+| msdyn_totalplannedcost_base            | No             | No           |
 
+### <a name="project-bucket"></a>प्रोज़ेक्ट बकेट
+
+| तार्किक नाम          | बना सकते हैं      | संपादित कर सकते हैं     |
+|-----------------------|-----------------|--------------|
+| msdyn_displayorder    | हां             | No           |
+| msdyn_name            | हां             | हां          |
+| msdyn_project         | हां             | No           |
+| msdyn_projectbucketid | हां             | No           |
 
 ## <a name="limitations-and-known-issues"></a>सीमाएं और ज्ञात मुद्दे
 निम्नलिखित सीमाओं और ज्ञात मुद्दों की एक लिस्ट है:
 
-- प्रोजेक्ट शेड्यूल API का उपयोग केवल **Microsoft प्रोजेक्ट लाइसेंस वाले उपयोगकर्ता** के द्वारा किया जा सकता है. उनका इनके द्वारा उपयोग नहीं किया जा सकता है:
+- प्रोजेक्ट शेड्यूल API का उपयोग केवल इसके द्वारा किया जा सकता है **Microsoft प्रोजेक्ट लाइसेंस वाले उपयोगकर्ता**. उनका इनके द्वारा उपयोग नहीं किया जा सकता है:
+
     - अनुप्रयोग उपयोगकर्ता
     - सिस्टम उपयोगकर्ता
     - एकीकरण उपयोगकर्ता
     - अन्य उपयोगकर्ता जिनके पास आवश्यक लाइसेंस नहीं है
+
 - प्रत्येक **OperationSet** में अधिकतम 100 संचालन हो सकते हैं.
 - प्रत्येक उपयोगकर्ता के पास अधिकतम 10 खुला **OperationSets** हो सकते हैं.
 - Project Operations वर्तमान में एक प्रोज़ेक्ट पर अधिकतम 500 कुल कार्यों का समर्थन करता है.
@@ -269,8 +280,8 @@ ID संपत्ति वैकल्पिक है. यदि यह प�
 
 ## <a name="error-handling"></a>त्रुटि हैंडलिंग
 
-   - ऑपरेशन सेट से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **सेटिंग** \> **शेड्यूल इंटीग्रेशन** \> **ऑपरेशन सेट्स** पर जाएं.
-   - प्रोजेक्ट शेड्यूल सेवा से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **समायोजन** \> **अनुसूची एकीकरण** \> **PSS त्रुटि लॉग** पर जाएँ.
+- ऑपरेशन सेट से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **सेटिंग** \> **शेड्यूल इंटीग्रेशन** \> **ऑपरेशन सेट्स** पर जाएं.
+- प्रोजेक्ट शेड्यूल सेवा से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **समायोजन** \> **अनुसूची एकीकरण** \> **PSS त्रुटि लॉग** पर जाएँ.
 
 ## <a name="sample-scenario"></a>नमूना परिदृश्य
 
@@ -492,7 +503,6 @@ private Entity GetTask(string name, EntityReference projectReference, EntityRefe
     task["msdyn_effort"] = 4d;
     task["msdyn_scheduledstart"] = DateTime.Today;
     task["msdyn_scheduledend"] = DateTime.Today.AddDays(5);
-    task["msdyn_progress"] = 0.34m;
     task["msdyn_start"] = DateTime.Now.AddDays(1);
     task["msdyn_projectbucket"] = GetBucket(projectReference).ToEntityReference();
     task["msdyn_LinkStatus"] = new OptionSetValue(192350000);
@@ -524,9 +534,7 @@ private Entity GetResourceAssignment(string name, Entity teamMember, Entity task
     assignment["msdyn_taskid"] = task.ToEntityReference();
     assignment["msdyn_projectid"] = project.ToEntityReference();
     assignment["msdyn_name"] = name;
-    assignment["msdyn_start"] = DateTime.Now;
-    assignment["msdyn_finish"] = DateTime.Now;
-
+   
     return assignment;
 }
 
