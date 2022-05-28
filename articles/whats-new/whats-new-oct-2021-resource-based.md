@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 10/06/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 078869ad01a23bac1108629c5f532ba57a2967e9
-ms.sourcegitcommit: f37502a50cabdaf736aeba149feb5f8288e23df7
+ms.openlocfilehash: c64ef1e2ba9e33b2ca7575a40cc51e0ae987a9f8
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "7753294"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8598490"
 ---
 # <a name="whats-new-october-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है अक्टूबर 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
 
@@ -21,7 +21,7 @@ ms.locfileid: "7753294"
 यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 
    - Microsoft Dataverse परिवेश संस्करण 4.25.0.91 में Project Operations
-   - Dynamics 365 Finance में परियोजना प्रबंधन और लेखांकन परिवेश संस्करण 10.0.21
+   - Dynamics 365 Finance पर्यावरण संस्करण 10.0.21 . में परियोजना प्रबंधन और लेखांकन
 
 ## <a name="features-included-in-this-release"></a>इस रिलीज़ में शामिल की गई सुविधाएँ
 
@@ -49,7 +49,7 @@ ms.locfileid: "7753294"
 | बिलिंग और मूल्य निर्धारण | 2338357 | जब प्रोजेक्ट का चयन किया जाता है तो सामग्री उपयोग लॉग पर मुद्रा परियोजना की मुद्रा से डिफ़ॉल्ट होनी चाहिए. |
 | समय और व्यय | 2414777 | जब व्यय या समय प्रविष्टि में एक से अधिक संबद्ध प्रोजेक्ट अनुमोदन हो तो अनुमोदन को रद्द करना संभव होना चाहिए. |
 
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance पर परियोजना प्रबंधन और लेखांकन
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance . पर परियोजना प्रबंधन और लेखांकन
 
 | सुविधा क्षेत्र | संदर्भ संख्या | गुणवत्ता अद्यतन |
 | --- | --- | --- |

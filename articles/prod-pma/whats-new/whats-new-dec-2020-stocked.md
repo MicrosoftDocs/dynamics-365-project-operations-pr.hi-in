@@ -5,14 +5,14 @@ author: Yowelle
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 14c31f27c0d8871063b3c6689a70f32201958002b50ac4c721c4e26c3359b631
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 9550cf8fd594585b70d373ecf9eea1b32285e47f
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7008813"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594948"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations दिसंबर 2020 में नया क्या है या क्या बदल गया है
 
@@ -20,7 +20,7 @@ _इस पर लागू होता है: स्टॉक/उत्पा
 
 यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 
-  - Dynamics 365 Finance में परियोजना प्रबंधन और लेखांकन परिवेश संस्करण 10.0.15
+  - Dynamics 365 Finance पर्यावरण संस्करण 10.0.15 . में परियोजना प्रबंधन और लेखांकन
 
 ## <a name="quality-updates"></a>गुणवत्ता अद्यतन
 
@@ -139,7 +139,7 @@ _इस पर लागू होता है: स्टॉक/उत्पा
 
 ## <a name="regulatory-updates"></a>नियामक अद्यतन
 
-Dynamics 365 Finance के लिए विनियामक अद्यतनों के बारे में जानकारी के लिए, [विनियामक अद्यतन](/dynamics365/finance/localizations/regulatory-updates) देखें. विनियामक अद्यतनों के बारे में जानने का दूसरा तरीका Lifecycle Services (LCS) में साइन इन करना और समस्या खोज टूल का उपयोग करके नियोजित विनियामक अद्यतनों को देखना है. समस्या खोज के चलते आप देश, सुविधा के प्रकार और रिलीज़ के आधार पर खोज सकते हैं.
+Dynamics 365 Finance के नियामक अपडेट के बारे में जानकारी के लिए देखें [नियामक अद्यतन।](/dynamics365/finance/localizations/regulatory-updates) विनियामक अद्यतनों के बारे में जानने का दूसरा तरीका Lifecycle Services (LCS) में साइन इन करना और समस्या खोज टूल का उपयोग करके नियोजित विनियामक अद्यतनों को देखना है. समस्या खोज के चलते आप देश, सुविधा के प्रकार और रिलीज़ के आधार पर खोज सकते हैं.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

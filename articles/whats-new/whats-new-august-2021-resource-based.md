@@ -5,14 +5,14 @@ author: sigitac
 ms.date: 08/11/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 26861472d3af20c58b3d01142b834d535cf99715
-ms.sourcegitcommit: 083e3d219cd5126eecb74debb1b70b361680b1f6
+ms.openlocfilehash: 144a8c0d5ac47ad6fee54850c149a349f1698049
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "7501373"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594166"
 ---
 # <a name="whats-new-august-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है अगस्त 2021 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
 
@@ -21,7 +21,7 @@ ms.locfileid: "7501373"
 यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 
    - Microsoft Dataverse परिवेश संस्करण 4.13.0.152 में Project Operations.
-   - Dynamics 365 Finance परिवेश संस्करण 10.0.20 में प्रोजेक्ट प्रबंधन और लेखांकन.
+   - Dynamics 365 Finance पर्यावरण संस्करण 10.0.20 में परियोजना प्रबंधन और लेखांकन।
 
 ## <a name="features-included-in-this-release"></a>इस रिलीज़ में शामिल की गई सुविधाएँ
 
@@ -54,7 +54,7 @@ ms.locfileid: "7501373"
 | समय और व्यय | 2336884 | **कॉपी वीक** टाइम एंट्री बटन केवल वर्तमान उपयोगकर्ता से अधिक के लिए काम करना चाहिए. |
 
 
-### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance पर परियोजना प्रबंधन और लेखांकन
+### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance . पर परियोजना प्रबंधन और लेखांकन
 
 | सुविधा क्षेत्र | संदर्भ संख्या | गुणवत्ता अद्यतन |
 | --- | --- | --- |

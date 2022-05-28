@@ -2,17 +2,16 @@
 title: परियोजना प्रयास ट्रैकिंग
 description: यह विषय प्रोज़ेक्ट के प्रयास और काम की प्रगति को ट्रैक करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: ruhercul
-ms.date: 03/22/2021
-ms.topic: article
-ms.reviewer: kfend
+ms.date: 02/15/2022
+ms.topic: overview
+ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.custom: intro-internal
-ms.openlocfilehash: 0df357eaf662816107fbc1777ebae030c93bd199756e78a1c3d59155dc64d38f
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
-ms.translationtype: HT
+ms.openlocfilehash: 037118714cf01ba2fb91cdd94345495d12ccb645
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6993963"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8593798"
 ---
 # <a name="project-effort-tracking"></a>परियोजना प्रयास ट्रैकिंग
 
@@ -46,7 +45,8 @@ Project Operations कार्य पर प्रयास विचरण क
 - प्रत्येक वैयक्तिक कार्यों के नए EAC से लेकर लीफ नोड कार्यों तक का परिकलन किया जाता है. 
 - लीफ नोड के नीचे प्रभावित छोटे टास्क में उनका शेष प्रयास होते हैं और ETC के मूल्य के आधार पर प्रगति के प्रतिशत का दोबारा परिकलन किया जाता है। इसके कारण टास्क के प्रयास भिन्नता का नया अनुमान करना होता है। 
 - समरी टास्क के EAC का रूट नोड तक दोबारा परिकलन किया जाता है।
-
+- सारांश कार्य पर स्वीकृत प्रयास सभी चाइल्ड कार्यों पर स्वीकृत प्रयास और सारांश कार्य पर स्वीकृत प्रयास का योग है।
+- सारांश कार्य पर शेष प्रयास सभी चाइल्ड कार्यों पर शेष प्रयास का योग है जिसमें सारांश कार्य पर स्वीकृत प्रयास घटा है।
 
 ## <a name="project-status-summary"></a>प्रोजेक्ट स्थिति सारांश
 

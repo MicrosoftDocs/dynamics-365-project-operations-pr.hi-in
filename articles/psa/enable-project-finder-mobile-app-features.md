@@ -17,12 +17,13 @@ search.app:
 - D365CE
 - D365PS
 - ProjectOperations
-ms.openlocfilehash: 8651ba591853faf648587dcbd4c50625ba94360958d7b418e89aa0bf09464a89
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.reviewer: johnmichalak
+ms.openlocfilehash: 3f8f23c1f32d94a514de9ae40bd07b3d8063824c
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "7004898"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8593687"
 ---
 # <a name="enable-project-finder-mobile-app-features-project-service"></a>Project Finder Mobile अनुप्रयोग सुविधाएँ (Project Service) सक्षम करें
 
@@ -47,11 +48,11 @@ ms.locfileid: "7004898"
   
 4. **संसाधन द्वारा कौशल अद्यतन की अनुमति दें** को **हाँ** पर सेट करें.  
   
-   ![ProjectService_ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
+   ![परियोजना सेवा&#95; प्रोजेक्टफाइंडर सक्षम करें।](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
   
    यह एक ग्‍लोबल सेटिंग है. परियोजना प्रबंधक यह सेट कर सकते हैं कि कोई व्‍यक्तिगत परियोजना उस परियोजना के **परियोजना टीम** पृष्ठ पर दृश्‍यमान होगी या नहीं.  
   
-   ![ProjectService_ProjectTeamVisible.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
+   ![परियोजना सेवा&#95; प्रोजेक्ट टीम दृश्यमान।](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
   
 ## <a name="email-notifications"></a>ईमेल सूचनाएँ  
  [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] संसाधन अनुरोधों के बारे में ईमेल निम्न प्राप्तकर्ताओं को निम्न समय पर भेजता है:  

@@ -4,14 +4,14 @@ description: यह विषय बताता है कि सिस्ट�
 author: rumant
 ms.date: 07/28/2021
 ms.topic: article
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: c765e3c423e440f092c92f9bab75304914b0609447f1dc1c014f98801561b7a6
-ms.sourcegitcommit: 7f8d1e7a16af769adb43d1877c28fdce53975db8
+ms.openlocfilehash: 6d2f250063afc24de99e308d8d7583d1822bcabb
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "6994188"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8597248"
 ---
 # <a name="set-up-subcontractors-as-bookable-resources"></a>उपअनुबंधकों को बुक करने योग्य संसाधनों के रूप में सेट करें
 

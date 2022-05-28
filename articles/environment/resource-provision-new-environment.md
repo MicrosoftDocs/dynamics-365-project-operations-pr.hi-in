@@ -5,20 +5,20 @@ author: sigitac
 ms.date: 09/13/2021
 ms.topic: article
 ms.prod: ''
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a00426678d23000dc19386792d346318eab74ed9
-ms.sourcegitcommit: d3f66dfb5978c5c6b7fd51363c7f9278737c49c1
-ms.translationtype: HT
+ms.openlocfilehash: 03626cb1579fad7f8d8eb501905056cd13092754
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "7928663"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8594856"
 ---
 # <a name="provision-a-new-environment"></a>नए परिवेश का प्रावधान
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 
 यह विषय संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए नए Dynamics 365 Project Operations परिवेश को प्रोविज़न करने के तरीके के बारे में जानकारी प्रदान करता है.
 
@@ -34,7 +34,7 @@ _**इस पर लागू होता है:** संसाधन/गै�
 
 ## <a name="provision-a-project-operations-environment"></a>परियोजना संचालन परिवेश का प्रावधान
 
-1. नया Dynamics 365 Finance [डेमो परिवेश](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) या [sandbox/ production environment](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) परिनियोजन खोलें। 
+1. एक नया Dynamics 365 Finance खोलें [डेमो वातावरण](/dynamics365/fin-ops-core/dev-itpro/deployment/deploy-demo-environment) या[सैंडबॉक्स / उत्पादन वातावरण](/dynamics365/fin-ops-core/dev-itpro/deployment/deployenvironment-newinfrastructure) तैनाती। 
 2. **परिवेश प्रोविजनिंग** विज़ार्ड में से निकलें। 
 
    > [!IMPORTANT]
@@ -117,7 +117,7 @@ _**इस पर लागू होता है:** संसाधन/गै�
 
     ![समाधान लागू करें.](./media/13ApplySolutions.png)
 
-5. दोनों समाधान चुनें, **Dynamics 365 Finance and Operations डुअल लेखन निकाय मैप** और **Dynamics 365 Project Operations डुअल लेखन निकाय मैप** और उसके बाद **लागू करें** चुनें.
+5. दोनों समाधान चुनें, **Dynamics 365 Finance and Operations दोहरी लेखन इकाई मानचित्र** और **Dynamics 365 Project Operations दोहरी लिखें इकाई मानचित्र**, और फिर चुनें **आवेदन करना**.
 
     ![समाधान की पुष्टि करें.](./media/14ConfirmSolutions.png)
 

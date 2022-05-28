@@ -7,18 +7,18 @@ ms.topic: article
 ms.prod: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: kfend
+ms.reviewer: johnmichalak
 ms.search.scope: ''
 ms.search.region: ''
 ms.author: shylaw
 ms.search.validFrom: ''
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 4dc1628a0dde0551aaf3bc10af628ef57881d85e
-ms.sourcegitcommit: a51f40c905874103040708be2188c04ab0716c38
+ms.openlocfilehash: 1d4c2cce88514e7822515fc407fc7cf31cb34924
+ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 11/11/2021
-ms.locfileid: "7798042"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "8596282"
 ---
 # <a name="capture-a-receipt-using-ocr"></a>OCR का उपयोग करके रसीद कैप्चर करें
 
@@ -52,7 +52,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 ## <a name="installation"></a>स्थापना
 
-इन उन्नत व्यय क्षमताओं का उपयोग करने के लिए, Microsoft Dynamics 365 Finance के लिए व्यय प्रबंधन सेवा ऐड-इन स्थापित करें, और अपने उदाहरण में सुविधाओं को चालू करें। आप अपने प्रोजेक्ट से Microsoft Dynamics लाइफसाइकल सर्विसेज (LCS) में ऐड-इन एक्सेस कर सकते हैं।
+इन उन्नत व्यय क्षमताओं का उपयोग करने के लिए, इसके लिए व्यय प्रबंधन सेवा ऐड-इन स्थापित करें Microsoft Dynamics 365 वित्त, और अपने उदाहरण में सुविधाओं को चालू करें। आप Microsoft Dynamics Lifecycle Services (LCS) में अपनी परियोजना से ऐड-इन में प्रवेश कर सकते हैं.
 
 1. LCS में साइन इन करें और वांछित परिवेश खोलें.
 2. **पूर्ण विवरण** पर जाएं.
@@ -73,7 +73,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 - व्यय फ़ील्ड दृश्यता के लिए नया मेनू आइटम जोड़ा गया है.
 - आप अब भी **व्यय प्रबंधन > मेरे व्यय > व्यय रिपोर्ट** पर जाकर पिछली **व्यय रिपोर्ट** खोल सकते हैं.
 - कार्यप्रवाह और स्वीकृतियां अब भी आपको मौजूदा व्यय रिपोर्ट पृष्ठ पर ले जाती हैं.
-- रसीदों को Microsoft Azure संज्ञानात्मक सेवाओं के माध्यम से संसाधित किया जाएगा, और मेटाडेटा निकाला और जोड़ा जाएगा।
+- Microsoft Azure Cognitive Services के माध्यम से रसीद संसाधित की जाएंगा और मेटाडेटा को निकाला और जोड़ा जाएगा.
 - विकल्प जोड़ा गया है जो आपको व्यय रिपोर्ट बनाने की अनुमति देता है जिसमें मिलान की गयी असंबद्ध रसीदें शामिल होती हैं.
 - व्यय रिपोर्ट में जोड़ा गया विकल्प आपको रसीद से व्यय पद्धति बनाने की सुविधा देता है या किसी मौजूद रसीद का मौजूद व्यय पद्धति से मिलान करने की कोशिश करता है.
 
