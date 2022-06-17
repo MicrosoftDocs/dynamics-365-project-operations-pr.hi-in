@@ -1,6 +1,6 @@
 ---
 title: पहले से स्वीकृत समय और व्यय प्रविष्टियों को रद्द करें
-description: यह विषय स्वीकृत प्रोजेक्ट समय और व्यय लेन-देन को रद्द करने के तरीके के बारे में जानकारी प्रदान करता है।
+description: यह आलेख इस बारे में जानकारी प्रदान करता है कि किसी स्वीकृत प्रोजेक्ट समय और व्यय लेनदेन को कैसे रद्द किया जाए।
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 9e3bc94b626b88a2167e3a61472b768e2fb5c731
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 840f163ee9bf1fc98f140efdcc0d37a5424ddb8f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590762"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933310"
 ---
 # <a name="cancel-previously-approved-time-or-expense-entries"></a>पहले से स्वीकृत समय या खर्च प्रविष्टियों को रद्द करें
 

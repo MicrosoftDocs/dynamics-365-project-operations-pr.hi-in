@@ -1,17 +1,17 @@
 ---
 title: उपअनुबंध में प्रमुख अवधारणाएँ
-description: यह विषय कुछ मुख्य अवधारणाओं की व्याख्या करता है जो Microsoft Dynamics 365 Project Operations में उपअनुबंध पर लागू होते हैं.
+description: यह आलेख कुछ प्रमुख अवधारणाओं की व्याख्या करता है जो Microsoft में उप-ठेकेदारी पर लागू होती हैं।Dynamics 365 Project Operations
 author: rumant
 ms.date: 08/03/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 159eeca3aa9ed0c490be5ce3a8f46c7d7206aebe
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0ac84d132a2d62528d97ed3776a78062a589a380
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578113"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927698"
 ---
 # <a name="key-concepts-in-subcontracting"></a>उपअनुबंध में प्रमुख अवधारणाएँ
 
@@ -19,7 +19,7 @@ ms.locfileid: "8578113"
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-यह विषय कुछ मुख्य अवधारणाओं की व्याख्या करता है जिनके बारे में आपको Microsoft Dynamics 365 Project Operations में उपअनुबंध कार्यक्षमता का उपयोग शुरू करने से पहले पता होना चाहिए.
+यह आलेख कुछ प्रमुख अवधारणाओं की व्याख्या करता है जिनके बारे में आपको Microsoft में उपठेकेदार कार्यक्षमता का उपयोग शुरू करने से पहले पता होना चाहिए।Dynamics 365 Project Operations
 
 ## <a name="contracting-unit-on-the-subcontract"></a>उपअनुबंध पर अनुबंधन इकाई
 

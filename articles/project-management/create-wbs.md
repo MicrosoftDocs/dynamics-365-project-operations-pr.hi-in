@@ -1,17 +1,17 @@
 ---
 title: एक कार्य विश्लेषण संरचना बनाएँ
-description: यह विषय, नए शेड्यूलिंग इंटरफ़ेस में मूल नियंत्रण सहित कार्य विश्लेषण संरचना (WBS) बनाने का तरीका बताता है.
+description: यह लेख बताता है कि नए शेड्यूलिंग इंटरफ़ेस में बुनियादी नियंत्रणों को शामिल करते हुए वर्क ब्रेकडाउन स्ट्रक्चर (WBS) कैसे बनाया जाए।
 author: ruhercul
 ms.date: 12/16/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: cdc1ffdd1f53f65627b511582e52ca27fa53c127
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: a947c0a44464bfad6c3bd74b0cb4fb8128924859
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597800"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8932068"
 ---
 # <a name="create-a-work-breakdown-structure-wbs"></a>एक कार्य विश्लेषण संरचना बनाएँ (WBS)
 

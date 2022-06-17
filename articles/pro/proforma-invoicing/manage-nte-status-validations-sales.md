@@ -1,17 +1,17 @@
 ---
 title: सीमा-में-रखें की स्थिति और मान्यताएँ प्रबंधित करें
-description: यह विषय Project Operations में निष्पादित सीमा-में-रखें सीमा चेक के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस में किए गए नॉट-टू-अतिरिक्त सीमा जांच के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 04/05/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 3444d311386ae925617c9c9be657fe012f8f867b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: d10a88305339a84b36d8606631ea9761806098a1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576134"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8932758"
 ---
 # <a name="manage-not-to-exceed-status-and-validations"></a>सीमा-में-रखें की स्थिति और मान्यताएँ प्रबंधित करें 
 

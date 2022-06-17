@@ -1,6 +1,6 @@
 ---
 title: वित्त और संचालन में पोस्ट करने के लिए प्रोजेक्ट सर्विस ऑटोमेशन से प्रोजेक्ट इंटीग्रेशन जर्नल में प्रोजेक्ट वास्तविक को सीधे सिंक्रोनाइज़ करें
-description: यह विषय उन टेम्प्लेट और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग परियोजना की वास्तविकताओं को सीधे से सिंक्रनाइज़ करने के लिए किया जाता है Microsoft Dynamics 365 Project Service Automation वित्त और संचालन के लिए।
+description: यह आलेख उन टेम्पलेट्स और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग प्रोजेक्ट वास्तविक को सीधे से सिंक्रनाइज़ करने के लिए किया जाता है Microsoft Dynamics 365 Project Service Automation वित्त और संचालन के लिए।
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 12929c324bb3a7c344edc9be2e3a8f4941ff9ea4
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 7d912a11d9c7bc66ed43911ee32f25092d551cd6
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683540"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929492"
 ---
 # <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>वित्त और संचालन में पोस्ट करने के लिए प्रोजेक्ट सर्विस ऑटोमेशन से प्रोजेक्ट इंटीग्रेशन जर्नल में प्रोजेक्ट वास्तविक को सीधे सिंक्रोनाइज़ करें
 
 [!include[banner](../includes/banner.md)]
 
-यह विषय उन टेम्प्लेट और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग परियोजना की वास्तविकताओं को सीधे से सिंक्रनाइज़ करने के लिए किया जाता है Dynamics 365 Project Service Automation से Dynamics 365 Finance.
+यह आलेख उन टेम्पलेट्स और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग प्रोजेक्ट वास्तविक को सीधे से सिंक्रनाइज़ करने के लिए किया जाता है Dynamics 365 Project Service Automation से Dynamics 365 Finance.
 
 टेम्पलेट, Project Service Automation से लेन-देनों को वित्त में स्टैजिंग तालिका में सिंक्रनाइज़ करता है. सिंक्रनाइज़ेशन पूरा होने के बाद, आपको स्टेजिंग तालिका से इंटीग्रेशन जरनल में डेटा आयात **करना होगा**.
 

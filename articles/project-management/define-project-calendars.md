@@ -1,6 +1,6 @@
 ---
 title: परियोजना कैलेंडर परिभाषित करें
-description: यह विषय परियोजना शेड्यूल को ट्रैक करने के लिए किसी परियोजना के लिए कैलेंडर टेम्पलेट को कैसे लागू करें, इसके बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट शेड्यूल को ट्रैक करने के लिए किसी प्रोजेक्ट में कैलेंडर टेम्प्लेट लागू करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.date: 02/05/2021
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 0e31fcaf039ae214394b08b60b5d41987dc648e7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e195cdb0dc5acc2ea816fadce40811675a855de2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578940"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933540"
 ---
 # <a name="define-project-calendars"></a>परियोजना कैलेंडर परिभाषित करें
 

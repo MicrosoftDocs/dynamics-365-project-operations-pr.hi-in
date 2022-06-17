@@ -1,17 +1,17 @@
 ---
 title: उप-अनुबंध लाइन माइलस्टोन
-description: यह विषय बताता है कि किसी विक्रेता के साथ उप-अनुबंध के लिए माइलस्टोन-आधारित इनवॉइस शेड्यूल कैसे बनाया और बनाए रखा जाए.
+description: यह आलेख बताता है कि किसी विक्रेता के साथ उप-अनुबंध के लिए मील का पत्थर-आधारित इनवॉइस शेड्यूल कैसे बनाएं और बनाए रखें।
 author: rumant
 ms.date: 08/06/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d1c30f48e0d43aa55e2c1650637f7f102fb200de
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b146bf0becff5d0fa0da59f50c0d04aafaf5115f
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579124"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927606"
 ---
 # <a name="subcontract-line-milestones"></a>उप-अनुबंध लाइन माइलस्टोन
 

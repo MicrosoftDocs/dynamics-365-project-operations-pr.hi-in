@@ -1,23 +1,23 @@
 ---
 title: व्यय प्रबंधन पैरामीटर कॉन्फ़िगर करें
-description: यह विषय उन मापदंडों का स्पष्ट करता है जो व्यय प्रबंधन में सामान्य व्यवहार को नियंत्रित करते हैं.
+description: यह आलेख उन पैरामीटरों का वर्णन करता है जो व्यय प्रबंधन में सामान्य व्यवहार को नियंत्रित करते हैं।
 author: suvaidya
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: suvaidya
-ms.openlocfilehash: bbaabd34d8f4af5dbcaff507fbb9f8de79355aa4
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6432e119f38071b028c013561bab99820778a11d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577146"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931470"
 ---
 # <a name="configure-expense-management-parameters"></a>व्यय प्रबंधन पैरामीटर कॉन्फ़िगर करें
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
-यह विषय उन मापदंडों का स्पष्ट करता है जो व्यय प्रबंधन में सामान्य व्यवहार को नियंत्रित करते हैं.
+यह आलेख उन मापदंडों का वर्णन करता है जो व्यय प्रबंधन में सामान्य व्यवहार को नियंत्रित करते हैं।
 
 ## <a name="general"></a>सामान्य
 

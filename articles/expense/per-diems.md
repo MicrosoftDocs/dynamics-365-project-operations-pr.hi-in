@@ -1,17 +1,17 @@
 ---
 title: प्रति भत्ता
-description: यह विषय दैनिक नियमों के बारे में जानकारी प्रदान करता है जो ख़र्च प्रबंधन में उपयोग किए जाते हैं.
+description: यह लेख व्यय प्रबंधन में उपयोग किए जाने वाले प्रतिदिन के नियमों के बारे में जानकारी प्रदान करता है।
 author: suvaidya
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: suvaidya
-ms.openlocfilehash: e537d6c6112eb4baf38229e3e40897eacdf21983
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8fa634c23391c47c0c583647165dce2b396535e5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578296"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930182"
 ---
 # <a name="per-diems"></a>प्रति भत्ता
 

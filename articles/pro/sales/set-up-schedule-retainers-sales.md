@@ -1,17 +1,17 @@
 ---
 title: रिटेनर शेड्यूल सेट अप करें
-description: यह विषय Project Operations में रिटेनर शेड्यूल सेट अप करने के तरीके के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशन में एक अनुचर शेड्यूल सेट करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/22/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b1c48f04aa47d50c9f3ab46031ef0d6cd68619d5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 077961d2f649754149315438252970609c246555
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8574754"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927744"
 ---
 # <a name="set-up-a-retainer-schedule"></a>रिटेनर शेड्यूल सेट अप करें
 

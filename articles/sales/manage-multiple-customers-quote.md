@@ -1,17 +1,17 @@
 ---
 title: परियोजना कोट पर एकाधिक ग्राहक प्रबंधित करें
-description: यह विषय कोटेशन पर काम करने के बारे में जानकारी प्रदान करता है जिसमें कई ग्राहक शामिल हैं जो परियोजना को पूंजी देंगे.
+description: यह आलेख उन उद्धरणों पर काम करने के बारे में जानकारी प्रदान करता है जिनमें कई ग्राहक शामिल होते हैं जो परियोजना को निधि देंगे।
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 34fbe426020dbf329c02c510f6366f189f35afab
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 16cd07527fddd093748a18c1f7c900c8b32be85d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585886"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928204"
 ---
 # <a name="manage-multiple-customers-on-a-project-quote"></a>परियोजना कोट पर एकाधिक ग्राहक प्रबंधित करें
 

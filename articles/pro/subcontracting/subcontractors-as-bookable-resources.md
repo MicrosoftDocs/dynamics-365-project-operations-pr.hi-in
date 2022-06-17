@@ -1,17 +1,17 @@
 ---
 title: उपअनुबंधकों को बुक करने योग्य संसाधनों के रूप में सेट करें
-description: यह विषय बताता है कि सिस्टम में उपयोगकर्ताओं और संपर्कों से बनाए गए उपअनुबंधक संसाधनों को कैसे सेट अप और बनाए रखा जाए, ताकि उन्हें Microsoft Dynamics 365 Project Operations में उप-अनुबंधों के साथ जोड़ा जा सके.
+description: यह आलेख बताता है कि सिस्टम में उपयोगकर्ताओं और संपर्कों से बनाए गए उप-ठेकेदार संसाधनों को कैसे सेट अप और बनाए रखा जाए, ताकि उन्हें Microsoft में उप-अनुबंधों के साथ जोड़ा जा सके।Dynamics 365 Project Operations
 author: rumant
 ms.date: 07/28/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6d2f250063afc24de99e308d8d7583d1822bcabb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f005a05fb874f9e32a0041db5fc8fa1228fc91f1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597248"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927517"
 ---
 # <a name="set-up-subcontractors-as-bookable-resources"></a>उपअनुबंधकों को बुक करने योग्य संसाधनों के रूप में सेट करें
 

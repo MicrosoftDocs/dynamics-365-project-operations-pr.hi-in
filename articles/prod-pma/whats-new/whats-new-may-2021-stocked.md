@@ -1,24 +1,24 @@
 ---
 title: स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए, Project Operations, मई 2021 में नया या बदला क्या है
-description: यह विषय स्टॉक/उत्पादन आधारित परिदृश्यो के लिए Project Operations के मई 2021 रिलीज़ में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है.
+description: यह आलेख स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए प्रोजेक्ट संचालन के मई 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है।
 author: andchoi
 ms.date: 07/01/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 701ed791dce2dd0f7d196810de7538c65cb99d93
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ec1f256e77bad581bb415611260809e377dc38e8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586300"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927146"
 ---
 # <a name="whats-new-or-changed-in-project-operations-may-2021-for-stockedproduction-based-scenarios"></a>स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए, Project Operations, मई 2021 में नया या बदला क्या है
 
 _ **इस पर लागू होता है:** स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
 - Dynamics 365 Finance पर्यावरण संस्करण 10.0.19 . में परियोजना प्रबंधन और लेखांकन
  

@@ -1,6 +1,6 @@
 ---
 title: जनरल खाताबही या प्रोक्योरमेंट और सोर्सिंग से व्यय रिपोर्ट देखें
-description: यह विषय बताता है कि किसी प्रस्तुत लेनदेन के लिए मूल व्यय रिपोर्ट को कैसे देखें.
+description: यह लेख बताता है कि उस मूल व्यय रिपोर्ट को कैसे देखा जाए जिस पर कोई लेन-देन दिखाई दिया था।
 author: saraschi2
 ms.date: 02/26/2018
 ms.topic: article
@@ -13,12 +13,12 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 303bfff8b0e329bc47fb8df72939cf1266e9f1d7
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: e17e34702f39cd8651899b3e0b68b7809bf10d86
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8685150"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929617"
 ---
 # <a name="view-an-expense-report-from-general-ledger-or-procurement-and-sourcing"></a>जनरल खाताबही या प्रोक्योरमेंट और सोर्सिंग से व्यय रिपोर्ट देखें
 

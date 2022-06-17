@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation वर्ज़न 3.x wave 1 2020 में क्या क्या नया है या बदल गया है
-description: यह टॉपिक Project Service Automation वर्ज़न 3 wave 1 2020 में क्या नया है और क्या बदला है, इसके बारे में जानकारी प्रदान करता है.
+description: यह लेख इस बारे में जानकारी प्रदान करता है कि Project Service Automation संस्करण 3 तरंग 1 2020 में क्या नया और बदला गया है।
 ms.custom:
 - dyn365-projectservice
 ms.date: 05/15/2020
@@ -17,18 +17,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 073b70b4ae02d943eb0794b51e888815ee16f438
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c762f2e7931046d32464cfa8486ef8405aa7d836
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577882"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928618"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-version-3-wave-1-2020"></a>Project Service Automation वर्ज़न 3 wave 1 2020 में क्या क्या नया है या बदल गया है
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-यह टॉपिक Project Service Automation (PSA) वर्ज़न 3.x wave 1 2020 की नवीनतम रिलीज़ के लिए आगे बढ़ने पर मुख्य अपडेट विचारों पर प्रकाश डालता है.
+प्रोजेक्ट सर्विस ऑटोमेशन (PSA) संस्करण 3.x वेव 1 2020 की नवीनतम रिलीज़ पर जाते समय यह आलेख प्रमुख अपग्रेड विचारों पर प्रकाश डालता है।
 
 ## <a name="time-entry"></a>समय प्रविष्टि
 समय प्रविष्टि अनुभव को अधिक ग्राहक परिदृश्यों में समय प्रविष्टि के विस्तार की क्षमता प्रदान करने के लिए बढ़ाया गया है. इसमें प्रविष्टि प्रकार जोड़ने की क्षमता शामिल है, जो अब फील्ड स्कीमा नाम के आधार पर विशिष्ट व्यवहार को चलाते हैं **समय प्रविष्टि सेटिंग**, **समय स्रोत** के रूप में प्रदर्शित. एक नया समाधान, जिसे टाइम, व्यय, स्टेटस बनाना और अनुमोदन (TESA) कहा जाता है, को इस कार्यक्षमता का समर्थन करने के लिए जोड़ा गया है.

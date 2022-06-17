@@ -1,17 +1,17 @@
 ---
 title: विक्रय प्रक्रिया अवलोकन
-description: यह विषय मूल बिक्री प्रक्रियाओं के बारे में जानकारी प्रदान करता है.
+description: यह आलेख बुनियादी बिक्री प्रक्रियाओं के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/29/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: e99035798f775de5cd59724a9fe0d7ea6de40034
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 27b6b1e6f4d33ae1f8cfafba306b533e12c0cd2b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578480"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933138"
 ---
 # <a name="sales-process-overview"></a>विक्रय प्रक्रिया अवलोकन
 

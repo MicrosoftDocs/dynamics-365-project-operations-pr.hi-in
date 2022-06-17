@@ -1,6 +1,6 @@
 ---
-title: Project Service Automation से Project Operations में फ़ीचर परिवर्तन
-description: यह विषय प्रोजेक्ट सर्विस ऑटोमेशन से Dynamics 365 Project Operations.
+title: फ़ीचर, Project Service Automation से Project Operations में बदल जाता है
+description: यह आलेख Project Service Automation से . में विशेषता परिवर्तनों का अवलोकन प्रदान करता है।Dynamics 365 Project Operations
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2022
@@ -16,18 +16,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 7e41b381d6da267f58174305f33fc229c66cd7b7
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8a6030faf777051ea1003679589af4bdf97322ab
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595408"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925352"
 ---
-# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>Project Service Automation से Project Operations में फ़ीचर परिवर्तन
+# <a name="feature-changes-from-project-service-automation-to-project-operations"></a>फ़ीचर, Project Service Automation से Project Operations में बदल जाता है
 
-से अपग्रेड Dynamics 365 Project Service Automation कोDynamics 365 Project Operations लाइट की डिलीवरी तीन चरणों में की जाएगी। यह विषय उन प्रमुख परिवर्तनों के बारे में जानकारी प्रदान करता है जिनकी आप अपग्रेड पूर्ण होने पर देखने की उम्मीद कर सकते हैं।
+से अपग्रेड Dynamics 365 Project Service Automation प्रतिDynamics 365 Project Operations लाइट की डिलीवरी तीन चरणों में की जाएगी। यह आलेख उन प्रमुख परिवर्तनों के बारे में जानकारी प्रदान करता है जिनकी आप नवीनीकरण पूर्ण होने पर देखने की अपेक्षा कर सकते हैं।
 
-| डिलीवरी अपग्रेड करें | चरण 1 <br>(जनवरी 2022) | 2 चरण <br>(अप्रैल वेव 2022) | चरण 3  |
+| डिलीवरी अपग्रेड करें | चरण एक <br>(जनवरी 2022) | 2 चरण <br>(अप्रैल वेव 2022) | चरण 3  |
 |------------------|------------------------|---------------------------|---------------------------|
 | परियोजनाओं के लिए वर्क ब्रेकडाउन स्ट्रक्चर (डब्ल्यूबीएस) पर कोई निर्भरता नहीं। | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | WBS को परियोजना संचालन की वर्तमान में समर्थित सीमाओं में शामिल किया गया है। | &nbsp; | :heavy_check_mark: | :heavy_check_mark: |
@@ -81,7 +81,7 @@ ms.locfileid: "8595408"
 - **सामग्री अनुमान**
 - **कार्य बिलिंग सेटअप**
 
-**स्थिति** टैब हटा दिया गया है और **स्थिति** मैदान अब पर है **सारांश** प्रोजेक्ट के शेड्यूलिंग मोड के साथ टैब।
+**दर्जा** टैब हटा दिया गया है और **दर्जा** मैदान अब पर है **सारांश** प्रोजेक्ट के शेड्यूलिंग मोड के साथ टैब।
 
    ![प्रोजेक्ट पेज पर अपडेट।](media/projectform.png)
 
@@ -131,7 +131,7 @@ ms.locfileid: "8595408"
 
 ## <a name="data-model-changes"></a>डेटा मॉडल में बदलाव
 
-अपग्रेड चरण 1 के भाग के रूप में, डेटा मॉडल में परिवर्तन किए गए हैं। ये परिवर्तन प्राथमिक रूप से मौजूदा निकायों में क्षेत्र परिवर्तन हैं। चरण 1 में, संस्थाएं, **msydn_project** और **msdyn_projectteam** अनुकूलन का एक रिफैक्टरिंग हैं। 
+अपग्रेड चरण 1 के भाग के रूप में, डेटा मॉडल में परिवर्तन किए गए हैं। ये परिवर्तन प्राथमिक रूप से मौजूदा निकायों में क्षेत्र परिवर्तन हैं। चरण 1 में, संस्थाएं, **msydn_project** तथा**msdyn_projectteam** अनुकूलन का एक रिफैक्टरिंग हैं। 
 
 > [!IMPORTANT]
 > भविष्य के अपग्रेड चरण पूरे होने पर यह अनुभाग अतिरिक्त निकायों के साथ अपडेट हो जाएगा।

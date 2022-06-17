@@ -1,24 +1,24 @@
 ---
 title: नया क्या है सितंबर 2021 - Project Operations लाइट परिनियोजन
-description: यह विषय Project Operations लाइट परिनियोजन के सितंबर 2021 रिलीज़ में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन के सितंबर 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 09/13/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: f84d19df59e9f726d6ee456ff6064ad24529b577
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 275b2630588497f867e7ba886c458fa738778187
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582574"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931286"
 ---
 # <a name="whats-new-september-2021---project-operations-lite-deployment"></a>नया क्या है सितंबर 2021 - Project Operations लाइट परिनियोजन
 
 _इस पर लागू होता है: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
   - Microsoft Dataverse पर Project Operations परिवेश संस्करण 4.14.0.99
 

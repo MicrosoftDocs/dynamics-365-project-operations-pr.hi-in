@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation के अपडेट रिलीज़ 16, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
-description: यह विषय Project Service Automation अपडेट रिलीज़ 16, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है.
+description: यह आलेख Project Service Automation Update Release 16, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है।
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/18/2020
@@ -16,19 +16,19 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 5651f8b3a2ddf406fcfd7a4e21901c53789fa4ed
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e4429ace3d8206369b91917cf87f6968fbb12277
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577376"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926502"
 ---
 # <a name="project-service-automation-update-release-16-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 16, V3
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं.  यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ को अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, [पसंदीदा समाधान को स्थापित, अपडेट करें](/dynamics365/project-service/upgrade-psa-home-page) देखें.
-यह टॉपिक PSA V3, अपडेट रिलीज़ 16 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस वर्ज़न की बिल्ड संख्या V3.10.6.34 है और यह आमतौर पर जनवरी 2020 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
+यह आलेख उन सुविधाओं और सुधारों को सूचीबद्ध करता है जो PSA V3, अद्यतन रिलीज़ 16 के लिए नए या परिवर्तित हैं। इस वर्ज़न की बिल्ड संख्या V3.10.6.34 है और यह आमतौर पर जनवरी 2020 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
 
 
 ## <a name="update-release-16"></a>अपडेट रिलीज़ 16

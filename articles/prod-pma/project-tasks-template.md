@@ -1,6 +1,6 @@
 ---
 title: परियोजना कार्यों को सीधे Project Service Automation से वित्त और संचालन में सिंक्रनाइज़ करें
-description: यह विषय टेम्पलेट और अंतर्निहित कार्य का वर्णन करता है जिसका उपयोग परियोजना कार्यों को सीधे से सिंक्रनाइज़ करने के लिए किया जाता है Microsoft Dynamics 365 Project Service Automation से Dynamics 365 Finance.
+description: यह आलेख उस टेम्पलेट और अंतर्निहित कार्य का वर्णन करता है जिसका उपयोग सीधे प्रोजेक्ट कार्यों को सिंक्रनाइज़ करने के लिए किया जाता है Microsoft Dynamics 365 Project Service Automation से Dynamics 365 Finance.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -14,18 +14,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 666e0d757969b32f16e08128d9f78a2ffe1e8357
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 7b8ba77bbb08052952a8a557bb71300652dca3b2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683312"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931148"
 ---
 # <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>परियोजना कार्यों को सीधे Project Service Automation से वित्त और संचालन में सिंक्रनाइज़ करें
 
 [!include[banner](../includes/banner.md)]
 
-यह विषय टेम्पलेट और अंतर्निहित कार्य का वर्णन करता है जिसका उपयोग परियोजना कार्यों को सीधे से सिंक्रनाइज़ करने के लिए किया जाता है Dynamics 365 Project Service Automation से Dynamics 365 Finance.
+यह आलेख उस टेम्पलेट और अंतर्निहित कार्य का वर्णन करता है जिसका उपयोग सीधे प्रोजेक्ट कार्यों को सिंक्रनाइज़ करने के लिए किया जाता है Dynamics 365 Project Service Automation से Dynamics 365 Finance.
 
 > [!NOTE]
 > - परियोजना कार्य एकीककरण, व्यय लेनदेन श्रेणियां, घंटा अनुमान, व्यय अनुमान, और कार्यात्मकता लॉकिंग वर्शन 8.0 में उपलब्ध है.

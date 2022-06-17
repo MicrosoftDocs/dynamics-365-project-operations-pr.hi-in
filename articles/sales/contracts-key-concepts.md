@@ -1,25 +1,25 @@
 ---
 title: परियोजना अनुबंध - मुख्य अवधारणाएँ
-description: यह विषय परियोजना संचालन में परियोजना अनुबंध की मुख्य अवधारणाओं पर जानकारी प्रदान करता है.
+description: यह आलेख परियोजना संचालन में परियोजना अनुबंधों की प्रमुख अवधारणाओं के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/07/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: f87a29893ca3d9bec6fbd07dded66a282ff597c3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 016a5d1defacdc6ba5828ca26395c9123e9323d0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582942"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926226"
 ---
 # <a name="concepts-unique-to-project-based-contracts"></a>परियोजना-आधारित कॉन्ट्रैक्टों के लिए अद्वितीय अवधारणाएं
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 
 
-यह विषय Dynamics 365 Project Operations में परियोजना अनुबंधों का उपयोग करना शुरू करने से पहले वे मुख्य अवधारणाएँ प्रदान करना है, जिनसे अवगत रहना होता है:
+यह आलेख प्रोजेक्ट अनुबंधों का उपयोग शुरू करने से पहले जागरूक होने के लिए महत्वपूर्ण अवधारणाएं प्रदान करता है Dynamics 365 Project Operations:
 
 ## <a name="owning-company"></a>स्वामी कंपनी
 

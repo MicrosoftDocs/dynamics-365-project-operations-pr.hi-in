@@ -1,24 +1,24 @@
 ---
 title: क्या नया है अप्रैल 2021 - Project Operations लाइट परिनियोजन
-description: यह विषय Project Operations लाइट परिनियोजन के अप्रैल 2021 रिलीज़ में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन के अप्रैल 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 04/07/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 10d9498636d8c5f72b7544be4ec30f399d5e0311
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 987eeaf2e57659a6facae6b0a3688f15992e8bb9
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598122"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931241"
 ---
 # <a name="whats-new-april-2021---project-operations-lite-deployment"></a>क्या नया है अप्रैल 2021 - Project Operations लाइट परिनियोजन
 
 _इस पर लागू होता है: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
   - Dataverse पर Project Operations परिवेश संस्करण 4.9.0.221 
 

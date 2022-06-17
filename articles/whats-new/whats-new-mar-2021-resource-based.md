@@ -1,24 +1,24 @@
 ---
 title: नया क्या है मार्च 2021 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
-description: इस विषय में संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations के मार्च 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
+description: यह आलेख संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए प्रोजेक्ट संचालन के मार्च 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 03/03/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a59aa5591dd5f5ed129ce710196eea572e66ea0b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fbdcb01117c39f879f80319b01d278c91a56e8f6
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599456"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8932942"
 ---
 # <a name="whats-new-march-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है मार्च 2021 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
 - Dataverse पर Project Operations परिवेश संस्करण 4.8.0.91 
 - Dynamics 365 Finance पर्यावरण संस्करण 10.0.16 . पर परियोजना प्रबंधन और लेखांकन 

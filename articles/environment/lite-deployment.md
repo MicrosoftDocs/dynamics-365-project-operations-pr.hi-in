@@ -1,17 +1,17 @@
 ---
 title: Project Operations परिनियोजित करें - लाइट
-description: यह विषय Project Operations लाइट नियोजन स्थापित करने के तरीके के बारे में जानकारी प्रदान करता है - प्रोफार्मा इuवॉयसिंग करने के लिए समझौता.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन - डील टू प्रोफार्मा इनवॉइसिंग को स्थापित करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: stsporen
 ms.date: 02/28/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: e33506504665f2e7ef7ad48469082f9f64a2a44b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 86293b725e86db3d4b8bdaf5810b16b7c670e8a3
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580734"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930320"
 ---
 # <a name="deploy-project-operations---lite"></a>Project Operations परिनियोजित करें - लाइट
 
@@ -32,7 +32,7 @@ Project Operations कई नियोजन मॉडल का समर्थ
 
 ## <a name="install-project-operations-to-a-new-dataverse-environment"></a><a name="new"></a> प्रोजेक्ट ऑपरेशंस को एक नए में स्थापित करें Dataverse वातावरण
 
-1. के रूप में [वैश्विक याPower Platform प्रशासक](/power-platform/admin/global-service-administrators-can-administer-without-license) प्रोजेक्ट संचालन लाइसेंस के साथ, एक नया बनाएं Dataverse में पर्यावरण [PowerPlatform व्यवस्थापन केंद्र](https://admin.powerplatform.com). निश्चित करें कि**इस परिवेश के लिए एक डेटाबेस बनाएँ** और **डायनेमिक्स 365 ऐप्स** सक्षम हैं। अधिक जानकारी के लिए, देखें [Power Platform एडमिन सेंटर में परिवेश बनाएं और प्रबंधित करें](/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center).
+1. के रूप में [वैश्विक याPower Platform प्रशासक](/power-platform/admin/global-service-administrators-can-administer-without-license) प्रोजेक्ट संचालन लाइसेंस के साथ, एक नया बनाएं Dataverse में पर्यावरण [PowerPlatform व्यवस्थापन केंद्र](https://admin.powerplatform.com). निश्चित करें कि**इस परिवेश के लिए एक डेटाबेस बनाएँ** तथा**डायनेमिक्स 365 ऐप्स** सक्षम हैं। अधिक जानकारी के लिए, देखें [Power Platform एडमिन सेंटर में परिवेश बनाएं और प्रबंधित करें](/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center).
 2. Dynamics 365 ऐप की परिनियोजन सूची से **Microsoft Dynamics 365 Project Operations** चुनें.
 
 

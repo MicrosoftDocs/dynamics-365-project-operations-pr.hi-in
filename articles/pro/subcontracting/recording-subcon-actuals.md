@@ -1,25 +1,25 @@
 ---
 title: उप-अनुबंधित घटकों के लिए रिकॉर्डिंग समय, व्यय और सामग्री उपयोग
-description: यह विषय बताता है कि Microsoft द्वारा उप-अनुबंधित घटकों से परियोजनाओं पर रिकॉर्ड किए गए समय, व्यय और सामग्री के उपयोग को कैसे ट्रैक किया जाता है।Dynamics 365 Project Operations
+description: यह आलेख बताता है कि Microsoft द्वारा उप-अनुबंधित घटकों से प्रोजेक्ट पर रिकॉर्ड किए गए समय, व्यय और सामग्री के उपयोग को कैसे ट्रैक किया जाता है।Dynamics 365 Project Operations
 author: rumant
 ms.date: 12/03/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 5a31b4a1092cc4829cbfc789e8b8e30030b2826b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 1c05b941fb51c8b56422e3b5d3868c9b69197187
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599226"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927652"
 ---
-# <a name="recording-time-expenses-and-material-usage-on-projects-for-subcontracted-components"></a>उप-अनुबंधित घटकों के लिए परियोजनाओं पर रिकॉर्डिंग समय, व्यय और सामग्री उपयोग
+# <a name="recording-time-expenses-and-material-usage-on-projects-for-subcontracted-components"></a>उप-अनुबंधित घटकों के लिए परियोजनाओं पर रिकॉर्डिंग समय, व्यय और सामग्री का उपयोग
 
 [!include [banner](../../includes/dataverse-preview.md)]
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-यह विषय बताता है कि Microsoft द्वारा उप-अनुबंधित घटकों से परियोजनाओं पर रिकॉर्ड किए गए समय, व्यय और सामग्री के उपयोग को कैसे ट्रैक किया जाता है।Dynamics 365 Project Operations
+यह आलेख बताता है कि Microsoft द्वारा उप-अनुबंधित घटकों से प्रोजेक्ट पर रिकॉर्ड किए गए समय, व्यय और सामग्री के उपयोग को कैसे ट्रैक किया जाता है।Dynamics 365 Project Operations
 
 ## <a name="costing-for-subcontractor-time-on-projects"></a>परियोजनाओं पर उपठेकेदार समय की लागत
 प्रोजेक्ट ऑपरेशंस में, ठेका कर्मचारी कर्मचारियों की तरह ही प्रोजेक्ट पर समय रिकॉर्ड कर सकते हैं। परियोजनाओं और/या परियोजना कार्यों पर समय दर्ज करते समय, एक अनुबंध कार्यकर्ता एक विशिष्ट उप-अनुबंध और उप-अनुबंध लाइन का चयन कर सकता है।

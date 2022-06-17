@@ -1,17 +1,17 @@
 ---
 title: परियोजना टीम के सदस्य
-description: यह विषय परियोजना टीम के सदस्य की जानकारी, विशेषताओं और शेड्यूलिंग के साथ काम करने के तरीके के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट टीम सदस्य जानकारी, विशेषताओं और शेड्यूलिंग के साथ काम करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 75b140a4ea17dbb3093f926367f439544c32d587
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3465688fb267f3ab785fcb0d252e8616ac1aa1c8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590808"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929308"
 ---
 # <a name="project-team-members"></a>परियोजना टीम के सदस्य
 

@@ -1,17 +1,17 @@
 ---
 title: परियोजना बिलिंग बैकलॉग प्रबंधित करें
-description: यह विषय परियोजनाओं पर बिलिंग बैकलॉग का प्रबंधन करते समय उपयोग करने के लिए उपलब्ध विभिन्न दृश्यों के बारे में जानकारी प्रदान करता है.
+description: यह आलेख परियोजनाओं पर बिलिंग बैकलॉग को प्रबंधित करते समय उपयोग करने के लिए उपलब्ध विभिन्न दृश्यों के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: b3a90d50fcca8824db10594352cbd1e204665c53
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8f2e68449a8f1a0da62850454fb8ae56daffbab0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578143"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8930090"
 ---
 # <a name="manage-project-billing-backlog"></a>परियोजना बिलिंग बैकलॉग प्रबंधित करें 
 

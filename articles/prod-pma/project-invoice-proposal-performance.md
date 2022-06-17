@@ -1,6 +1,6 @@
 ---
 title: परियोजना इनवॉइस प्रस्ताव प्रदर्शन
-description: यह विषय इनवॉइस प्रस्ताव प्रदर्शन प्रोज़ेक्ट करें में सुधार के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट इनवॉइस प्रस्तावों में प्रदर्शन सुधार के बारे में जानकारी प्रदान करता है।
 author: Yowelle
 ms.date: 06/16/2021
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 20121-03-05
 ms.dyn365.ops.version: 10.0.18
-ms.openlocfilehash: e707b0d9b379df59726271b5a0441ac04e269b9a
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 70069778b7d4326cb23d6bb36e2c78a33da12573
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683448"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8927192"
 ---
 # <a name="project-invoice-proposal-performance"></a>परियोजना इनवॉइस प्रस्ताव प्रदर्शन
 

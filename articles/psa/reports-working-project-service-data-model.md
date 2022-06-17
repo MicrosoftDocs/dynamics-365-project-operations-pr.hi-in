@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation डेटा मॉडल के साथ काम करना
-description: इस विषय में डेटा मॉडल के साथ काम करने के बारे में बताया गया है।
+description: यह आलेख डेटा मॉडल के साथ काम करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: e0849e5b2ab144814fe5310b11a758475ef56ef5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 67932eea78048c09f5f836d1330f412466622c6a
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8587542"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926686"
 ---
 # <a name="working-with-the-project-service-automation-data-model"></a>Project Service Automation डेटा मॉडल के साथ काम करना
 
@@ -31,7 +31,7 @@ ms.locfileid: "8587542"
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
 
-Dynamics 365 Project Service Automation में अन्य ऐप एंटिटी में काम करने की सुविधा होती है और इसमें Common Data Service डेटा मॉडल में स्वयं की प्रविष्टियाँ करने की सुविधा शुरु की गई है। इस विषय में कुछ ऐसे एंटिटी का वर्णन किया गया है जो आपको सामान्य PSA रिपोर्टिंग के दौरान मिलेंगे।
+Dynamics 365 Project Service Automation में अन्य ऐप एंटिटी में काम करने की सुविधा होती है और इसमें Common Data Service डेटा मॉडल में स्वयं की प्रविष्टियाँ करने की सुविधा शुरु की गई है। यह आलेख उन कुछ निकायों का वर्णन करता है जिनका सामना आप विशिष्ट PSA रिपोर्टिंग परिदृश्यों में करेंगे।
 
 ## <a name="reporting-on-opportunities"></a>अवसरों पर रिपोर्टिंग
 

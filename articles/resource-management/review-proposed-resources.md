@@ -1,6 +1,6 @@
 ---
 title: प्रस्तावित संसाधनों की समीक्षा करें
-description: इस टॉपिक में प्रोजेक्ट के संसाधनों का प्रस्ताव देने के बारे में जानकारी प्रदान की गई है।
+description: यह आलेख परियोजना संसाधनों को प्रस्तावित करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.date: 08/18/2021
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: ruhercul
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 3d2ab3ba9e5b18a2b42acaa2dc51ad94b8189274
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3f20dda2b7b384608b8f4b548c18ac21d07fee07
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584966"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924846"
 ---
 # <a name="review-proposed-resources"></a>प्रस्तावित संसाधनों की समीक्षा करें
 

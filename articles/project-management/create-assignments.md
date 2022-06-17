@@ -1,24 +1,24 @@
 ---
 title: संसाधन असाइनमेंट बनाएँ
-description: यह विषय जेनेरिक और नामित संसाधन असाइनमेंट बनाने के बारे में जानकारी प्रदान करता है.
+description: यह आलेख सामान्य और नामित संसाधन असाइनमेंट बनाने के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 2b918392fbcde1071aa52ffa7834938be1acd383
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 31404fc35d72acb9ad791ef8a755f23108f528ad
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576548"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933494"
 ---
 # <a name="create-resource-assignments"></a>संसाधन असाइनमेंट बनाएँ
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 
-संसाधन असाइनमेंट परियोजना टीम के सदस्य का लीफ नोड कार्य से सीधा संबंध है. यह विषय संसाधनों को असाइन करने के अलग अगल तरीके के बारे में जानकारी प्रदान करता है.
+संसाधन असाइनमेंट परियोजना टीम के सदस्य का लीफ नोड कार्य से सीधा संबंध है. यह आलेख संसाधनों को असाइन करने के विभिन्न तरीकों के बारे में जानकारी प्रदान करता है।
 
 ## <a name="create-a-generic-team-member-through-task-assignment"></a>कार्य असाइनमेंट के माध्यम से एक जेनेरिक टीम सदस्य बनाएँ
 

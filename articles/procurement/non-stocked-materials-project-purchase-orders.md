@@ -1,18 +1,18 @@
 ---
 title: प्रोजेक्ट खरीद ऑर्डर का उपयोग करके किसी परियोजना के लिए गैर-स्टॉक की गई सामग्री का ऑर्डर दें
-description: यह विषय बताता है कि आप प्रोजेक्ट खरीद ऑर्डर का उपयोग करके किसी प्रोजेक्ट के लिए गैर-स्टॉक की गई सामग्री को कैसे ऑर्डर कर सकते हैं.
+description: यह आलेख बताता है कि आप प्रोजेक्ट खरीद ऑर्डर का उपयोग करके किसी प्रोजेक्ट के लिए गैर-स्टॉक की गई सामग्री को कैसे ऑर्डर कर सकते हैं।
 author: sigitac
 ms.date: 09/27/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 2aa8fb94e2f9cbf91182f3f169339284d3eb9f44
-ms.sourcegitcommit: 9916f536a71b6a0078297402564ac79308ec6890
+ms.openlocfilehash: fe24faa143869af2396f3b0f28aae31417cadda7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "8612705"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929814"
 ---
 # <a name="order-procurement-categories-or-non-stocked-materials-for-a-project-using-project-purchase-orders"></a>परियोजना खरीद आदेशों का उपयोग करके किसी परियोजना के लिए खरीद श्रेणियों या गैर-स्टॉक की गई सामग्री का आदेश दें
 

@@ -1,6 +1,6 @@
 ---
 title: जरूरी आइटम से क्रय ऑर्डर पर प्राप्त आइटम
-description: यह विषय वर्णन करता है कि किसी जरूरी आइटम से क्रय ऑर्डर पर आइटम कैसे प्राप्त करते हैं.
+description: यह लेख बताता है कि किसी आइटम की आवश्यकता से खरीद ऑर्डर पर आइटम कैसे प्राप्त करें।
 author: Yowelle
 ms.date: 08/06/2019
 ms.topic: business-process
@@ -13,18 +13,18 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: ab08dda6e81609595f54f3dd71c0154c12807270
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 9bbe15fac325ad00bdd2f2fc6ddf3ae15df45271
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8682529"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929538"
 ---
 # <a name="receive-items-on-purchase-order-from-item-requirement"></a>जरूरी आइटम से क्रय ऑर्डर पर प्राप्त आइटम
 
 [!include [banner](../../includes/banner.md)]
 
-यह विषय वर्णन करता है कि किसी जरूरी आइटम से क्रय ऑर्डर पर आइटम कैसे प्राप्त करते हैं.
+यह लेख बताता है कि किसी आइटम की आवश्यकता से खरीद ऑर्डर पर आइटम कैसे प्राप्त करें।
 
 आइटम लेनदेन के स्थान पर जरूरी आइटम का उपयोग कर, वास्तव में आइटम के इस्तेमाल होने से पहले आप डिलिवरी तय कर सकते हैं, क्रय ऑर्डर बनाएं, आइटम को व्यापार-समझौता रूपरेखा में शामिल करें, और जरूरी आइटम को उत्पादन योजना में शामिल करें. 
 

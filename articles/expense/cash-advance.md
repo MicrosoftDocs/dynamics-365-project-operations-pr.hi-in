@@ -1,6 +1,6 @@
 ---
 title: नकद अग्रिम
-description: यह विषय नकद पेशगियों (कैश एडवांस) के बारे में जानकारी देता है.
+description: यह लेख नकद अग्रिमों के बारे में जानकारी प्रदान करता है।
 author: suvaidya
 ms.date: 03/25/2021
 ms.topic: article
@@ -8,16 +8,16 @@ ms.reviewer: johnmichalak
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 8151ecfb83f0d6da32451d509364b8f63dffdb4d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: bc270944faa7c16d2e97a988495a2a16380ba879
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585702"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8931516"
 ---
 # <a name="cash-advance"></a>नकद अग्रिम
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 नकद पेशगी (कैश एडवांस), कर्मचारियों को किसी भी खर्च से पहले अपनी कंपनी से पैसे उधार लेने की अनुमति देता है. जब अनुरोध की गयी नकद पेशगी स्वीकृत और भुगतान की जाती है, तो कर्मचारी उन व्यावसायिक व्यय के लिए धन का इस्तेमाल कर सकता है, जो खर्च हो सकते हैं. 
 

@@ -1,6 +1,6 @@
 ---
 title: संसाधन सॉफ़्ट बुक करें
-description: यह विषय अस्थायी रूप से शेड्यूल या सॉफ्ट बुक प्रोजेक्ट टीम के सदस्यों के बारे में जानकारी प्रदान करता है।
+description: यह आलेख प्रोजेक्ट टीम के सदस्यों को अस्थायी रूप से शेड्यूल या सॉफ्ट बुक करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -11,12 +11,12 @@ audience: Admin
 search.app:
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 7940409db69259785268778b6f6b0b67f4b2812d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6c666e5c0a83a3d1b440144a62cbd58a58c5db81
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577974"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8929124"
 ---
 # <a name="soft-book-a-resource"></a>संसाधन सॉफ़्ट बुक करें
 

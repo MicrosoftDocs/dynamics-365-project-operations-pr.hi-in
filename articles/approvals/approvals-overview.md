@@ -1,17 +1,17 @@
 ---
 title: अनुमोदनों का अवलोकन
-description: यह विषय परियोजना संचालन में स्वीकृतियों के साथ काम करने की सूचना देता है.
+description: यह आलेख परियोजना संचालन में अनुमोदन के साथ कार्य करने के बारे में जानकारी प्रदान करता है।
 author: stsporen
 ms.date: 03/31/2021
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 735cd820011a4badb83dbf6540ffe9c49f960ca1
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: d5b5c93dc948992505054ef7b17579aafcdf8f8d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576180"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924708"
 ---
 # <a name="approvals-overview"></a>अनुमोदनों का अवलोकन
 

@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट संसाधन सेट अप करना
-description: यह विषय परियोजना संसाधनों को सेट करने या अनुरोध के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट संसाधनों को स्थापित करने या अनुरोध करने के बारे में जानकारी प्रदान करता है।
 author: Yowelle
 ms.date: 09/01/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: a9af71fe0638a5601ded3f0e80301ae5dfa198c1
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 5a4e6fe829d6b39aed9eb6aaea42f245fc997593
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8682577"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8933770"
 ---
 # <a name="set-up-project-resources"></a>प्रोजेक्ट संसाधन सेट अप करना
 

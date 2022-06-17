@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्टस और प्रोजेक्ट कॉन्ट्रेक्ट पर इनवॉइस के बैकलॉग की समीक्षा करें
-description: इस टॉपिक में समय, व्यय और उत्पाद से जुड़े बैकलॉग की समीक्षा करने और उन्हें इनवॉयस बनाने के लिए तैयार करने के तरीके के बारे में जानकारी प्रदान की गई है।
+description: यह लेख इस बारे में जानकारी प्रदान करता है कि समय, व्यय और उत्पाद बैकलॉग की समीक्षा कैसे करें और उन्हें चालान-प्रक्रिया के लिए तैयार के रूप में कैसे चिह्नित करें।
 author: rumant
 ms.custom: ''
 ms.author: rumant
@@ -15,12 +15,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 51a7ecfefcc20544f5be378a347e3568285cafb3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 833ace7fd6285191f4b023a029286cd36b5de8f4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600560"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928894"
 ---
 # <a name="review-the-invoicing-backlog-on-projects-and-project-contracts"></a>प्रोजेक्टस और प्रोजेक्ट कॉन्ट्रेक्ट पर इनवॉइस के बैकलॉग की समीक्षा करें
 
@@ -28,7 +28,7 @@ ms.locfileid: "8600560"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-जब किसी लेनदेन का इनवॉयस बनने और प्रोसेस होने को तैयार हो तो लेनदेन पर **इन्वॉयसिंग हेतु तैयार** चिह्नित किया जाना चाहिए। इस टॉपिक में संभावित प्रकार के लेनदेन का वर्णन किया गया है।
+जब किसी लेनदेन का इनवॉयस बनने और प्रोसेस होने को तैयार हो तो लेनदेन पर **इन्वॉयसिंग हेतु तैयार** चिह्नित किया जाना चाहिए। यह आलेख वर्णन करता है कि किस प्रकार के लेन-देन बनाए जा सकते हैं।
 
 ## <a name="review-the-time-and-material-billing-backlog"></a>समय और सामग्री की बिलिंग के बैकलॉग की समीक्षा करें
 

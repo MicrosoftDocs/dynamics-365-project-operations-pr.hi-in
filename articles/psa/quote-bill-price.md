@@ -1,6 +1,6 @@
 ---
 title: कोटिंग, मूल्य निर्धारण और बिलिंग होम पेज
-description: यह विषय कोटिंग, मूल्य निर्धारण और बिलिंग के बारे में जानकारी प्रदान करता है.
+description: यह लेख उद्धरण, मूल्य निर्धारण और बिलिंग के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.author: rumant
 ms.custom:
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 09be2e3ed2bb17374f5d5151abf4ce7e5e2530a1
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: ef63d48703059bac8cadf3b12ecb025ae103d44d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581102"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926732"
 ---
 # <a name="quoting-pricing-and-billing-home-page"></a>कोटिंग, मूल्य निर्धारण और बिलिंग होम पेज
 
@@ -33,7 +33,7 @@ ms.locfileid: "8581102"
 
 कोटिंग, प्राइसिंग और बिलिंग वे विशेषताएँ होती हैं जिनका इस्तेमाल छोटे और बड़े दोनों संगठनों द्वारा किया जाता है। यह समझते हुए कि एप्लीकेशन में ये विशेषताएँ कैसे काम करती हैं, संगठन अधिक आसानी के साथ कॉन्फ़िगरेशन को अपनी ज़रूरत के अनुसार बना सकते हैं।
 
-निम्नलिखित विषयों में PSA में कोटिंग, प्राइसिंग और बिलिंग की सुविधा के बारे में अधिक जानकारी दी गई है:
+निम्नलिखित लेख पीएसए में उद्धरण, मूल्य निर्धारण और बिलिंग कार्यक्षमता के बारे में अधिक जानकारी प्रदान करते हैं:
 
 - [विक्रय प्रक्रिया](basic-sales-process.md)
 - [कोट पंक्तियाँ](basic-quote-lines.md)

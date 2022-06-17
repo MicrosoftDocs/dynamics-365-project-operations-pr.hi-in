@@ -1,6 +1,6 @@
 ---
 title: रिसोर्सिंग प्रोजेक्ट होम पेज
-description: इस विषय में Dynamics 365 के लिए Project Service Automation (PSA) में रिसोर्स प्रबंधन की क्षमताओं की जानकारी दी गई है।
+description: यह आलेख Dynamics 365 के लिए Project Service Automation (PSA) में संसाधन प्रबंधन क्षमताओं के बारे में जानकारी प्रदान करता है।
 author: JohnPBurrows
 ms.custom:
 - dyn365-projectservice
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 4ec114f6dc04b493e30fcaae0d50616108c695f2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 14328ba1af46eca3a8996d330180d888987b7966
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599824"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8925260"
 ---
 # <a name="resourcing-projects-home-page"></a>रिसोर्सिंग प्रोजेक्ट होम पेज
 
@@ -46,7 +46,7 @@ ms.locfileid: "8599824"
 - एक कौशल और प्रवीणता भंडार बनाए रखें.
 
 
-आप पीएसए में सामान्य या नामित संसाधनों की एक टीम के साथ अपनी परियोजना स्टाफ कर सकते हैं। आप टीम के सदस्यों को जोड़ने और असाइन करने और उनकी बुकिंग और असाइनमेंट प्रबंधित करने के लिए विभिन्न विधियों का उपयोग कर सकते हैं। अतिरिक्त जानकारी के लिए, निम्न विषय देखें:
+आप पीएसए में सामान्य या नामित संसाधनों की एक टीम के साथ अपनी परियोजना स्टाफ कर सकते हैं। आप टीम के सदस्यों को जोड़ने और असाइन करने और उनकी बुकिंग और असाइनमेंट प्रबंधित करने के लिए विभिन्न विधियों का उपयोग कर सकते हैं। अतिरिक्त जानकारी के लिए, निम्नलिखित लेख देखें:
 
 - [एक प्रोजेक्ट टीम को बुक करने योग्य संसाधनों का नाम और कार्यों को असाइन करें](assign-named-bookable-resource.md)
 - [किसी भी कार्य के लिए जेनेरिक बुक करने-योग्य संसाधनों को असाइन करें और संसाधनों की ज़रूरतों को उत्पन्न करें](assign-generic-bookable-resource.md)

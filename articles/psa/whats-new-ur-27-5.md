@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation के अद्यतन रिलीज़ 27.5, हॉटफ़िक्स, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
-description: इस विषय में Project Service Automation अद्यतन रिलीज़ 27.5 हॉटफ़िक्स, V3 में उपलब्ध सुविधाएँ और सुधार सूचीबद्ध किए गए हैं.
+description: यह आलेख Project Service Automation Update Release 27.5 Hotfix, V3 में उपलब्ध सुविधाओं और सुधारों को सूचीबद्ध करता है।
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 02/03/2021
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 347f0516550b4b144a579f26602141c898884424
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: cd3af0ad349c14e7cdfc1e2e86c08685b8b5baab
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588186"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8928756"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-275-v3"></a>Project Service Automation के अपडेट रिलीज़ 27.5, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 
@@ -29,7 +29,7 @@ ms.locfileid: "8588186"
 
 हमें Dynamics 365 के लिए Project Service Automation अनुप्रयोग हेतु नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ का अद्यतन करने के लिए, अपडेट को स्थापित करने हेतु Dynamics 365 online समाधन पृष्ठ के लिए व्यवस्थापन केंद्र पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
 
-यह टॉपिक Project Service Automation V3, अपडेट रिलीज़ 27.5 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस वर्ज़न की बिल्ड संख्या V3.10.45.119 है और यह आमतौर पर जनवरी 2021 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
+यह आलेख उन सुविधाओं और सुधारों को सूचीबद्ध करता है जो Project Service Automation V3, Update Release 27.5 के लिए नए या बदले गए हैं। इस वर्ज़न की बिल्ड संख्या V3.10.45.119 है और यह आमतौर पर जनवरी 2021 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
 
 ## <a name="update-release-275"></a>अपडेट रिलीज़ 27.5
 

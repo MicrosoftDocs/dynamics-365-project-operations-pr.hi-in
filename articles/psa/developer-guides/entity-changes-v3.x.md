@@ -1,6 +1,6 @@
 ---
 title: एंटिटी, नियंत्रण, और उपयोगकर्ता इंटरफ़ेस परिवर्तन (Project Service Automation 3.x)
-description: यह विषय Microsoft Dynamics Project Service Automation 3.x के लिए समाधान परिवर्तन का वर्णन करता है।
+description: यह आलेख इसके लिए समाधान परिवर्तनों का वर्णन करता है Microsoft Dynamics प्रोजेक्ट सर्विस ऑटोमेशन 3.x.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -15,19 +15,19 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: da43e0d15e655977c0c1be7348192a0189a56a6c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8f54d263666c4fb999464f98c0138fc008dbbbd2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8597570"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8926870"
 ---
 # <a name="entity-control-and-user-interface-changes-project-service-automation-3x"></a>एंटिटी, नियंत्रण, और उपयोगकर्ता इंटरफ़ेस परिवर्तन (Project Service Automation 3.x)
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
 
-Microsoft Dynamics Project Service Automation (PSA) 3.x की रिलीज़ के साथ, इकाइयों, नियंत्रणों, दृश्य और उपयोगकर्ता इंटरफ़ेस में कई बदलाव किए गए हैं। यह विषय इन महत्वपूर्ण परिवर्तनों के बारे में जानकारी प्रदान करता है।
+Microsoft Dynamics Project Service Automation (PSA) 3.x की रिलीज़ के साथ, इकाइयों, नियंत्रणों, दृश्य और उपयोगकर्ता इंटरफ़ेस में कई बदलाव किए गए हैं। यह लेख इन महत्वपूर्ण परिवर्तनों के बारे में जानकारी प्रदान करता है।
 
 ## <a name="parent-child-relationships-for-sales-document-sales-document-line-sales-document-line-detail-entities"></a>बिक्री दस्तावेज, बिक्री दस्तावेज लाइन, बिक्री दस्तावेज लाइन विवरण इकाइयों के लिए पेरेंट-चाइल्ड संबंध
 संस्करण 3.0 से पहले जारी Dynamics 365 Project Service Automation (PSA) के संस्करणों में, स्ट्रिंग फ़ील्ड के माध्यम से बिक्री दस्तावेज़, बिक्री दस्तावेज़ लाइनों, और बिक्री दस्तावेज़ लाइन विवरण इकाई के बीच के कुछ रिश्तों को संबंधित इकाई के GUID के एक स्ट्रिंग प्रतिनिधित्व के साथ लागू किया गया था। यह उन प्लेटफ़ॉर्म सीमाओं के कारण था, जिनके समाधान के लिए सर्वर और क्लाइंट पक्षों पर महत्वपूर्ण कस्टम कोड की आवश्यकता होती थी, ताकि वे संबंध विशिष्ट Dynamics CRM इकाई संबंधों के समान कार्य कर सकें और स्ट्रिंग फ़ील्ड को लुकअप फ़ील्ड की तरह बना सकें।

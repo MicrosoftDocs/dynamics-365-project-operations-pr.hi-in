@@ -1,6 +1,6 @@
 ---
-title: मूल्य निर्धारण पैमानों के रूप में Project Operations फ़ील्ड
-description: यह विषय Dynamics 365 Project Operations में फ़ील्ड का उपयोग मूल्य निर्धारण आयामों के रूप में करने के बारे में जानकारी प्रदान करता है.
+title: मूल्य निर्धारण आयाम के रूप में Project Operations फ़ील्ड
+description: यह आलेख में मूल्य निर्धारण आयामों के रूप में फ़ील्ड का उपयोग करके जानकारी प्रदान करता है।Dynamics 365 Project Operations
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: 6a68bfe5a61f032f28f69c1aaed29f12cbea285d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: baf2145d4df23893953a099ca3837160fa8ac764
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594120"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8932804"
 ---
 # <a name="project-operations-fields-as-pricing-dimensions"></a>मूल्य निर्धारण आयाम के रूप में Project Operations फ़ील्ड
 
