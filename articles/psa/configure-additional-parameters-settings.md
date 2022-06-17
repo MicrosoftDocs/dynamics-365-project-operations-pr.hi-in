@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 0ceaa3af630df132339895a8497e49daf2e102c3
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 75fe0aab8ea8bf41fcb98f4318380c93ac52fef8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592326"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919234"
 ---
 # <a name="configure-additional-parameter-settings-project-service"></a>अतिरिक्त पैरामीटर सेटिंग कॉन्फ़िगर करना (Project Service)
 
@@ -30,7 +30,7 @@ ms.locfileid: "8592326"
 
 [!INCLUDE[cc-applies-to-psa-app-1x-2x](../includes/cc-applies-to-psa-app-1x-2x.md)]
 
-जब आपने पिछले विषयों में आइटम कॉन्फ़िगर कर लिए हैं, तो आपको अपनी परियोजनाओं के लिए उपयोग करने के लिए अतिरिक्त परियोजना पैरामीटर सेट करना पड़ेगा. [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] को पहली बार स्‍थापित करने पर, आपने एक पैरामीटर सेटिंग बनाई थी, ताकि [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] के कार्य करने के लिए पहले सभी आवश्यक रिकॉर्ड्स बनाए जा सकें. अब समय है कि वापस जाएँ और इन सेटिंग्स के लिए अतिरिक्त फ़ील्ड्स कॉन्फ़िगर करें.  
+पिछले लेखों में आइटम कॉन्फ़िगर करने के बाद, आपको अपनी परियोजनाओं के लिए उपयोग करने के लिए अतिरिक्त प्रोजेक्ट पैरामीटर सेट करने होंगे। [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] को पहली बार स्‍थापित करने पर, आपने एक पैरामीटर सेटिंग बनाई थी, ताकि [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] के कार्य करने के लिए पहले सभी आवश्यक रिकॉर्ड्स बनाए जा सकें. अब समय है कि वापस जाएँ और इन सेटिंग्स के लिए अतिरिक्त फ़ील्ड्स कॉन्फ़िगर करें.  
   
  आपको निम्न सेटिंग्स कॉन्फ़िगर करने की आवश्यकता होगी:  
   

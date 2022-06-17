@@ -1,6 +1,6 @@
 ---
-title: होम पेज रिपोर्टिंग
-description: यह विषय Dynamics 365 Project Service Automation में रिपोर्टिंग के बारे में जानकारी प्रदान करता है।
+title: रिपोर्टिंग मुख पृष्ठ
+description: यह आलेख में रिपोर्टिंग के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Service Automation
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -18,12 +18,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: da9458741563aa918bc09259e35ba9002ff0ba13
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: cf55495cc435d929bd305c9fea270aeb2d62a3da
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595960"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921672"
 ---
 # <a name="reporting-home-page"></a>रिपोर्टिंग मुख पृष्ठ
 
@@ -47,7 +47,7 @@ Microsoft Power BI और Dynamics 365 मिल कर इनसाइट्स
 
 
 ## <a name="additional-resources"></a>अतिरिक्त संसाधन
-PSA में रिपोर्टिंग के बारे में अधिक जानकारी के लिए, निम्नलिखित विषय देखें:
+पीएसए में रिपोर्टिंग के बारे में अधिक जानकारी के लिए, निम्नलिखित लेख देखें:
 
 - [Project Service डेटा मॉडल के साथ काम करना](reports-working-project-service-data-model.md)
 - [डैशबोर्ड](reports-dashboards.md)

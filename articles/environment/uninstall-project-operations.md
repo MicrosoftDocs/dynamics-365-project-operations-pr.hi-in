@@ -1,17 +1,17 @@
 ---
 title: Dynamics 365 Project Operations की स्थापना रद्द करें
-description: यह विषय Dynamics 365 Project Operations में स्थापना रद्द कैसे करते हैं, के बारे में जानकारी प्रदान करता है.
+description: यह आलेख अनइंस्टॉल करने के तरीके के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Operations
 author: stsporen
 ms.date: 11/09/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: e2600c770477ad32cebb66f33a8ca31502a6da3d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 33a505594d6db47b4f8a0c8a630a0836f424e7d5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575858"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911966"
 ---
 # <a name="uninstall-dynamics-365-project-operations"></a>Dynamics 365 Project Operations की स्थापना रद्द करें 
 

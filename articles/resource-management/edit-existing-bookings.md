@@ -1,24 +1,24 @@
 ---
 title: बुकिंग संपादित करें
-description: यह विषय बुकिंग में अद्यतन और परिवर्तन करने के बारे में जानकारी प्रदान करता है.
+description: इस लेख में बुकिंग को अपडेट करने और उसमें बदलाव करने के तरीके के बारे में जानकारी दी गई है।
 author: ruhercul
 ms.date: 11/12/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 94ff047e868b29eb75acce43b6e6594533a33bf0
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 4834d42d3b5d285a5c1b386ddd4ede1e09cf0067
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594350"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915232"
 ---
 # <a name="edit-bookings"></a>बुकिंग संपादित करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 
-जब किसी परियोजना में परिवर्तन होते हैं जिनके लिए आपको मौजूदा बुकिंग को अद्यतित करने की आवश्यकता होती है, तो परिवर्तन करने के कई तरीके होते हैं. यह विषय बुकिंग में अद्यतन और परिवर्तन करने के बारे में जानकारी दर्शाता है.
+जब किसी परियोजना में परिवर्तन होते हैं जिनके लिए आपको मौजूदा बुकिंग को अद्यतित करने की आवश्यकता होती है, तो परिवर्तन करने के कई तरीके होते हैं. इस लेख में बताया गया है कि बुकिंग को कैसे अपडेट करें और उसमें बदलाव कैसे करें।
 
 ## <a name="resource-reconciliation"></a>संसाधन समन्वय
 

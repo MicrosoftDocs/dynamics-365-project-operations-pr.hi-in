@@ -1,6 +1,6 @@
 ---
 title: संसाधनों का प्रबंधन करें
-description: यह विषय संसाधनों को व्यवस्थित करने की जानकारी देता है।
+description: यह आलेख इस बारे में जानकारी प्रदान करता है कि आप संसाधनों का प्रबंधन कैसे कर सकते हैं।
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 5788a457c888bd2ab945fa52df82157a7c17d56b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5709f7f179b14606690549c77ede7ba03b77e1b1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8589842"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920430"
 ---
 # <a name="manage-resources"></a>संसाधनों का प्रबंधन करें
 

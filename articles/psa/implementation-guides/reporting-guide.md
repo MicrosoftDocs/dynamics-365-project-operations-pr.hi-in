@@ -1,6 +1,6 @@
 ---
 title: रिपोर्टिंग मार्गदर्शिका
-description: इस विषय में रिपोर्टिंग के बारे में जानकारी दी गई है।
+description: यह लेख रिपोर्टिंग के बारे में जानकारी के लिए लिंक प्रदान करता है।
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 1039f38e0a3ced13d824e10d88cd502f546b96fc
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: acd9b885c17ae0ca05780242a4c8d3837f814f10
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8577560"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919188"
 ---
 # <a name="reporting-guide"></a>रिपोर्टिंग मार्गदर्शिका
 
@@ -32,14 +32,14 @@ ms.locfileid: "8577560"
 
 इस ऐप में रिपोर्टिंग की विधियाँ और प्रौद्योगिकियाँ आपको अपने प्रोजेक्ट की स्थिति निर्धारित करने और सुधारात्मक कार्रवाई करने की ज़रूरत को पहचानने में मदद करेंगे। 
 
-इस विषय में पहले जो PDF लिंक था उसे हटा दिया गया है और सामग्री को निम्नलिखित विषयों में ले जाया गया है:
+पीडीएफ लिंक जो पहले इस लेख में था उसे हटा दिया गया है और सामग्री को निम्नलिखित लेखों में स्थानांतरित कर दिया गया है:
 
 - [होम पेज रिपोर्टिंग](../reports-reporting-dynamics-365-project-service.md)
 - [डैशबोर्ड](../reports-dashboards.md)
 - [Project Service Automation डेटा मॉडल के साथ काम करना](../reports-working-project-service-data-model.md)
 
 > [!NOTE]
-> यह विषय भविष्य के दस्तावेज़ अपडेट में हटा दिया जाएगा। 
+> यह आलेख भविष्य के दस्तावेज़ीकरण अद्यतन में निकाल दिया जाएगा। 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

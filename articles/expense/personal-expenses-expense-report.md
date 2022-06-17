@@ -1,18 +1,18 @@
 ---
 title: व्यय रिपोर्ट पर व्यक्तिगत व्यय के साथ कार्य करें
-description: इस विषय में व्यावसायिक उद्देश्यों के लिए यात्रा करते समय कर्मचारियों द्वारा खर्च किए गए व्यक्तिगत व्यय के साथ काम करने के तरीके के बारे में जानकारी दी गई है.
+description: यह लेख इस बारे में जानकारी प्रदान करता है कि व्यावसायिक उद्देश्यों के लिए यात्रा करते समय कर्मचारियों द्वारा किए गए व्यक्तिगत खर्चों के साथ कैसे काम किया जाए।
 author: suvaidya
 ms.date: 05/11/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: suvaidya
-ms.openlocfilehash: d35bf6960bb60e2ad4184e1b5f188695a3525be0
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 1cda5151a32482f92c69402bcc0056d7b6572db8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586530"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8922270"
 ---
 # <a name="work-with-personal-expenses-on-an-expense-report"></a>व्यय रिपोर्ट पर व्यक्तिगत व्यय के साथ कार्य करें
 

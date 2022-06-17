@@ -1,6 +1,6 @@
 ---
-title: डैशबोर्ड
-description: इस विषय में Dynamics 365 Project Service Automation में शामिल रिपोर्टिंग डैशबोर्ड की जानकारी दी गई है।
+title: डैशबोर्ड्स
+description: यह आलेख में शामिल रिपोर्टिंग डैशबोर्ड के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Service Automation
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 2474318dd720550d08d30945e534afba3cb86a64
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7aebeb412defbe373325c4229773969de8af3d82
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580274"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919004"
 ---
 # <a name="dashboards"></a>डैशबोर्ड
 

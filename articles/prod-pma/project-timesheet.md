@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट टाइमशीट मोबाइल अनुप्रयोग
-description: यह विषय Microsoft Dynamics 365 Project Timesheet मोबाइल अनुप्रयोग के बारे में जानकारी देता है. Project Timesheet मोबाइल अनुप्रयोग उपयोगकर्ताओं को उनकी मोबाइल डिवाइस पर परियोजनाओं के लिए टाइमशीट सबमिट करने और अनुमोदित करने में सक्षम बनाता है.
+description: यह लेख के बारे में जानकारी प्रदान करता है Microsoft Dynamics 365 Project Timesheet मोबाइल एप्लिकेशन। Project Timesheet मोबाइल अनुप्रयोग उपयोगकर्ताओं को उनकी मोबाइल डिवाइस पर परियोजनाओं के लिए टाइमशीट सबमिट करने और अनुमोदित करने में सक्षम बनाता है.
 author: abruer
 ms.date: 04/08/2019
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: cd5ea257472ef8dfa0d7181223a518c677c6d77b
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 6f4be64f595371334e4065b60ca1a81232b333f7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683130"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923972"
 ---
 # <a name="project-timesheet-mobile-application"></a>प्रोजेक्ट टाइमशीट मोबाइल अनुप्रयोग
 

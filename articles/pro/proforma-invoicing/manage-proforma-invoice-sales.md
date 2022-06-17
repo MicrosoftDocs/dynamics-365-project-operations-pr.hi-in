@@ -1,17 +1,17 @@
 ---
 title: प्रोफ़ॉर्मा परियोजना इनवॉइस प्रबंधित करें
-description: यह विषय परियोजना प्रोफार्मा इनवॉइस के साथ काम करने के तरीके के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोफार्मा प्रोजेक्ट इनवॉइस के साथ कार्य करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 04/05/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 359f17fb5510b13de97d2349dcbc91d11b48e0f9
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7253b2f8beefb970c573279b1873070219edce08
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582620"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923006"
 ---
 # <a name="manage-a-proforma-project-invoice"></a>प्रोफ़ॉर्मा परियोजना इनवॉइस प्रबंधित करें 
 

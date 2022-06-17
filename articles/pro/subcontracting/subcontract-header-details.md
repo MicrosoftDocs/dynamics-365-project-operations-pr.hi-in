@@ -1,17 +1,17 @@
 ---
 title: उपअनुबंध के लिए हेडर विवरण
-description: यह विषय Project Operations में उप-अनुबंध शीर्षलेख पर प्रदान की गई कार्यक्षमता की व्याख्या करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस में उप-अनुबंध शीर्षलेख पर प्रदान की गई कार्यक्षमता की व्याख्या करता है।
 author: rumant
 ms.date: 09/14/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: fade0ff876486ad60ffd9ad618be7864c1b28185
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 85649d08228b16178eb8d6be9af5a6731def74bf
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598168"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914174"
 ---
 # <a name="header-details-for-subcontracts"></a>उपअनुबंध के लिए हेडर विवरण
 
@@ -19,7 +19,7 @@ ms.locfileid: "8598168"
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-यह विषय Dynamics 365 Project Operations में उपअनुबंध हेडर पर प्रदान की गई कार्यक्षमता की व्याख्या करता है.
+यह आलेख में उप-अनुबंध शीर्षलेख पर प्रदान की गई कार्यक्षमता की व्याख्या करता है।Dynamics 365 Project Operations
 
 प्रोजेक्ट प्रबंधक के रूप में प्रोजेक्ट्स का प्लान और निष्पादन करता है, वे उप-अनुबंधक को नियुक्त कर सकते हैं और विक्रेताओं से उत्पादों और सेवाओं की खरीद कर सकते हैं. जब किसी प्रोजेक्ट प्रबंधक को उत्पादों या सेवाओं को खरीदने की आवश्यकता होती है, तो वे Project Operations में उप-अनुबंध बना सकते हैं.
 

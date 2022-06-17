@@ -1,18 +1,18 @@
 ---
 title: स्टॉक-नहीं की गयी सामग्री और लंबित विक्रेता चालान कॉन्फ़िगर करें
-description: यह विषय बताता है कि स्टॉक-नहीं की गयी सामग्री और लंबित विक्रेता चालान को कैसे सक्षम किया जाए.
+description: यह आलेख बताता है कि गैर-स्टॉक की गई सामग्री और लंबित विक्रेता चालान को कैसे सक्षम किया जाए।
 author: sigitac
 ms.date: 06/22/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 1b14ab17a317e7082bc9c24709590745a5c48ea8
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6473ef3510f0d3641a2d61b6a1b1f28980993277
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592970"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913760"
 ---
 # <a name="configure-non-stocked-materials-and-pending-vendor-invoices"></a>स्टॉक-नहीं की गयी सामग्री और लंबित विक्रेता चालान कॉन्फ़िगर करें
 
@@ -32,7 +32,7 @@ Dynamics 365 Finance:
 
 ## <a name="run-dual-write-maps-for-non-stocked-materials-and-vendor-invoice-integration"></a>स्टॉक-नहीं की गयी सामग्री और विक्रेता चालान एकीकरण के लिए ड्यूल-राइट मानचित्र चलाएँ
 
-यह अनुभाग स्टॉक-नहीं की गयी सामग्री और विक्रेता के चालान के लिए आवश्यक नक्शों के बारे में जानकारी देता है. यह जांच लें कि [नए वातावरण प्रावधान](../environment/resource-provision-new-environment.md#run-project-operations-dual-write-maps) विषय में सूचीबद्ध पूर्वापेक्षित मानचित्र आपके पर्यावरण पर चल रहे हैं.
+यह अनुभाग स्टॉक-नहीं की गयी सामग्री और विक्रेता के चालान के लिए आवश्यक नक्शों के बारे में जानकारी देता है. सत्यापित करें कि पूर्वापेक्षा मानचित्र में सूचीबद्ध हैं [एक नया वातावरण प्रदान करें](../environment/resource-provision-new-environment.md#run-project-operations-dual-write-maps) आपके परिवेश पर लेख चल रहे हैं.
 
 1. Lifecycle Services (LCS) पर जाएं, अपने LCS प्रोजेक्ट पर जाएं, और **पर्यावरण विवरण** पृष्ठ पर जाएं.
 2. **Common Data Service पर्यावरण जानकारी** अनुभाग में, **ऐप्स के लिए CDS से लिंक करें** का चयन करें. आपके द्वारा लिंक चुनने के बाद, आप मैपिंग में निकायों की सूची पर रिडायरेक्ट हो जाएंगे।

@@ -1,17 +1,17 @@
 ---
-title: श्रम बिल दर निर्धारित करें
-description: यह विषय जानकारी देता है कि कैसे प्रकल्प परिचालन के लिये बिलिंग दरें तय की जाए.
+title: लेबर बिल की दरें तय करें
+description: यह आलेख परियोजना संचालन में श्रम बिलिंग दरों को सेट करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 04/07/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ffb947533a42ace3615e7755c12a5ab69491f747
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0ad83e899030be480baed95597e1ccfc0e560e24
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585518"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924340"
 ---
 # <a name="set-up-labor-bill-rates"></a>लेबर बिल की दरें तय करें
 

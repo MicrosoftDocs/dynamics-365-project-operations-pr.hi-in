@@ -1,24 +1,24 @@
 ---
 title: व्यय प्रबंधन एकीकरण
-description: यह विषय ड्यूल-राइट का उपयोग करके Project Operations में व्यय रिपोर्ट एकीकरण के बारे में जानकारी प्रदान करता है.
+description: यह आलेख दोहरे लेखन का उपयोग करके परियोजना संचालन में व्यय रिपोर्ट एकीकरण के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 04/28/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: b41be519dbfa89668712bc28ccb1888cd08c38a2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c64c318dc1915a9a87b6ae3c6b8a2aa6d3c9cd36
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585794"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924616"
 ---
 # <a name="expense-management-integration"></a>व्यय प्रबंधन एकीकरण
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
-यह विषय ड्यूल-राइट का उपयोग करते हुए Project Operations [पूर्ण व्यय तैनाती](../expense/expense-overview.md) में व्यय रिपोर्ट एकीकरण के बारे में जानकारी प्रदान करता है.
+यह आलेख परियोजना संचालन में व्यय रिपोर्ट एकीकरण के बारे में जानकारी प्रदान करता है [पूर्ण व्यय परिनियोजन](../expense/expense-overview.md) दोहरे लेखन का उपयोग करना।
 
 ## <a name="expense-categories"></a>व्यय श्रेणियों
 

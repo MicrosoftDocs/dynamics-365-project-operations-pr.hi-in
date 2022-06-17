@@ -1,6 +1,6 @@
 ---
 title: विक्रय मूल्य सूची सेटअप करें
-description: यह विषय परियोजना के मूल्य निर्धारण के लिए बिक्री मूल्य सूचियों के बारे में जानकारी प्रदान करता है.
+description: यह आलेख परियोजना मूल्य निर्धारण के लिए बिक्री मूल्य सूचियों के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: cb4153e05359c17c1536e06f220e21465be899fb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 1892607ac121e23a05cd45bc05d4e23ea84690b4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582666"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923052"
 ---
 # <a name="set-up-a-sales-price-list"></a>विक्रय मूल्य सूची सेटअप करें
 

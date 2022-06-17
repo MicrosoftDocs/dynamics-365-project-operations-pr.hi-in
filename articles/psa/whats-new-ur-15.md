@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation के अपडेट रिलीज़ 15, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
-description: यह टॉपिक Project Service Automation अपडेट रिलीज़ 15, V3 में क्या नया है, इसके बारे में जानकारी प्रदान करता है.
+description: यह आलेख इस बारे में जानकारी प्रदान करता है कि Project Service Automation Update Release 15, V3 में नया क्या है।
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 01/27/2020
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 26b9ee0a6ff1ad81d6c77a6a7091733667c493ff
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b87cae2cd8913457c2931d1661a57509d1398d29
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585150"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915646"
 ---
 # <a name="project-service-automation-update-release-15-v3"></a>Project Service Automation V3 अद्यतन रिलीज़ 15, V3
 
@@ -29,7 +29,7 @@ ms.locfileid: "8585150"
 
 हमें Dynamics 365 Project Service Automation (PSA) अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए बेहद खुशी है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह रिलीज़ Dynamics 365 9.x के साथ संगत में है. इस रिलीज़ पर अपडेट करने के लिए, Dynamics 365 online के लिए व्यवस्थापन केंद्र पर जाएँ, और अपडेट को स्थापित करने के लिए समाधान पृष्ठ पर जाएँ. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
 
-यह टॉपिक PSA V3, अपडेट रिलीज़ 15 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस वर्ज़न की बिल्ड संख्या V3.10.5.28 है और यह आमतौर पर जनवरी 2020 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
+यह आलेख उन सुविधाओं और सुधारों को सूचीबद्ध करता है जो PSA V3, अद्यतन रिलीज़ 15 के लिए नए या परिवर्तित हैं। इस वर्ज़न की बिल्ड संख्या V3.10.5.28 है और यह आमतौर पर जनवरी 2020 के सेल्फ-अपडेट के माध्यम से उपलब्ध है.
 
 ## <a name="update-release-15"></a>अपडेट रिलीज़ 15 
 

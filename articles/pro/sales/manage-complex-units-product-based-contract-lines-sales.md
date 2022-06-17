@@ -1,17 +1,17 @@
 ---
 title: उत्पाद-आधारित अनुबंध पंक्तियों के लिए जटिल इकाइयाँ प्रबंधित करें - लाइट
-description: यह विषय सदस्यता-आधारित उत्पादों की बिक्री का समर्थन करने के बारे में जानकारी प्रदान करता है.
+description: यह लेख सदस्यता-आधारित उत्पादों की बिक्री का समर्थन करने के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/28/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 214593c5b3fbfc5194031af3d3bef59d01750099
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f48ac31778e34ace79dbce74cff752343484e5a5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8593982"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919924"
 ---
 # <a name="manage-complex-units-for-product-based-contract-lines---lite"></a>उत्पाद-आधारित अनुबंध पंक्तियों के लिए जटिल इकाइयाँ प्रबंधित करें - लाइट
 

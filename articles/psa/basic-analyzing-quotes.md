@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट कोटेशन का विश्लेषण
-description: यह विषय प्रोजेक्ट कोटेशन के विश्लेषण के बारे में जानकारी प्रदान करता है।
+description: यह आलेख परियोजना उद्धरणों के विश्लेषण के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: f3bff90f91e1df8bda495912a4aad0fa69342396
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 9db924c16c5eca17e7962ff1d88b09e581347fa5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592418"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919280"
 ---
 # <a name="analysis-of-project-quotes"></a>प्रोजेक्ट कोटेशन का विश्लेषण
 

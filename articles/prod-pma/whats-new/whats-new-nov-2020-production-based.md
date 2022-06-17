@@ -1,17 +1,17 @@
 ---
 title: नया क्या है नवंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
-description: इस विषय में स्टॉक्ड-उत्पादन-आधारित परिदृश्यों के लिए Project Operations के नवंबर 2020 में जारी होने वाले गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
+description: यह आलेख स्टॉक-प्रोडक्शन-आधारित परिदृश्यों के लिए प्रोजेक्ट ऑपरेशंस के नवंबर 2020 रिलीज़ में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 10/15/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 24796eb70f5da6fa181ef7e88ec5d4d4fddbb436
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 67f71aa045dc3c9dd513462709db79436c971b7b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576594"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911231"
 ---
 # <a name="whats-new-november-2020---project-operations-for-stockedproduction-based-scenarios"></a>नया क्या है नवंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
 

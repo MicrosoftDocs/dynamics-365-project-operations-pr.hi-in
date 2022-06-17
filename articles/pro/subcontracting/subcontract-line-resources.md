@@ -1,17 +1,17 @@
 ---
 title: उप-अनुबंध लाइन संसाधन
-description: यह विषय बताता है कि समय के लिए विशिष्ट उप-अनुबंध लाइन के लिए विक्रेता द्वारा प्रदान किए गए समर्पित संसाधनों को कैसे निर्दिष्ट किया जाए.
+description: यह आलेख बताता है कि समय के लिए एक विशिष्ट उप-अनुबंध लाइन के लिए विक्रेता द्वारा प्रदान किए गए समर्पित संसाधनों को कैसे निर्दिष्ट किया जाए।
 author: rumant
 ms.date: 08/06/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 96bce2d6797c124331ce0174b16804ff8dfec993
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 84fbbd6e1a82db2b2d998b5f41579396df884ec3
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576088"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924156"
 ---
 # <a name="subcontract-line-resources"></a>उप-अनुबंध लाइन संसाधन
 

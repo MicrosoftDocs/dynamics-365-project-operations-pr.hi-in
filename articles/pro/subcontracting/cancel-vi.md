@@ -1,19 +1,19 @@
 ---
-title: प्रोजेक्ट विक्रेता इनवॉइस रद्द करें
-description: यह विषय Microsoft में प्रोजेक्ट विक्रेता इनवॉइस को रद्द करने का तरीका बताता है Dynamics 365 Project Operations और एक परियोजना विक्रेता चालान को रद्द करने का वित्तीय प्रभाव।
+title: परियोजना विक्रेता इनवॉइस रद्द करें
+description: यह आलेख बताता है कि Microsoft में प्रोजेक्ट विक्रेता इनवॉइस को कैसे रद्द किया जाए Dynamics 365 Project Operations और एक परियोजना विक्रेता चालान को रद्द करने का वित्तीय प्रभाव।
 author: rumant
 ms.date: 03/30/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 87f6bdca30c5779e3d70922e75609ff4cdfca167
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 7ddaadc0f6e336a8ba67bb4ad8000f7e894f3eb0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580642"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911552"
 ---
-# <a name="cancel-a-project-vendor-invoice"></a>प्रोजेक्ट विक्रेता इनवॉइस रद्द करें
+# <a name="cancel-a-project-vendor-invoice"></a>परियोजना विक्रेता इनवॉइस रद्द करें
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

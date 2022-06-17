@@ -1,17 +1,17 @@
 ---
 title: सामग्री के लिए लागत और विक्रय दर सेट अप करें
-description: यह विषय प्रोज़ेक्ट पर उपयोग की जाने वाली सामग्रियों के लिए लागत और बिक्री दरों को कैसे स्थापित किया जाए, इसके बारे में जानकारी प्रदान करता है.
+description: यह लेख इस बारे में जानकारी प्रदान करता है कि परियोजनाओं पर उपयोग की जाने वाली सामग्रियों के लिए लागत और बिक्री दरों को कैसे सेट किया जाए।
 author: rumant
 ms.date: 03/21/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 1b1b679f15662d922804deefb6372adcdf4d4839
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 0a7d84c2dcaa228e06add2f3cb06a530b29e0e35
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576870"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911782"
 ---
 # <a name="set-up-cost-and-sales-rates-for-materials"></a>सामग्री के लिए लागत और विक्रय दर सेट अप करें
 
@@ -25,7 +25,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 2. **मूल्य सूची आइटम**, सबग्रिड मेनू पर, **नई मूल्य सूची आइटम** का चयन करें. 
 3. **क्विक क्रिएट** पेज पर, उस उत्पाद और इकाई को दर्ज करें जिसके लिए आप नई कीमत बना रहे हैं.
 
-कैटलॉग आइटम के लिए कीमतों को परिभाषित करने के तरीके के बारे में अधिक जानकारी के लिए, देखें [मूल्य सूची और मूल्य सूची आइटम के साथ उत्पाद मूल्य निर्धारण को परिभाषित करें](/dynamics365/sales/create-price-lists-price-list-items-define-pricing-products) और [मुद्रा और मूल्य निर्धारण में दशमलव परिशुद्धता।](/dynamics365/sales/decimal-precision-currency-pricing)
+कैटलॉग आइटम के लिए कीमतों को परिभाषित करने के तरीके के बारे में अधिक जानकारी के लिए, देखें [मूल्य सूची और मूल्य सूची आइटम के साथ उत्पाद मूल्य निर्धारण को परिभाषित करें](/dynamics365/sales/create-price-lists-price-list-items-define-pricing-products) तथा[मुद्रा और मूल्य निर्धारण में दशमलव परिशुद्धता।](/dynamics365/sales/decimal-precision-currency-pricing)
 > [!NOTE]
 > Dynamics 365 Project Operations Dynamics 365 Sales के रूप में उत्पादों के लिए सभी मूल्य निर्धारण विधियों का समर्थन नहीं करता है। परियोजनाओं पर उपयोग किए जाने वाले उत्पादों के लिए समर्थित एकमात्र मूल्य निर्धारण पद्धति है *मुद्रा मूल्य।*
 

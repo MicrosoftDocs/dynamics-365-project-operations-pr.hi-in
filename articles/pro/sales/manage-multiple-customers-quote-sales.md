@@ -1,17 +1,17 @@
 ---
 title: परियोजना कोट पर कई ग्राहकों को प्रबंधित करें - लाइट
-description: यह विषय कई ग्राहकों के साथ कोटेशन पर काम करने के बारे में जानकारी प्रदान करता है जो परियोजना को पूंजी देंगे. (Sales)
+description: यह लेख कई ग्राहकों के साथ उद्धरणों पर काम करने के बारे में जानकारी प्रदान करता है जो परियोजना को निधि देंगे। (Sales)
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 867d34f955ba53c74e9c31349b7f67d84ba10da4
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 337619e8d8081cdebd73f9336fa9fa99885a0ab2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576778"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921074"
 ---
 # <a name="manage-multiple-customers-on-project-quotes---lite"></a>परियोजना कोट पर कई ग्राहकों को प्रबंधित करें - लाइट
 

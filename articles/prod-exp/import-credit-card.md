@@ -1,6 +1,6 @@
 ---
 title: क्रेडिट कार्ड लेनदेन आयात करें और कायम करें
-description: यह विषय बताता है कि व्यय-संबंधित क्रेडिट कार्ड लेनदेन को कैसे आयात किया जाए और बनाए रखा जाए. इन लेनदेन को सेट किया जा सकता है ताकि वे स्वचालित रूप से बार-बार आने वाले शेड्यूल पर आयात हो सकें, या उन्हें आवश्यकतानुसार मैन्युअल रूप से आयात किया जा सके.
+description: यह लेख बताता है कि व्यय से संबंधित क्रेडिट कार्ड लेनदेन को कैसे आयात और बनाए रखा जाए। इन लेनदेन को सेट किया जा सकता है ताकि वे स्वचालित रूप से बार-बार आने वाले शेड्यूल पर आयात हो सकें, या उन्हें आवश्यकतानुसार मैन्युअल रूप से आयात किया जा सके.
 author: KimANelson
 ms.date: 01/12/2018
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: suvaidya
 ms.dyn365.ops.version: Version 1611
 ms.search.validFrom: 2016-11-30
-ms.openlocfilehash: bd7ca997e18bf3c11fa188b603c899cc470df035
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 44aac1db60ef8f0e3f25612d03b46520dd09ee9e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683770"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916796"
 ---
 # <a name="import-and-maintain-credit-card-transactions"></a>क्रेडिट कार्ड लेनदेन आयात करें और कायम करें
 

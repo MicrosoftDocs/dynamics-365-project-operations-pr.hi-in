@@ -1,24 +1,24 @@
 ---
 title: किसी Finance क्लाउड-होस्टेड परिवेश में डेमो डेटा लागू करें
-description: यह विषय बताता है कि प्रोजेक्ट ऑपरेशंस से डेमो डेटा को Dynamics 365 Finance क्लाउड-होस्टेड वातावरण में कैसे लागू किया जाए।
+description: यह लेख बताता है कि प्रोजेक्ट ऑपरेशंस से डेमो डेटा को Dynamics 365 Finance क्लाउड-होस्टेड वातावरण में कैसे लागू किया जाए।
 author: sigitac
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: e4ccc7eb02fabdc0476fe454f33bff637ab8b835
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 4ce53c171929f0610c53025becaebea46d902c90
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588968"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924662"
 ---
 # <a name="apply-demo-data-to-a-finance-cloud-hosted-environment"></a>किसी Finance क्लाउड-होस्टेड परिवेश में डेमो डेटा लागू करें
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 > [!IMPORTANT]
-> यह विषय केवल लागू है Microsoft Dynamics 365 वित्त संस्करण 10.0.13 और केवल क्लाउड-होस्टेड वातावरण पर ही किया जा सकता है। इससे **पहले** कि आप परिवेश के लिए गुणवत्ता अपडेट लागू करें, इस विषय में चरणों को पूरा करें।
+> यह लेख केवल लागू है Microsoft Dynamics 365 वित्त संस्करण 10.0.13 और केवल क्लाउड-होस्टेड वातावरण पर ही किया जा सकता है। इस लेख में दिए गए चरणों को पूरा करें **इससे पहले** आप परिवेश में गुणवत्ता अद्यतन लागू करते हैं।
 
 1. अपनी LCS परियोजना में, **परिवेश विवरण** पृष्ठ खोलें। ध्यान दें कि इसमें रिमोट डेस्कटॉप प्रोटोकॉल (RDP) का उपयोग करके परिवेश से जुड़ने के लिए आवश्यक विवरण शामिल हैं।
 

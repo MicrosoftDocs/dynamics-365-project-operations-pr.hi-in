@@ -1,17 +1,17 @@
 ---
 title: बुकिंग की स्थितियाँ
-description: यह विषय Project Operations में बुकिंग स्थितियाँ सेट अप करने के तरीके की जानकारी का लिंक प्रदान करता है.
+description: यह आलेख प्रोजेक्ट संचालन के लिए बुकिंग स्थितियों को सेट करने के तरीके के बारे में जानकारी के लिए एक लिंक प्रदान करता है।
 author: ruhercul
 ms.date: 11/05/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: b894c55d7e47031ddf77000c954cd8c1769cb1ca
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: d58bf32d9bff3958dfe2345dcced1f3d54956a8e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8581470"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918636"
 ---
 # <a name="booking-statuses"></a>बुकिंग की स्थितियाँ
 

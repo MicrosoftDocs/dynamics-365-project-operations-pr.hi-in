@@ -1,6 +1,6 @@
 ---
 title: उन्नत कोटिंग, मूल्य निर्धारण और बिलिंग
-description: यह विषय Project Service Automation में कोटिंग, बिलिंग और मूल्य निर्धारण के बारे में जानकारी प्रदान करता है.
+description: यह लेख Project Service Automation में उद्धरण, बिलिंग और मूल्य निर्धारण के बारे में जानकारी प्रदान करता है।
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 54047f34d950fc79e510bfe0d6601e271c02a92c
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8106a18fefc34141fdc5d350c60e87ec4b2a4c1d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579354"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921810"
 ---
 # <a name="advanced-quoting-pricing-and-billing-guide"></a>उन्नत कोटिंग, मूल्य निर्धारण और बिलिंग मार्गदर्शिका
 
@@ -32,7 +32,7 @@ ms.locfileid: "8579354"
 
 सही समय पर सही संसाधन खोजने की क्षमता, उन संसाधनों को प्रोजेक्ट पर बुक करना और संसाधनों का उपयोग करना संगठनों को राजस्व लक्ष्य और ग्राहक संतुष्टि लक्ष्यों को पूरा करने में मदद करता है। 
 
-इस विषय में पहले जो PDF लिंक था उसे हटा दिया गया है और सामग्री को निम्नलिखित विषयों में ले जाया गया है:
+पीडीएफ लिंक जो पहले इस लेख में था उसे हटा दिया गया है और सामग्री को निम्नलिखित लेखों में स्थानांतरित कर दिया गया है:
 
 - [कोटिंग, मूल्य निर्धारण और बिलिंग](../quote-bill-price.md)
 - [बिक्री प्रक्रियाएँ](../basic-sales-process.md)
@@ -50,7 +50,7 @@ ms.locfileid: "8579354"
 - [वास्तविक की रिकॉर्डिंग](../advanced-actuals.md)
 
 > [!NOTE]
-> यह विषय भविष्य के दस्तावेज़ अपडेट में हटा दिया जाएगा। 
+> यह आलेख भविष्य के दस्तावेज़ीकरण अद्यतन में निकाल दिया जाएगा। 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

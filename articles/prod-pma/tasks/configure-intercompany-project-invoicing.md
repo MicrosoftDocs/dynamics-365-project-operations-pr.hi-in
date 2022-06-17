@@ -1,6 +1,6 @@
 ---
 title: इंटरकंपनी परियोजना इनवॉइस को कन्फीगर करता है
-description: यह विषय दिखाता है कि आपके संगठन में दो कंपनियों के बीच प्रोजेक्ट इनवॉइस कैसे सेट करें.
+description: यह आलेख दिखाता है कि आपके संगठन में दो कंपनियों के बीच प्रोजेक्ट इनवॉइसिंग कैसे सेट अप करें।
 author: Yowelle
 ms.date: 07/29/2019
 ms.topic: business-process
@@ -14,18 +14,18 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.search.validFrom: 2016-06-30
 ms.dyn365.ops.version: Version 7.0.0
-ms.openlocfilehash: ab0d1eb2806d2e1650faccf3fbb63c63c0fa9e05
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 74548a4c30ceb6826e5280948f6829e567bc02e0
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683277"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916612"
 ---
 # <a name="configure-intercompany-project-invoicing"></a>इंटरकंपनी परियोजना इनवॉइस को कन्फीगर करता है
 
 [!include [banner](../../includes/banner.md)]
 
-यह विषय दिखाता है कि आपके संगठन में दो कंपनियों के बीच प्रोजेक्ट इनवॉइस कैसे सेट करें. यह कार्य USSI डेटा सेट का उपयोग करता है.
+यह आलेख दिखाता है कि आपके संगठन में दो कंपनियों के बीच प्रोजेक्ट इनवॉइसिंग कैसे सेट अप करें। यह कार्य USSI डेटा सेट का उपयोग करता है.
 
 1. नेविगेशन फलक में **मॉड्यूल > देनदारी लेखे > विक्रेता > सभी विक्रेता** पर जाएं.
 2. **सभी विक्रेता** सूची में, वांछित रिकॉर्ड को पाएं या चुनें.

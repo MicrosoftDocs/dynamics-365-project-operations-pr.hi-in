@@ -1,17 +1,17 @@
 ---
 title: परियोजना-आधारित कोटेशन कॉपी करें
-description: यह विषय Project Operations में परियोजना-आधारित कोटेशनों को कॉपी करने के तरीके के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशन में प्रोजेक्ट-आधारित उद्धरणों की प्रतिलिपि बनाने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 1e8611f34a23d6d87317cc785148c1a3f9c26dca
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6c3b964d89d6d24ae5d32dd9e5e79fcd1e90c19d
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588048"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8914910"
 ---
 # <a name="copy-project-based-quotes"></a>परियोजना-आधारित कोटेशन कॉपी करें
 

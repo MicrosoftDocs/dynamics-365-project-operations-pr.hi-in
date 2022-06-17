@@ -1,24 +1,24 @@
 ---
 title: जून 2021 - Project Operations लाइट परिनियोजन में नया क्या है
-description: यह विषय Project Operations लाइट परिनियोजन के जून 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतन के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन के जून 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 06/10/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 06ea83152e4f601ef842a0f8d975c16c2be95612
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 16fffb06ebb72ac25982374bff27a015eccfae1b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583908"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913944"
 ---
 # <a name="whats-new-june-2021---project-operations-lite-deployment"></a>जून 2021 - Project Operations लाइट परिनियोजन में नया क्या है
 
 _इस पर लागू होता है: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
   - Dataverse परिवेश संस्करण 4.11.0.156 या 4.11.0.164 पर Project Operations.
 

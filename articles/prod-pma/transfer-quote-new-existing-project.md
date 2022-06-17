@@ -1,6 +1,6 @@
 ---
 title: किसी परियोजना के लिए एक कोटेशन स्थानांतरित करें
-description: यह विषय किसी कोटेशन को किसी नई या मौजूदा परियोजना में कैसे अंतरित करें, इसके बारे में जानकारी देता है.
+description: यह आलेख इस बारे में जानकारी प्रदान करता है कि किसी नए या मौजूदा प्रोजेक्ट में कोटेशन कैसे स्थानांतरित किया जाए।
 author: kfend
 ms.date: 05/28/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: bca1ade0f542ae6b6819f76d268e2e6e62e9a9f1
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 1702179e14c0eb149f8e7025886bab02e7429ad8
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683816"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919602"
 ---
 # <a name="transfer-a-quotation-to-a-project"></a>किसी परियोजना के लिए एक कोटेशन स्थानांतरित करें
 

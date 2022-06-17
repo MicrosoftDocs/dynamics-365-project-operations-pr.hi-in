@@ -1,18 +1,18 @@
 ---
 title: व्यय का अवलोकन
-description: यह विषय परियोजना संचालन में व्यय क्रियात्मकता की जानकारी उपलब्ध कराता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशन में व्यय कार्यक्षमता के बारे में जानकारी प्रदान करता है।
 author: stsporen
 ms.date: 10/06/2020
 ms.topic: overview
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 617419107a4ff4d32d96d2da2c2f2945d320e2b4
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 935998adda4a967285d68016b4dad0bc2b0c56dd
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8582160"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8917900"
 ---
 # <a name="expense-home-page"></a>मुख पृष्ठ व्यय
 

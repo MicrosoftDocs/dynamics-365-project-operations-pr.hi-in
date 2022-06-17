@@ -1,17 +1,17 @@
 ---
 title: नया क्या है नवंबर 2020 - Project Operations लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
-description: यह विषय Project Operations लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील के नवंबर 2020 में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है.
+description: यह लेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन - डील टू प्रोफार्मा इनवॉइसिंग के नवंबर 2020 रिलीज़ में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 11/02/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3a7d63e746edf73873840aee2f095192364cb286
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: dfa39c702446fb47359fac442bde52f0e2ab9cf1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584644"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913852"
 ---
 # <a name="whats-new-november-2020---project-operations-lite-deployment---deal-to-proforma-invoicing"></a>नया क्या है नवंबर 2020 - Project Operations लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
 

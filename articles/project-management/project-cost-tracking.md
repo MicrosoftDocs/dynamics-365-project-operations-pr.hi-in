@@ -1,17 +1,17 @@
 ---
 title: परियोजना लागत ट्रैकिंग
-description: यह विषय Project Operations द्वारा श्रम लागत के प्रति प्रगति को ट्रैक करने और किसी परियोजना पर खर्च के बारे में जानकारी प्रदान करता है.
+description: यह आलेख इस बारे में जानकारी प्रदान करता है कि परियोजना संचालन श्रम लागत के विरुद्ध प्रगति को कैसे ट्रैक करता है और एक परियोजना पर खर्च करता है।
 author: rumant
 ms.date: 03/22/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: f724ee29728a363c58ed0e69087f4c18be89ea2d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c069a28c6dc546e5e632c4dff29686dc7965f23e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591452"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923742"
 ---
 # <a name="labor-cost-tracking-on-projects"></a>परियोजनाओं पर श्रम लागत की ट्रैकिंग
 

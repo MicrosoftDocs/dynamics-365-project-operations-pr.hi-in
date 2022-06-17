@@ -1,6 +1,6 @@
 ---
 title: संसाधन बुकिंग और वे कार्य असाइनमेंट से कैसे संबंधित हैं
-description: यह विषय नामित संसाधनों, संसाधन बुकिंग और कार्य असाइनमेंट को प्रबंधित करने के तरीके और वे एक दूसरे से कैसे संबंधित हैं, के बारे में जानकारी प्रदान करता है।
+description: यह लेख नामित संसाधनों, संसाधन बुकिंग और कार्य असाइनमेंट को प्रबंधित करने और वे एक दूसरे से कैसे संबंधित हैं, इसके बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 953d7ca1995eae823fd29d0a9e85ff6a2a2eb59b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fd8f028a9f4056a646f5001ee8c91191c71140af
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575481"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910954"
 ---
 # <a name="resource-bookings-and-how-they-relate-to-task-assignments"></a>संसाधन बुकिंग और वे कार्य असाइनमेंट से कैसे संबंधित हैं
 

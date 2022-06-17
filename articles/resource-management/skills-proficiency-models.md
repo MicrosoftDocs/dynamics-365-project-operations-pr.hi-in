@@ -1,17 +1,17 @@
 ---
 title: कौशल और प्रमाणन
-description: यह विषय संसाधनों में कौशल और प्रमाणन विशेषताओं को जोड़ने के बारे में जानकारी प्रदान करता है।
+description: यह लेख संसाधनों में कौशल और प्रमाणन विशेषताओं को जोड़ने के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 836784bf45ba45da35d685e9372b29bb843a7268
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 12871964fec536849c55888f0704725b439dd2af
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594258"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918361"
 ---
 # <a name="skills-and-certifications"></a>कौशल और प्रमाणन
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_

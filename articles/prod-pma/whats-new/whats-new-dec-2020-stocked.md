@@ -1,24 +1,24 @@
 ---
 title: नया क्या है दिसंबर 2020 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
-description: इस विषय में स्टॉक/उत्पादन आधारित परिदृश्यों के लिए Project Operations के दिसंबर 2020 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
+description: यह लेख स्टॉक/उत्पादन आधारित परिदृश्यों के लिए प्रोजेक्ट ऑपरेशंस के दिसंबर 2020 रिलीज में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है।
 author: Yowelle
 ms.date: 12/11/2020
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: 9550cf8fd594585b70d373ecf9eea1b32285e47f
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e570bf3e7a808afa5d41db0c073045c91e4931d7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8594948"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911368"
 ---
 # <a name="whats-new-or-changed-in-project-operations-december-2020-for-stockedproduction-based-scenarios"></a>स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations दिसंबर 2020 में नया क्या है या क्या बदल गया है
 
 _इस पर लागू होता है: स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
   - Dynamics 365 Finance पर्यावरण संस्करण 10.0.15 . में परियोजना प्रबंधन और लेखांकन
 

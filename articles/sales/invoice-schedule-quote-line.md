@@ -1,17 +1,17 @@
 ---
 title: परियोजना-आधारित कोटेशन लाइनों पर इंवॉयस शेड्यूल
-description: यह विषय कोट लाइन के लिए इनवॉयस शेड्यूल और उपलब्धि के बारे में जानकारी प्रदान करता है.
+description: यह आलेख कोट लाइनों के लिए इनवॉइस शेड्यूल और माइलस्टोन बनाने के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6b443a353c98fe5c7475d8a95c99abe01cd00987
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: b1e431bc3586f9fef7a01348555e4ee4e06cc66c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8601066"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8918314"
 ---
 # <a name="invoice-schedules-on-project-based-quote-lines"></a>परियोजना-आधारित कोटेशन लाइनों पर इंवॉयस शेड्यूल
 

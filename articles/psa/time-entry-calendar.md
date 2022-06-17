@@ -1,6 +1,6 @@
 ---
 title: समय प्रविष्टि कैलेंडर
-description: यह विषय समय प्रविष्टि कैलेंडर का उपयोग कैसे करें-इसके बारे में जानकारी प्रदान करता है।
+description: यह आलेख समय प्रविष्टि कैलेंडर का उपयोग करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: fae112be462bfd1b216a18da1691c39981fe61b6
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: f206a7ff39e7d6919c618f5f2064e45975bfb0db
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8574340"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915784"
 ---
 # <a name="time-entry-calendar"></a>समय प्रविष्टि कैलेंडर
 

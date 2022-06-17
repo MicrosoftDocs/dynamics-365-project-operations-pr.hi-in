@@ -1,17 +1,17 @@
 ---
 title: Project Operations में उपअनुबंध प्रबंधन
-description: यह विषय प्रोजेक्ट-आधारित संस्थानों में शुरू से अंत तक उपअनुबंध प्रबंधन प्रक्रिया आमतौर पर अवलोकन प्रदान करता है.
+description: यह आलेख आम तौर पर प्रोजेक्ट-आधारित संगठनों में एंड-टू-एंड उप-अनुबंध प्रबंधन प्रक्रिया का एक सिंहावलोकन प्रदान करता है।
 author: rumant
 ms.date: 08/02/2021
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d595e948b7be9a6822827f4841e737d3c0e1476b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8f5e025b5f741935494349fb1bdfd3a19bacb5e1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8593016"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911506"
 ---
 # <a name="subcontract-management-in-project-operations"></a>Project Operations में उपअनुबंध प्रबंधन
 
@@ -19,7 +19,7 @@ ms.locfileid: "8593016"
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-यह विषय प्रोजेक्ट-आधारित संस्थानों में शुरू से अंत तक उपअनुबंध प्रबंधन प्रक्रिया अवलोकन प्रदान करता है. सेवाओं के लिए उप-अनुबंध आमतौर पर व्यवसाय प्रोसेस फ़्लो का अनुसरण करता है जो निम्न आरेख में दिखाया गया है.
+यह आलेख प्रोजेक्ट-आधारित संगठनों में एंड-टू-एंड उप-अनुबंध प्रबंधन प्रक्रिया का एक सिंहावलोकन प्रदान करता है। सेवाओं के लिए उप-अनुबंध आमतौर पर व्यवसाय प्रोसेस फ़्लो का अनुसरण करता है जो निम्न आरेख में दिखाया गया है.
 
 ![उपअनुबंधक प्रक्रिया प्रवाह](../media/SubcontractingProcessFlow.png)
 

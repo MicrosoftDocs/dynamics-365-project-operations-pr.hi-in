@@ -1,19 +1,19 @@
 ---
-title: विक्रेता चालान - अवधारणा और निर्माण
-description: यह विषय विक्रेता इनवॉइस की अवधारणा, उपयोग के लिए परिदृश्य और Microsoft में विक्रेता इनवॉइस बनाने के तरीके का वर्णन करता है।Dynamics 365 Project Operations
+title: विक्रेता इनवॉइस बनाना - अवधारणा और निर्माण
+description: यह आलेख विक्रेता इनवॉइस की अवधारणा, उपयोग के लिए परिदृश्य और Microsoft में विक्रेता इनवॉइस बनाने के तरीके का वर्णन करता है।Dynamics 365 Project Operations
 author: rumant
 ms.date: 03/25/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: dc9b3954b237294f52aa0bb74f8008a5dfdf78fd
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 38f0760697522b7a5e561cec7d38dfd5c3eaf9fc
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8580550"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911460"
 ---
-# <a name="vendor-invoicing---concept-and-creation"></a>विक्रेता चालान - अवधारणा और निर्माण
+# <a name="vendor-invoicing---concept-and-creation"></a>विक्रेता इनवॉइस बनाना - अवधारणा और निर्माण
 
 [!include [banner](../../includes/dataverse-preview.md)]
 

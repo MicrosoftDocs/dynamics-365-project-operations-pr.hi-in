@@ -1,25 +1,25 @@
 ---
 title: Project Operations Dataverse अनुप्रयोग को डुअल-राइट समर्थन के साथ मैन्युअल रूप से परिनियोजित करना
-description: यह विषय बताता है कि Project Operations Dataverse अनुप्रयोग को मैन्युअल रूप से कैसे परिनियोजित किया जाए, ताकि यह डुअल-राइट का समर्थन करे.
+description: यह आलेख बताता है कि प्रोजेक्ट संचालन को मैन्युअल रूप से कैसे लागू किया जाए Dataverse ऐप ताकि यह डुअल-राइट को सपोर्ट करे।
 author: stsporen
 ms.date: 06/18/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: b82eef7b5f64705f37f224172c14f6734612329e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: be80ea3956fbf0264c2eeb7a5e30dd50b77e3c78
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8591222"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912012"
 ---
 # <a name="manually-deploy-the-project-operations-dataverse-app-with-dual-write-support"></a>Project Operations Dataverse अनुप्रयोग को डुअल-राइट समर्थन के साथ मैन्युअल रूप से परिनियोजित करना
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
-यह विषय बताता है कि Microsoft Dataverse में Microsoft Dynamics 365 Project Operations को मैन्युअल रूप से कैसे परिनियोजित किया जाए, ताकि यह डुअल-राइट का समर्थन करे. Project Operations परिवेश के कॉन्फ़िगरेशन का पता लगाता है और यदि पूर्वापेक्षाएँ पूरी होती हैं, तो डुअल-राइट के लिए अतिरिक्त समर्थन जोड़ता है.
+यह आलेख बताता है कि Microsoft को मैन्युअल रूप से कैसे परिनियोजित किया जाए Dynamics 365 Project Operations में Microsoft Dataverse ताकि यह दोहरे लेखन का समर्थन करे। Project Operations परिवेश के कॉन्फ़िगरेशन का पता लगाता है और यदि पूर्वापेक्षाएँ पूरी होती हैं, तो डुअल-राइट के लिए अतिरिक्त समर्थन जोड़ता है.
 
-Microsoft Dynamics Lifecycle Services (LCS) के माध्यम से परिनियोजन के दौरान, यदि आपने इस विषय में दिए गए निर्देशों का पालन किया है, तो आप Microsoft Power Platform एकीकरण (जिसे पहले Common Data Service परिवेश के रूप में जाना जाता था) के परिनियोजन को छोड़ सकते हैं.
+के माध्यम से तैनाती के दौरान Microsoft Dynamics जीवनचक्र सेवाएँ (LCS), यदि आपने इस लेख में दिए गए निर्देशों का पालन किया है, तो आप परिनियोजन को छोड़ सकते हैं Microsoft Power Platform एकीकरण (जिसे पहले के रूप में जाना जाता था)Common Data Service वातावरण)।
 
 Dataverse में Project Operations परिनियोजित करने की प्रक्रिया ताकि यह डुअल-राइट का समर्थन करता है, इसके चार मुख्य चरण हैं:
 

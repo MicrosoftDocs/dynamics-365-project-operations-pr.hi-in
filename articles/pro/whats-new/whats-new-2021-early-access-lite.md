@@ -1,24 +1,24 @@
 ---
 title: नया क्या है 2021 वेव 2 अर्ली एक्सेस - Project Operations लाइट परिनियोजन
-description: यह विषय Project Operations लाइट परिनियोजन के 2021 वेव 2 अर्ली एक्सेस रिलीज़ में उपलब्ध फ़ीचर के बारे में जानकारी प्रदान करता है.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन के 2021 वेव 2 अर्ली एक्सेस रिलीज़ में उपलब्ध सुविधाओं के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 08/10/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 7b5f3528e4b4e615b8e7f24bfd3702746fd584c9
-ms.sourcegitcommit: 577fa51e0892625f98f17ff39874ed1a09444421
+ms.openlocfilehash: d245868c8bd9ff332707a81c074d6c7ae3649378
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "8723678"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924110"
 ---
 # <a name="whats-new-2021-wave-2-early-access---project-operations-lite-deployment"></a>नया क्या है 2021 वेव 2 अर्ली एक्सेस - Project Operations लाइट परिनियोजन
 
 _इस पर लागू होता है: लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
   - Dataverse पर Project Operations परिवेश संस्करण 4.23.0.4
 

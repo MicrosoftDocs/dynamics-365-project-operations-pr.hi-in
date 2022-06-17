@@ -1,18 +1,18 @@
 ---
 title: कैटलॉग उत्पाद के लिए लागत और विक्रय दर सेट अप करें - लाइट
-description: यह विषय उत्पाद कैटलॉग में लागत और विक्रय की दरों को सेट करने संबंधी जानकारी देता है.
+description: यह आलेख उत्पाद कैटलॉग में आइटम के लिए लागत और बिक्री दर सेट करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/09/2020
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 12e09d99e9832c93c3aea34ec0d4488cdf6b02fa
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 4689d6929e24ebaa992232f809a7ec60908ee517
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8576824"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8917394"
 ---
 # <a name="set-up-cost-and-sales-rates-for-catalog-products---lite"></a>कैटलॉग उत्पाद के लिए लागत और विक्रय दर सेट अप करें - लाइट
 

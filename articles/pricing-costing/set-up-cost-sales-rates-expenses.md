@@ -1,17 +1,17 @@
 ---
 title: व्यय के लिए लागत और विक्रय दर निर्धारित करें
-description: इस विषय में यह जानकारी मिलती है कि कैसे खर्च और लेन देन की श्रेणियों में खर्च और विक्रय की लागत सेट की जाए.
+description: यह लेख लेन-देन और व्यय श्रेणियों के लिए लागत और बिक्री दरों को सेट करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 04/07/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: de7f95f9dcb1dff866d165dba9aaaedb480c1ad5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: c503230348750af246f6ee7a4af1176d7bf22ba4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8598444"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8911874"
 ---
 # <a name="set-up-cost-and-sales-rates-for-expenses"></a>व्यय के लिए लागत और विक्रय दर निर्धारित करें
 

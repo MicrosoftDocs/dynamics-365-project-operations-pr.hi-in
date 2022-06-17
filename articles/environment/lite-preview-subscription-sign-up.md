@@ -1,21 +1,21 @@
 ---
 title: पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट
-description: यह विषय Project Operations लाइट नियोजन की सदस्यता लेने और प्रतिनियुक्त करने के तरीके के बारे में जानकारी प्रदान करता है - प्रोफार्मा इuवॉयसिंग के लिए समझौता.
+description: यह आलेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन - डील टू प्रोफार्मा इनवॉइसिंग की सदस्यता लेने और परिनियोजित करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3b06ac29e8021967490534d3aefc8b5ce733413b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 6953956c0b3401a6c64ee597f966ba4a4c0d07b5
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588002"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921258"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट 
 
-यह विषय बताता है कि ट्रायल ऑफ़र की सदस्यता कैसे लें और Dynamics 365 Project Operations लाइट परिनियोजन - प्रोफार्मा इनवॉइसिंग-प्रक्रिया का सौदा कैसे परिनियोजित करें.
+यह लेख बताता है कि परीक्षण ऑफ़र की सदस्यता कैसे लें और कैसे परिनियोजित करें Dynamics 365 Project Operations लाइट परिनियोजन - प्रोफार्मा चालान-प्रक्रिया का सौदा।
 
 > [!NOTE]
 > यह प्रक्रिया Project Operations की आगामी रिलीज में बदल जाएगी.
@@ -50,7 +50,7 @@ ms.locfileid: "8588002"
 
 ## <a name="create-a-new-dataverse-environment"></a>एक नया Dataverse परिवेश बनाएं
 
-1. [Dataverse परिनियोजन मॉडल](lite-deployment.md) विषय में निर्देशों का पालन करके नया Project Operations Dataverse परिनियोजन परिवेश का प्रावधान. जब आप परिवेश के प्रकार का चयन करते हैं, तो **परीक्षण (सदस्यता आधारित)** का उपयोग करना सुनिश्चित करें.
+1. एक नई परियोजना संचालन का प्रावधान Dataverse लेख में दिए गए निर्देशों का पालन करके परिनियोजन वातावरण, [Dataverse परिनियोजन मॉडल।](lite-deployment.md) जब आप परिवेश के प्रकार का चयन करते हैं, तो **परीक्षण (सदस्यता आधारित)** का उपयोग करना सुनिश्चित करें.
 
   ![नया परिवेश.](./media/19CreateEnvironment.png)
 
@@ -65,7 +65,7 @@ ms.locfileid: "8588002"
 
 ## <a name="install-a-cds-configuration-and-setup-demo-data"></a>एक CDS कॉन्फ़िगरेशन इंस्टॉल करें और डेमो डेटा सेट करें
 
-CDS कॉन्फ़िगरेशन इंस्टॉल करें और विषय में निर्देशों का पालन करके डेमो डेटा सेट करें, [डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें](lite-apply-demo-setup-config-data.md).
+सीडीएस कॉन्फ़िगरेशन स्थापित करें और आलेख में दिए गए निर्देशों का पालन करके डेमो डेटा सेट करें, [डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें।](lite-apply-demo-setup-config-data.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

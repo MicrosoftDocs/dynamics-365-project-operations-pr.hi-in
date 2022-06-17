@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation के अपडेट रिलीज़ 42, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
-description: यह विषय Microsoft Dynamics 365 Project Service Automation Update Release 42, V3 में उपलब्ध फ़ीचर और सुधारों को सूचीबद्ध करता है.
+description: यह आलेख उन सुविधाओं और सुधारों को सूचीबद्ध करता है जो इसमें उपलब्ध हैं Microsoft Dynamics 365 Project Service Automation अद्यतन रिलीज़ 42, V3.
 author: ruhercul
 ms.custom: dyn365-projectservice
 ms.date: 04/05/2022
@@ -16,12 +16,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 32cb7a4c5fc29d5c0dcec37dd395ae69037435a2
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: e9911531e4acbd78db416f554c8d85c4f1fee1cf
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8589198"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912717"
 ---
 # <a name="whats-new-or-changed-in-project-service-automation-update-release-42-v3"></a>Project Service Automation के अपडेट रिलीज़ 42, V3 में नया क्या है और उसमें क्या परिवर्तन हुआ है
 
@@ -29,7 +29,7 @@ ms.locfileid: "8589198"
 
 हमें Microsoft Dynamics 365 Project Service Automation अनुप्रयोग के लिए नवीनतम अपडेट की घोषणा करते हुए खुशी हो रही है. इस रिलीज़ में गुणवत्ता, प्रदर्शन और उपयोगिता में कुछ महत्वपूर्ण सुधार शामिल हैं. यह Dynamics 365 9.x से मेल के योग्य है. इस रिलीज़ में अद्यतन करने के लिए, Dynamics 365 ऑनलाइन समाधान के लिए व्यवस्थापन केंद्र पृष्ठ पर जाएं और अद्यतन इंस्टॉल करें. अधिक जानकारी के लिए, देखें [पसंदीदा समाधान को स्थापित, अपडेट या हटाएँ](/power-platform/admin/install-remove-preferred-solution).
 
-यह विषय Project Service Automation अद्यतन रिलीज़ 42, V3 के लिए नई या बदली गई सुविधाओं और सुधारों को सूचीबद्ध करता है. इस संस्करण की बिल्ड संख्या V3.10.73.61 है और यह आमतौर पर अप्रैल 2022 में एक स्व-अद्यतन के माध्यम से उपलब्ध है.
+यह आलेख उन सुविधाओं और सुधारों को सूचीबद्ध करता है जो Project Service Automation Update Release 42, V3 के लिए नई या परिवर्तित हैं। इस संस्करण की बिल्ड संख्या V3.10.73.61 है और यह आमतौर पर अप्रैल 2022 में एक स्व-अद्यतन के माध्यम से उपलब्ध है.
 
 ## <a name="update-release-42"></a>अपडेट रिलीज़ 42
 
@@ -39,7 +39,7 @@ ms.locfileid: "8589198"
 
 **समय और व्यय**
 
-- जब एक टाइम शीट को अस्वीकार कर दिया जाता है, तो इसे अस्वीकार करने वाले उपयोगकर्ता को गलत तरीके से पहचाना जाता है **प्रणाली।**
+- जब एक टाइम शीट को अस्वीकार कर दिया जाता है, तो इसे अस्वीकार करने वाले उपयोगकर्ता को गलत तरीके से पहचाना जाता है **व्यवस्था।**
 - जब समय प्रविष्टियाँ आयात की जाती हैं, तो**संसाधन श्रेणी** मूल्य गायब है।
 - प्रोजेक्ट मंज़ूरी देने वाले सबमिट किए गए प्रोजेक्ट को तब मंज़ूरी दे सकते हैं, जब उनकी अनुमतियां खास तौर पर इस पर सेट न हों **स्वीकृत कर सकता है।**
 

@@ -1,6 +1,6 @@
 ---
 title: समय और व्यय परिवर्तन (Project Service Automation 3.x)
-description: इस टॉपिक में समय और व्यय के लिए समाधानों में परिवर्तन के बारे में जानकारी प्रदान की गई है।
+description: यह आलेख समय और व्यय के लिए समाधान परिवर्तनों के बारे में जानकारी प्रदान करता है।
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -15,12 +15,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 9a425206407ed70691812ba18af09bc56b37ca30
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5fbe5aff5c6fb0348d5d742bbb8da29f67a28d27
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8573927"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915922"
 ---
 # <a name="time-and-expense-changes-project-service-automation-3x"></a>समय और व्यय परिवर्तन (Project Service Automation 3.x)
 

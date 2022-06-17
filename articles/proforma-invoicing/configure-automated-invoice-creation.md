@@ -1,17 +1,17 @@
 ---
 title: स्वचालित इनवॉइस निर्माण कॉन्फ़िगर करें
-description: यह विषय स्वचालित रूप से इनवॉइस बनाने के लिए सिस्टम को कॉन्फ़िगर करने के लिए कैसे के बारे में जानकारी देता है.
+description: यह आलेख स्वचालित रूप से इनवॉइस उत्पन्न करने के लिए सिस्टम को कॉन्फ़िगर करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/13/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 43b75ea823a62acaab708a1ef2fa2467904fdd00
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 273e00e7841c8a34e249e54a7d868034bc34a1f7
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8583403"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920614"
 ---
 # <a name="configure-automatic-invoice-creation"></a>स्वचालित इनवॉइस निर्माण कॉन्फ़िगर करें
 

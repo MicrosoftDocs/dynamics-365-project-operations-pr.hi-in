@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट चरण प्रकार
-description: इस विषय में प्रोजेक्ट के चरणों की जानकारी दी गई है।
+description: यह आलेख परियोजना चरणों के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 7f893b5429dd61ae45ad9d536420c96b2f58605b
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 8d772acce152b08c7986739ac557818e6f97d0fe
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8586852"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919062"
 ---
 # <a name="project-stage-types"></a>प्रोजेक्ट चरण प्रकार 
 

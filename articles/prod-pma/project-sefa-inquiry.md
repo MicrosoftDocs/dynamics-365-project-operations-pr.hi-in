@@ -1,6 +1,6 @@
 ---
 title: फेडरल अवार्ड्स पूछताछ के लिये खर्चों की अनुसूची
-description: यह अध्याय फेडरल अवार्ड्स पूछताछ संबंधी खर्चों की अनुसूची के बारे में जानकारी देता है.
+description: यह लेख संघीय पुरस्कार पूछताछ के व्यय की अनुसूची के बारे में जानकारी प्रदान करता है।
 author: velofog
 ms.date: 04/2/2020
 ms.topic: article
@@ -17,12 +17,12 @@ ms.search.industry: public sector
 ms.author: andchoi
 ms.search.validFrom: 2020-4-01
 ms.dyn365.ops.version: 10.0.11
-ms.openlocfilehash: b88c97f3dcb1020ccf17788256990485580f6964
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 00f9e97b9a6b3e8fe5e9cf9143e670612869b84c
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8684460"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8916658"
 ---
 # <a name="schedule-of-expenditures-of-federal-awards-inquiry"></a>फेडरल अवार्ड्स पूछताछ के लिये खर्चों की अनुसूची
 

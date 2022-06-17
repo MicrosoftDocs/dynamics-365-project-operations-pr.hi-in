@@ -1,6 +1,6 @@
 ---
 title: एक प्रोजेक्ट टीम को बुक करने योग्य संसाधनों का नाम और कार्यों को असाइन करें
-description: यह विषय टीमों को प्रोजेक्ट करने के लिए नामित संसाधनों को बुक और उन्हें कार्यों को असाइन करने के बारे में जानकारी प्रदान करता है।
+description: यह आलेख प्रोजेक्ट टीमों के लिए नामित संसाधनों को बुक करने और उन्हें कार्यों के लिए असाइन करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: JohnPBurrows
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: cdbcd84d2277ba1c8e68270d5b1f8ca45c17f05e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 61c9b47088e836c0a9c78477adf891df3d14853b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575352"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8919326"
 ---
 # <a name="book-named-bookable-resources-to-a-project-team-and-assign-tasks"></a>एक प्रोजेक्ट टीम को बुक करने योग्य संसाधनों का नाम और कार्यों को असाइन करें 
 

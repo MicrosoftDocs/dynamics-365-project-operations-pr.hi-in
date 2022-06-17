@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट संसाधन शेड्यूलिंग प्रदर्शन
-description: यह विषय बड़ी संख्या में परियोजनाओं के लिए संसाधन निर्धारण के प्रदर्शन को बेहतर बनाने के बारे में जानकारी देता है.
+description: यह आलेख बड़ी संख्या में प्रोजेक्ट के लिए संसाधन शेड्यूलिंग के प्रदर्शन को बेहतर बनाने के तरीके के बारे में जानकारी प्रदान करता है।
 author: Yowelle
 ms.date: 08/31/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 10.0.14
 ms.search.validFrom: 2020-09-01
-ms.openlocfilehash: 726788e9ecb7fc70648d06d0a5036becd7a45d2a
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 072476d43fb3b3d4f96480ec2d3dc5f9db28e501
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8682878"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921902"
 ---
 # <a name="project-resource-scheduling-performance"></a>प्रोजेक्ट संसाधन शेड्यूलिंग प्रदर्शन
 

@@ -1,24 +1,24 @@
 ---
 title: जून 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations में नया क्या है
-description: यह विषय संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations के जून 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतन के बारे में जानकारी प्रदान करता है.
+description: यह आलेख संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए प्रोजेक्ट संचालन के जून 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 06/14/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 21a446fdb9526c1a2b110c5368516dafb64b5e01
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 5bc8475554c4348fa1e88b9090450bd3bfaa924e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8600790"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910586"
 ---
 # <a name="whats-new-june-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>जून 2021 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations में नया क्या है
 
 _**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
 - Dynamics 365 Dataverse परिवेश संस्करण 4.11.0.156 या 4.11.0.164 पर Project Operations.
 - वित्त और संचालन ऐप्स परिवेश संस्करण 10.0.19 में परियोजना प्रबंधन और लेखांकन।

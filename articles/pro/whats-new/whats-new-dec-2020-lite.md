@@ -1,24 +1,24 @@
 ---
 title: नया क्या है दिसंबर 2020 - Project Operations लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
-description: यह विषय Project Operations लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील के दिसंबर 2020 में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है.
+description: यह लेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन - डील टू प्रोफार्मा इनवॉइसिंग के दिसंबर 2020 रिलीज़ में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 12/07/2020
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: aaaa8827eaee4df86616ab1399d8ed4a869aba77
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3c23e13919540913755223634a24802ff3064f10
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8585426"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924064"
 ---
 # <a name="whats-new-december-2020---project-operations-lite-deployment---deal-to-proforma-invoicing"></a>नया क्या है दिसंबर 2020 - Project Operations लाइट परिनियोजन - प्रोफ़ॉर्मा इनवॉइस करने के लिए डील
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
   - Dataverse पर Project Operations परिवेश संस्करण 4.5.0.134 
 

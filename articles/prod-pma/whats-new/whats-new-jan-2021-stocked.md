@@ -1,24 +1,24 @@
 ---
 title: स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations जनवरी 2021 में नया क्या है या क्या बदल गया है
-description: इस विषय में स्टॉक/उत्पादन आधारित परिदृश्यों के लिए Project Operations के जनवरी 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
+description: यह आलेख स्टॉक/उत्पादन आधारित परिदृश्यों के लिए प्रोजेक्ट ऑपरेशंस के जनवरी 2021 रिलीज में उपलब्ध गुणवत्ता अपडेट के बारे में जानकारी प्रदान करता है।
 author: andchoi
 ms.date: 1/08/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: andchoi
-ms.openlocfilehash: c41fda3a3c756f8ad4c695b572eea9cad715f2e4
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 84a49994267d0c070769090f9fce9c6a969c98be
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8592648"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923926"
 ---
 # <a name="whats-new-or-changed-in-project-operations-january-2021-for-stockedproduction-based-scenarios"></a>स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations जनवरी 2021 में नया क्या है या क्या बदल गया है
 
 _**इस पर लागू होता है:** स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations_
 
-यह विषय निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
+यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
 
 - Dynamics 365 Finance पर्यावरण संस्करण 10.0.16 . में परियोजना प्रबंधन और लेखांकन
 

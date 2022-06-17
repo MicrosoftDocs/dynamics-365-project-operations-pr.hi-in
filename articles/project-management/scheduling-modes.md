@@ -1,17 +1,17 @@
 ---
 title: शेड्यूलिंग मोड
-description: यह विषय शेड्यूलिंग मोड के बारे में जानकारी प्रदान करता है.
+description: यह आलेख शेड्यूलिंग मोड के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.date: 05/28/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: cb507528c4815f5149c813bba0a354f7d840a4a5
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3cbe14f8d458c5d9631e0595912afa8cbb87b9de
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8588416"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8923650"
 ---
 # <a name="scheduling-modes"></a>शेड्यूलिंग मोड
 
@@ -38,7 +38,7 @@ Project Operations में तीन शेड्यूलिंग मोड 
 | निर्धारित प्रयास कार्य    | अवधि पुनःपरिकलित है. | इकाई पुनःपरिकलित है.    | अवधि पुनःपरिकलित है. |
 | निश्चित अवधि का कार्य  | प्रयास पुनःपरिकलित है.   | प्रयास पुनःपरिकलित है.    | इकाई पुनःपरिकलित है.   |
 
-किसी दिए गए मोड के आशयों के बारे में अधिक जानकारी के लिए, देखें [अधिक सटीक शेड्यूलिंग के लिए कार्य प्रकार बदलें](https://support.microsoft.com/en-us/office/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72). विषय में, **प्रयास** के बजाय **कार्य** शब्द का उपयोग किया गया है.
+किसी दिए गए मोड के आशयों के बारे में अधिक जानकारी के लिए, देखें [अधिक सटीक शेड्यूलिंग के लिए कार्य प्रकार बदलें](https://support.microsoft.com/en-us/office/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72). लेख में, शब्द **काम** के बजाय प्रयोग किया जाता है **कोशिश।**
 
 ## <a name="change-the-organizations-scheduling-mode"></a>संगठन का शेड्यूलिंग मोड बदलें
 

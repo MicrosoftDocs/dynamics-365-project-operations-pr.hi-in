@@ -1,6 +1,6 @@
 ---
 title: इकाईयाँ और इकाई समूह
-description: यह विषय Dynamics 365 Project Operations में इकाईयाँ एयर इकाई समूह बनाने के तरीके के बारे में जानकारी प्रदान करता है.
+description: यह आलेख में इकाइयाँ और इकाई समूह बनाने के तरीके के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Operations
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: suvaidya
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: e0e1339c8fccb52b7471dc49a19be4dfc37be605
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: a46b7d182d3d7fc77c1275c108f5dc569ffebff1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8578434"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921442"
 ---
 # <a name="units-and-unit-groups"></a>इकाईयाँ और इकाई समूह
 
@@ -28,7 +28,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 
 इकाइयाँ वे मात्राएँ या माप होती हैं जिनमें आप अपने उत्पाद या सेवाएँ बेचते हैं. उदाहरण के लिए, अगर आप बागान संबंधी आपूर्तियों का विक्रय करते हैं, तो हो सकता है कि आप पैकेट, बॉक्स और पैलेट में बीजों को बेचते हों. एक इकाई समूह, इन विभिन्न इकाइयों का संकलन होता है.
 
-इस विषय के चरणों को पूरा करने के लिए, सुनिश्चित करें कि आपको सिस्टम व्यवस्थापक या Sales Professional प्रंधक की भूमिका सौंपी गई है या समतुल्य अनुमति है.
+इस आलेख में दिए गए चरणों को पूरा करने के लिए, सुनिश्चित करें कि आपको सिस्टम व्यवस्थापक या Sales Professional प्रबंधक की भूमिका सौंपी गई है या आपके पास समकक्ष अनुमतियाँ हैं।
 
 ## <a name="create-a-unit-group"></a>एक इकाई समूह बनाएँ
 

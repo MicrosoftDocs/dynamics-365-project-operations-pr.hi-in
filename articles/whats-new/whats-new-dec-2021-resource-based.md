@@ -1,24 +1,24 @@
 ---
 title: नया क्या है दिसंबर 2021 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
-description: यह विषय उन गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है जो संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए परियोजना संचालन के दिसंबर 2021 रिलीज में उपलब्ध हैं।
+description: यह आलेख उन गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है जो संसाधन/गैर-स्टॉक किए गए आधारित परिदृश्यों के लिए प्रोजेक्ट संचालन के दिसंबर 2021 रिलीज़ में उपलब्ध हैं।
 author: sigitac
 ms.date: 12/09/2021
 ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 0fc3f524b7b240170822f0b246559e15985f4b0f
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 79ae9f49a4291d162a8a9bb6eb9a22d615773f6e
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8579814"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8910862"
 ---
 # <a name="whats-new-december-2021---project-operations-for-resourcenon-stocked-based-scenarios"></a>नया क्या है दिसंबर 2021 - संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations
 
 *इस पर लागू होता है: संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations*
 
-यह विषय Microsoft के निम्नलिखित घटकों और संस्करणों पर लागू होता है Dynamics 365 Project Operations:
+यह आलेख Microsoft के निम्नलिखित घटकों और संस्करणों पर लागू होता है Dynamics 365 Project Operations:
 
 - में परियोजना संचालन Dataverse पर्यावरण संस्करण 4.27.0.195, 4.27.0.242, 4.27.0.244
 - Dynamics 365 Finance पर्यावरण संस्करण 10.0.23 . में परियोजना प्रबंधन और लेखांकन
@@ -26,7 +26,7 @@ ms.locfileid: "8579814"
 ## <a name="features-included-in-this-release"></a>इस रिलीज़ में शामिल की गई सुविधाएँ
 
 - सिस्टम प्रशासकों के लिए बेहतर समस्या निवारण। जब कोई उपयोगकर्ता किसी प्रोजेक्ट को नहीं खोल सकता है, तो व्यवस्थापक गैर-लाइसेंस संबंधी त्रुटियों की समीक्षा कर सकता है जो वेब के लिए प्रोजेक्ट से उत्पन्न होती हैं।[प्रोजेक्ट शेड्यूलिंग लॉग।](../project-management/schedule-api-logs.md)
-- [वेब के लिए माइक्रोसॉफ्ट प्रोजेक्ट में टास्क चेकलिस्ट का प्रयोग करें।](https://support.microsoft.com/office/use-task-checklists-in-microsoft-project-for-the-web-c69bcf73-5c75-4ad3-9893-6d6f92360e9c) वेब के लिए Microsoft प्रोजेक्ट में, आप विशिष्ट आइटम का ट्रैक रखने के लिए किसी कार्य में एक चेकलिस्ट जोड़ सकते हैं।
+- [वेब के लिए Microsoft Project में कार्य जाँच सूची का उपयोग करें।](https://support.microsoft.com/office/use-task-checklists-in-microsoft-project-for-the-web-c69bcf73-5c75-4ad3-9893-6d6f92360e9c) वेब के लिए Microsoft प्रोजेक्ट में, आप विशिष्ट आइटम का ट्रैक रखने के लिए किसी कार्य में एक चेकलिस्ट जोड़ सकते हैं।
 
 ## <a name="project-operations-dual-write-maps-updates"></a>Project Operations ड्यूल-राइट मानचित्र अपडेट्स
 
@@ -42,10 +42,10 @@ ms.locfileid: "8579814"
 
 | **सुविधा क्षेत्र** | **संदर्भ संख्या** | **गुणवत्ता अद्यतन** |
 | --- | --- | --- |
-| नियोजन और ट्रैकिंग | 2392596 | शेड्यूल API अब इन्हें अपडेट करने की अनुमति देता है **प्रयास शेष**, **ास पूर्ण**, और **% पूर्ण** खेत। |
-| नियोजन और ट्रैकिंग | 2478497 | **गतिविधि संख्या** और **कार्य आईडी** शेड्यूल एपीआई के लिए फ़ील्ड इनपुट पर खाली हो सकते हैं क्योंकि सिस्टम स्वचालित नंबरिंग का उपयोग करके उन्हें पॉप्युलेट करेगा।|
+| नियोजन और ट्रैकिंग | 2392596 | शेड्यूल APIs अब इन्हें अपडेट करने की अनुमति देते हैं **प्रयास शेष**, **ास पूर्ण**, तथा **% पूरा** खेत। |
+| नियोजन और ट्रैकिंग | 2478497 | **गतिविधि संख्या** तथा**कार्य आईडी** शेड्यूल एपीआई के लिए फ़ील्ड इनपुट पर खाली हो सकते हैं क्योंकि सिस्टम उन्हें स्वचालित नंबरिंग का उपयोग करके पॉप्युलेट करेगा।|
 | समय और व्यय | 2468135 | अनुमोदन के लिए पुनर्प्रयासों की संख्या पांच से घटाकर तीन कर दी गई है। |
-| समय और व्यय | 2468188 | में अधिकतम लंबाई से अधिक लॉग टेक्स्ट के साथ समस्या का समाधान किया गया**नोटटेक्स्ट** की विशेषता**टिप्पणी** इकाई। |
+| समय और व्यय | 2468188 | में अधिकतम लंबाई से अधिक लॉग टेक्स्ट के साथ समस्या को ठीक किया**नोटटेक्स्ट** की विशेषता**टिप्पणी** कंपनी। |
 | बिलिंग और मूल्य निर्धारण | 2488698 | अद्यतन त्रुटि संदेश जो तब होता है जब पर्यावरण सेटअप में वित्त से पॉप्युलेट किए गए लेज़र निकाय रिकॉर्ड अनुपलब्ध होते हैं। |
 
 ### <a name="project-management-and-accounting-on-dynamics-365-finance"></a>Dynamics 365 Finance . पर परियोजना प्रबंधन और लेखांकन
@@ -56,10 +56,10 @@ ms.locfileid: "8579814"
 | परियोजना प्रबंधन और लेखांकन | [599568](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D599568&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919225600986%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=IudfEjWmkNeiTsWmR%2Fu2oR0CnnCkffAshvqZJuF76q8%3D&amp;reserved=0) | सीधी रेखा के अनुमानों की गणना गलत तरीके से की जाती है। |
 | परियोजना प्रबंधन और लेखांकन | [602728](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D602728&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919227094434%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=Q2%2BveFHlGrzg4QHtqcgeqjyZSQkmpr%2Fku7oObKHMB9g%3D&amp;reserved=0) | प्रोजेक्ट इनवॉइस्ड रेवेन्यू के लिए एप्लाइड रिटेनर मामलों में पोस्टिंग समस्या के परिणामस्वरूप वाउचर पर लेन-देन संतुलित नहीं होता है। |
 | परियोजना प्रबंधन और लेखांकन | [610906](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D610906&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919227134259%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=xDBnz10T71GmOZt78ooFK3SYvmTLoC5fj1OftYNYDpY%3D&amp;reserved=0) | परियोजना संचालन वास्तविक के साथ एकीकरण के लिए प्रदर्शन सुधार। |
-| परियोजना प्रबंधन और लेखांकन | [618670](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D618670&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919227203949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=PqvHsTGLcQ3bYbUlzYABYhl7J9v2zbnjcOgm%2FTvXB20%3D&amp;reserved=0) | घंटे लागत लेनदेन के साथ पोस्ट किए जाने पर उपयोगकर्ता इनवॉइस नहीं कर सकते हैं **कभी खाता नहीं** या**कोई बहीखाता नहीं**. |
+| परियोजना प्रबंधन और लेखांकन | [618670](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D618670&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919227203949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=PqvHsTGLcQ3bYbUlzYABYhl7J9v2zbnjcOgm%2FTvXB20%3D&amp;reserved=0) | यदि घंटे लागत लेनदेन के साथ पोस्ट किए जाते हैं तो उपयोगकर्ता इनवॉइस नहीं कर सकते हैं **कभी खाता नहीं** या**कोई बहीखाता नहीं**. |
 | परियोजना प्रबंधन और लेखांकन | [623818](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D623818&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919227303517%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=LAfdEiuKG8DoGk8O48MRLuaKYDINhCyMAtrlpGvVAw0%3D&amp;reserved=0) | यदि कोई जर्नल पोस्टिंग विफल हो जाती है और शेष जर्नल संसाधित नहीं होते हैं, तो बैच कार्य विफल हो जाते हैं।  |
 | यात्रा और व्यय | [575378](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D575378&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919225451644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=3tW0ngQqcz8pdNFY8FVuFlsgv3l73HMgeQTLbzIAAOg%3D&amp;reserved=0) | अनासक्त खर्चों के लिए स्वीकृति स्थिति को बदला जा सकता है। |
-| यात्रा और व्यय | [592997](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D592997&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919225521336%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=0leQsokHcl2NLqePFXC6%2BuH1V5UNRWUIPx0wTUaB4vg%3D&amp;reserved=0) | वर्कफ़्लो में सबमिट की गई व्यय रिपोर्ट आपको नई व्यय लाइनें बनाने की अनुमति देती है। |
+| यात्रा और व्यय | [592997](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D592997&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919225521336%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=0leQsokHcl2NLqePFXC6%2BuH1V5UNRWUIPx0wTUaB4vg%3D&amp;reserved=0) | कार्यप्रवाह में सबमिट की गई व्यय रिपोर्ट आपको नई व्यय लाइनें बनाने की अनुमति देती है। |
 | यात्रा और व्यय | [594853](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D594853&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919225541248%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=5PINC45EBeV8PC0Cvtt0QPPJn0VYQ%2FRCjBmlEsZJCq4%3D&amp;reserved=0) | आप व्यय रिपोर्ट में पोस्ट न की गई व्यय लाइनों को रीसेट कर सकते हैं। |
 | यात्रा और व्यय | [599821](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D599821&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919225610944%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=eb2CAb8L9IUDxDoukDcZQxNyI3TNQtFO%2FcjycucNj44%3D&amp;reserved=0) | यदि ऐसे अनासक्त व्यय हैं जहाँ व्यय स्वामी एक कर्मचारी है, तो आप व्यय नकद अग्रिम सुविधा को सक्षम नहीं कर सकते। |
 | यात्रा और व्यय | [601446](https://nam06.safelinks.protection.outlook.com/?url=https:%2F%2Ffix.lcs.dynamics.com%2FIssue%2FDetails%2F?bugId%3D601446&amp;data=04%7C01%7Cjespers%40microsoft.com%7Cc1d2484c411149f3a93708d9a8583e14%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637725919225650767%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=Z4CBMqrmYtlIEBWxzMEBf%2BXu5dlst7NnKcQ62yoV%2BWM%3D&amp;reserved=0) | यदि यात्रा अनुरोध को शून्य पर सेट किया गया है, तो**पूर्व अधिकृत है** व्यय शीर्षलेख पर सक्षम नहीं होना चाहिए। |

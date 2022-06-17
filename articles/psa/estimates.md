@@ -1,6 +1,6 @@
 ---
 title: अनुमान
-description: यह विषय Dynamics 365 Project Service Automation में अनुमानों के बारे में जानकारी प्रदान करता है।
+description: यह लेख में अनुमानों के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Service Automation
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 978af25fb89feb61e3c6fcfeafa212db034ff5cb
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: fdd8fa033131500956249b1bdabc135b5057bbc1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8590670"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920522"
 ---
 # <a name="estimates"></a>अनुमान
 
@@ -30,7 +30,7 @@ ms.locfileid: "8590670"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-प्रोजेक्ट-आधारित कोट पर, आप प्रोजेक्ट को डिलीवर करने के लिए आवश्यक कार्य का अनुमान लगाने के लिए कोट लाइन विवरण इकाई का उपयोग कर सकते हैं। फिर आप उस अनुमान को ग्राहक के साथ साझा कर सकते हैं।
+परियोजना-आधारित क्वोट पर, आप परियोजना को डिलीवर करने के लिए आवश्यक कार्य का अनुमान लगाने हेतु लाइन विवरण क्वोट करें निकाय का उपयोग कर सकते हैं. फिर आप उस अनुमान को ग्राहक के साथ साझा कर सकते हैं।
 
 प्रोजेक्ट-आधारित कोट लाइनों का कोई कोट लाइन विवरण नहीं होना चाहिए। वैकल्पिक रूप से, उनके पास कई कोट लाइन विवरण हो सकते हैं। समय, खर्च या शुल्क का अनुमान लगाने के लिए कोट लाइन विवरण का उपयोग किया जाता है। PSA कोट लाइन विवरण पर सामग्री अनुमानों की अनुमति नहीं देता है। इन्हें लेन-देन वर्ग कहा जाता है। अनुमानित कर राशि लेन-देन वर्ग में भी दर्ज की जा सकती है।
 

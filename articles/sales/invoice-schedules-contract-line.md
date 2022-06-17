@@ -1,17 +1,17 @@
 ---
 title: परियोजना-आधारित अनुबंध लाइन पर इनवॉइस शेड्यूल बनाएं
-description: यह विषय अनुबंध लाइनों पर इनवॉयस शेड्यूल और उपलब्धि बनाने के बारे में जानकारी प्रदान करता है.
+description: यह आलेख अनुबंध लाइनों पर इनवॉइस शेड्यूल और मील के पत्थर बनाने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 10/17/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 7dd8e4517d5ae7401fd0f11301943157b42a6b0e
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 490a61b67f54bdad95ecfce905191c381dddc85b
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8595224"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8915002"
 ---
 # <a name="create-an-invoice-schedule-on-a-project-based-contract-line"></a>परियोजना-आधारित अनुबंध लाइन पर इनवॉइस शेड्यूल बनाएं 
 

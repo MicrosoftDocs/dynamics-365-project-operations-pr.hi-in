@@ -1,17 +1,17 @@
 ---
 title: अपना परिनियोजन प्रकार निर्धारित करें
-description: यह विषय आपकी कंपनी के लिए Project operations के उचित नियोजन के प्रकार को निर्धारित करने में आपकी मदद करने हेतु जानकारी प्रदान करता है.
+description: यह आलेख आपकी कंपनी के लिए प्रोजेक्ट संचालन के सही परिनियोजन प्रकार को निर्धारित करने में आपकी मदद करने के लिए जानकारी प्रदान करता है।
 author: stsporen
 ms.date: 03/15/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: stsporen
-ms.openlocfilehash: 280578b2710a0bccd1973b51b062fef7a2997780
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 592c1bfdaf5ea6bdbf6c67bc5b82dd5cf979b367
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8584138"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8912196"
 ---
 # <a name="determine-your-deployment-type"></a>अपना परिनियोजन प्रकार निर्धारित करें
 

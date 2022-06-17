@@ -1,17 +1,17 @@
 ---
 title: एक परियोजना कोट पर सारांश जानकारी - लाइट
-description: यह विषय परियोजना कोटेशनों पर लागू होने वाली जानकारी और सेटिंग्स के बारे में जानकारी प्रदान करता है. (Sales)
+description: यह लेख उन सूचनाओं और सेटिंग्स के बारे में जानकारी प्रदान करता है जो परियोजना उद्धरणों पर लागू होती हैं और उन्हें प्रभावित करती हैं। (Sales)
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 267978da59ba1c916272ec0c9ff9044ed0d81f50
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 3441348cb46804f8f76cb23b3f916fe69c3fbe99
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8574892"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8917026"
 ---
 # <a name="header-details-for-project-quotes"></a>परियोजना कोट के लिए हेडर विवरण
 

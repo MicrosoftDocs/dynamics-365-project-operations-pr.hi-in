@@ -1,6 +1,6 @@
 ---
 title: कार्य की विवरण संरचना के लिए अपग्रेड संबंधी विचार
-description: इस टॉपिक में Project Service Automation 2.x से 3.x के मामले में कार्य की विवरण संरचना को अपग्रेड करने के बारे में जानकारी प्रदान की गई है।
+description: यह आलेख कार्य विश्लेषण संरचना को Project Service Automation 2.x से 3.x में अपग्रेड करने के बारे में जानकारी प्रदान करता है।
 ms.custom:
 - dyn365-projectservice
 ms.date: 10/18/2019
@@ -17,18 +17,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 13ad93d5be3c0ab07c81db28d3e13561e9d40017
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 42bf03b5e3be4b7bdce87148254ce69e381ffdf1
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8599732"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8913116"
 ---
 # <a name="upgrade-considerations-for-the-work-breakdown-structure"></a>कार्य की विवरण संरचना के लिए अपग्रेड संबंधी विचार
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
-इस टॉपिक में Project Service Automation 2.x से 3.x के मामले में कार्य की विवरण संरचना को अपग्रेड करने के बारे में जानकारी प्रदान की गई है। इस टॉपिक में Project Service Automation (PSA) में किसी परियोजना के स्वास्थ्य को परिभाषित किया गया है, जो सफल अपग्रेड के लिए आवश्यक है। आम पायी जाने वाली ब्लॉकिंग परिस्थितियों के बारे में भी जानकारी दी गई है, जो अपग्रेड को विफल बना सकती हैं। किसी परियोजना शेड्यूल में परियोजना टास्क और उनके कार्यों को परिभाषित करने के बारे में अधिक जानकारी के लिए [प्रोजेक्ट शेड्यूल](project-creating.md) देखें।
+यह आलेख कार्य विश्लेषण संरचना को Project Service Automation 2.x से 3.x में अपग्रेड करने के बारे में जानकारी प्रदान करता है। यह आलेख Project Service Automation (PSA) में एक प्रोजेक्ट की स्वस्थ स्थिति को परिभाषित करता है जो एक सफल अपग्रेड के लिए आवश्यक है। आम पायी जाने वाली ब्लॉकिंग परिस्थितियों के बारे में भी जानकारी दी गई है, जो अपग्रेड को विफल बना सकती हैं। किसी परियोजना शेड्यूल में परियोजना टास्क और उनके कार्यों को परिभाषित करने के बारे में अधिक जानकारी के लिए [प्रोजेक्ट शेड्यूल](project-creating.md) देखें।
 
 ## <a name="key-entities"></a>प्रमुख इकाइयां
 पहले से ही संसाधनों से लैस किसी सटीक कार्य विवरण संरचना को परिभाषित करने हेतु आपको निम्न इकाइयों की आवश्यकता होगी:

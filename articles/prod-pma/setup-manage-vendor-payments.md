@@ -1,6 +1,6 @@
 ---
 title: भुगतान होने पर भुगतान करें विक्रेता भुगतान को सेटअप करें और उपयोग करें
-description: यह विषय बताता है कि पे-ह्वेन-पेड (PWP) शब्दावली का सृजन कैसे करें ताकि आप ग्राहक से भुगतान प्राप्त होने के आधार पर वेंडर को आंशिक भुगतान कर सकें.
+description: यह लेख बताता है कि भुगतान-पर-भुगतान (PWP) शर्तें कैसे बनाई जाती हैं ताकि आप ग्राहक भुगतानों के आधार पर आंशिक विक्रेता भुगतान जारी कर सकें।
 author: RadhikaRS
 ms.date: 03/30/2020
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Service industries
 ms.author: andchoi
 ms.dyn365.ops.version: 7
 ms.search.validFrom: 2019-01-15
-ms.openlocfilehash: 71f7b1db58c0d6aacc4f47920e5ad39dbb35ec51
-ms.sourcegitcommit: 2c2a5a11d446adec2f21030ab77a053d7e2da28e
+ms.openlocfilehash: 10e8e57695caece6c4b6ba4c2ddb52395dad1218
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "8683915"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8920752"
 ---
 # <a name="set-up-and-use-pay-when-paid-vendor-payments"></a>भुगतान होने पर भुगतान करें विक्रेता भुगतान को सेटअप करें और उपयोग करें
 

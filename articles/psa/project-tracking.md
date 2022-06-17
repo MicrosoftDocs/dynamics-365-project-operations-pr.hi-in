@@ -1,6 +1,6 @@
 ---
 title: परियोजना प्रगति और लागत उपभोग
-description: यह विषय प्रोजेक्ट की प्रगति और लागत उपभोग का पता लगाने के बारे में जानकारी प्रदान करता है.
+description: यह लेख परियोजना की प्रगति और लागत खपत पर नज़र रखने के बारे में जानकारी प्रदान करता है।
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -17,12 +17,12 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 56b78aa70f23a9a723f008973678bb29c4bbce1d
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: afcac5e6fbb7ed8a5a5f7f5876c6035b59eebcc2
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8575260"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8921764"
 ---
 # <a name="project-progress-and-cost-consumption"></a>परियोजना प्रगति और लागत उपभोग
 
@@ -30,7 +30,7 @@ ms.locfileid: "8575260"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-शेड्यूल के समक्ष प्रगति का पता लगाने की ज़रूरत हर उद्योग की अलग-अलग होती है। कुछ उद्योग सूक्ष्म स्तर पर ट्रैक करते हैं जबकि कुछ उद्योगों में व्यापक स्तर पर ट्रैक किया जाता है। इस विषय में बताया गया है कि अपने संगठन की ज़रूरतों को पूरा करने के लिए शेड्यूल कैसे किया जाता है।
+शेड्यूल के समक्ष प्रगति का पता लगाने की ज़रूरत हर उद्योग की अलग-अलग होती है। कुछ उद्योग सूक्ष्म स्तर पर ट्रैक करते हैं जबकि कुछ उद्योगों में व्यापक स्तर पर ट्रैक किया जाता है। यह लेख दिखाता है कि अपने संगठन की ज़रूरतों को पूरा करने के लिए शेड्यूल कैसे करें।
 
 ## <a name="effort-tracking-view"></a>प्रयास ट्रैकिंग दृश्य
 

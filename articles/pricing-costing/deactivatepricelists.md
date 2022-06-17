@@ -1,6 +1,6 @@
 ---
 title: प्राइस लिस्टों को निष्क्रिय करें
-description: यह विषय अप्रयुक्त या पुरानी प्राइस लिस्टों को निष्क्रिय या हटाने का तरीका बताता है.
+description: यह लेख बताता है कि अप्रयुक्त या पुरानी मूल्य सूचियों को कैसे निष्क्रिय या हटाया जाए।
 author: rumant
 ms.date: 03/19/2021
 ms.topic: article
@@ -15,12 +15,12 @@ ms.search.industry: Professional Service industries
 ms.author: rumant
 ms.dyn365.ops.version: ''
 ms.search.validFrom: 2020-10-01
-ms.openlocfilehash: ab790764f7a99118fd42bc76934105389173ff88
-ms.sourcegitcommit: c0792bd65d92db25e0e8864879a19c4b93efb10c
+ms.openlocfilehash: 56bd498d2cb892bdf0c7514d0918e3873098b8d4
+ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "8596885"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8924386"
 ---
 # <a name="deactivate-price-lists"></a>मूल्य सूचियों को निष्क्रिय करें 
 
