@@ -1,5 +1,5 @@
 ---
-title: वित्त और संचालन में पोस्ट करने के लिए प्रोजेक्ट सर्विस ऑटोमेशन से प्रोजेक्ट इंटीग्रेशन जर्नल में प्रोजेक्ट वास्तविक को सीधे सिंक्रोनाइज़ करें
+title: वित्त और संचालन में पोस्ट करने के लिए प्रोजेक्ट वास्तविक को Project Service Automation से प्रोजेक्ट एकीकरण जर्नल में सीधे सिंक्रनाइज़ करें
 description: यह आलेख उन टेम्पलेट्स और अंतर्निहित कार्यों का वर्णन करता है जिनका उपयोग प्रोजेक्ट वास्तविक को सीधे से सिंक्रनाइज़ करने के लिए किया जाता है Microsoft Dynamics 365 Project Service Automation वित्त और संचालन के लिए।
 author: Yowelle
 ms.date: 07/20/2018
@@ -14,14 +14,14 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 7.3.0
-ms.openlocfilehash: 7d912a11d9c7bc66ed43911ee32f25092d551cd6
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 34a0a0f7277777895077d221cd95e8d962d2a902
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8929492"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028980"
 ---
-# <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>वित्त और संचालन में पोस्ट करने के लिए प्रोजेक्ट सर्विस ऑटोमेशन से प्रोजेक्ट इंटीग्रेशन जर्नल में प्रोजेक्ट वास्तविक को सीधे सिंक्रोनाइज़ करें
+# <a name="synchronize-project-actuals-directly-from-project-service-automation-to-the-project-integration-journal-for-posting-in-finance-and-operations"></a>वित्त और संचालन में पोस्ट करने के लिए प्रोजेक्ट वास्तविक को Project Service Automation से प्रोजेक्ट एकीकरण जर्नल में सीधे सिंक्रनाइज़ करें
 
 [!include[banner](../includes/banner.md)]
 

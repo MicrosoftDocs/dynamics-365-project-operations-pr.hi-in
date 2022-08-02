@@ -6,16 +6,16 @@ ms.date: 04/05/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: c6176247db37c3276d775050497585ead011e5a1
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
-ms.translationtype: HT
+ms.openlocfilehash: 3e8e10d69368f4704ec6121106fbfd35394dc441
+ms.sourcegitcommit: 95dacb0e74fa8970f56fdb1cbaa915d3fbec6e0f
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8917348"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "9023661"
 ---
 # <a name="corrective-project-invoices"></a>सुधारात्मक परियोजना इनवॉइस
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+लाइट तैनाती _**पर लागू होता है:** प्रोफार्मा इनवॉइस करने के लिए - डील, संसाधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
 
 ग्राहक और प्रोजेक्ट मैनेजर के साथ बातचीत से तय किए गए परिवर्तनों या क्रेडिटों को संसाधित करने के लिए एक पुष्टिकृत प्रोजेक्ट इनवॉइस को ठीक किया जा सकता है.
 

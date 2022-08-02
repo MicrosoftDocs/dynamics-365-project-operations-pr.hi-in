@@ -1,21 +1,21 @@
 ---
 title: परियोजना कोट पर परियोजना मूल्य सूचियाँ प्रबंधित करें
-description: यह आलेख उद्धरणों पर परियोजना मूल्य सूचियों के साथ काम करने के बारे में जानकारी प्रदान करता है।
+description: यह लेख उद्धरणों पर परियोजना मूल्य सूचियों के साथ काम करने के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 03/30/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6902d22c7bd4b422466c924ee6473146b036caa5
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
-ms.translationtype: HT
+ms.openlocfilehash: af89996fcaca9823d32e84e10ce6d29ead4f3d6d
+ms.sourcegitcommit: 95dacb0e74fa8970f56fdb1cbaa915d3fbec6e0f
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8929952"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "9023615"
 ---
 # <a name="manage-project-price-lists-on-project-quotes"></a>परियोजना कोट पर परियोजना मूल्य सूचियाँ प्रबंधित करें 
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+लाइट तैनाती _**पर लागू होता है:** प्रोफार्मा इनवॉइस करने के लिए - डील, संसाधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
 
 परियोजना के कोटेशन कई तारीख प्रभावी Sales मूल्य सूचियों का समर्थन करने के लिए डिज़ाइन किए गए हैं. Dynamics 365 Project Operations के साथ, **परियोजना मूल्य सूची** नामक एक नया संबद्ध निकाय जोड़ा जाता है. इस निकाय के परियोजना के कोटेशन के साथ 1-से-कई संबंध हैं.
 

@@ -6,12 +6,12 @@ ms.date: 01/10/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: ruhercul
-ms.openlocfilehash: 7db7ea6b3cffe6eb43ee0519bbaccfc9092c9311
-ms.sourcegitcommit: 51745acac29dfacba43a4003d86baff4d6ca2fb8
+ms.openlocfilehash: 6a6986cfd6c01d1c22d37a10c8d824730fad2e9e
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "8959641"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9029302"
 ---
 # <a name="sign-up-for-project-operations-trials"></a>Project Operations ट्रायल के लिए साइन अप करें 
 
@@ -90,7 +90,7 @@ Dynamics 365 Project Operations के ट्रायल को परिनि
 
 ## <a name="configuring-dual-write"></a>ड्यूल-राइट कॉन्‍फ़‍िगर हो रहा है
 - दोहरे लेखन के लिए सुरक्षा भूमिकाओं को कॉन्फ़िगर करने के लिए, देखें [में प्रोजेक्ट ऑपरेशंस पर सुरक्षा सेटिंग्स अपडेट करें।Dataverse](resource-provision-new-environment.md#update-security-settings-on-project-operations-on-dataverse)
-- दोहरे लेखन कॉन्फ़िगरेशन तक पहुंचने के लिए, वित्त और संचालन उदाहरण पर नेविगेट करें, फिर नेविगेट करें **डाटा प्रबंधन** > **दोहरा लिखना।**
+- दोहरे-लेखन कॉन्फ़िगरेशन तक पहुंचने के लिए, वित्त और संचालन उदाहरण पर नेविगेट करें, फिर नेविगेट करें **डाटा प्रबंधन** > **दोहरा लिखना।**
 - दोहरे-लेखन मानचित्रों को कॉन्फ़िगर करने के लिए, देखें [प्रोजेक्ट ऑपरेशंस चलाएँ दोहरे-लेखन मानचित्र](resource-provision-new-environment.md#run-project-operations-dual-write-maps).
 
 ## <a name="assign-licenses"></a>लाइसेंस असाइन करें
@@ -117,7 +117,7 @@ Dynamics 365 Project Operations के ट्रायल को परिनि
 
 ## <a name="frequently-asked-questions"></a>सामान्य प्रश्‍न
 
-### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>क्या होगा यदि मुझे अपने वित्त और संचालन ऐप्स परिवेश के लिए ALM या ELM की आवश्यकता है?
+### <a name="what-if-i-require-alm-or-elm-for-my-finance-and-operations-apps-environment"></a>क्या होगा यदि मुझे अपने वित्त और संचालन ऐप्स वातावरण के लिए एएलएम या ईएलएम की आवश्यकता है?
 
 - उन भागीदारों के लिए जिन्हें संपूर्ण परिवेश जीवनचक्र प्रबंधन क्षमताओं की आवश्यकता है, नए भागीदार ऑफ़र की समीक्षा करने के लिए [पार्टनर सैंडबॉक्स लाइसेंस अनुरोध](https://experience.dynamics.com/requestlicense) देखें. 
 - Internal Use Rights के बारे में अधिक जानकारी चाहने वाले भागीदारों के लिए, [Internal Use Rights क्लाउड और सॉफ़्टवेयर लाभ (microsoft.com](https://partner.microsoft.com/membership/internal-use-software) देखें.

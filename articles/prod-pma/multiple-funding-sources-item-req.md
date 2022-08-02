@@ -6,12 +6,12 @@ ms.date: 05/04/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: a54ca1ec5e78d9d0af7b67914f6a63154c7347d3
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 079856e7cf2ffa9b80ab31ebad1c1b5dbe36a4ad
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8931194"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028475"
 ---
 # <a name="item-requirements-for-project-contracts-with-multiple-funding-sources"></a>कई फंडिंग स्रोतों के साथ परियोजना अनुबंधों के लिए आइटम की आवश्यकताएँ
 
@@ -33,7 +33,7 @@ Contoso ने अपने दो ग्राहकों के साथ ए
 
 ### <a name="prerequisites"></a>पूर्वावश्यकताएँ
 
-- Microsoft Dynamics 365 वित्त और संचालन **संस्करण 10.0.27 या बाद में** एक से अधिक इनवॉइस खाते वाले आइटम आवश्यकताओं का उपयोग करना आवश्यक है।
+- Microsoft Dynamics 365 वित्त **संस्करण 10.0.27 या बाद में** एक से अधिक इनवॉइस खाते वाले आइटम आवश्यकताओं का उपयोग करना आवश्यक है।
 - आपके सिस्टम व्यवस्थापक को अवश्य सक्षम करना चाहिए **प्रोजेक्ट ऑपरेशंस स्टॉक किए गए/उत्पादन-आधारित परिदृश्यों के लिए एकाधिक फंडिंग स्रोतों के साथ आइटम आवश्यकताओं की अनुमति दें** में सुविधा**सुविधा प्रबंधन** कार्यक्षेत्र।
 
 ### <a name="set-up-the-invoice-account-defaulting-rules"></a>इनवॉइस खाता डिफ़ॉल्ट नियम सेट करें

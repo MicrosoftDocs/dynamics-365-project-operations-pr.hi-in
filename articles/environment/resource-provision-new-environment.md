@@ -7,12 +7,12 @@ ms.topic: article
 ms.prod: ''
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9cc3dafd6a2b6f92b585643c5d43ab52a3faf59e
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 78f40ebe79c038799fbc59902442ad6c23fb94d4
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8931608"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028520"
 ---
 # <a name="provision-a-new-environment"></a>नए परिवेश का प्रावधान
 
@@ -117,7 +117,7 @@ _**इस पर लागू होता है:** संसाधन/गै�
 
     ![समाधान लागू करें.](./media/13ApplySolutions.png)
 
-5. दोनों समाधान चुनें, **Dynamics 365 Finance and Operations दोहरी लेखन इकाई मानचित्र** तथा**Dynamics 365 Project Operations दोहरी लिखें इकाई मानचित्र**, और फिर चुनें **आवेदन करना**.
+5. दोनों समाधान चुनें, **Dynamics 365 Finance डुअल राइट एंटिटी मैप** तथा**Dynamics 365 Project Operations दोहरी लिखें इकाई मानचित्र**, और फिर चुनें **आवेदन करना**.
 
     ![समाधान की पुष्टि करें.](./media/14ConfirmSolutions.png)
 

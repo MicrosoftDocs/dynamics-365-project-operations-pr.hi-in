@@ -14,12 +14,12 @@ ms.search.region: Global
 ms.author: andchoi
 ms.search.validFrom: 2016-11-28
 ms.dyn365.ops.version: AX 8.0.0
-ms.openlocfilehash: 630c4fa7a159aa46b46984736080cd007d519a6c
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 8eba7defb93bd880db4b0e8fe425d07312cf5cb9
+ms.sourcegitcommit: a798fed5c59e3fefa62cdfa42c852d529b33fd35
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8927238"
+ms.lasthandoff: 06/18/2022
+ms.locfileid: "9028934"
 ---
 # <a name="synchronize-project-expense-categories-between-finance-and-operations-and-project-service-automation"></a>वित्त और संचालन और परियोजना सेवा स्वचालन के बीच परियोजना व्यय श्रेणियों को सिंक्रनाइज़ करें
 
@@ -80,7 +80,7 @@ Project Service Automation और Finance एकीकरण समाधान 
 
 ### <a name="power-query"></a>Power Query
 
-जब आप Project Service Automation के साथ सिंक्रनाइज़ कर रहे हों, तो आपको Microsoft का उपयोग करना चाहिए Power Query लेन-देन श्रेणी पर बिलिंग प्रकार सेट करने के लिए एक्सेल के लिए। परियोजना व्यय लेनदेन की श्रेणियों (Fin और Ops से PSA) का टेम्पलेट एक डिफ़ॉल्ट कॉलम और मानचित्रण प्रदान करता है. यदि आप अपना स्वयं का टेम्पलेट बनाते हैं, तो आपको में एक सशर्त कॉलम जोड़ना होगा।Power Query इन चरणों का अनुसरण करें.
+जब आप Project Service Automation के साथ सिंक्रनाइज़ कर रहे हों, तो आपको Microsoft का उपयोग करना चाहिए Power Query लेन-देन श्रेणी पर बिलिंग प्रकार सेट करने के लिए एक्सेल के लिए। परियोजना व्यय लेनदेन की श्रेणियों (Fin और Ops से PSA) का टेम्पलेट एक डिफ़ॉल्ट कॉलम और मानचित्रण प्रदान करता है. यदि आप अपना खुद का टेम्प्लेट बनाते हैं, तो आपको में एक सशर्त कॉलम जोड़ना होगा।Power Query इन चरणों का अनुसरण करें.
 
 1. परियोजना व्यय लेनदेन की श्रेणियों (Fin और Ops से PSA) के टेम्पलेट में परियोजना व्यय श्रेणियों के कार्य का मानचित्रण खोलने के लिए तीर पर क्लिक करें.
 2. दबाएं **अग्रिम क्वेरी और फ़िल्टरिंग** खोलने के लिए लिंक।Power Query
