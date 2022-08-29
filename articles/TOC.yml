@@ -4,7 +4,7 @@
   items:
     - name: अपना परिनियोजन प्रकार निर्धारित करें
       href: environment/determine-deployment-type.md
-    - name: Project Operations परीक्षणों के लिए साइन अप करें
+    - name: Project Operations ट्रायलों के लिए साइन अप करें
       href: environment/admin-trials.md
     - name: Project Operations अद्यतन
       href: whats-new/project-operations-updates.md
@@ -56,16 +56,18 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: व्यय प्रबंधन एकीकरण
               href: environment/resource-dual-write-expense.md
-            - name: विक्रेता चालान एकीकरण
+            - name: विक्रेता इनवॉइस एकीकरण
               href: environment/resource-dual-write-vendor-invoice.md
-        - name: Dynamics 365 Project Operations की स्थापना रद्द करें
+        - name: Dynamics 365 Project Operations की अनइंस्टॉल करें
           href: environment/uninstall-project-operations.md
     - name: नया क्या है
       items:
-        - name: जुलाई 2022 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-july-2022-resource-based.md
+        - name: अगस्त 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-aug-2022-resource-based.md
         - name: संग्रह
           items:
+            - name: जुलाई 2022 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
+              href: whats-new/whats-new-july-2022-resource-based.md
             - name: जून 2022 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
               href: whats-new/whats-new-june-2022-resource-based.md
             - name: मई 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
@@ -384,9 +386,45 @@
           items:
             - name: संसाधन उपयोग का संक्षिप्त विवरण
               href: resource-management/resource-utilization-overview.md
+    - name: उप-अनुबंध प्रबंधन
+      items:
+        - name: Project Operations में उप-अनुबंध प्रबंधन
+          href: pro/subcontracting/managing-subcontracts-overview.md
+        - name: उप-अनुबंध में प्रमुख अवधारणाएँ
+          href: pro/subcontracting/key-concepts-subcontracting.md
+        - name: विक्रेताओं और परियोजना मूल्य सूचियों का प्रबंधन करना
+          href: pro/subcontracting/vendors-purchase-price-lists.md
+        - name: बुक करने योग्य संसाधनों के रूप में उपअनुबंध
+          href: pro/subcontracting/subcontractors-as-bookable-resources.md
+        - name: उप-अनुबंधों के लिए हेडर विवरण
+          href: pro/subcontracting/subcontract-header-details.md
+        - name: समय के लिए उप-अनुबंध पंक्तियाँ
+          href: pro/subcontracting/subcontract-line-time.md
+        - name: व्यय श्रेणियों के लिए उप-अनुबंध पंक्तियाँ
+          href: pro/subcontracting/subcontract-line-expense.md
+        - name: उत्पादों के लिए उप-अनुबंध पंक्तियाँ
+          href: pro/subcontracting/subcontract-line-products.md
+        - name: उप-अनुबंध पंक्ति संसाधन
+          href: pro/subcontracting/subcontract-line-resources.md
+        - name: उपअनुबंध पंक्ति माइलस्टोन
+          href: pro/subcontracting/subcontract-line-milestones.md
+        - name: परियोजना टीम सदस्य उपअनुबंध करना
+          href: pro/subcontracting/subcontracting-project-team-members.md
+        - name: परियोजना टीम सदस्य के लिए उपअनुबंध करने के विकल्प
+          href: pro/subcontracting/subcon-options.md
+        - name: उप-अनुबंधित संसाधन असाइनमेंट की लागत का अनुमान
+          href: pro/subcontracting/costing-subcon-ra.md
+        - name: अनुबंध कर्मचारियों और उप-अनुबंधित की क्षमता दिखाने के लिए शेड्यूल बोर्ड को कॉन्फ़िगर करें
+          href: pro/subcontracting/configure-sb-subcon.md
+        - name: अनुबंध कर्मचारियों और उप-अनुबंधित की क्षमता के साथ एक परियोजना की स्टाफिंग
+          href: pro/subcontracting/staffing-cw.md
+        - name: 'उप-अनुबंधित घटकों के लिए रिकॉर्डिंग समय, व्यय और सामग्री उपयोग'
+          href: pro/subcontracting/recording-subcon-actuals.md
+        - name: उपअनुबंध पर राज्य संक्रमण
+          href: pro/subcontracting/subcon-states.md
     - name: समय
       items:
-        - name: समय का संक्षिप्त विवरण
+        - name: समय ओवरव्यू
           href: time/time-entry-overview.md
         - name: समय प्रविष्टियाँ बनाएँ
           items:
@@ -580,6 +618,8 @@
       items:
         - name: कटओवर के दौरान पूरी तरह से इनवॉइस की गई बिलिंग उपलब्धियां माइग्रेट करें
           href: advanced-configuration/migrating-invoiced-milestones.md
+        - name: बंद परियोजनाओं के खिलाफ प्रवेश को रोकने के लिए परियोजना की स्थिति को सिंक करें
+          href: advanced-configuration/sync-project-status.md
     - name: नवीनीकरण
       items:
         - name: आधुनिक अनुमोदनों के लिए विचार नवीनीकरण करें
@@ -610,10 +650,12 @@
           href: environment/security-model.md
     - name: नया क्या है
       items:
-        - name: नया क्या है जुलाई 2022 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-july-2022-lite.md
+        - name: नया क्या है अगस्त 2022 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-aug-2022-lite.md
         - name: संग्रह
           items:
+            - name: नया क्या है जुलाई 2022 - लाइट परिनियोजन
+              href: pro/whats-new/whats-new-july-2022-lite.md
             - name: नया क्या है जून 2022 - लाइट परिनियोजन
               href: pro/whats-new/whats-new-june-2022-lite.md
             - name: नया क्या है 2021 वेव 2 प्रारंभिक पहुँच - लाइट परिनियोजन
