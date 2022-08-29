@@ -1,21 +1,20 @@
 ---
 title: Project Operations में विक्रेता और खरीद मूल्य सूची प्रबंधन
-description: यह आलेख जानकारी प्रदान करता है जो आपको उप-ठेकेदार के लिए विक्रेता डेटा और खरीद मूल्य सूची बनाने और बनाए रखने में मदद करेगा।
+description: यह आलेख जानकारी प्रदान करता है जो उप-ठेकेदार के लिए विक्रेता डेटा और खरीद मूल्य सूची बनाने और बनाए रखने में आपकी सहायता करेगा।
 author: rumant
 ms.date: 08/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 6840ffcbc510fe6385dd3fdaf881e9700c4fdd18
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 3cd883fed8a59f1c54c39e2d051b9748833ba692
+ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8914128"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "9261889"
 ---
 # <a name="vendor-and-purchase-price-list-management-in-project-operations"></a>Project Operations में विक्रेता और खरीद मूल्य सूची प्रबंधन
 
-[!include [banner](../../includes/dataverse-preview.md)]
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 

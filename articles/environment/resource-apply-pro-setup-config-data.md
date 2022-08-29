@@ -1,30 +1,30 @@
 ---
-title: Common Data Service में कॉन्फ़िगरेशन डेटा सेट अप करें और लागू करें
+title: Microsoft Dataverse में कॉन्फ़िगरेशन डेटा सेट अप करें और लागू करें
 description: यह आलेख प्रोजेक्ट ऑपरेशंस में कॉन्फ़िगरेशन डेटा को सेट करने और लागू करने के बारे में जानकारी प्रदान करता है।
 author: sigitac
 ms.date: 05/10/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 2c918425e9a6c5fe8888ed8a4258ca59f0464828
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: b09d3ea7348082a0467fd7b47918c9e00d1f1e8c
+ms.sourcegitcommit: 8edd24201cded2672cec16cd5dc84c6a3516b6c2
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8928020"
+ms.lasthandoff: 08/06/2022
+ms.locfileid: "9230239"
 ---
 # <a name="set-up-and-apply-configuration-data-in-the-common-data-service"></a>Common Data Service में कॉन्फ़िगरेशन डेटा सेट अप करें और लागू करें 
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 
 
 ## <a name="prerequisites"></a>पूर्वावश्यकताएँ
 
-इससे पहले कि आप Common Data Service (CDS) में डेटा कॉन्फ़िगर करना शुरू करें, निम्नलिखित शर्तें पूरी होनी चाहिए:
+इससे पहले कि आप डेटा को कॉन्फ़िगर करना शुरू करें Microsoft Dataverse, निम्नलिखित पूर्वापेक्षाएँ पूरी होनी चाहिए:
 
-1.  परियोजना संचालन के लिए एक CDS वातावरण और एक Dynamics 365 Finance वातावरण का प्रावधान करें।
-2.  Dynamics 365 Finance से कानूनी इकाई की जानकारी CDS परिवेश में साझा की जाती है। इसका मतलब है कि CDS में **कंपनी** निकाय के पास कंपनी के निम्नलिखित रिकॉर्ड हैं:
+1.  प्रावधान ए Dataverse पर्यावरण और परियोजना संचालन के लिए Dynamics 365 Finance वातावरण।
+2.  Dynamics 365 Finance से कानूनी इकाई की जानकारी साझा की जाती है Dataverse वातावरण। इसका मतलब है कि**कंपनी** इकाई में Dataverse निम्नलिखित कंपनी रिकॉर्ड हैं:
   - THPM
   - USPM
   - GBPM

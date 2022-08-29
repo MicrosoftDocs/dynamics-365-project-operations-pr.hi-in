@@ -6,16 +6,14 @@ ms.date: 03/30/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 58b07322fb6480fdeb07eb867a7aabc0eff7b955
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: e25e4d63d4c9098112a7f40abe60c7184018d582
+ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8934322"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "9261018"
 ---
 # <a name="state-transitions-on-a-vendor-invoice"></a>विक्रेता इनवॉइस पर राज्य संक्रमण
-
-[!include [banner](../../includes/dataverse-preview.md)]
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
