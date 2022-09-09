@@ -6,16 +6,16 @@ ms.date: 07/02/2021
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 6953956c0b3401a6c64ee597f966ba4a4c0d07b5
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 29bf31cd1bc9c1c5ac757de989154b4c7acc53fe
+ms.sourcegitcommit: 16c9eded66d60d4c654872ff5a0267cccae9ef0e
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8921258"
+ms.lasthandoff: 09/07/2022
+ms.locfileid: "9410035"
 ---
 # <a name="sign-up-for-a-preview-subscription---lite"></a>पूर्वावलोकन सदस्यता के लिए साइन अप करें - लाइट 
 
-यह लेख बताता है कि परीक्षण ऑफ़र की सदस्यता कैसे लें और कैसे परिनियोजित करें Dynamics 365 Project Operations लाइट परिनियोजन - प्रोफार्मा चालान-प्रक्रिया का सौदा।
+यह लेख बताता है कि परीक्षण ऑफ़र की सदस्यता कैसे लें और परिनियोजित करें Dynamics 365 Project Operations लाइट परिनियोजन - प्रोफार्मा चालान-प्रक्रिया का सौदा।
 
 > [!NOTE]
 > यह प्रक्रिया Project Operations की आगामी रिलीज में बदल जाएगी.
@@ -63,9 +63,9 @@ ms.locfileid: "8921258"
 
 ![समाधान इस्टॉल करें.](./media/21InstallSolution.png)
 
-## <a name="install-a-cds-configuration-and-setup-demo-data"></a>एक CDS कॉन्फ़िगरेशन इंस्टॉल करें और डेमो डेटा सेट करें
+## <a name="set-up-demo-data"></a>डेमो डेटा सेट करें
 
-सीडीएस कॉन्फ़िगरेशन स्थापित करें और आलेख में दिए गए निर्देशों का पालन करके डेमो डेटा सेट करें, [डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें।](lite-apply-demo-setup-config-data.md)
+लेख में दिए गए निर्देशों का पालन करके डेमो डेटा सेट करें, [डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें।](lite-apply-demo-setup-config-data.md)
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
