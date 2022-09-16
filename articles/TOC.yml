@@ -232,6 +232,8 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: परियोजना विक्रय मूल्य सूचियाँ ओवरराइड करें
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: मूल्य सूची में विशिष्ट कीमतों के लिए दिनांक-प्रभावी ओवरराइड सेट करें
+              href: pricing-costing/dateffective_price_overrides.md
             - name: अनुमानों और वास्तविक आँकड़ों के लिए लागत मूल्य निर्धारित करें
               href: pricing-costing/cost-price-resolution.md
             - name: अनुमानों और वास्तविक आँकड़ों के लिए विक्रय मूल्य निर्धारित करें
@@ -544,9 +546,17 @@
           href: procurement/pending-vendor-invoices.md
         - name: परियोजना खरीद ऑर्डर का उपयोग करके परियोजना के लिए सामान और सेवाएं ऑर्डर करें
           href: procurement/non-stocked-materials-project-purchase-orders.md
+        - name: Dataverse में उपअनुबंध के लिए विक्रेता इनवॉइस
+          items:
+            - name: विक्रेता इनवॉइस बनाएं
+              href: procurement/Vendor-invoicing-concept-and-creation.md
+            - name: अनुमोदित वास्तविक आंकड़ों के साथ विक्रेता इनवॉइस का सत्यापन
+              href: pro/subcontracting/VI-Verification.md
+            - name: परियोजना विक्रेता इनवॉइस की पुष्टि करें
+              href: procurement/Confirm-a-project-vendor-invoice.md
         - name: विक्रेता अवधारण
           items:
-            - name: विक्रेता अवधारण ओवरव्यू
+            - name: विक्रेता अवधारण अवलोकन
               href: procurement/vendor-retention-overview.md
             - name: विक्रेता अवधारण सेट अप करें
               href: procurement/set-up-vendor-retention.md
@@ -844,6 +854,8 @@
               href: pricing-costing/default-project-sales-price-lists.md
             - name: परियोजना विक्रय मूल्य सूचियाँ ओवरराइड करें
               href: pricing-costing/override-project-sales-price-list-default.md
+            - name: मूल्य सूची में विशिष्ट कीमतों के लिए दिनांक-प्रभावी ओवरराइड सेट करें
+              href: pricing-costing/dateffective_price_overrides.md
             - name: परियोजना अनुमानों और वास्तविक आँकड़ों पर लागत मूल्य निर्धारित करें
               href: pro/pricing-costing/cost-price-resolution-sales.md
             - name: परियोजना अनुमानों और वास्तविक आँकड़ों के लिए विक्रय मूल्य निर्धारित करें
