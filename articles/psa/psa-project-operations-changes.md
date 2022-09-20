@@ -16,18 +16,18 @@ search.app:
 - D365PS
 - ProjectOperations
 ms.reviewer: johnmichalak
-ms.openlocfilehash: 8a6030faf777051ea1003679589af4bdf97322ab
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: a9c69fc4296d30763f3994a4955e64ab258ceb4f
+ms.sourcegitcommit: 675e9f3615e701c5f998de3a5ea3e25df11ae107
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8925352"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "9459928"
 ---
 # <a name="feature-changes-from-project-service-automation-to-project-operations"></a>फ़ीचर, Project Service Automation से Project Operations में बदल जाता है
 
 से अपग्रेड Dynamics 365 Project Service Automation प्रतिDynamics 365 Project Operations लाइट की डिलीवरी तीन चरणों में की जाएगी। यह आलेख उन प्रमुख परिवर्तनों के बारे में जानकारी प्रदान करता है जिनकी आप नवीनीकरण पूर्ण होने पर देखने की अपेक्षा कर सकते हैं।
 
-| डिलीवरी अपग्रेड करें | चरण एक <br>(जनवरी 2022) | 2 चरण <br>(अप्रैल वेव 2022) | चरण 3  |
+| डिलीवरी अपग्रेड करें | चरण एक <br>(जनवरी 2022) | 2 चरण <br>(नवंबर 2022) | चरण 3  |
 |------------------|------------------------|---------------------------|---------------------------|
 | परियोजनाओं के लिए वर्क ब्रेकडाउन स्ट्रक्चर (डब्ल्यूबीएस) पर कोई निर्भरता नहीं। | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | WBS को परियोजना संचालन की वर्तमान में समर्थित सीमाओं में शामिल किया गया है। | &nbsp; | :heavy_check_mark: | :heavy_check_mark: |
@@ -62,7 +62,7 @@ ms.locfileid: "8925352"
 | गैर-झरना परियोजना वितरण के लिए बोर्ड की राय  | :heavy_check_mark:   | &nbsp; |
 | समयरेखा दृश्य - इंटरएक्टिव गैंट चार्ट का उपयोग WBS को देखने और संपादित करने के लिए किया जाता है   | :heavy_check_mark:  | &nbsp; |
 | कीबोर्ड शॉर्टकट - सामान्य संचालन के लिए कीबोर्ड शॉर्टकट का उपयोग करें, जैसे इंडेंट या इंसर्ट  | :heavy_check_mark:  |  &nbsp; |
-| बहु-स्तरीय पूर्ववत करें - संचालन के पूरे सेट को उलटने और फिर से लागू करके परिवर्तनों के प्रभाव को पूरी तरह से समझने के लिए क्या-अगर विश्लेषण करें | :heavy_check_mark: | &nbsp; |
+| बहु-स्तरीय पूर्ववत करें - संचालन के पूरे सेट को उलटने और पुन: लागू करके परिवर्तनों के प्रभाव को पूरी तरह से समझने के लिए क्या-अगर विश्लेषण करें | :heavy_check_mark: | &nbsp; |
 | कट/कॉपी/पेस्ट - आवेदनों के बीच शेड्यूल विवरण को कॉपी और पेस्ट करके शेड्यूल डेवलपमेंट पर सहयोग करें  | :heavy_check_mark: | &nbsp; |
 | टास्क चेकलिस्ट - किसी टास्क में अधिकतम 20 चेकलिस्ट आइटम जोड़ें   | :heavy_check_mark: | &nbsp; |
 
