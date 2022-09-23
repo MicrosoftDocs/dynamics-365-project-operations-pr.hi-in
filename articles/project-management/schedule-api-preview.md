@@ -6,284 +6,146 @@ ms.date: 01/13/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 3248a057b831d81fdc2bc198b4ed4da5e46462f2
-ms.sourcegitcommit: 8edd24201cded2672cec16cd5dc84c6a3516b6c2
+ms.openlocfilehash: 159d395efff98f2af780e5ed1e5ab3d6483cba89
+ms.sourcegitcommit: b1c26ea57be721c5b0b1a33f2de0380ad102648f
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2022
-ms.locfileid: "9230317"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "9541126"
 ---
 # <a name="use-project-schedule-apis-to-perform-operations-with-scheduling-entities"></a>शेड्यूलिंग निकायों के साथ संचालन करने के लिए प्रोजेक्ट शेड्यूल API का उपयोग करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 
-
-## <a name="scheduling-entities"></a>शेड्यूलिंग निकाय
+**शेड्यूलिंग निकाय**
 
 प्रोजेक्ट शेड्यूल API **शेड्यूलिंग निकाय** के साथ ऑपरेशन बनाने, अपडेट करने और हटाने की क्षमता प्रदान करते हैं. इन निकायों को वेब के लिए परियोजना में शेड्यूलिंग इंजन के माध्यम से प्रबंधित किया जाता है. पहले Dynamics 365 Project Operations रिलीज़ में **निकाय शेड्यूलिंग** के साथ संचालन बनाएं, अपडेट करें और मिटाएं.
 
 निम्न तालिका प्रोजेक्ट शेड्यूल निकायों की पूरी सूची प्रदान करती है.
 
-| निकाय का नाम  | निकाय तार्किक नाम |
-| --- | --- |
-| Project | msdyn_project |
-| परियोजना कार्य  | msdyn_projecttask  |
-| परियोजना कार्य निर्भरता  | msdyn_projecttaskdependency  |
-| संसाधन असाइनमेंट | msdyn_resourceassignment |
-| परियोजना बकेट  | msdyn_projectbucket |
-| परियोजना टीम सदस्य | msdyn_projectteam |
+| **एंटिटी नाम**         | **निकाय तार्किक नाम**     |
+|-------------------------|-----------------------------|
+| Project                 | msdyn_project               |
+| परियोजना कार्य            | msdyn_projecttask           |
+| परियोजना कार्य निर्भरता | msdyn_projecttaskdependency |
+| संसाधन असाइनमेंट     | msdyn_resourceassignment    |
+| परियोजना बकेट          | msdyn_projectbucket         |
+| परियोजना टीम सदस्य     | msdyn_projectteam           |
+| प्रोजेक्ट चेकलिस्ट      | msdyn_projectchecklist      |
+| प्रोजेक्ट लेबल           | msdyn_projectlabel          |
+| लेबल करने के लिए परियोजना कार्य   | msdyn_projecttasktolabel    |
+| प्रोजेक्ट स्प्रिंट          | msdyn_projectsprint         |
 
-## <a name="operationset"></a>OperationSet
+**OperationSet**
 
 OperationSet एक यूनिट-ऑफ-वर्क पैटर्न है जिसका उपयोग तब किया जा सकता है जब शेड्यूल प्रभावित करने वाले कई अनुरोधों को लेनदेन के भीतर संसाधित किया जाना चाहिए.
 
-## <a name="project-schedule-apis"></a>प्रोजेक्ट शेड्यूल API
+**प्रोजेक्ट शेड्यूल API**
 
 निम्नलिखित वर्तमान प्रोजेक्ट शेड्यूल API की सूची है.
 
-- **msdyn_CreateProjectV1**: इस API का उपयोग एक प्रोज़ेक्ट बनाने के लिए किया जा सकता है. प्रोजेक्ट और डिफ़ॉल्ट प्रोजेक्ट बकेट तुरंत बनाए जाते हैं।
-- **msdyn_CreateTeamMemberV1**: इस API का उपयोग प्रोज़ेक्ट टीम के सदस्य बनाने के लिए किया जा सकता है. टीम के सदस्य का रिकार्ड तुरंत बनाया जाता है.
-- **msdyn_CreateOperationSetV1**: इस एपीआई का उपयोग कई अनुरोधों को शेड्यूल करने के लिए किया जा सकता है जिन्हें लेनदेन के भीतर किया जाना चाहिए.
-- **msdyn_PssCreateV1** : इस एपीआई का उपयोग एक इकाई बनाने के लिए किया जा सकता है। निकाय कोई भी प्रोजेक्ट शेड्यूलिंग निकाय हो सकता है, जो निर्माण कार्य का समर्थन करता है.
-- **msdyn_PssUpdateV1** : इस API का उपयोग किसी निकाय को अद्यतन करने के लिए किया जा सकता है। निकाय कोई भी प्रोजेक्ट शेड्यूलिंग निकाय हो सकता है, जो अपडेट कार्य का समर्थन करता है.
-- **msdyn_PssDeleteV1** : इस API का उपयोग किसी निकाय को हटाने के लिए किया जा सकता है। निकाय कोई भी प्रोजेक्ट शेड्यूलिंग निकाय हो सकता है, जो हटाने के कार्य का समर्थन करता है.
-- **msdyn_ExecuteOperationSetV1**: इस एपीआई का उपयोग दिए गए ऑपरेशन सेट के भीतर सभी संचालनों को निष्पादित करने के लिए किया जाता है.
+| **एपीआई**                                 | विवरण                                                                                                                       |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **msdyn_CreateProjectV1**               | इस एपीआई का उपयोग प्रोजेक्ट बनाने के लिए किया जाता है। प्रोजेक्ट और डिफ़ॉल्ट प्रोजेक्ट बकेट तुरंत बनाए जाते हैं।                         |
+| **msdyn_CreateTeamMemberV1**            | इस एपीआई का उपयोग प्रोजेक्ट टीम सदस्य बनाने के लिए किया जाता है। टीम के सदस्य का रिकार्ड तुरंत बनाया जाता है.                                  |
+| **msdyn_CreateOperationSetV1**          | इस एपीआई का उपयोग कई अनुरोधों को शेड्यूल करने के लिए किया जाता है जिन्हें लेनदेन के भीतर किया जाना चाहिए।                                        |
+| **msdyn_PssCreateV1**                   | इस एपीआई का उपयोग एक इकाई बनाने के लिए किया जाता है। निकाय कोई भी प्रोजेक्ट शेड्यूलिंग निकाय हो सकता है, जो निर्माण कार्य का समर्थन करता है. |
+| **msdyn_PssUpdateV1**                   | इस API का उपयोग किसी निकाय को अद्यतन करने के लिए किया जाता है। निकाय कोई भी प्रोजेक्ट शेड्यूलिंग निकाय हो सकता है जो अद्यतन कार्रवाई का समर्थन करता है  |
+| **msdyn_PssDeleteV1**                   | इस एपीआई का उपयोग किसी इकाई को हटाने के लिए किया जाता है। निकाय कोई भी प्रोजेक्ट शेड्यूलिंग निकाय हो सकता है, जो हटाने के कार्य का समर्थन करता है. |
+| **msdyn_ExecuteOperationSetV1**         | इस एपीआई का उपयोग दिए गए ऑपरेशन सेट के भीतर सभी कार्यों को निष्पादित करने के लिए किया जाता है।                                                 |
+| **msdyn_PssUpdateResourceAssignmentV1** | इस एपीआई का उपयोग संसाधन असाइनमेंट नियोजित कार्य रूपरेखा को अद्यतन करने के लिए किया जाता है।                                                        |
 
-## <a name="using-project-schedule-apis-with-operationset"></a>ऑपरेशनसेट के साथ प्रोजेक्ट शेड्यूल API का उपयोग करना
+
+
+**ऑपरेशनसेट के साथ प्रोजेक्ट शेड्यूल API का उपयोग करना**
 
 क्योंकि दोनों के साथ रिकॉर्ड **CreateProjectV1** और **CreateTeamMemberV1** तुरंत बनाए जाते हैं, इन APIs का उपयोग सीधे **OperationSet** में नहीं किया जा सकता है. हालांकि, आप आवश्यक रिकॉर्ड बनाने, **OperationSet** बनाने के लिए API का उपयोग कर सकते हैं, और फिर **OperationSet** में इन पूर्व-निर्मित रिकॉर्ड का उपयोग कर सकते हैं.
 
-## <a name="supported-operations"></a>समर्थित संचालन
+**समर्थित संचालन**
 
-| निकाय शेड्यूलिंग | निर्माण करें | अद्यतित करें | हटाएं | महत्वपूर्ण विचार |
-| --- | --- | --- | --- | --- |
-परियोजना कार्य | हां | हां | हां | **प्रगति**, **ास पूर्ण**, तथा**प्रयास शेष** वेब के लिए प्रोजेक्ट में फ़ील्ड संपादित किए जा सकते हैं, लेकिन उन्हें प्रोजेक्ट ऑपरेशंस में संपादित नहीं किया जा सकता है।  |
-| प्रोज़ेक्ट कार्य निर्भरता | हां |  | हां | प्रोज़ेक्ट कार्य निर्भरता रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बजाय, एक पुराना रिकॉर्ड हटाया जा सकता है, और एक नया रिकॉर्ड बनाया जा सकता है। |
-| रिसोर्स असाइनमेंट | हां | हां | | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **BookableResourceID**, **प्रयास**,**EffortCompleted**, **EffortRemaining**, और **PlannedWork**. संसाधन असाइनमेंट रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बजाय, पुराने रिकॉर्ड को हटाया जा सकता है, और एक नया रिकॉर्ड बनाया जा सकता है। |
-| प्रोज़ेक्ट बकेट | हां | हां | हां | डिफ़ॉल्ट बकेट का उपयोग करके बनाया जाता है **प्रोजेक्ट बनाएंV1** एपीआई। अद्यतन रिलीज़ 16 में प्रोजेक्ट बकेट बनाने और हटाने के लिए समर्थन जोड़ा गया था। |
-| प्रोजेक्ट टीम सदस्य | हां | हां | हां | बनाने के ऑपरेशन के लिए, **CreateTeamMemberV1** API का उपयोग करें. |
-| Project | हां | हां |  | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **प्रयास**, **EffortCompleted**, **EffortRemaining**, **प्रगति**, **समाप्त करें**, **TaskEarliestStart**, और **अवधि**. |
+| **निकाय शेड्यूलिंग**   | **निर्माण करें** | **अद्यतित करें** | **हटाएं** | **महत्वपूर्ण विचार**                                                                                                                                                                                                                                                                                                                            |
+|-------------------------|------------|------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| परियोजना कार्य            | हां        | हां        | हां        | **प्रगति**, **ास पूर्ण**, तथा**प्रयास शेष** वेब के लिए प्रोजेक्ट में फ़ील्ड संपादित किए जा सकते हैं, लेकिन उन्हें प्रोजेक्ट ऑपरेशंस में संपादित नहीं किया जा सकता है।                                                                                                                                                                                             |
+| प्रोज़ेक्ट कार्य निर्भरता | हां        | No         | हां        | प्रोज़ेक्ट कार्य निर्भरता रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बजाय, एक पुराना रिकॉर्ड हटाया जा सकता है, और एक नया रिकॉर्ड बनाया जा सकता है।                                                                                                                                                                                                                                 |
+| रिसोर्स असाइनमेंट     | हां        | हां\*      | हां        | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **BookableResourceID**, **प्रयास**,**EffortCompleted**, **EffortRemaining**, और **PlannedWork**. संसाधन असाइनमेंट रिकॉर्ड अपडेट नहीं किए गए हैं. इसके बजाय, पुराने रिकॉर्ड को हटाया जा सकता है, और एक नया रिकॉर्ड बनाया जा सकता है। संसाधन असाइनमेंट की रूपरेखा को अद्यतन करने के लिए एक अलग एपीआई प्रदान किया गया है। |
+| प्रोज़ेक्ट बकेट          | हां        | हां        | हां        | डिफ़ॉल्ट बकेट का उपयोग करके बनाया जाता है **प्रोजेक्ट बनाएंV1** एपीआई। अद्यतन रिलीज़ 16 में प्रोजेक्ट बकेट बनाने और हटाने के लिए समर्थन जोड़ा गया था।                                                                                                                                                                                                   |
+| प्रोजेक्ट टीम सदस्य     | हां        | हां        | हां        | बनाने के ऑपरेशन के लिए, **CreateTeamMemberV1** API का उपयोग करें.                                                                                                                                                                                                                                                                                           |
+| Project                 | हां        | हां        |            | निम्नलिखित फ़ील्ड के साथ संचालन का समर्थन नहीं किया जाता है: **StateCode**, **BulkGenerationStatus**, **GlobalRevisionToken**, **CalendarID**, **प्रयास**, **EffortCompleted**, **EffortRemaining**, **प्रगति**, **समाप्त करें**, **TaskEarliestStart**, और **अवधि**.                                                                                       |
+| प्रोजेक्ट चेकलिस्ट      | हां        | हां        | हां        |                                                                                                                                                                                                                                                                                                                                                         |
+| प्रोजेक्ट लेबल           | No         | हां        | No         | लेबल के नाम बदले जा सकते हैं। यह सुविधा केवल वेब के लिए प्रोजेक्ट के लिए उपलब्ध है                                                                                                                                                                                                                                                                      |
+| लेबल करने के लिए परियोजना कार्य   | हां        | No         | हां        | यह सुविधा केवल वेब के लिए प्रोजेक्ट के लिए उपलब्ध है                                                                                                                                                                                                                                                                                                  |
+| प्रोजेक्ट स्प्रिंट          | हां        | हां        | हां        | **शुरू** फ़ील्ड में दिनांक से पहले की तारीख होनी चाहिए **खत्म करना** खेत। एक ही परियोजना के लिए स्प्रिंट एक दूसरे के साथ ओवरलैप नहीं हो सकते। यह सुविधा केवल वेब के लिए प्रोजेक्ट के लिए उपलब्ध है                                                                                                                                                                    |
 
-इन APIs को निकाय ऑब्जेक्ट्स के साथ बुलाया जा सकता है जिसमें कस्टम फ़ील्ड शामिल हैं.
+
+
 
 ID संपत्ति वैकल्पिक है. यदि यह प्रदान किया जाता है, तो सिस्टम इसका उपयोग करने का प्रयास करता है और यदि इसका उपयोग नहीं किया जा सकता है तो अपवाद प्रदान करता है. यदि यह प्रदान नहीं किया जाता है, तो सिस्टम इसे उत्पन्न करेगा.
 
-## <a name="restricted-fields"></a>प्रतिबंधित फील्ड
+**सीमाएं और ज्ञात मुद्दे**
 
-निम्न तालिकाएँ उन फ़ील्ड्स को परिभाषित करती हैं जो प्रतिबंधित हैं **सृजन करना** तथा**संपादन करना**.
-
-### <a name="project-task"></a>परियोजना कार्य
-
-| तार्किक नाम                           | बना सकते हैं     | संपादित कर सकते हैं         |
-|----------------------------------------|----------------|------------------|
-| msdyn_actualcost                       | No             | No               |
-| msdyn_actualcost_base                  | No             | No               |
-| msdyn_actualend                        | No             | No               |
-| msdyn_actualsales                      | No             | No               |
-| msdyn_actualsales_base                 | No             | No               |
-| msdyn_actualstart                      | No             | No               |
-| msdyn_costatcompleteestimate           | No             | No               |
-| msdyn_costatcompleteestimate_base      | No             | No               |
-| msdyn_costconsumptionpercentage        | No             | No               |
-| msdyn_effortcompleted                  | नहीं (हाँ परियोजना के लिए)             | नहीं (हाँ परियोजना के लिए)               |
-| msdyn_effortremaining                  | नहीं (हाँ परियोजना के लिए)              | नहीं (हाँ परियोजना के लिए)                |
-| msdyn_effortestimateatcomplete         | No             | No               |
-| msdyn_iscritical                       | No             | No               |
-| msdyn_iscriticalname                   | No             | No               |
-| msdyn_ismanual                         | No             | No               |
-| msdyn_ismanualname                     | No             | No               |
-| msdyn_ismilestone                      | No             | No               |
-| msdyn_ismilestonename                  | No             | No               |
-| msdyn_LinkStatus                       | No             | No               |
-| msdyn_linkstatusname                   | No             | No               |
-| msdyn_msprojectclientid                | No             | No               |
-| msdyn_plannedcost                      | No             | No               |
-| msdyn_plannedcost_base                 | No             | No               |
-| msdyn_plannedsales                     | No             | No               |
-| msdyn_plannedsales_base                | No             | No               |
-| msdyn_pluginprocessingdata             | No             | No               |
-| msdyn_progress                         | नहीं (हाँ परियोजना के लिए)             | नहीं (हाँ परियोजना के लिए) |
-| msdyn_remainingcost                    | No             | No               |
-| msdyn_remainingcost_base               | No             | No               |
-| msdyn_remainingsales                   | No             | No               |
-| msdyn_remainingsales_base              | No             | No               |
-| msdyn_requestedhours                   | No             | No               |
-| msdyn_resourcecategory                 | No             | No               |
-| msdyn_resourcecategoryname             | No             | No               |
-| msdyn_resourceorganizationalunitid     | No             | No               |
-| msdyn_resourceorganizationalunitidname | No             | No               |
-| msdyn_salesconsumptionpercentage       | No             | No               |
-| msdyn_salesestimateatcomplete          | No             | No               |
-| msdyn_salesestimateatcomplete_base     | No             | No               |
-| msdyn_salesvariance                    | No             | No               |
-| msdyn_salesvariance_base               | No             | No               |
-| msdyn_scheduleddurationminutes         | No             | No               |
-| msdyn_scheduledend                     | No             | No               |
-| msdyn_scheduledstart                   | No             | No               |
-| msdyn_schedulevariance                 | No             | No               |
-| msdyn_skipupdateestimateline           | No             | No               |
-| msdyn_skipupdateestimatelinename       | No             | No               |
-| msdyn_summary                          | No             | No               |
-| msdyn_varianceofcost                   | No             | No               |
-| msdyn_varianceofcost_base              | No             | No               |
-
-### <a name="project-task-dependency"></a>प्रोज़ेक्ट कार्य निर्भरता
-
-| तार्किक नाम                  | बना सकते हैं     | संपादित कर सकते हैं     |
-|-------------------------------|----------------|--------------|
-| msdyn_linktype                | No             | No           |
-| msdyn_linktypename            | No             | No           |
-| msdyn_predecessortask         | हां            | No           |
-| msdyn_predecessortaskname     | हां            | No           |
-| msdyn_project                 | हां            | No           |
-| msdyn_projectname             | हां            | No           |
-| msdyn_projecttaskdependencyid | हां            | No           |
-| msdyn_successortask           | हां            | No           |
-| msdyn_successortaskname       | हां            | No           |
-
-### <a name="resource-assignment"></a>रिसोर्स असाइनमेंट
-
-| तार्किक नाम                 | बना सकते हैं     | संपादित कर सकते हैं     |
-|------------------------------|----------------|--------------|
-| msdyn_bookableresourceid     | हां            | No           |
-| msdyn_bookableresourceidname | हां            | No           |
-| msdyn_bookingstatusid        | No             | No           |
-| msdyn_bookingstatusidname    | No             | No           |
-| msdyn_committype             | No             | No           |
-| msdyn_committypename         | No             | No           |
-| msdyn_effort                 | No             | No           |
-| msdyn_effortcompleted        | No             | No           |
-| msdyn_effortremaining        | No             | No           |
-| msdyn_finish                 | No             | No           |
-| msdyn_plannedcost            | No             | No           |
-| msdyn_plannedcost_base       | No             | No           |
-| msdyn_plannedcostcontour     | No             | No           |
-| msdyn_plannedsales           | No             | No           |
-| msdyn_plannedsales_base      | No             | No           |
-| msdyn_plannedsalescontour    | No             | No           |
-| msdyn_plannedwork            | No             | No           |
-| msdyn_projectid              | हां            | No           |
-| msdyn_projectidname          | No             | No           |
-| msdyn_projectteamid          | No             | No           |
-| msdyn_projectteamidname      | No             | No           |
-| msdyn_start                  | No             | No           |
-| msdyn_taskid                 | No             | No           |
-| msdyn_taskidname             | No             | No           |
-| msdyn_userresourceid         | No             | No           |
-
-### <a name="project-team-member"></a>प्रोजेक्ट टीम सदस्य
-
-| तार्किक नाम                                     | बना सकते हैं     | संपादित कर सकते हैं     |
-|--------------------------------------------------|----------------|--------------|
-| msdyn_calendarid                                 | No             | No           |
-| msdyn_creategenericteammemberwithrequirementname | No             | No           |
-| msdyn_deletestatus                               | No             | No           |
-| msdyn_deletestatusname                           | No             | No           |
-| msdyn_effort                                     | No             | No           |
-| msdyn_effortcompleted                            | No             | No           |
-| msdyn_effortremaining                            | No             | No           |
-| msdyn_finish                                     | No             | No           |
-| msdyn_hardbookedhours                            | No             | No           |
-| msdyn_hours                                      | No             | No           |
-| msdyn_markedfordeletiontimer                     | No             | No           |
-| msdyn_markedfordeletiontimestamp                 | No             | No           |
-| msdyn_msprojectclientid                          | No             | No           |
-| msdyn_percentage                                 | No             | No           |
-| msdyn_requiredhours                              | No             | No           |
-| msdyn_softbookedhours                            | No             | No           |
-| msdyn_start                                      | No             | No           |
-
-### <a name="project"></a>Project
-
-| तार्किक नाम                           | बना सकते हैं     | संपादित कर सकते हैं     |
-|----------------------------------------|----------------|--------------|
-| msdyn_actualexpensecost                | No             | No           |
-| msdyn_actualexpensecost_base           | No             | No           |
-| msdyn_actuallaborcost                  | No             | No           |
-| msdyn_actuallaborcost_base             | No             | No           |
-| msdyn_actualsales                      | No             | No           |
-| msdyn_actualsales_base                 | No             | No           |
-| msdyn_contractlineproject              | हां            | No           |
-| msdyn_contractorganizationalunitid     | हां            | No           |
-| msdyn_contractorganizationalunitidname | हां            | No           |
-| msdyn_costconsumption                  | No             | No           |
-| msdyn_costestimateatcomplete           | No             | No           |
-| msdyn_costestimateatcomplete_base      | No             | No           |
-| msdyn_costvariance                     | No             | No           |
-| msdyn_costvariance_base                | No             | No           |
-| msdyn_duration                         | No             | No           |
-| msdyn_effort                           | No             | No           |
-| msdyn_effortcompleted                  | No             | No           |
-| msdyn_effortestimateatcompleteeac      | No             | No           |
-| msdyn_effortremaining                  | No             | No           |
-| msdyn_finish                           | हां            | हां          |
-| msdyn_globalrevisiontoken              | No             | No           |
-| msdyn_islinkedtomsprojectclient        | No             | No           |
-| msdyn_islinkedtomsprojectclientname    | No             | No           |
-| msdyn_linkeddocumenturl                | No             | No           |
-| msdyn_msprojectdocument                | No             | No           |
-| msdyn_msprojectdocumentname            | No             | No           |
-| msdyn_plannedexpensecost               | No             | No           |
-| msdyn_plannedexpensecost_base          | No             | No           |
-| msdyn_plannedlaborcost                 | No             | No           |
-| msdyn_plannedlaborcost_base            | No             | No           |
-| msdyn_plannedsales                     | No             | No           |
-| msdyn_plannedsales_base                | No             | No           |
-| msdyn_progress                         | No             | No           |
-| msdyn_remainingcost                    | No             | No           |
-| msdyn_remainingcost_base               | No             | No           |
-| msdyn_remainingsales                   | No             | No           |
-| msdyn_remainingsales_base              | No             | No           |
-| msdyn_replaylogheader                  | No             | No           |
-| msdyn_salesconsumption                 | No             | No           |
-| msdyn_salesestimateatcompleteeac       | No             | No           |
-| msdyn_salesestimateatcompleteeac_base  | No             | No           |
-| msdyn_salesvariance                    | No             | No           |
-| msdyn_salesvariance_base               | No             | No           |
-| msdyn_scheduleperformance              | No             | No           |
-| msdyn_scheduleperformancename          | No             | No           |
-| msdyn_schedulevariance                 | No             | No           |
-| msdyn_taskearlieststart                | No             | No           |
-| msdyn_teamsize                         | No             | No           |
-| msdyn_teamsize_date                    | No             | No           |
-| msdyn_teamsize_state                   | No             | No           |
-| msdyn_totalactualcost                  | No             | No           |
-| msdyn_totalactualcost_base             | No             | No           |
-| msdyn_totalplannedcost                 | No             | No           |
-| msdyn_totalplannedcost_base            | No             | No           |
-
-### <a name="project-bucket"></a>प्रोज़ेक्ट बकेट
-
-| तार्किक नाम          | बना सकते हैं      | संपादित कर सकते हैं     |
-|-----------------------|-----------------|--------------|
-| msdyn_displayorder    | हां             | No           |
-| msdyn_name            | हां             | हां          |
-| msdyn_project         | हां             | No           |
-| msdyn_projectbucketid | हां             | No           |
-
-## <a name="limitations-and-known-issues"></a>सीमाएं और ज्ञात मुद्दे
 निम्नलिखित सीमाओं और ज्ञात मुद्दों की एक लिस्ट है:
 
-- प्रोजेक्ट शेड्यूल API का उपयोग केवल द्वारा किया जा सकता है **Microsoft प्रोजेक्ट लाइसेंस वाले उपयोगकर्ता**. उनका इनके द्वारा उपयोग नहीं किया जा सकता है:
+-   प्रोजेक्ट शेड्यूल API का उपयोग केवल इसके द्वारा किया जा सकता है **Microsoft प्रोजेक्ट लाइसेंस वाले उपयोगकर्ता**. उनका इनके द्वारा उपयोग नहीं किया जा सकता है:
+    -   अनुप्रयोग उपयोगकर्ता
+    -   सिस्टम उपयोगकर्ता
+    -   एकीकरण उपयोगकर्ता
+    -   अन्य उपयोगकर्ता जिनके पास आवश्यक लाइसेंस नहीं है
+-   प्रत्येक **OperationSet** में अधिकतम 100 संचालन हो सकते हैं.
+-   प्रत्येक उपयोगकर्ता के पास अधिकतम 10 खुला **OperationSets** हो सकते हैं.
+-   Project Operations वर्तमान में एक प्रोज़ेक्ट पर अधिकतम 500 कुल कार्यों का समर्थन करता है.
+-   प्रत्येक अपडेट रिसोर्स असाइनमेंट कंटूर ऑपरेशन को एकल ऑपरेशन के रूप में गिना जाता है।
+-   अद्यतन रूपरेखाओं की प्रत्येक सूची में अधिकतम 100 समय खंड हो सकते हैं।
+-   **OperationSet** विफलता की स्थिति और विफलता लॉग वर्तमान में उपलब्ध नहीं हैं.
+-   प्रति प्रोजेक्ट अधिकतम 400 स्प्रिंट हैं।
+-   [परियोजनाओं और कार्यों पर सीमाएं और सीमाएं](/project-for-the-web/project-for-the-web-limits-and-boundaries).
+-   लेबल वर्तमान में केवल वेब के लिए प्रोजेक्ट के लिए उपलब्ध हैं।
 
-    - अनुप्रयोग उपयोगकर्ता
-    - सिस्टम उपयोगकर्ता
-    - एकीकरण उपयोगकर्ता
-    - अन्य उपयोगकर्ता जिनके पास आवश्यक लाइसेंस नहीं है
+**त्रुटि हैंडलिंग**
 
-- प्रत्येक **OperationSet** में अधिकतम 100 संचालन हो सकते हैं.
-- प्रत्येक उपयोगकर्ता के पास अधिकतम 10 खुला **OperationSets** हो सकते हैं.
-- Project Operations वर्तमान में एक प्रोज़ेक्ट पर अधिकतम 500 कुल कार्यों का समर्थन करता है.
-- **OperationSet** विफलता की स्थिति और विफलता लॉग वर्तमान में उपलब्ध नहीं हैं.
-- [प्रोजेक्ट और कार्यों पर लिमिट और बाउंड्री](/project-for-the-web/project-for-the-web-limits-and-boundaries)
+-   ऑपरेशन सेट से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **सेटिंग** \> **शेड्यूल इंटीग्रेशन** \> **ऑपरेशन सेट्स** पर जाएं.
+-   प्रोजेक्ट शेड्यूल सेवा से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **समायोजन** \> **अनुसूची एकीकरण** \> **PSS त्रुटि लॉग** पर जाएँ.
 
-## <a name="error-handling"></a>त्रुटि हैंडलिंग
+**संपादन संसाधन असाइनमेंट रूपरेखा**
 
-- ऑपरेशन सेट से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **सेटिंग** \> **शेड्यूल इंटीग्रेशन** \> **ऑपरेशन सेट्स** पर जाएं.
-- प्रोजेक्ट शेड्यूल सेवा से उत्पन्न त्रुटियों की समीक्षा करने के लिए, **समायोजन** \> **अनुसूची एकीकरण** \> **PSS त्रुटि लॉग** पर जाएँ.
+किसी निकाय को अपडेट करने वाले अन्य सभी प्रोजेक्ट शेड्यूलिंग API के विपरीत, संसाधन असाइनमेंट कॉन्टूर API एकल फ़ील्ड, msdyn_plannedwork, एकल निकाय, msydn_resourceassignment के अपडेट के लिए पूरी तरह से ज़िम्मेदार है।
 
-## <a name="sample-scenario"></a>नमूना परिदृश्य
+दिया गया शेड्यूल मोड है:
+
+-   **स्थिर इकाइयाँ**
+-   प्रोजेक्ट कैलेंडर 9-5p है 9-5pst, सोम, मंगल, गुरुवार, शुक्रवार (कोई काम नहीं बुधवार)
+-   और संसाधन कैलेंडर 9-1p PST सोम से शुक्र तक है
+
+यह असाइनमेंट एक सप्ताह, चार घंटे एक दिन के लिए है। ऐसा इसलिए है क्योंकि संसाधन कैलेंडर 9-1 पीएसटी, या दिन में चार घंटे से है।
+
+| &nbsp;     | कार्य | प्रारंभ दिनांक | समाप्ति तिथि  | मात्रा | 6/13/2022 | 6/14/2022 | 6/15/2022 | 6/16/2022 | 6/17/2022 |
+|------------|------|------------|-----------|----------|-----------|-----------|-----------|-----------|-----------|
+| 9-1 कार्यकर्ता |  टी1  | 6/13/2022  | 6/17/2022 | 20       | 4         | 4         | 4         | 4         | 4         |
+
+उदाहरण के लिए, यदि आप चाहते हैं कि कार्यकर्ता इस सप्ताह प्रत्येक दिन केवल तीन घंटे काम करे और अन्य कार्यों के लिए एक घंटे का समय दें।
+
+#### <a name="updatedcontours-sample-payload"></a>UpdatedContours नमूना पेलोड:
+
+```json
+[{
+
+"minutes":900.0,
+
+"start":"2022-06-13T00:00:00-07:00",
+
+"end":"2022-06-18T00:00:00-07:00"
+
+}]
+```
+
+अपडेट कंटूर शेड्यूल एपीआई चलाने के बाद यह असाइनमेंट है।
+
+| &nbsp;     | कार्य | प्रारंभ दिनांक | समाप्ति तिथि  | मात्रा | 6/13/2022 | 6/14/2022 | 6/15/2022 | 6/16/2022 | 6/17/2022 |
+|------------|------|------------|-----------|----------|-----------|-----------|-----------|-----------|-----------|
+| 9-1 कार्यकर्ता | टी1   | 6/13/2022  | 6/17/2022 | 15       | 3         | 3         | 3         | 3         | 3         |
+
+
+**नमूना परिदृश्य**
 
 इस परिदृश्य में, आप एक प्रोज़ेक्ट, एक टीम के सदस्य, चार कार्य और दो संसाधन कार्य बनाएंगे. इसके बाद, आप एक कार्य को अपडेट करेंगे, प्रोज़ेक्ट को अपडेट करेंगे, एक कार्य को हटा देंगे, एक संसाधन असाइनमेंट को हटा देंगे,और एक कार्य निर्भरता बनाएंगे.
 
@@ -333,7 +195,7 @@ CallExecuteOperationSetAction(operationSetId);
 Console.WriteLine("Done....");
 ```
 
-## <a name="additional-samples"></a>अतिरिक्त नमूने
+** अतिरिक्त नमूने
 
 ```csharp
 #region Call actions --- Sample code ----

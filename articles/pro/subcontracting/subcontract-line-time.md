@@ -2,20 +2,20 @@
 title: समय के लिए उप-अनुबंध लाइनें
 description: यह आलेख बताता है कि समय के लिए उप-अनुबंध लाइनों को कैसे रिकॉर्ड किया जाए और विक्रेताओं से समय की खरीद को रिकॉर्ड किया जाए।
 author: rumant
-ms.date: 08/05/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 8e9619dc713fde3127f552234e4a7427d99be683
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 3ba013dd7ad023acc4f0cf077099c8c2c8d5bcd8
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261984"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522234"
 ---
 # <a name="subcontract-lines-for-time"></a>समय के लिए उप-अनुबंध लाइनें
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 Dynamics 365 Project Operations में उप-अनुबंध में समय के लिए उप-अनुबंध लाइन हो सकती है. समय के लिए उप-अनुबंध लाइनें प्रोजेक्ट प्रबंधक को कर्मचारी प्रोजेक्ट कार्यों और संसाधन आवश्यकताओं के लिए विक्रेता संसाधन समय खरीदने की अनुमति देती हैं.
 

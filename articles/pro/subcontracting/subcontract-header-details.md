@@ -2,20 +2,20 @@
 title: उपअनुबंध के लिए हेडर विवरण
 description: यह आलेख प्रोजेक्ट ऑपरेशंस में उप-अनुबंध शीर्षलेख पर प्रदान की गई कार्यक्षमता की व्याख्या करता है।
 author: rumant
-ms.date: 09/14/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: ce16b7a968bc7e6904411ae9e021a5ca1839d02e
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 00b7c08235654d4bed0bcb4053d2044a3d092b54
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261419"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522562"
 ---
 # <a name="header-details-for-subcontracts"></a>उपअनुबंध के लिए हेडर विवरण
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 यह आलेख में उप-अनुबंध शीर्षलेख पर प्रदान की गई कार्यक्षमता की व्याख्या करता है।Dynamics 365 Project Operations
 

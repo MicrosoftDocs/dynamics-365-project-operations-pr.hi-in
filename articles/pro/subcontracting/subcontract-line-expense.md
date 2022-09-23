@@ -2,20 +2,20 @@
 title: व्यय श्रेणियों के लिए उप-अनुबंध लाइनें
 description: यह आलेख बताता है कि व्यय के लिए उप-अनुबंध लाइनों को कैसे रिकॉर्ड किया जाए और विक्रेताओं से समय की खरीद को रिकॉर्ड करने के लिए फ़ील्ड का उपयोग किया जाए।
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 7166642abc2187a53f7019639df6f0d7124f4765
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: ba1241ce40b7c5b488e278e8f1b8e9f352f45dc8
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261842"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522609"
 ---
 #  <a name="subcontract-lines-for-expense-categories"></a>व्यय श्रेणियों के लिए उप-अनुबंध लाइनें
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 Dynamics 365 Project Operations में उप-अनुबंध में व्यय श्रेणियों के लिए एक लाइन हो सकती है. व्यय श्रेणियों के लिए उप-अनुबंध लाइनें प्रोजेक्ट प्रबंधक को उन विक्रेताओं से सेवाओं या उत्पादों की श्रेणियां खरीदने की अनुमति देती हैं, जिन्हें वे प्रोजेक्ट के लिए चार्ज कर सकते हैं.
 

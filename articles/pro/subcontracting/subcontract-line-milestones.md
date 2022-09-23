@@ -2,20 +2,20 @@
 title: उप-अनुबंध लाइन माइलस्टोन
 description: यह आलेख बताता है कि किसी विक्रेता के साथ उप-अनुबंध के लिए मील का पत्थर-आधारित इनवॉइस शेड्यूल कैसे बनाएं और बनाए रखें।
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 2fe26f5ba3c7bbc689c83a2ba67d444a09a264d5
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 431a57adf82c79f72d44886636183d48e0931f53
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261795"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522466"
 ---
 # <a name="subcontract-line-milestones"></a>उप-अनुबंध लाइन माइलस्टोन
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 Dynamics 365 Project Operations में, निश्चित-मूल्य बिलिंग पद्धति के साथ उप-अनुबंध लाइन विक्रेता के साथ माइलस्टोन-आधारित इनवॉइस शेड्यूल निर्दिष्ट कर सकती है.
 

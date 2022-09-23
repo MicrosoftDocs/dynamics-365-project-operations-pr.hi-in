@@ -2,20 +2,20 @@
 title: उप-अनुबंध लाइन संसाधन
 description: यह आलेख बताता है कि समय के लिए एक विशिष्ट उपसंविदा लाइन के लिए विक्रेता द्वारा प्रदान किए गए समर्पित संसाधनों को कैसे निर्दिष्ट किया जाए।
 author: rumant
-ms.date: 08/06/2021
+ms.date: 09/14/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d440201fde26e835b407db0b8ee1de8d663311a0
-ms.sourcegitcommit: b2224d1f3c0bd4925d647e6ca3960db81a209521
+ms.openlocfilehash: 04e3e5ee70c50068304a8a6c8f7e93df48ed7e85
+ms.sourcegitcommit: 08eb3be9eda44e9446c43ed9b6aefd58d77927c5
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/11/2022
-ms.locfileid: "9261466"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "9522374"
 ---
 # <a name="subcontract-line-resources"></a>उप-अनुबंध लाइन संसाधन
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 
 Dynamics 365 Project Operations में, विक्रेता उन संसाधनों को निर्दिष्ट कर सकता है जिनका उपयोग समय के लिए उप-अनुबंध लाइन पर खरीदी जा रही संसाधन क्षमता की आपूर्ति के लिए किया जाएगा.
 
