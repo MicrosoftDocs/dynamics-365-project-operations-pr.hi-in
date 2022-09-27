@@ -508,13 +508,15 @@
           href: approvals/cancelapproval.md
         - name: पिछली अनुमोदित प्रविष्टियों को याद रखें
           href: approvals/recall-cancel.md
+        - name: सुरक्षा और अनुमोदन
+          href: approvals/approvals-security.md
         - name: डेवलपर नोट्स
           items:
             - name: अनुमोदनों के लिए डेवलपर नोट्स
               href: approvals/dev-notes-approvals.md
-    - name: वास्तविक
+    - name: वास्तविक आँकड़े
       items:
-        - name: Project Operations में व्यावसायिक लेन-देन
+        - name: Project Operations में व्यावसायिक ट्रांज़ैक्शन
           href: actuals/businesstransactions.md
         - name: वास्तविक अवलोकन
           href: actuals/actuals-overview.md
@@ -560,9 +562,11 @@
               href: procurement/vendor-retention-overview.md
             - name: विक्रेता अवधारण सेट अप करें
               href: procurement/set-up-vendor-retention.md
+            - name: भुगतान होने पर भुगतान करें
+              href: procurement/Pay-when-paid.md
     - name: इनवॉइसिंग
       items:
-        - name: इनवॉइसिंग प्रक्रिया ओवरव्यू
+        - name: इनवॉइसिंग प्रक्रिया अवलोकन
           href: invoicing/post-project-invoices.md
         - name: प्रोफ़ॉर्मा इनवॉइसिंग
           items:
@@ -1102,13 +1106,15 @@
           href: approvals/cancelapproval.md
         - name: पिछली अनुमोदित प्रविष्टियों को याद रखें
           href: approvals/recall-cancel.md
+        - name: सुरक्षा और अनुमोदन
+          href: approvals/approvals-security.md
         - name: डेवलपर नोट्स
           items:
             - name: अनुमोदनों के लिए डेवलपर नोट्स
               href: approvals/dev-notes-approvals.md
-    - name: वास्तविक
+    - name: वास्तविक आँकड़े
       items:
-        - name: Project Operations में व्यावसायिक लेन-देन
+        - name: Project Operations में व्यावसायिक ट्रांज़ैक्शन
           href: actuals/businesstransactions.md
         - name: वास्तविक अवलोकन
           href: actuals/actuals-overview.md
@@ -1630,7 +1636,7 @@
               href: psa/recall-approved.md
             - name: पूर्व में स्वीकृत समय या व्यय प्रविष्टियों का अनुमोदन रद्द करें
               href: psa/cancel-approval.md
-            - name: वास्तविक
+            - name: वास्तविक आँकड़े
               href: psa/actuals.md
             - name: स्वीकृत समय और व्यय प्रविष्टियों द्वारा बनाए गए वास्तविक के बल्क सुधार
               href: psa/bulk-corrections-actuals-created-by-approved-time-expense-entries.md
