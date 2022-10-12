@@ -56,16 +56,18 @@
               href: environment/resource-dual-write-project-invoice.md
             - name: व्यय प्रबंधन एकीकरण
               href: environment/resource-dual-write-expense.md
-            - name: विक्रेता इनवॉइस एकीकरण
+            - name: विक्रेता इनवॉयस एकीकरण
               href: environment/resource-dual-write-vendor-invoice.md
-        - name: Dynamics 365 Project Operations की अनइंस्टॉल करें
+        - name: Dynamics 365 Project Operations अनइंस्टॉल करें
           href: environment/uninstall-project-operations.md
     - name: नया क्या है
       items:
-        - name: अगस्त 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
-          href: whats-new/whats-new-aug-2022-resource-based.md
-        - name: संग्रह
+        - name: सितंबर 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
+          href: whats-new/whats-new-sept-2022-resource-based.md
+        - name: आर्काइव
           items:
+            - name: अगस्त 2022 - संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations
+              href: whats-new/whats-new-aug-2022-resource-based.md
             - name: जुलाई 2022 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
               href: whats-new/whats-new-july-2022-resource-based.md
             - name: जून 2022 - संसाधन/गैर-स्टॉक-आधारित परिदृश्यों के लिए Project Operations
@@ -668,10 +670,12 @@
           href: environment/security-model.md
     - name: नया क्या है
       items:
-        - name: नया क्या है अगस्त 2022 - लाइट परिनियोजन
-          href: pro/whats-new/whats-new-aug-2022-lite.md
-        - name: संग्रह
+        - name: नया क्या है सितंबर 2022 - लाइट परिनियोजन
+          href: pro/whats-new/whats-new-sept-2022-lite.md
+        - name: आर्काइव
           items:
+            - name: नया क्या है अगस्त 2022 - लाइट परिनियोजन
+              href: pro/whats-new/whats-new-aug-2022-lite.md
             - name: नया क्या है जुलाई 2022 - लाइट परिनियोजन
               href: pro/whats-new/whats-new-july-2022-lite.md
             - name: नया क्या है जून 2022 - लाइट परिनियोजन
@@ -1176,14 +1180,16 @@
               href: prod-pma/project-tasks-template.md
         - name: परिवेश परिनियोजित करें
           items:
-            - name: अपने Finance परिवेश में Project Operations को अद्यतित करें
+            - name: अपने फ़ाइनेंस परिवेश में Project Operations को अद्यतित करें
               href: whats-new/ur5-nonstocked-installation.md
     - name: नया क्या है
       items:
-        - name: नया क्या है जुलाई 2022 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
-          href: prod-pma/whats-new/whats-new-jul-2022-stocked.md
-        - name: संग्रह
+        - name: नया क्या है सितंबर 2022 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+          href: prod-pma/whats-new/whats-new-sept-2022-stocked.md
+        - name: आर्काइव
           items:
+            - name: नया क्या है जुलाई 2022 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
+              href: prod-pma/whats-new/whats-new-jul-2022-stocked.md
             - name: नया क्या है जून 2022 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
               href: prod-pma/whats-new/whats-new-jun-2022-stocked.md
             - name: नया क्या है अक्टूबर 2021 - स्टॉक/उत्पादन-आधारित परिदृश्यों के लिए Project Operations
@@ -1434,11 +1440,15 @@
       href: psa/overview.md
     - name: नया क्या है
       items:
-        - name: Project Service 3.x के लिए अद्यतन रिलीज़ शेड्यूल
+        - name: Project Service 3.x के लिए रिलीज़ शेड्यूल अपडेट करें
           href: psa/version-history-ps.md
-        - name: 'अद्यतन रिलीज़ 44, V3 में नया क्या है या क्या बदल गया है'
+        - name: 'अपडेट रिलीज़ 47, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-47.md
+        - name: 'अपडेट रिलीज़ 45, V3 में नया क्या है या क्या बदल गया है'
+          href: psa/whats-new-ur-45.md
+        - name: 'अपडेट रिलीज़ 44, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-44.md
-        - name: 'अद्यतन रिलीज़ 43, V3 में नया क्या है या क्या बदल गया है'
+        - name: 'अपडेट रिलीज़ 43, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur43.md
         - name: 'अद्यतन रिलीज़ 42, V3 में नया क्या है या क्या बदल गया है'
           href: psa/whats-new-ur-42.md
