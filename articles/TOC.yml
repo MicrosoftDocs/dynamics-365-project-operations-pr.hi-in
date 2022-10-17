@@ -1530,11 +1530,19 @@
           href: psa/whats-new-ur-12.md
         - name: Project Service Automation 3.x wave 1 2021 में नया क्या है या क्या बदल गया है
           href: psa/whats-new-2021-wave1.md
-        - name: Project Service Automation 3.x wave 1 2020 में नया क्या है या क्या बदल गया है
+        - name: Project Service Automation V3.x wave 1 2020 में नया क्या है या क्या बदल गया है
           href: psa/whats-new-v3-2020-wave1.md
         - name: Project Service Automation V3 में नया क्या है या क्या बदल गया है
           href: psa/whats-new-changed-v3.md
-    - name: अपने कार्यान्वयन की योजना बनाएँ (अनुप्रयोग संस्करण 3.x)
+    - name: Project Service Automation नवीनीकरण (ऐप संस्करण Project Operations लाइट 4.x)
+      items:
+        - name: Project Service Automation से Project Operations में अपग्रेड करें
+          href: psa/upgrade-project-operations-non-stocked.md
+        - name: Project Service Automation से Project Operations में फ़ीचर बदल जाता है
+          href: psa/psa-project-operations-changes.md
+        - name: Project Service Automation से Project Operations प्रोजेक्ट शेड्यूलिंग रूपांतरण प्रक्रिया
+          href: psa/PSA-Upgrade-Project-Conversion.md
+    - name: अपने कार्यान्वयन की योजना बनाएँ (ऐप संस्करण 3.x)
       items:
         - name: नमूना डेटा स्थापना
           href: psa/install-sample-data-3-x.md
@@ -1550,7 +1558,7 @@
           href: psa/implementation-guides/reporting-guide.md
     - name: Project Service Automation से Project Operations में अपग्रेड करें - लाइट
       href: psa/upgrade-project-operations-non-stocked.md
-    - name: 'फ़ीचर, Project Service Automation से Project Operations में बदल जाता है'
+    - name: Project Service Automation से Project Operations में फ़ीचर बदल जाता है
       href: psa/psa-project-operations-changes.md
     - name: Project Service Automation नवीनीकरण (ऐप संस्करण 3.x)
       items:
