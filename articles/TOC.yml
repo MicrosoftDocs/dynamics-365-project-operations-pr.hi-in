@@ -1752,9 +1752,7 @@
               href: psa/FAQ-soft-book-in-web-app.md
             - name: मैं प्रोजेक्ट अवस्थाएँ व्यवसाय प्रोसेस फ़्लो कैसे अनुकूलित करूँ?
               href: psa/FAQ-customize-bpf.md
-            - name: कार्य विश्लेषण संरचना के लिए नवीनीकरण संबंधी विचार
-              href: psa/upgrade-considerations-tasks.md
-        - name: श्वेत पत्र
+        - name: व्हाइट पेपर
           href: psa/white-papers.md
         - name: व्यवस्थापक मार्गदर्शिका
           items:
