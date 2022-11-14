@@ -286,7 +286,9 @@
           href: project-management/define-project-calendars.md
         - name: शेड्यूलिंग मोड
           href: project-management/scheduling-modes.md
-        - name: परियोजना अपडेट करें
+        - name: बाहरी शेड्यूलिंग
+          href: project-management/external-scheduling.md
+        - name: कोई परियोजना अपडेट करें
           href: project-management/update-project.md
         - name: परियोजना की प्रतिलिपि बनाएँ
           href: project-management/copy-project.md
@@ -914,7 +916,9 @@
           href: project-management/define-project-calendars.md
         - name: शेड्यूलिंग मोड
           hreF: project-management/scheduling-modes.md
-        - name: परियोजना अपडेट करें
+        - name: बाहरी शेड्यूलिंग
+          href: project-management/external-scheduling.md
+        - name: कोई परियोजना अपडेट करें
           href: project-management/update-project.md
         - name: परियोजना की प्रतिलिपि बनाएँ
           href: project-management/copy-project.md
