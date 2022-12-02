@@ -1,6 +1,6 @@
 ---
 title: समय ओवरव्यू
-description: यह आलेख समय कार्यक्षमता के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Operations
+description: यह आलेख Dynamics 365 Project Operations में समय कार्यक्षमता के बारे में जानकारी प्रदान करता है.
 author: stsporen
 ms.date: 10/02/2020
 ms.topic: overview

@@ -1,6 +1,6 @@
 ---
 title: Microsoft Project में अपने कार्य की योजना बनाने के लिए Project Service ऐड-इन का उपयोग करना | MicrosoftDocs
-description: यह आलेख Microsoft Project Service के लिए Microsoft Project ऐड-इन को जोड़ने, कॉन्फ़िगर करने और उपयोग करने के तरीके के बारे में जानकारी प्रदान करता है।
+description: यह आलेख Microsoft Project Service के लिए Microsoft प्रोजेक्ट ऐड-इन को जोड़ना, कॉन्फ़िगर और उपयोग कैसे करना है, इसके बारे में जानकारी प्रदान करता है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

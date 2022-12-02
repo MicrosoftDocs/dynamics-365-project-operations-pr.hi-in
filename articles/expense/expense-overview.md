@@ -1,6 +1,6 @@
 ---
 title: व्यय का अवलोकन
-description: यह आलेख प्रोजेक्ट ऑपरेशन में व्यय कार्यक्षमता के बारे में जानकारी प्रदान करता है।
+description: यह आलेख Project Operations में व्यय क्रियात्मकता की जानकारी उपलब्ध कराता है.
 author: stsporen
 ms.date: 10/06/2020
 ms.topic: overview

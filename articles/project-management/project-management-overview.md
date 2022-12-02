@@ -1,6 +1,6 @@
 ---
 title: परियोजना प्रबंधन ओवरव्यू
-description: यह आलेख में परियोजना प्रबंधन के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Operations
+description: यह आलेख Dynamics 365 Project Operations में प्रोजेक्ट प्रबंधन के बारे में जानकारी प्रदान करता है.
 author: ruhercul
 ms.date: 10/06/2020
 ms.topic: overview

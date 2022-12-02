@@ -1,6 +1,6 @@
 ---
 title: परियोजना की स्थिति को समझें
-description: यह लेख में परियोजनाओं को सौंपी गई स्थिति के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Operations
+description: यह आलेख Dynamics 365 Project Operations में परियोजनाओं को असाइन की गई स्थिति के बारे में जानकारी प्रदान करता है.
 author: ruhercul
 ms.date: 10/01/2020
 ms.topic: article

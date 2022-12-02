@@ -1,5 +1,5 @@
 ---
-title: मोबाइल डिवाइस पर प्रोजेक्ट टाइमशीट
+title: मोबाइल डिवाइस पर परियोजना टाइमशीट
 description: मेरी टाइमशीट (मोबाइल के लिए ऑप्टिमाइज) से कर्मचारी परियोजना टाइमशीट तैयार और दाखिल करते हैं, ताकि वे एक मोबाइल डिवाइस पर किसी खास परियोजना के लिए अपने घंटे का रिकॉर्ड रख सकें.
 author: abruer
 ms.date: 03/16/2018
@@ -19,7 +19,7 @@ ms.contentlocale: hi-IN
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8933908"
 ---
-# <a name="project-timesheets-on-a-mobile-device"></a>मोबाइल डिवाइस पर प्रोजेक्ट टाइमशीट
+# <a name="project-timesheets-on-a-mobile-device"></a>मोबाइल डिवाइस पर परियोजना टाइमशीट
 
 [!include [banner](../includes/banner.md)]
 

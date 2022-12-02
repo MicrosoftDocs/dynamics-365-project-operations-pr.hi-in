@@ -48,11 +48,11 @@ ms.locfileid: "8593687"
   
 4. **संसाधन द्वारा कौशल अद्यतन की अनुमति दें** को **हाँ** पर सेट करें.  
   
-   ![परियोजना सेवा&#95; प्रोजेक्टफाइंडर सक्षम करें।](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
+   ![ProjectService_ProjectFinderEnable.](../psa/media/project-service-project-finder-enable.png "ProjectService_ProjectFinderEnable")  
   
    यह एक ग्‍लोबल सेटिंग है. परियोजना प्रबंधक यह सेट कर सकते हैं कि कोई व्‍यक्तिगत परियोजना उस परियोजना के **परियोजना टीम** पृष्ठ पर दृश्‍यमान होगी या नहीं.  
   
-   ![परियोजना सेवा&#95; प्रोजेक्ट टीम दृश्यमान।](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
+   ![ProjectService_ProjectTeamVisible.](../psa/media/project-service-project-team-visible.png "ProjectService_ProjectTeamVisible")  
   
 ## <a name="email-notifications"></a>ईमेल सूचनाएँ  
  [!INCLUDE[pn_project_service_auto](../includes/pn-project-service-auto.md)] संसाधन अनुरोधों के बारे में ईमेल निम्न प्राप्तकर्ताओं को निम्न समय पर भेजता है:  

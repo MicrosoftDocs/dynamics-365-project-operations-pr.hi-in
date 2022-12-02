@@ -1,6 +1,6 @@
 ---
 title: ख़र्च प्रबंधन का अवलोकन
-description: यह लेख व्यय प्रबंधन और अतिरिक्त संसाधनों के लिंक के बारे में सामान्य जानकारी प्रदान करता है। आप एक एकीकृत कार्यप्रवाह बनाने के लिए ख़र्च प्रबंधन का उपयोग कर सकते हैं जहां आप भुगतान विधि की जानकारी को संग्रह कर सकते हैं, क्रेडिट कार्ड लेनदेन आयात कर सकते हैं, और कर्मचारियों द्वारा आपके व्यवसाय के लिए खर्च उठाने पर ख़र्च किए जाने वाले पैसे की निगरानी कर सकते हैं.
+description: यह आलेख ख़र्च प्रबंधन और अतिरिक्त संसाधनों के लिंक के बारे में सामान्य जानकारी प्रदान करता है. आप एक एकीकृत कार्यप्रवाह बनाने के लिए ख़र्च प्रबंधन का उपयोग कर सकते हैं जहां आप भुगतान विधि की जानकारी को संग्रह कर सकते हैं, क्रेडिट कार्ड लेनदेन आयात कर सकते हैं, और कर्मचारियों द्वारा आपके व्यवसाय के लिए खर्च उठाने पर ख़र्च किए जाने वाले पैसे की निगरानी कर सकते हैं.
 author: ShylaThompson
 ms.date: 07/25/2019
 ms.topic: overview
@@ -43,7 +43,7 @@ ms.locfileid: "9029348"
 
 ### <a name="blogs"></a>ब्लॉग्स
 
-आप इस पर राय, समाचार और अन्य जानकारी प्राप्त कर सकते हैं [Microsoft Dynamics 365 ब्लॉग](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) और यह [Microsoft Dynamics 365 वित्त - वित्तीय ब्लॉग।](https://community.dynamics.com/365/financeandoperations/b/financials)
+आप [Microsoft Dynamics 365 ब्लॉग](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise) और [Microsoft Dynamics 365 Finance - वित्तीय ब्लॉग](https://community.dynamics.com/365/financeandoperations/b/financials) पर सलाहें, न्यूज़ और अन्य जानकारी पा सकते हैं.
 
 [Microsoft Dynamics संचालन साथी कम्युनिटी ब्लॉग](https://community.dynamics.com/partner/b/operationspartnercommunityblog) देता है Microsoft Dynamics को एकल संसाधन देता है जहां वे सीख सकते हैं कि MBS Operations में नया और ट्रेंडिंग क्या है.
 

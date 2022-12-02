@@ -1,6 +1,6 @@
 ---
-title: परियोजना कार्यों को सीधे Project Service Automation से वित्त और संचालन में सिंक्रनाइज़ करें
-description: यह आलेख उस टेम्पलेट और अंतर्निहित कार्य का वर्णन करता है जिसका उपयोग सीधे प्रोजेक्ट कार्यों को सिंक्रनाइज़ करने के लिए किया जाता है Microsoft Dynamics 365 Project Service Automation से Dynamics 365 Finance.
+title: परियोजना कार्यों को सीधे Project Service Automation से वित्त और संचालन पर सिंक्रनाइज़ करें
+description: यह आलेख उन टेम्पलेट और अंतर्निहित कार्यों का वर्णन करता है जो Microsoft Dynamics 365 Project Service Automation से सीधे Dynamics 365 Finance के लिए परियोजना के कार्य आंकड़ों को सिंक्रनाइज़ करने के लिए इस्तेमाल किए जाते हैं.
 author: Yowelle
 ms.date: 07/20/2018
 ms.topic: article
@@ -21,11 +21,11 @@ ms.contentlocale: hi-IN
 ms.lasthandoff: 06/18/2022
 ms.locfileid: "9028363"
 ---
-# <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>परियोजना कार्यों को सीधे Project Service Automation से वित्त और संचालन में सिंक्रनाइज़ करें
+# <a name="synchronize-project-tasks-directly-from-project-service-automation-to-finance-and-operations"></a>परियोजना कार्यों को सीधे Project Service Automation से वित्त और संचालन पर सिंक्रनाइज़ करें
 
 [!include[banner](../includes/banner.md)]
 
-यह आलेख उस टेम्पलेट और अंतर्निहित कार्य का वर्णन करता है जिसका उपयोग सीधे प्रोजेक्ट कार्यों को सिंक्रनाइज़ करने के लिए किया जाता है Dynamics 365 Project Service Automation से Dynamics 365 Finance.
+यह आलेख उन टेम्पलेट और अंतर्निहित कार्यों का वर्णन करता है जो Dynamics 365 Project Service Automation से सीधे Dynamics 365 Finance के लिए परियोजना के कार्य आंकड़ों को सिंक्रनाइज़ करने के लिए इस्तेमाल किए जाते हैं.
 
 > [!NOTE]
 > - परियोजना कार्य एकीककरण, व्यय लेनदेन श्रेणियां, घंटा अनुमान, व्यय अनुमान, और कार्यात्मकता लॉकिंग वर्शन 8.0 में उपलब्ध है.
@@ -67,11 +67,11 @@ Project Service Automation से Finance एकीकरण समाधान 
 
 ## <a name="power-query"></a>Power Query
 
-आपको माइक्रोसॉफ्ट का उपयोग करना चाहिए Power Query यदि यह शर्त पूरी होती है तो Excel डेटा फ़िल्टर करने के लिए:
+अगर यह शर्त पूरी होती है तो आपको डेटा फ़िल्टर करने के लिए Excel के लिए Microsoft Power Query का उपयोग करना चाहिए:
 
 - आपके पास परियोजना कार्य में संसाधन-विशिष्ट रिकॉर्ड होते हैं.
 
-यदि आपको उपयोग करना चाहिए Power Query, इस दिशानिर्देश का पालन करें:
+यदि आपको Power Query का उपयोग करना ही है, तो इस दिशानिर्देशों का पालन करें:
 
 - परियोजना कार्यों (PSA से Fin and Ops में) टेम्पलेट में डिफ़ॉल्ट फ़िल्टर होता है, जो **IsLineTask** से **गलत** पर फ़िल्टर सेट करके किसी परियोजना कार्य से संसाधन-विशिष्ट रिकॉर्ड को अलग करता है. यदि आप अपना टेम्पलेट बनाते हैं, तो आपको यह फिल्टर जोड़ना होगा.
 

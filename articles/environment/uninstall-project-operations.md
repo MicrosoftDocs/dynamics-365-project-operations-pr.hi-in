@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 Project Operations की स्थापना रद्द करें
-description: यह आलेख अनइंस्टॉल करने के तरीके के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Operations
+description: यह आलेख Dynamics 365 Project Operations में स्थापना रद्द कैसे करते हैं, के बारे में जानकारी प्रदान करता है.
 author: stsporen
 ms.date: 11/09/2021
 ms.topic: article
@@ -35,8 +35,8 @@ Dynamics 365 Project Operations को अनइंस्टॉल करने 
     | 6 | ProjectServiceCore_Patch                           | कोई अतिरिक्त नोट नहीं.                                                                         |
     | 7 | ProjectServiceCore                                 | कोई अतिरिक्त नोट नहीं.                                                                         |
     | 8 | ProjectServiceDeprecatedComponents                 | यदि नहीं मिलता है, तो इस समाधान को छोड़ दें.                                                            |
-    | 9 | FieldServiceCommon                                 | Dynamics 365 Finance या Dynamics 365 Supply Chain Management.   |
-    | 10 | msdyn_AssetCommon                                  | Dynamics 365 Finance या Dynamics 365 Supply Chain Management.   |
+    | 9 | FieldServiceCommon                                 | Dynamics 365 Finance या Dynamics 365 Supply Chain Management के साथ दोहरे लेखन के लिए आवश्यक है.   |
+    | 10 | msdyn_AssetCommon                                  | Dynamics 365 Finance या Dynamics 365 Supply Chain Management के साथ दोहरे लेखन के लिए आवश्यक है.   |
     | 11 | msdyn_TESA_Anchor                                  | Dynamics 365 Field Service के लिए आवश्यक है.                                                     |
     | 12" | msdyn_TESA_Patch                                   | Dynamics 365 Field Service के लिए आवश्यक है.                                                     |
     | 13 | msdyn_TESA                                         | Dynamics 365 Field Service के लिए आवश्यक है.                                                     |

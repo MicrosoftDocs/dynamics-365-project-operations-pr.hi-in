@@ -1,6 +1,6 @@
 ---
 title: परियोजना अनुदान
-description: यह लेख बताता है कि अनुदान कैसे बनाया या संशोधित किया जाता है।
+description: यह आलेख बताता है कि अनुदान कैसे बनाएं या संशोधित करें.
 author: RadhikaRS
 ms.date: 04/22/2020
 ms.topic: article

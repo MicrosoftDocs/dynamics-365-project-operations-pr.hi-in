@@ -1,6 +1,6 @@
 ---
 title: लाइट परिनियोजन का अवलोकन
-description: यह आलेख लाइट परिनियोजन के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Operations
+description: यह आलेख Dynamics 365 Project Operations लाइट परिनियोजन के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 11/02/2020
 ms.topic: overview

@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation में स्वीकृति सेट
-description: यह आलेख अनुमोदन सेट, अनुरोधों और उन कार्यों के सबसेट के बारे में जानकारी प्रदान करता है।
+description: यह आलेख अनुमोदन सेट, अनुरोधों और उन कार्यों के सबसेट के बारे में जानकारी प्रदान करता है.
 author: stsporen
 manager: tfehr
 ms.date: 05/28/2021

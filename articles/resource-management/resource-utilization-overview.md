@@ -1,6 +1,6 @@
 ---
 title: संसाधन उपयोग अवलोकन
-description: यह आलेख परियोजना संचालन में संसाधन उपयोग के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में Project Operations में संसाधन उपयोग के बारे में जानकारी दी गई है.
 author: ruhercul
 ms.date: 11/05/2020
 ms.topic: overview

@@ -1,6 +1,6 @@
 ---
 title: समय और व्यय परिवर्तन (Project Service Automation 3.x)
-description: यह आलेख समय और व्यय के लिए समाधान परिवर्तनों के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में समय और व्यय के लिए समाधानों में परिवर्तन के बारे में जानकारी प्रदान की गई है।
 author: makk
 ms.custom:
 - dyn365-projectservice

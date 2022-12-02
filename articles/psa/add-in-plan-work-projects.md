@@ -1,6 +1,6 @@
 ---
 title: Microsoft Project में Project Service एड-इन की सहायता से आपके कार्य की योजना बनाएं
-description: यह आलेख Microsoft Project सेवा के लिए Microsoft Project ऐड-इन का उपयोग करने के तरीके के बारे में जानकारी प्रदान करता है।
+description: यह आलेख, Microsoft Project Service के लिए Microsoft प्रोजेक्ट ऐड-इन उपयोग करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

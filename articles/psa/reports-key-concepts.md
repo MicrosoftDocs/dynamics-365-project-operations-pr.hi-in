@@ -1,6 +1,6 @@
 ---
 title: मुख्य अवधारणाएँ
-description: यह आलेख Project Service Automation में संसाधन प्रबंधन की प्रमुख अवधारणाओं के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में Project Service Automation में रिसोर्स मैनेजमेंट के लिए मुख्य अवधारणाओं की जानकारी दी गई है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

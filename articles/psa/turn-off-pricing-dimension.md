@@ -1,6 +1,6 @@
 ---
 title: मूल्य निर्धारण आयाम बंद करें
-description: यह आलेख दिखाता है कि Project Service समाधान में मूल्य-निर्धारण आयाम कैसे सेट करें।
+description: इस आलेख में दिखाया गया है कि Project Service समाधान में प्राइस निर्धारण आयाम को कैसे सेट करें.
 author: Rumant
 ms.custom:
 - dyn365-projectservice

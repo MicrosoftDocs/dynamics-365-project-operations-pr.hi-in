@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation 3.x में अवमानित वेब संसाधन
-description: यह आलेख उन वेब संसाधनों का वर्णन करता है जिनका अब उपयोग नहीं किया जाता है Dynamics 365 Project Service Automation 3.0.
+description: इस आलेख में उन वेब संसाधनों का वर्णन है जो अब Dynamics 365 Project Service Automation 3.0 में उपयोग नहीं किए जाते हैं.
 author: makk
 ms.custom:
 - dyn365-projectservice

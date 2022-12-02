@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट मूल्य निर्धारण
-description: यह लेख इस बारे में जानकारी प्रदान करता है कि मूल्य निर्धारण कैसे काम करता है Dynamics 365 Project Service Automation.
+description: यह आलेख Dynamics 365 Project Service Automation में मूल्य निर्धारण कैसे काम करता है, के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.custom:
 - dyn365-projectservice

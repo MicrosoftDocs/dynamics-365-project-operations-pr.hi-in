@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट शेड्यूल
-description: यह आलेख शेड्यूल बनाने के तरीके के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में शेड्यूल तैयार करने के बारे में जानकारी दी गई है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

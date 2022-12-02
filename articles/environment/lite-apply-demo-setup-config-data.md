@@ -1,6 +1,6 @@
 ---
 title: डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट
-description: यह आलेख प्रोजेक्ट संचालन के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा को लागू करने के तरीके के बारे में जानकारी प्रदान करता है।
+description: यह आलेख Project Operations के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: sigitac
 ms.date: 01/27/2021
 ms.topic: article
@@ -8,7 +8,7 @@ ms.reviewer: johnmichalak
 ms.author: sigitac
 ms.openlocfilehash: 9a3a99c326b7ebbdfa859c3298b35e910af0eb2a
 ms.sourcegitcommit: 16c9eded66d60d4c654872ff5a0267cccae9ef0e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: hi-IN
 ms.lasthandoff: 09/07/2022
 ms.locfileid: "9409992"
@@ -21,7 +21,7 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
 
 ## <a name="prerequisites"></a>पूर्वावश्यकताएँ
 
-कॉन्फ़िगरेशन शुरू करने से पहले, आपके पास एक होना चाहिए Dataverse पर्यावरण के लिए प्रावधान किया गया है।Dynamics 365 Project Operations
+कॉन्फ़िगरेशन शुरू करने से पहले, आपके पास Dynamics 365 Project Operations के लिए एक Dataverse (CDS) परिवेश प्रोविज़न किया गया होना चाहिए.
 
 
 ## <a name="instructions"></a>निर्देश

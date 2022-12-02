@@ -1,6 +1,6 @@
 ---
 title: कोई कोट बंद करें - लाइट
-description: यह आलेख प्रोजेक्ट ऑपरेशन में कोट बंद करने के बारे में जानकारी प्रदान करता है।
+description: यह आलेख Project Operations में एक कोट को बंद करने के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 10/01/2020
 ms.topic: article

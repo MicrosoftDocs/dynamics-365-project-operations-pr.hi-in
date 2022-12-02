@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation अवलोकन
-description: यह लेख के बारे में जानकारी प्रदान करता है Dynamics 365 Project Service Automation Dynamics 365 Finance एकीकरण समाधान के लिए।
+description: यह आलेख Dynamics 365 Finance एकीकरण समाधान के लिए Dynamics 365 Project Service Automation के बारे में जानकारी प्रदान करता है.
 author: ruhercul
 ms.date: 07/25/2019
 ms.topic: overview
@@ -25,7 +25,7 @@ ms.locfileid: "8929584"
 [!include[banner](../includes/banner.md)]
 
 
-प्रोजेक्ट सर्विस ऑटोमेशन टू फाइनेंस इंटीग्रेशन सॉल्यूशन Dynamics 365 Finance के उदाहरणों में डेटा को सिंक्रोनाइज़ करने के लिए डेटा इंटीग्रेशन फीचर का उपयोग करता है और Dynamics 365 Project Service Automation के जरिए ।Common Data Service डेटा एकीकरण फ़ीचर के साथ उपलब्ध एकीकरण टेम्पलेट Project Service Automation से Finance में परियोजनाओं, परियोजना अनुबंधों, परियोजना अनुबंध लाइनों, परियोजना अनुबंध लाइन उपलब्धि, परियोजना कार्य, व्यय लेनदेन श्रेणियों और व्यय अनुमान के प्रवाह को सक्षम करते हैं.
+वित्तीय एकीकरण समाधान के लिए Project Service Automation Common Data Service के माध्यम से Dynamics 365 Finance और Dynamics 365 Project Service Automation इंस्टेंस में डेटा को सिंक्रनाइज़ करने के डेटा एकीकरण सुविधा का उपयोग करता है. डेटा एकीकरण फ़ीचर के साथ उपलब्ध एकीकरण टेम्पलेट Project Service Automation से Finance में परियोजनाओं, परियोजना अनुबंधों, परियोजना अनुबंध लाइनों, परियोजना अनुबंध लाइन उपलब्धि, परियोजना कार्य, व्यय लेनदेन श्रेणियों और व्यय अनुमान के प्रवाह को सक्षम करते हैं.
 
 > [!NOTE]
 > - यदि आप वर्जन 7.3.0 का इस्तेमाल कर रहे हैं तो आपको KB 4074835 इंस्टॉल करना चाहिए. इसके बाद आप निर्धारित मूल्य परियोजनाओं को एकीकृत कर पाएंगे.

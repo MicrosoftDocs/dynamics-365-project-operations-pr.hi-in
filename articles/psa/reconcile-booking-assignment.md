@@ -1,6 +1,6 @@
 ---
 title: बुकिंग और असाइनमेंट का समाधान करना
-description: यह लेख वास्तविक के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में वास्तविक के बारे में जानकारी दी गई है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

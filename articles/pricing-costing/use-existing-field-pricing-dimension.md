@@ -1,6 +1,6 @@
 ---
 title: मूल्य निर्धारण आयाम के रूप में Project Operations फ़ील्ड
-description: यह आलेख में मूल्य निर्धारण आयामों के रूप में फ़ील्ड का उपयोग करके जानकारी प्रदान करता है।Dynamics 365 Project Operations
+description: यह आलेख Dynamics 365 Project Operations में फ़ील्ड का उपयोग मूल्य निर्धारण आयामों के रूप में करने के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 09/18/2020
 ms.topic: article

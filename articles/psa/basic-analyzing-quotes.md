@@ -1,6 +1,6 @@
 ---
-title: प्रोजेक्ट कोटेशन का विश्लेषण
-description: यह आलेख परियोजना उद्धरणों के विश्लेषण के बारे में जानकारी प्रदान करता है।
+title: परियोजना कोटेशन का विश्लेषण
+description: यह आलेख परियोजना कोट के विश्लेषण के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.custom:
 - dyn365-projectservice
@@ -24,13 +24,13 @@ ms.contentlocale: hi-IN
 ms.lasthandoff: 06/03/2022
 ms.locfileid: "8919280"
 ---
-# <a name="analysis-of-project-quotes"></a>प्रोजेक्ट कोटेशन का विश्लेषण
+# <a name="analysis-of-project-quotes"></a>परियोजना कोटेशन का विश्लेषण
 
 [!include [banner](../includes/psa-now-project-operations.md)]
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../includes/cc-applies-to-psa-app-3x.md)]
 
-Dynamics 365 Project Service Automation लाभप्रदता का अनुमान लगाने के लिए प्रोजेक्ट कोटेशन का विश्लेषण करता है। यह भी विश्लेषण करता है कि डिलीवरी की तारीख या पूर्णता तिथि और बजट के बारे में ग्राहकों की अपेक्षाओं के साथ कोटेशन कितनी अच्छी तरह से मेल खाता है।
+Dynamics 365 Project Service Automation लाभप्रदता का अनुमान लगाने के लिए परियोजना कोटेशन का विश्लेषण करता है। यह भी विश्लेषण करता है कि डिलीवरी की तारीख या पूर्णता तिथि और बजट के बारे में ग्राहकों की अपेक्षाओं के साथ कोटेशन कितनी अच्छी तरह से मेल खाता है।
 
 ## <a name="profitability-analysis"></a>लाभप्रदता का विश्लेषण
 

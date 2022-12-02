@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट सेटिंग्‍स
-description: यह आलेख प्रोजेक्ट प्रबंधन सेटिंग्स के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में प्रोजेक्ट प्रबंधन सेटिंग की जानकारी दी गई है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

@@ -1,6 +1,6 @@
 ---
 title: प्रोजेक्ट चरण प्रकार
-description: यह आलेख परियोजना चरणों के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में प्रोजेक्ट के चरणों की जानकारी दी गई है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

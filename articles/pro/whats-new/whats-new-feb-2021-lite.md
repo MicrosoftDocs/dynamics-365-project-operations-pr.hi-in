@@ -1,6 +1,6 @@
 ---
 title: क्या नया है फरवरी 2021 - Project Operations लाइट परिनियोजन
-description: यह आलेख प्रोजेक्ट ऑपरेशंस लाइट परिनियोजन के फरवरी 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में Project Operations लाइट परिनियोजन के फरवरी 2021 रिलीज़ में उपलब्ध गुणवत्ता अद्यतनों के बारे में जानकारी दी गई है.
 author: sigitac
 ms.date: 02/08/2021
 ms.topic: article
@@ -16,7 +16,7 @@ ms.locfileid: "8914036"
 ---
 # <a name="whats-new-february-2021---project-operations-lite-deployment"></a>क्या नया है फरवरी 2021 - Project Operations लाइट परिनियोजन
 
-यह लेख निम्नलिखित पर लागू होता है Dynamics 365 Project Operations घटक और संस्करण:
+यह आलेख निम्न Dynamics 365 Project Operations घटक और संस्करणों पर लागू होता है:
 
   - Dataverse पर Project Operations परिवेश संस्करण 4.7.0.95
 

@@ -1,6 +1,6 @@
 ---
 title: डैशबोर्ड्स
-description: यह आलेख में शामिल रिपोर्टिंग डैशबोर्ड के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Service Automation
+description: इस आलेख में Dynamics 365 Project Service Automation में शामिल रिपोर्टिंग डैशबोर्ड की जानकारी दी गई है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

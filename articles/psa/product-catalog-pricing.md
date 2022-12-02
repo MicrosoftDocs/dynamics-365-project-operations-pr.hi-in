@@ -1,6 +1,6 @@
 ---
 title: उत्पाद कैटलॉग मूल्य निर्धारण
-description: यह लेख इस बारे में जानकारी प्रदान करता है कि उत्पाद कैटलॉग मूल्य निर्धारण कैसे काम करता है Dynamics 365 Project Service Automation (पीएसए)।
+description: इस आलेख में Dynamics 365 Project Service Automation (PSA) में उत्पाद कैटेलॉग कीमत निर्धारण के काम करने के तरीके के बारे में जानकारी दी गई है.
 author: rumant
 ms.custom:
 - dyn365-projectservice

@@ -1,6 +1,6 @@
 ---
 title: अनुमोदनों का अवलोकन
-description: यह आलेख परियोजना संचालन में अनुमोदन के साथ कार्य करने के बारे में जानकारी प्रदान करता है।
+description: यह आलेख Project Operations में स्वीकृतियों के साथ काम करने की जानकारी प्रदान करता है.
 author: stsporen
 ms.date: 03/31/2021
 ms.topic: overview

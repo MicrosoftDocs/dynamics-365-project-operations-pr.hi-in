@@ -1,6 +1,6 @@
 ---
 title: रिपोर्टिंग मुख पृष्ठ
-description: यह आलेख में रिपोर्टिंग के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Service Automation
+description: यह आलेख Dynamics 365 Project Service Automation में रिपोर्टिंग के बारे में जानकारी प्रदान करता है.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice
@@ -47,7 +47,7 @@ Microsoft Power BI और Dynamics 365 मिल कर इनसाइट्स
 
 
 ## <a name="additional-resources"></a>अतिरिक्त संसाधन
-पीएसए में रिपोर्टिंग के बारे में अधिक जानकारी के लिए, निम्नलिखित लेख देखें:
+PSA में रिपोर्टिंग के बारे में अधिक जानकारी के लिए, निम्नलिखित आलेख देखें:
 
 - [Project Service डेटा मॉडल के साथ काम करना](reports-working-project-service-data-model.md)
 - [डैशबोर्ड](reports-dashboards.md)

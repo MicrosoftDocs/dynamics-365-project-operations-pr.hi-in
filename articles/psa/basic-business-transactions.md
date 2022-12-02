@@ -1,6 +1,6 @@
 ---
 title: व्यावसायिक लेनदेन
-description: यह लेख व्यापार लेनदेन के बारे में जानकारी प्रदान करता है।
+description: यह आलेख व्यावसायिक लेन-देन के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.custom:
 - dyn365-projectservice
