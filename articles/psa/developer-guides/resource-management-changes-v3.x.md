@@ -1,6 +1,6 @@
 ---
 title: संसाधन प्रबंधन में परिवर्तन (Project Service Automation 3.x)
-description: यह आलेख संसाधन प्रबंधन क्षेत्र में परिवर्तनों के बारे में जानकारी प्रदान करता है।
+description: इस आलेख के अंतर्गत संसाधन प्रबंधन के क्षेत्र में परिवर्तन के बारे में जानकारी दी गई है.
 author: makk
 ms.custom:
 - dyn365-projectservice
@@ -26,7 +26,7 @@ ms.locfileid: "8916014"
 
 [!include [banner](../../includes/psa-now-project-operations.md)]
 
-इस लेख के अनुभाग उन परिवर्तनों के बारे में जानकारी प्रदान करते हैं जो कि के संसाधन प्रबंधन क्षेत्र में किए गए हैं Dynamics 365 Project Service Automation संस्करण 3.x।
+इस आलेख के अनुभागों में Dynamics 365 Project Service Automation संस्करण 3.x के संसाधन प्रबंधन क्षेत्र में किए गए परिवर्तनों के बारे में जानकारी प्रदान की गई है.
 
 ## <a name="project-estimates"></a>परियोजना अनुमान
 

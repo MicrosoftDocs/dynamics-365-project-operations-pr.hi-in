@@ -1,6 +1,6 @@
 ---
 title: Project Service Automation एकीकरण मानक
-description: यह लेख बताता है कि जब आप एकीकृत करते हैं तो डिफ़ॉल्ट डेटा कैसे दर्ज किया जाता है, इसे कैसे कॉन्फ़िगर किया जाए Microsoft Dynamics 365 for Project Service Automation साथ Microsoft Dynamics 365 वित्त।
+description: यह आलेख Microsoft Dynamics 365 for Project Service Automation को Microsoft Dynamics 365 Finance के साथ एकीकृत करने पर डिफॉल्ट डेटा दर्ज करने पर उसे कॉन्फ़िगर करने का तरीका बताता है.
 author: ruhercul
 ms.date: 03/03/2020
 ms.topic: article
@@ -25,7 +25,7 @@ ms.locfileid: "8932298"
 
 [!include[banner](../includes/banner.md)]
 
-पर **Project Service Automation एकीकरण पैरामीटर** पृष्ठ, आप कॉन्फ़िगर कर सकते हैं कि जब आप एकीकृत करते हैं तो डिफ़ॉल्ट डेटा कैसे दर्ज किया जाता है Dynamics 365 Project Service Automation Dynamics 365 Finance के साथ। Project Service Automation से फाइनेंस में परियोजना को सफलतापूर्वक संकालित करने के लिए, आपको निम्न फील्ड को सेट करना होगा.
+**Project Service Automation एकीकरण पैरामीटर** पेज पर, आप Dynamics 365 Project Service Automation को Dynamics 365 Finance के साथ एकीकृत करने पर डिफॉल्ट डेटा दर्ज करने पर उसे कॉन्फ़िगर करने का तरीका बताता है. Project Service Automation से फाइनेंस में परियोजना को सफलतापूर्वक संकालित करने के लिए, आपको निम्न फील्ड को सेट करना होगा.
 
 **Project Service Automation एकीकरण मानक** p को खोलने के लिए **परियोजना प्रबंधन एवं लेखांकन** \> **सेट अप** \> **एकीकरण मानक** के लिए Dynamics 365 for Project Service Automation पर जाएं. 
 

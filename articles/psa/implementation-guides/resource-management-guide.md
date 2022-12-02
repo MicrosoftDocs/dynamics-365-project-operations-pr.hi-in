@@ -1,6 +1,6 @@
 ---
 title: संसाधन प्रबंधन मार्गदर्शिका
-description: यह लेख Project Service Automation में संसाधन प्रबंधन के बारे में जानकारी के लिए लिंक प्रदान करता है
+description: इस आलेख में Project Service Automation में संसाधन प्रबंधन के बारे में जानकारी देने वाले लिंक प्रदान किये गए हैं
 author: kfend
 ms.custom:
 - dyn365-projectservice
@@ -30,7 +30,7 @@ ms.locfileid: "8910776"
 
 [!INCLUDE[cc-applies-to-psa-app-3.x](../../includes/cc-applies-to-psa-app-3x.md)]
 
-पीडीएफ लिंक जो पहले इस लेख में था उसे हटा दिया गया है और सामग्री को निम्नलिखित लेखों में स्थानांतरित कर दिया गया है:
+इस आलेख में पहले जो PDF लिंक था उसे हटा दिया गया है और सामग्री को निम्नलिखित आलेख में ले जाया गया है:
 
 - [संसाधन प्रबंधन मुख पृष्ठ](../resource-management-home-page.md)
 - [मुख्य अवधारणाएँ](../reports-key-concepts.md)
@@ -42,7 +42,7 @@ ms.locfileid: "8910776"
 - [संसाधन प्रबंधन FAQ](../resource-management-faq.md)
 
 > [!NOTE]
-> यह आलेख भविष्य के दस्तावेज़ीकरण अद्यतन में निकाल दिया जाएगा। 
+> यह आलेख भविष्य के दस्तावेज़ीकरण अपडेट में हटा दिया जाएगा. 
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -1,6 +1,6 @@
 ---
 title: कार्य घंटों का एक टेम्पलेट बनाएँ
-description: यह आलेख वर्णन करता है कि Project Service में कार्य घंटों का टेम्पलेट कैसे बनाया जाता है।
+description: यह आलेख बताता है कि Project Service में कार्य के घंटों का टेम्प्लेट कैसे बनाया जाए.
 author: ruhercul
 ms.custom:
 - dyn365-projectservice

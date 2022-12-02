@@ -1,6 +1,6 @@
 ---
 title: उपयोगकर्ता इंटरफ़ेस नेविगेट करें
-description: यह आलेख Dynamics 365 Project संचालन में प्रोजेक्ट प्रबंधन के बारे में जानकारी प्रदान करता है।
+description: इस आलेख में Dynamics 365 Project operations में परियोजना प्रबंधन की जानकारी दी गई है.
 author: ruhercul
 ms.date: 10/05/2020
 ms.topic: article

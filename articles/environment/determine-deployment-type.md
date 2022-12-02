@@ -1,6 +1,6 @@
 ---
 title: अपना परिनियोजन प्रकार निर्धारित करें
-description: यह आलेख आपकी कंपनी के लिए प्रोजेक्ट संचालन के सही परिनियोजन प्रकार को निर्धारित करने में आपकी मदद करने के लिए जानकारी प्रदान करता है।
+description: यह आलेख आपकी कंपनी के लिए Project operations के उचित नियोजन के प्रकार को निर्धारित करने में आपकी मदद करने हेतु जानकारी प्रदान करता है.
 author: stsporen
 ms.date: 03/15/2021
 ms.topic: article
@@ -25,7 +25,7 @@ _**पर लागू होता है:** साधन / गैर-स्ट
 ## <a name="existing-customers-of-dynamics-using-dynamics-365-project-service-automation"></a>Dynamics 365 Project Service Automation उपयोग से Dynamics के मौजूदा ग्राहक
 Project Operations में Project Service Automation के साथ भेजी गई क्षमताएं शामिल हैं. इन ग्राहकों के लिए 2021 रिलीज़ वेव 1 में एक अपग्रेड पथ जारी किया जाएगा.
 
-## <a name="existing-customers-of-dynamics-365-finance-using-project-management-and-accounting"></a>Dynamics 365 Finance के मौजूदा ग्राहक परियोजना प्रबंधन और लेखांकन का उपयोग कर रहे हैं 
+## <a name="existing-customers-of-dynamics-365-finance-using-project-management-and-accounting"></a>प्रोजेक्ट प्रबंधन और लेखांकन के उपयोग से Dynamics 365 Finance के मौजूदा ग्राहक 
 
 Finance के मौजूदा ग्राहक जो परियोजना प्रबंधन और लेखा कार्यक्षमता का उपयोग करते हैं, वे इसका, इसी तरह से उपयोग करना जारी रख सकते हैं. देखें [स्टॉक/उत्पादन आदेश परिदृश्यों के लिए Project Operations](#pma).
 

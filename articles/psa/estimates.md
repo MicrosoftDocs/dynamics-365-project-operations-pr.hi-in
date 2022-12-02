@@ -1,6 +1,6 @@
 ---
 title: अनुमान
-description: यह लेख में अनुमानों के बारे में जानकारी प्रदान करता है।Dynamics 365 Project Service Automation
+description: यह आलेख Dynamics 365 Project Service Automation में अनुमानों के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.custom:
 - dyn365-projectservice
