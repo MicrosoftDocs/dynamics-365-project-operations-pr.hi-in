@@ -1,21 +1,21 @@
 ---
-title: किसी अनुमान को एक परियोजना-आधारित अनुबंध पंक्ति में आयात करें - लाइट
+title: परियोजना अनुबंध पंक्ति पर परियोजना से अनुमान आयात करें
 description: यह आलेख किसी परियोजना से अनुबंध पंक्ति तक वित्तीय अनुमान आयात करने के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 10/19/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: d6e3bdfeb1ea9de32d6712ac5671be39c243702a
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 73ae0ccbb5372c9dfbc28ac154094c89add0913d
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8924202"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824676"
 ---
-# <a name="import-an-estimate-to-a-project-based-contract-line---lite"></a>किसी अनुमान को एक परियोजना-आधारित अनुबंध पंक्ति में आयात करें - लाइट
+# <a name="import-estimates-from-a-project-to-a-project-contract-line"></a>परियोजना अनुबंध पंक्ति पर परियोजना से अनुमान आयात करें
 
-_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
+_**लागू होता है:** लाइट डिप्लॉयमेंट - प्रोफार्मा इनवॉइसिंग से डील, संसाधन/गैर-स्टॉक आधारित परिदृश्यों के लिए प्रोजेक्ट संचालन_ _
 
 Dynamics 365 Project Operations में, आप परियोजना-आधारित अनुबंध पंक्ति पर परियोजना से अनुमान आयात कर सकते हैं.
 

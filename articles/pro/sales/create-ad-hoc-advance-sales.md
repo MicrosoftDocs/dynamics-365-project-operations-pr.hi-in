@@ -1,19 +1,19 @@
 ---
-title: अनुबंध पर एक एड-हॉक उन्नत बनाना
+title: एक परियोजना अनुबंध पर एक तदर्थ अग्रिम बनाएँ
 description: यह आलेख आवश्यकतानुसार अनुबंध पर एडवांस बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 10/26/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 3e450a17990c6fc783ddffdb05e1ab5b9429a3c1
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 62e41e5faeb5e40143e26e2cdf48c1279941a6b4
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8922178"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9824847"
 ---
-# <a name="creating-an-ad-hoc-advance-on-a-contract"></a>अनुबंध पर एक एड-हॉक उन्नत बनाना
+# <a name="create-an-ad-hoc-advance-on-a-project-contract"></a>एक परियोजना अनुबंध पर एक तदर्थ अग्रिम बनाएँ
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 

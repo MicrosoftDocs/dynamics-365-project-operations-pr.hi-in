@@ -1,19 +1,19 @@
 ---
-title: परियोजना-आधारित अवसरों को प्रबंधित करें
+title: परियोजना अवसर प्रबंधित करें
 description: यह आलेख परियोजनाओं से संबंधित अवसरों के साथ काम करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 10/21/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 29e5a2c91186021eee9bb23aba3d42228fcd9381
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 56eba38476dd5b49f0043eee5d411d51f9bf56b8
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8933218"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825305"
 ---
-# <a name="manage-project-based-opportunities"></a>परियोजना-आधारित अवसरों को प्रबंधित करें
+# <a name="manage-project-opportunities"></a>परियोजना अवसर प्रबंधित करें
 
 _**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
 

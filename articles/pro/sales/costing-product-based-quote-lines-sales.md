@@ -1,21 +1,21 @@
 ---
 title: उत्पाद-आधारित कोट लागत
 description: यह आलेख उत्पाद-आधारित कोट लाइन पर लागत मूल्य लागू करने के बारे में जानकारी देता है.
-author: ruhercul
+author: rumant
 ms.date: 10/01/2020
 ms.topic: article
 ms.reviewer: johnmichalak
-ms.author: ruhercul
-ms.openlocfilehash: 23eb3d29081769347d62098534a9863fd28fa90c
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.author: rumant
+ms.openlocfilehash: a8b3569ff217f6fc62606dae4292be14f9d3358c
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8932574"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825613"
 ---
 # <a name="costing-product-based-quote-lines"></a>उत्पाद-आधारित कोट लागत
 
-_**पर लागू होता है:** साधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations, Lite परिनियोजन - प्रोफार्मा इनवॉइसिंग के लिए डील_
+_**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 
 
 Dynamics 365 Project Operations में उत्पाद-आधारित कोट लाइनों की भी एक **लागत मूल्य** फ़ील्ड होती है. इस फ़ील्ड का इस्तेमाल उत्पाद की कोट लाइन पर और डाउनस्ट्रीम लाभ क्षमता की गणना के लिए लागत मूल्य पर नज़र रखने के लिए किया जाता है.

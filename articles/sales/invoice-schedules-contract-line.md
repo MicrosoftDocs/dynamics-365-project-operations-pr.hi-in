@@ -1,21 +1,21 @@
 ---
-title: परियोजना-आधारित अनुबंध लाइन पर इनवॉइस शेड्यूल बनाएं
+title: प्रोजेक्ट-आधारित अनुबंध लाइन पर चालान शेड्यूल बनाएं
 description: यह आलेख अनुबंध लाइनों पर इनवॉयस शेड्यूल और माइलस्टोन बनाने के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 10/17/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 490a61b67f54bdad95ecfce905191c381dddc85b
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: afc6357b7b221b91674035ae3181ef84eed8d586
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8915002"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825099"
 ---
-# <a name="create-an-invoice-schedule-on-a-project-based-contract-line"></a>परियोजना-आधारित अनुबंध लाइन पर इनवॉइस शेड्यूल बनाएं 
+# <a name="create-invoice-schedules-on-a-project-based-contract-line"></a>प्रोजेक्ट-आधारित अनुबंध लाइन पर चालान शेड्यूल बनाएं
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_
 
 आप परियोजना-आधारित अनुबंध लाइन पर इनवॉइस शेड्यूल कर सकते हैं. केवल परियोजना अनुबंध के लिए अनुबंध को जीतने और आपके द्वारा बनाने के बाद ही इनवॉइस बनाने की अनुमति है. एक इनवॉइस शेड्यूल परियोजना-आधारित अनुबंध लाइन के लिए ड्राफ्ट इनवॉइस को स्वचालित रूप से बनाए जाने की अनुमति देता है. यदि आप केवल मैन्युअल रूप से इनवॉइस बनाते हैं, तो आप अनुबंध लाइनों पर इनवॉइस शेड्यूल बनाना छोड़ सकते हैं.
 

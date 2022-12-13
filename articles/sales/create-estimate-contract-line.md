@@ -1,21 +1,21 @@
 ---
-title: परियोजना अनुबंध पंक्ति का अनुमान लगाएँ
+title: परियोजना-आधारित अनुबंध पंक्ति का अनुमान लगाएँ
 description: यह आलेख एक परियोजना अनुबंध पंक्ति पर अनुमानों के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 10/27/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 553f7e4a9e9f57732267a48da2b299c1751b0c0e
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 633ad3130a28d75ad10b81e03a883e0a732b1ba8
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8932022"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825198"
 ---
-# <a name="estimate-a-project-contract-line"></a>परियोजना अनुबंध पंक्ति का अनुमान लगाएँ
+# <a name="estimate-a-project-based-contract-line"></a>परियोजना-आधारित अनुबंध पंक्ति का अनुमान लगाएँ
 
-_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए परियोजना संचालन_ 
+_**इस पर लागू होता है:** संसाधन/गैर-स्टॉक -आधारित परिदृश्यों के लिए Project Operations_ 
 
 Dynamics 365 Project Operations में, परियोजना-आधारित अनुबंध पंक्ति में विवरण होते हैं, जो अनुबंध पंक्ति को वितरित करने के लिए शामिल कार्य की लागत और संभावित आय का अनुमान लगाने में मदद करते हैं.
 

@@ -1,19 +1,19 @@
 ---
-title: परियोजना अनुबंधों पर कई ग्राहकों को प्रबंधित करें
-description: यह आलेख प्रोजेक्ट अनुबंध पर एकाधिक ग्राहकों को प्रबंधित करने के बारे में जानकारी प्रदान करता है.
+title: प्रोजेक्ट-आधारित अनुबंधों पर एकाधिक ग्राहकों को प्रबंधित करें
+description: यह आलेख प्रोजेक्ट-आधारित अनुबंध पर एकाधिक ग्राहकों को प्रबंधित करने के तरीके के बारे में जानकारी प्रदान करता है।
 author: rumant
 ms.date: 11/18/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 78ee117c1068e7af4674cc3b21e1055fd05bb43a
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 1aae178830d7b671c33295ca6d2910ee4be2f8dd
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8928342"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825380"
 ---
-# <a name="manage-multiple-customers-on-project-contracts"></a>परियोजना अनुबंधों पर कई ग्राहकों को प्रबंधित करें
+# <a name="manage-multiple-customers-on-project-based-contracts"></a>प्रोजेक्ट-आधारित अनुबंधों पर एकाधिक ग्राहकों को प्रबंधित करें
 
 यह आलेख प्रोजेक्ट अनुबंध पर एकाधिक ग्राहकों को प्रबंधित करने के बारे में जानकारी प्रदान करता है. जब किसी सौदे का वित्तपोषण करने के लिए कई ग्राहकों हेतु संविदात्मक अनुबंध की आवश्यकता होती है, तो आप एक परियोजना अनुबंध का उपयोग कर सकते हैं. **परियोजना अनुबंध** पृष्ठ पर, **सारांश** टैब में सौदे के लिए प्राथमिक ग्राहक के बारे में जानकारी शामिल होती है. सौदे में भाग लेने वाले अन्य ग्राहकों को **ग्राहक** टैब पर जोड़ा जा सकता है.
 

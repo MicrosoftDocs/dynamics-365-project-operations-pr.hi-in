@@ -1,19 +1,19 @@
 ---
-title: उत्पाद-आधारित कोट पंक्तियाँ ओवरव्यू - लाइट
+title: उत्पाद-आधारित कोट पंक्तियाँ ओवरव्यू
 description: यह आलेख उत्पाद-आधारित कोट पंक्तियों के साथ कार्य करने के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 10/30/2020
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: db0700e789202a8fdd0ef3b49959421ac54fb9ad
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: a260c0f51cc2d958281dbc6f0f711347cab85a9a
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8914312"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9826224"
 ---
-# <a name="product-based-quote-lines-overview---lite"></a>उत्पाद-आधारित कोट पंक्तियाँ ओवरव्यू - लाइट
+# <a name="product-based-quote-lines-overview"></a>उत्पाद-आधारित कोट पंक्तियाँ ओवरव्यू
 
 _**लागू होता है:** लाइट नियोजन-प्रोफार्मा इनवॉयसिंग करने के लिए समझौता_
 

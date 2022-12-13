@@ -6,18 +6,18 @@ ms.date: 10/08/2020
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 0e4118e8e56d45ef75f53d828e267a8a9c1c903a
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: 33296c93964cc88499e7a98d499b99463e59d62a
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8922960"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825566"
 ---
-# <a name="configure-chargeable-components-of-a-project-based-contract-line"></a>परियोजना-आधारित अनुबंध पंक्ति के प्रभार्य घटकों को कॉन्फ़िगर करें
+# <a name="configure-chargeable-components-of-a-project-contract-line"></a>परियोजना-आधारित अनुबंध पंक्ति के प्रभार्य घटकों को कॉन्फ़िगर करें
 
 लाइट तैनाती _**पर लागू होता है:** प्रोफार्मा इनवॉइस करने के लिए - डील, संसाधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
 
-परियोजना-आधारित अनुबंध पंक्ति में *शामिल* घटक और *प्रभार्य* घटक होते हैं.
+एक परियोजना अनुबंध लाइन में *शामिल* घटक और *प्रभार्य* घटक शामिल हैं।
 
 शामिल घटक ऐसे घटक हैं जो निम्नलिखित हैं:
 

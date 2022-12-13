@@ -1,19 +1,19 @@
 ---
-title: परियोजना-आधारित कोट पंक्तियाँ ओवरव्यू
+title: परियोजना कोट पंक्तियाँ ओवरव्यू
 description: यह आलेख परियोजना कार्य के लिए परियोजना-आधारित कोटेशन लाइनों का उपयोग करने के बारे में जानकारी प्रदान करता है.
 author: rumant
 ms.date: 03/30/2021
 ms.topic: overview
 ms.reviewer: johnmichalak
 ms.author: rumant
-ms.openlocfilehash: 90c5affa25b113476e43f0bbbadd5c9615f9c05c
-ms.sourcegitcommit: 6cfc50d89528df977a8f6a55c1ad39d99800d9b4
+ms.openlocfilehash: e6a67b5c37508085c9ec3d8385eaa6828536de00
+ms.sourcegitcommit: e0cbbe7c6f03d4978134405cf04bd8bc1d019f65
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8934460"
+ms.lasthandoff: 12/05/2022
+ms.locfileid: "9825660"
 ---
-# <a name="project-based-quote-lines-overview"></a>परियोजना-आधारित कोट पंक्तियाँ ओवरव्यू 
+# <a name="project-quote-lines-overview"></a>परियोजना कोट पंक्तियाँ ओवरव्यू 
 
 लाइट तैनाती _**पर लागू होता है:** प्रोफार्मा इनवॉइस करने के लिए - डील, संसाधन / गैर-स्टॉक आधारित परिदृश्यों के लिए Project Operations_
 

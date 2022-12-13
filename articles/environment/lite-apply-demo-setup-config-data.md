@@ -2,16 +2,16 @@
 title: डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट
 description: यह आलेख Project Operations के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करने के तरीके के बारे में जानकारी प्रदान करता है.
 author: sigitac
-ms.date: 01/27/2021
+ms.date: 11/29/2022
 ms.topic: article
 ms.reviewer: johnmichalak
 ms.author: sigitac
-ms.openlocfilehash: 9a3a99c326b7ebbdfa859c3298b35e910af0eb2a
-ms.sourcegitcommit: 16c9eded66d60d4c654872ff5a0267cccae9ef0e
-ms.translationtype: HT
+ms.openlocfilehash: 8ac8c910ce2d91fa47df08e8fb6efb723c0dc5fa
+ms.sourcegitcommit: 38cb012502cbd640abbc21a0912b195112b27ccb
+ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/07/2022
-ms.locfileid: "9409992"
+ms.lasthandoff: 11/30/2022
+ms.locfileid: "9811027"
 ---
 # <a name="apply-demo-setup-and-configuration-data-for-project-operations---lite"></a>Project Operations के लिए डेमो सेटअप और कॉन्फ़िगरेशन डेटा लागू करें - लाइट 
 
@@ -26,31 +26,31 @@ _**लाइट परिनियोजन - प्रोफ़ॉर्मा 
 
 ## <a name="instructions"></a>निर्देश
 
-1. [मास्टर डेटा पैकेज](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData-%20CE%20only.zip) डाउनलोड करें. 
-2. *ProjOpsSampleSetupData - CE केवल CMT* फ़ोल्डर में नेविगेट करें और निष्पादन योग्य फ़ाइल, *DataMigrationUtility* चलाएं.
-3. Common Data Service कॉन्फ़िगरेशन माइग्रेशन (CMT) विज़ार्ड के पेज 1 पर, **डेटा आयात करें** चुनें और फिर **जारी रखें** चुनें.
+1.  [सेटअप डेटा पैकेज डाउनलोड करें।](https://download.microsoft.com/download/3/4/1/341bf279-a64f-4baa-af31-ce624859b518/ProjOpsSampleSetupData-%20CE%20only.zip) 
+1. *ProjOpsSampleSetupData - CE केवल CMT* फ़ोल्डर में नेविगेट करें और निष्पादन योग्य फ़ाइल, *DataMigrationUtility* चलाएं.
+1. Common Data Service कॉन्फ़िगरेशन माइग्रेशन (CMT) विज़ार्ड के पेज 1 पर, **डेटा आयात करें** चुनें और फिर **जारी रखें** चुनें.
 
     ![कॉन्फ़िगरेशन माइग्रेशन.](./media/1ConfigurationMigration.png)
 
-4. CMT विज़ार्ड के पृष्ठ 2 पर **Microsoft 365** के रूप में **परिनियोजन प्रकार**।
-5. **उपलब्ध संगठनों की सूची प्रदर्शित करें** और **उन्नत दिखाएं** चेक बॉक्स चुनें।
-6. अपने किरायेदार के क्षेत्र का चयन करें, अपनी साख दर्ज करें, और फिर **लॉग-इन** का चयन करें.
+1. CMT विज़ार्ड के पृष्ठ 2 पर **Microsoft 365** के रूप में **परिनियोजन प्रकार**।
+1. **उपलब्ध संगठनों की सूची प्रदर्शित करें** और **उन्नत दिखाएं** चेक बॉक्स चुनें।
+1. अपने किरायेदार के क्षेत्र का चयन करें, अपनी साख दर्ज करें, और फिर **लॉग-इन** का चयन करें.
 
    ![साइन इन का कॉन्फ़िगरेशन करें.](./media/2ConfigurationSignin.png)
 
-7. पृष्ठ 3 पर, किरायेदार पर संगठनों की सूची से, चुनें कि आप किस संगठन में डेमो डेटा आयात करना चाहते/चाहती हैं और फिर **लॉग-इन** का चयन करें.
-8. पृष्ठ 4 पर, ज़िप फ़ाइल, *SampleSetupAndConfigData* को अनपैक किए गए फ़ोल्डर, *ProjOpsSampleSetupData - CE केवल CMT* से चुनें.
+1. पृष्ठ 3 पर, किरायेदार पर संगठनों की सूची से, चुनें कि आप किस संगठन में डेमो डेटा आयात करना चाहते/चाहती हैं और फिर **लॉग-इन** का चयन करें.
+1. पृष्ठ 4 पर, ज़िप फ़ाइल, *SampleSetupAndConfigData* को अनपैक किए गए फ़ोल्डर, *ProjOpsSampleSetupData - CE केवल CMT* से चुनें.
 
    ![ज़िप फ़ाइल.](./media/3ZipFile.png)
 
    ![एक फ़ाइल चुनें.](./media/4SelectAFile.png)
 
-9. ज़िप फ़ाइल चुनने के बाद **डेटा आयात करें** चुनें।
+1. ज़िप फ़ाइल चुनने के बाद **डेटा आयात करें** चुनें।
 
    ![डेटा आयात करें.](./media/5ImportData.png)
 
-10. आपके नेटवर्क की स्पीड के आधार पर आयात लगभग दो-दस मिनट तक चलेगा। इसके पूरा होने के बाद, CMT विजार्ड से बाहर निकलें. 
-11. डेटा के लिए अपने संगठन की निम्नलिखित 18 निकायों में जांच करें:
+1. आपके नेटवर्क की स्पीड के आधार पर आयात लगभग दो-दस मिनट तक चलेगा। इसके पूरा होने के बाद, CMT विजार्ड से बाहर निकलें. 
+1. डेटा के लिए अपने संगठन की निम्नलिखित 18 निकायों में जांच करें:
 
     -   मुद्रा
     -   खाता
